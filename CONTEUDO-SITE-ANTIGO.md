@@ -46,8 +46,8 @@ Categorias de navegação usadas: **Lançamentos · Prontos e Verticais · Condo
 
 | Arquivo | O que é | Uso |
 |---|---|---|
-| `marcus/marcus-retrato.jpg` | Retrato profissional do Marcus (1440×2160) | Seção "O Corretor" |
-| `marcus/marcus-familia.jpg` | Foto de família em evento (1215×2160) | Opcional — decisão do Marcus |
+| `marcus/marcus-retrato.jpg` | Retrato profissional do Marcus (1440×2160) | Seção "O Corretor" — em uso |
+| `marcus/marcus-familia.jpg` | Foto de família em evento (1215×2160) | Seção "O Corretor" — em uso, para humanizar o corretor |
 | `zonasul/parque-una-aerea.webp` | Aérea real do Parque Una / Zona Sul (2048×1580) | Hero ou landing da Zona Sul |
 
 ---

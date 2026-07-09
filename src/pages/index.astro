@@ -4,6 +4,7 @@ import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import { capaDe, precoBR } from '../lib/fotos';
 import retratoMarcus from '../assets/marcus/marcus-retrato.jpg';
+import familiaMarcus from '../assets/marcus/marcus-familia.jpg';
 
 const WA_LINK =
   'https://wa.me/5534996396869?text=Ol%C3%A1%20Marcus%2C%20vim%20pelo%20site%20e%20gostaria%20de%20falar%20sobre%20um%20im%C3%B3vel%20na%20Zona%20Sul.';
@@ -146,8 +147,19 @@ const tipoLabel: Record<string, string> = {
           <span class="eyebrow">O corretor</span>
           <h2>Marcus Vinícius Costa</h2>
           <p>Empreendedor uberlandense, atuo no mercado imobiliário desde 2020. Antes disso, construí por quase vinte anos um negócio no ramo de educação e lazer — encerrado na pandemia. Trabalhar e ajudar pessoas sempre foi o propósito; mudou o meio, não o fim.</p>
-          <p>Hoje sou corretor associado à Polo Negócios Imobiliários, depois de passar por casas como FR Imóveis de Luxo, Eccos Black, Taco, Diamond e Delta Sul. Concentro minha atuação na Zona Sul de Uberlândia — conhecer profundamente uma região vale mais do que tentar vender a cidade inteira.</p>
+          <p>Hoje sou corretor associado à Polo Negócios Imobiliários, depois de passar por empresas como FR Imóveis de Luxo, Eccos Black, Taco, Diamond e Delta Sul. Concentro minha atuação na Zona Sul de Uberlândia — conhecer profundamente uma região vale mais do que tentar vender a cidade inteira.</p>
           <p>É isso que me permite te mostrar o imóvel certo. E te dizer, com franqueza, quando um imóvel não é para você.</p>
+
+          <figure class="familia">
+            <Image
+              src={familiaMarcus}
+              alt="Marcus Vinícius Costa com a esposa e os três filhos"
+              width={520}
+              widths={[360, 520, 780]}
+              sizes="(max-width: 820px) 90vw, 300px"
+            />
+            <figcaption>Com a esposa e os filhos Maria Eduarda, Augusto e Lis.</figcaption>
+          </figure>
         </div>
       </div>
     </div>

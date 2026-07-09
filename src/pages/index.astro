@@ -1,17 +1,156 @@
 ---
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import { capaDe, precoBR } from '../lib/fotos';
 
+const WA_LINK =
+  'https://wa.me/5534996396869?text=Ol%C3%A1%20Marcus%2C%20vim%20pelo%20site%20e%20gostaria%20de%20falar%20sobre%20um%20im%C3%B3vel%20na%20Zona%20Sul.';
+
+const imoveis = (await getCollection('imoveis')).sort(
+  (a, b) => b.data.publicadoEm.getTime() - a.data.publicadoEm.getTime()
+);
+
+const bairros = [
+  'Altamira', 'Cidade Jardim', 'City Uberlândia', 'Cond. Arts', 'Cond. Cyrela Buritis',
+  'Cond. Gávea Paradiso', 'Cond. Jardim Versailles', 'Cond. Quality Residence',
+  'Cond. Splêndido', 'Cond. Tamboré', 'Cond. Terras Altas', 'Cond. The Palms',
+  'Cond. Varanda Sul', 'Copacabana', 'Gávea', 'Gávea Jardins', 'Itapema Sul',
+  'Jardim Botânico', 'Jardim Colina', 'Jardim Sul', 'Jardim das Acácias',
+  'Jardim Karaíba', 'Morada da Colina', 'Nova Uberlândia', 'Parque Una',
+  'Patrimônio', 'Santa Maria', 'Saraiva', 'Tubalina', 'Vigilato Pereira', 'Villa Gávea',
+];
+
+const tipoLabel: Record<string, string> = {
+  apartamento: 'Apartamento', casa: 'Casa', cobertura: 'Cobertura', lote: 'Lote',
+};
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Base
+  title="Portfólio Negócios Imobiliários — Imóveis à venda na Zona Sul de Uberlândia"
+  description="Curadoria de imóveis à venda na Zona Sul de Uberlândia, apresentada diretamente pelo corretor Marcus Vinícius. Atendimento direto, sem call center."
+>
+  <section class="hero" style="border-top:none">
+    <div class="wrap">
+      <div class="kicker reveal">
+        <span class="rule"></span>
+        <span class="eyebrow">Curadoria de imóveis — Zona Sul de Uberlândia</span>
+      </div>
+      <h1 class="reveal">Imóveis da Zona Sul de Uberlândia, <em>escolhidos um a um</em>.</h1>
+      <p class="lede reveal">
+        Uma curadoria enxuta de imóveis à venda na Zona Sul, apresentada diretamente por
+        Marcus Vinícius. Sem vitrine infinita e sem intermediários — você vê só o que
+        merece a sua visita.
+      </p>
+      <div class="cta reveal">
+        <a class="btn btn-solid" href="#imoveis">Ver imóveis selecionados</a>
+        <a class="btn btn-ghost" href={WA_LINK} target="_blank" rel="noopener">Falar no WhatsApp</a>
+      </div>
+      <div class="stats reveal">
+        <div class="stat"><div class="n">Zona Sul</div><div class="l">Foco exclusivo</div></div>
+        <div class="stat"><div class="n tnum">31</div><div class="l">Bairros e condomínios</div></div>
+        <div class="stat"><div class="n">Direto</div><div class="l">Com o corretor</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="curadoria">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <div>
+          <span class="eyebrow">Por que curadoria</span>
+          <h2>Menos anúncios. Melhores decisões.</h2>
+        </div>
+        <p>Comprar na Zona Sul não é rolar listas infinitas. É ter alguém filtrando o que realmente merece a sua visita.</p>
+      </div>
+      <div class="pillars">
+        <div class="pillar reveal"><h3>Seleção por endereço</h3><p>Cada imóvel é escolhido pela localização dentro da Zona Sul — bairro e condomínio que sustentam o valor no tempo.</p></div>
+        <div class="pillar reveal"><h3>Só venda, só Zona Sul</h3><p>Atuação concentrada em venda de imóveis na Zona Sul de Uberlândia. Você conversa direto com o corretor, não com um call center.</p></div>
+        <div class="pillar reveal"><h3>Confiança e discrição</h3><p>Análise honesta de cada oportunidade, incluindo os pontos fracos. O objetivo é a sua melhor decisão, não a venda rápida.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="imoveis">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <div>
+          <span class="eyebrow">Seleção atual</span>
+          <h2>Imóveis em destaque</h2>
+        </div>
+        <p>Cada anúncio tem página própria, com todas as fotos e informações. A seleção é atualizada constantemente.</p>
+      </div>
+      <div class="grid3">
+        {imoveis.map((imovel) => (
+          <a class="card reveal" href={`/imovel/${imovel.id}/`}>
+            <div class="ph">
+              <Image
+                src={capaDe(imovel.data.fotos, imovel.data.capa)}
+                alt={imovel.data.titulo}
+                width={720}
+                widths={[440, 720, 1080]}
+                sizes="(max-width: 900px) 90vw, 360px"
+              />
+              <span class="tag">{tipoLabel[imovel.data.tipo]}</span>
+            </div>
+            <div class="card-body">
+              <div class="loc">{imovel.data.bairro} · Zona Sul</div>
+              <h3>{imovel.data.titulo}</h3>
+              <div class="price">
+                <span class="v tnum">{precoBR(imovel.data.preco)}</span>
+                <span class="go">Ver detalhes →</span>
+              </div>
+              <div class="specs tnum">
+                <span>{imovel.data.areaUtil} m²</span>
+                <span>{imovel.data.suites} suítes</span>
+                <span>{imovel.data.vagas} vagas</span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section id="zonasul">
+    <div class="wrap">
+      <div class="idx">
+        <div class="reveal">
+          <span class="eyebrow">Território de atuação</span>
+          <h2 class="serif" style="font-weight:400;font-size:clamp(26px,3.6vw,38px);margin:.3em 0 14px;line-height:1.1">A Zona Sul, endereço por endereço.</h2>
+          <p class="muted" style="max-width:46ch;margin:0">Atuação concentrada nos bairros e condomínios da Zona Sul de Uberlândia. Conhecer cada endereço a fundo é o que permite indicar o imóvel certo — e desaconselhar o errado.</p>
+        </div>
+        <div class="reveal">
+          <div class="chips">
+            {bairros.map((b) => <span class="chip">{b}</span>)}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="marcus">
+    <div class="wrap">
+      <div class="about">
+        <div class="portrait reveal"></div>
+        <div class="reveal">
+          <span class="eyebrow">O corretor</span>
+          <h2>Marcus Vinícius Costa</h2>
+          <p>Corretor com atuação no mercado imobiliário de Uberlândia, especializado na Zona Sul da cidade. Trabalho associado à Polo Negócios Imobiliários, com foco em uma relação direta e de confiança com quem compra.</p>
+          <p>Minha proposta é simples: conhecer profundamente uma região em vez de tentar vender a cidade inteira. É isso que permite te mostrar o imóvel certo — e te dizer, com franqueza, quando um imóvel não é para você.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contato" class="cta-band">
+    <div class="wrap inner">
+      <div>
+        <span class="eyebrow">Vamos conversar</span>
+        <h2 style="margin-top:12px">Procurando na Zona Sul? Me diga o que você imagina.</h2>
+        <p>Resposta direta, sem robô e sem enrolação. Atendimento por WhatsApp.</p>
+      </div>
+      <a class="btn-wa" href={WA_LINK} target="_blank" rel="noopener">WhatsApp · (34) 99639-6869</a>
+    </div>
+  </section>
+</Base>

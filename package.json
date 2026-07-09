@@ -12,6 +12,9 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@fontsource-variable/archivo": "^5.2.8",
+    "@fontsource-variable/literata": "^5.2.8",
+    "@fontsource/ibm-plex-mono": "^5.2.7",
     "astro": "^7.0.7"
   }
 }

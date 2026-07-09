@@ -1,4 +1,8 @@
 ---
+import '@fontsource-variable/archivo';
+import '@fontsource-variable/literata';
+import '@fontsource/ibm-plex-mono/400.css';
+import '@fontsource/ibm-plex-mono/500.css';
 import '../styles/global.css';
 import { Image } from 'astro:assets';
 import logoNavy from '../assets/brand/logo-navy.png';
@@ -21,6 +25,7 @@ const WA_LINK =
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="icon" type="image/png" href={logoNavy.src} />
+    <meta name="theme-color" content="#1e2a44" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
@@ -37,7 +42,7 @@ const WA_LINK =
           <a href="/#imoveis">Imóveis</a>
           <a href="/#zonasul">Zona Sul</a>
           <a href="/#marcus">O Corretor</a>
-          <a class="btn btn-ghost" href="/#contato">Fale comigo</a>
+          <a class="btn btn-vazado" href="/#contato">Fale comigo</a>
         </nav>
       </div>
     </header>
@@ -50,21 +55,21 @@ const WA_LINK =
       <div class="wrap">
         <div class="foot-in">
           <div>
-            <Image class="logo light-only" src={logoNavy} alt="Portfólio Negócios Imobiliários" height={192} />
-            <Image class="logo dark-only" src={logoWhite} alt="Portfólio Negócios Imobiliários" height={192} />
-            <p class="muted" style="max-width:34ch;margin:12px 0 0;font-size:14px">
+            <Image class="logo so-claro" src={logoNavy} alt="Portfólio Negócios Imobiliários" height={176} />
+            <Image class="logo so-escuro" src={logoWhite} alt="Portfólio Negócios Imobiliários" height={176} />
+            <p class="muted" style="max-width:34ch;margin:14px 0 0;font-size:15px">
               Curadoria de imóveis à venda na Zona Sul de Uberlândia — MG.
             </p>
           </div>
           <div class="cols">
             <div>
-              <h4>Navegar</h4>
+              <h4 class="rotulo">Navegar</h4>
               <a href="/#imoveis">Imóveis</a>
               <a href="/#zonasul">Zona Sul</a>
               <a href="/#marcus">O Corretor</a>
             </div>
             <div>
-              <h4>Contato</h4>
+              <h4 class="rotulo">Contato</h4>
               <a href={WA_LINK} target="_blank" rel="noopener">WhatsApp</a>
               <a href="mailto:contato@portfolionegocios.com.br">E-mail</a>
               <a href="https://instagram.com/marcus.imoveis" target="_blank" rel="noopener">Instagram</a>
@@ -72,8 +77,8 @@ const WA_LINK =
           </div>
         </div>
         <div class="legal">
-          <span>© 2026 Portfólio Negócios Imobiliários · CRECI 42.766 · CNPJ 08.869.898/0001-40</span>
-          <span>Uberlândia — MG</span>
+          <span class="rotulo">CRECI 42.766 · CNPJ 08.869.898/0001-40</span>
+          <span class="rotulo">Uberlândia — MG · MMXXVI</span>
         </div>
       </div>
     </footer>
@@ -91,7 +96,7 @@ const WA_LINK =
         { threshold: 0.12 }
       );
       document.querySelectorAll('.reveal').forEach((el, i) => {
-        (el as HTMLElement).style.transitionDelay = Math.min(i, 6) * 40 + 'ms';
+        (el as HTMLElement).style.transitionDelay = Math.min(i, 5) * 45 + 'ms';
         io.observe(el);
       });
     </script>

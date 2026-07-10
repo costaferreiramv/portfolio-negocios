@@ -272,6 +272,19 @@ section{padding:88px 0;border-top:1px solid var(--traco)}
 .eixo-bairros{display:flex;flex-wrap:wrap;gap:7px}
 .tag-bairro{font-family:var(--mono);font-size:11px;letter-spacing:.04em;color:var(--tinta-fraca);
   border:1px solid var(--traco);padding:4px 9px}
+/* o cartão de eixo inteiro é um link */
+a.eixo{transition:background .18s}
+a.eixo:hover{background:var(--papel-alto)}
+a.eixo:hover h3{color:var(--ciano-tinta)}
+.eixo-topo h3{transition:color .18s}
+.eixo-ir{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--ciano-tinta);margin-top:16px;display:inline-block}
+
+/* ---- página de eixo ---- */
+.prop-head .voltar{display:inline-block;margin-bottom:18px}
+.eixo-lede{font-size:18px;color:var(--tinta-media);max-width:56ch;margin:18px 0 0;line-height:1.6}
+.vazio{max-width:52ch;padding:40px 0 8px}
+.vazio p{font-size:17px;color:var(--tinta-media);margin:0 0 26px;line-height:1.65}
 
 /* ---- o corretor ---- */
 .sobre{display:grid;grid-template-columns:.85fr 1.15fr;gap:48px;align-items:start}

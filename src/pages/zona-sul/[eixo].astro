@@ -1,0 +1,119 @@
+---
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+import Base from '../../layouts/Base.astro';
+import { capaDe, precoBR } from '../../lib/fotos';
+import { EIXOS } from '../../lib/eixos';
+
+export async function getStaticPaths() {
+  const imoveis = await getCollection('imoveis');
+  return EIXOS.map((eixo) => ({
+    params: { eixo: eixo.id },
+    props: {
+      eixo,
+      imoveis: imoveis
+        .filter((im) => im.data.eixo === eixo.id)
+        .sort((a, b) => b.data.publicadoEm.getTime() - a.data.publicadoEm.getTime()),
+    },
+  }));
+}
+
+const { eixo, imoveis } = Astro.props;
+
+const tipoLabel: Record<string, string> = {
+  apartamento: 'Apartamento', casa: 'Casa', cobertura: 'Cobertura', lote: 'Lote',
+};
+const plural = (n: number, s: string, p: string) => (n === 1 ? s : p);
+
+const waMsg = encodeURIComponent(
+  `Olá Marcus, tenho interesse em imóveis no eixo "${eixo.nome}" da Zona Sul.`
+);
+const WA_LINK = `https://wa.me/5534996396869?text=${waMsg}`;
+
+const descricaoMeta =
+  `${eixo.nome} — imóveis à venda na Zona Sul de Uberlândia. ${eixo.descricao} ` +
+  `Curadoria direta com o corretor Marcus Vinícius.`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${eixo.nome} — Zona Sul de Uberlândia`,
+  description: eixo.descricao,
+  about: eixo.areas.length ? eixo.areas.join(', ') : 'Condomínios horizontais da Zona Sul',
+};
+---
+
+<Base title={`${eixo.nome} — Imóveis na Zona Sul de Uberlândia | Portfólio Negócios`} description={descricaoMeta}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <div class="prop-head">
+    <div class="wrap">
+      <a class="rotulo rotulo-ciano voltar" href="/#zonasul">← Zona Sul · {EIXOS.length} eixos</a>
+      <h1>{eixo.nome}</h1>
+      <p class="eixo-lede">{eixo.descricao}</p>
+
+      {eixo.areas.length > 0 && (
+        <div class="eixo-bairros" style="margin-top:22px">
+          {eixo.areas.map((b) => <span class="tag-bairro">{b}</span>)}
+        </div>
+      )}
+
+      <div class="cota-mini" style="margin-top:26px;max-width:340px">
+        <span class="haste"></span>
+        <span class="num">
+          {imoveis.length > 0
+            ? `${imoveis.length} ${plural(imoveis.length, 'imóvel disponível', 'imóveis disponíveis')}`
+            : 'Em prospecção'}
+        </span>
+        <span class="haste"></span>
+      </div>
+    </div>
+  </div>
+
+  <section style="border-top:none;padding-top:8px">
+    <div class="wrap">
+      {imoveis.length > 0 ? (
+        <div class="grade">
+          {imoveis.map((imovel) => (
+            <a class="card reveal" href={`/imovel/${imovel.id}/`}>
+              <div class="foto">
+                <Image
+                  src={capaDe(imovel.data.fotos, imovel.data.capa)}
+                  alt={imovel.data.titulo}
+                  width={720}
+                  widths={[440, 720, 1080]}
+                  sizes="(max-width: 900px) 90vw, 360px"
+                />
+                <span class="selo">{tipoLabel[imovel.data.tipo]}</span>
+              </div>
+              <div class="card-corpo">
+                <div class="onde">{imovel.data.bairro}</div>
+                <h3>{imovel.data.titulo}</h3>
+                <div class="cota-mini card-cota">
+                  <span class="haste"></span>
+                  <span class="num">{imovel.data.areaUtil} m²</span>
+                  <span class="haste"></span>
+                </div>
+                <div class="preco">
+                  <span class="v num">{precoBR(imovel.data.preco)}</span>
+                  <span class="ir">Ver detalhes →</span>
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <div class="vazio">
+          <p>
+            Ainda não há um imóvel publicado neste eixo — mas é território que
+            acompanho de perto. Me diga o que você procura por aqui e eu aviso
+            assim que entrar algo à altura.
+          </p>
+          <a class="btn-wa" href={WA_LINK} target="_blank" rel="noopener">
+            Falar com o Marcus sobre {eixo.nome}
+          </a>
+        </div>
+      )}
+    </div>
+  </section>
+</Base>

@@ -15,6 +15,7 @@ interface Props {
 const { title, description } = Astro.props;
 const WA_LINK =
   'https://wa.me/5534996396869?text=Ol%C3%A1%20Marcus%2C%20vim%20pelo%20site%20e%20gostaria%20de%20falar%20sobre%20um%20im%C3%B3vel%20na%20Zona%20Sul.';
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
 <!doctype html>
@@ -24,12 +25,15 @@ const WA_LINK =
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/png" href={logoNavy.src} />
     <meta name="theme-color" content="#1e2a44" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="pt_BR" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content="Portfólio Negócios Imobiliários" />
   </head>
   <body>
     <header class="nav">

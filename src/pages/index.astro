@@ -169,7 +169,7 @@ const plural = (n: number, sing: string, plur: string) => (n === 1 ? sing : plur
 
       <div class="eixos">
         {eixos.map((eixo) => (
-          <article class="eixo reveal">
+          <a class="eixo reveal" href={`/zona-sul/${eixo.id}/`}>
             <div class="eixo-topo">
               <h3>{eixo.nome}</h3>
               <span class="eixo-conta num">
@@ -184,7 +184,8 @@ const plural = (n: number, sing: string, plur: string) => (n === 1 ? sing : plur
                 {eixo.areas.map((b) => <span class="tag-bairro">{b}</span>)}
               </div>
             )}
-          </article>
+            <span class="eixo-ir">Ver o eixo →</span>
+          </a>
         ))}
       </div>
     </div>

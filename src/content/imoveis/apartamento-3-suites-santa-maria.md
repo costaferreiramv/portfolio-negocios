@@ -2,6 +2,7 @@
 titulo: Apartamento de 3 suítes no Residencial Athenas
 tipo: apartamento
 bairro: Santa Maria
+eixo: karaiba
 condominio: Residencial Athenas
 preco: 1490000
 areaUtil: 142

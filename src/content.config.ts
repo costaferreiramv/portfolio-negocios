@@ -1,5 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { EIXO_IDS } from './lib/eixos';
 
 const imoveis = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/imoveis' }),
@@ -7,6 +8,8 @@ const imoveis = defineCollection({
     titulo: z.string(),
     tipo: z.enum(['apartamento', 'casa', 'cobertura', 'lote']),
     bairro: z.string(),
+    // eixo de navegação — ver src/lib/eixos.ts
+    eixo: z.enum(EIXO_IDS),
     condominio: z.string().optional(),
     preco: z.number(),
     areaUtil: z.number(),

@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import { capaDe, precoBR } from '../lib/fotos';
-import { SUBREGIOES, subregiaoDe, bairrosDoEixo } from '../lib/subregioes';
+import { EIXOS } from '../lib/eixos';
 import retratoMarcus from '../assets/marcus/marcus-retrato.jpg';
 import familiaMarcus from '../assets/marcus/marcus-familia.jpg';
 import aereaZonaSul from '../assets/zonasul/parque-una-aerea.webp';
@@ -15,17 +15,13 @@ const imoveis = (await getCollection('imoveis')).sort(
   (a, b) => b.data.publicadoEm.getTime() - a.data.publicadoEm.getTime()
 );
 
-// Agrupa os imóveis por eixo. Cada eixo conhece seus imóveis e seus bairros.
-const eixos = SUBREGIOES.map((sr) => ({
-  ...sr,
-  bairros: bairrosDoEixo(sr.id),
-  imoveis: imoveis.filter((im) => subregiaoDe(im.data.bairro) === sr.id),
+// Cada imóvel declara seu eixo (frontmatter `eixo`); aqui só agrupamos.
+const eixos = EIXOS.map((e) => ({
+  ...e,
+  imoveis: imoveis.filter((im) => im.data.eixo === e.id),
 }));
 // Na vitrine, só entram eixos que têm imóvel — nunca um grupo vazio.
 const eixosComImovel = eixos.filter((e) => e.imoveis.length > 0);
-const totalBairros = Object.values(SUBREGIOES).length
-  ? eixos.reduce((n, e) => n + e.bairros.length, 0)
-  : 0;
 
 const tipoLabel: Record<string, string> = {
   apartamento: 'Apartamento', casa: 'Casa', cobertura: 'Cobertura', lote: 'Lote',
@@ -63,9 +59,9 @@ const plural = (n: number, sing: string, plur: string) => (n === 1 ? sing : plur
           </h1>
 
           <p class="lede reveal">
-            Cada imóvel desta seleção foi escolhido um a um, dentro de um recorte
-            de trinta e um bairros e condomínios. Você conversa direto com o
-            corretor — e vê só o que merece a sua visita.
+            Cada imóvel desta seleção foi escolhido um a um, lido pelo eixo da
+            Zona Sul a que pertence. Você conversa direto com o corretor — e vê
+            só o que merece a sua visita.
           </p>
 
           <div class="acoes reveal">
@@ -76,12 +72,8 @@ const plural = (n: number, sing: string, plur: string) => (n === 1 ? sing : plur
           <div class="hero-cota reveal">
             <div class="cota">
               <span class="cota-linha"></span>
-              <span class="cota-valor">{totalBairros} endereços · {SUBREGIOES.length} eixos</span>
+              <span class="cota-valor">{EIXOS.length} eixos de leitura</span>
               <span class="cota-linha"></span>
-            </div>
-            <div class="legenda">
-              <span class="rotulo">{SUBREGIOES[0].nome}</span>
-              <span class="rotulo">{SUBREGIOES[SUBREGIOES.length - 1].nome}</span>
             </div>
           </div>
         </div>
@@ -171,7 +163,7 @@ const plural = (n: number, sing: string, plur: string) => (n === 1 ? sing : plur
     <div class="wrap">
       <div class="sec-head reveal">
         <span class="rotulo">Território de atuação</span>
-        <h2>A Zona Sul, em {SUBREGIOES.length} eixos.</h2>
+        <h2>A Zona Sul, em {EIXOS.length} eixos.</h2>
         <p>Em vez de uma lista infinita de bairros, o território é lido por eixos — cada um com um caráter próprio. Conhecer poucos a fundo vale mais do que anunciar a cidade inteira.</p>
       </div>
 
@@ -187,9 +179,11 @@ const plural = (n: number, sing: string, plur: string) => (n === 1 ? sing : plur
               </span>
             </div>
             <p class="eixo-desc">{eixo.descricao}</p>
-            <div class="eixo-bairros">
-              {eixo.bairros.map((b) => <span class="tag-bairro">{b}</span>)}
-            </div>
+            {eixo.areas.length > 0 && (
+              <div class="eixo-bairros">
+                {eixo.areas.map((b) => <span class="tag-bairro">{b}</span>)}
+              </div>
+            )}
           </article>
         ))}
       </div>

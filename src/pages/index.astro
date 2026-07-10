@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import { capaDe, precoBR } from '../lib/fotos';
+import { SUBREGIOES, subregiaoDe, bairrosDoEixo } from '../lib/subregioes';
 import retratoMarcus from '../assets/marcus/marcus-retrato.jpg';
 import familiaMarcus from '../assets/marcus/marcus-familia.jpg';
 import aereaZonaSul from '../assets/zonasul/parque-una-aerea.webp';
@@ -14,19 +15,23 @@ const imoveis = (await getCollection('imoveis')).sort(
   (a, b) => b.data.publicadoEm.getTime() - a.data.publicadoEm.getTime()
 );
 
-const bairros = [
-  'Altamira', 'Cidade Jardim', 'City Uberlândia', 'Cond. Arts', 'Cond. Cyrela Buritis',
-  'Cond. Gávea Paradiso', 'Cond. Jardim Versailles', 'Cond. Quality Residence',
-  'Cond. Splêndido', 'Cond. Tamboré', 'Cond. Terras Altas', 'Cond. The Palms',
-  'Cond. Varanda Sul', 'Copacabana', 'Gávea', 'Gávea Jardins', 'Itapema Sul',
-  'Jardim Botânico', 'Jardim Colina', 'Jardim Sul', 'Jardim das Acácias',
-  'Jardim Karaíba', 'Morada da Colina', 'Nova Uberlândia', 'Parque Una',
-  'Patrimônio', 'Santa Maria', 'Saraiva', 'Tubalina', 'Vigilato Pereira', 'Villa Gávea',
-];
+// Agrupa os imóveis por eixo. Cada eixo conhece seus imóveis e seus bairros.
+const eixos = SUBREGIOES.map((sr) => ({
+  ...sr,
+  bairros: bairrosDoEixo(sr.id),
+  imoveis: imoveis.filter((im) => subregiaoDe(im.data.bairro) === sr.id),
+}));
+// Na vitrine, só entram eixos que têm imóvel — nunca um grupo vazio.
+const eixosComImovel = eixos.filter((e) => e.imoveis.length > 0);
+const totalBairros = Object.values(SUBREGIOES).length
+  ? eixos.reduce((n, e) => n + e.bairros.length, 0)
+  : 0;
 
 const tipoLabel: Record<string, string> = {
   apartamento: 'Apartamento', casa: 'Casa', cobertura: 'Cobertura', lote: 'Lote',
 };
+
+const plural = (n: number, sing: string, plur: string) => (n === 1 ? sing : plur);
 ---
 
 <Base
@@ -71,12 +76,12 @@ const tipoLabel: Record<string, string> = {
           <div class="hero-cota reveal">
             <div class="cota">
               <span class="cota-linha"></span>
-              <span class="cota-valor">31 endereços</span>
+              <span class="cota-valor">{totalBairros} endereços · {SUBREGIOES.length} eixos</span>
               <span class="cota-linha"></span>
             </div>
             <div class="legenda">
-              <span class="rotulo">Altamira</span>
-              <span class="rotulo">Villa Gávea</span>
+              <span class="rotulo">{SUBREGIOES[0].nome}</span>
+              <span class="rotulo">{SUBREGIOES[SUBREGIOES.length - 1].nome}</span>
             </div>
           </div>
         </div>
@@ -116,75 +121,77 @@ const tipoLabel: Record<string, string> = {
       <div class="sec-head reveal">
         <span class="rotulo">Seleção atual</span>
         <h2>Imóveis em destaque</h2>
-        <p>Cada anúncio tem página própria, com todas as fotos e as informações que importam antes de uma visita.</p>
+        <p>Organizados pelo eixo da Zona Sul a que pertencem. Cada anúncio tem página própria, com todas as fotos e as informações que importam antes de uma visita.</p>
       </div>
-      <div class="grade">
-        {imoveis.map((imovel) => (
-          <a class="card reveal" href={`/imovel/${imovel.id}/`}>
-            <div class="foto">
-              <Image
-                src={capaDe(imovel.data.fotos, imovel.data.capa)}
-                alt={imovel.data.titulo}
-                width={720}
-                widths={[440, 720, 1080]}
-                sizes="(max-width: 900px) 90vw, 360px"
-              />
-              <span class="selo">{tipoLabel[imovel.data.tipo]}</span>
-            </div>
-            <div class="card-corpo">
-              <div class="onde">{imovel.data.bairro}</div>
-              <h3>{imovel.data.titulo}</h3>
 
-              <div class="cota-mini card-cota">
-                <span class="haste"></span>
-                <span class="num">{imovel.data.areaUtil} m²</span>
-                <span class="haste"></span>
-              </div>
-
-              <div class="preco">
-                <span class="v num">{precoBR(imovel.data.preco)}</span>
-                <span class="ir">Ver detalhes →</span>
-              </div>
-            </div>
-          </a>
-        ))}
-      </div>
+      {eixosComImovel.map((eixo) => (
+        <div class="grupo-eixo">
+          <div class="grupo-cab reveal">
+            <h3>{eixo.nome}</h3>
+            <span class="cota-mini">
+              <span class="haste"></span>
+              <span class="num">{eixo.imoveis.length} {plural(eixo.imoveis.length, 'imóvel', 'imóveis')}</span>
+            </span>
+          </div>
+          <div class="grade">
+            {eixo.imoveis.map((imovel) => (
+              <a class="card reveal" href={`/imovel/${imovel.id}/`}>
+                <div class="foto">
+                  <Image
+                    src={capaDe(imovel.data.fotos, imovel.data.capa)}
+                    alt={imovel.data.titulo}
+                    width={720}
+                    widths={[440, 720, 1080]}
+                    sizes="(max-width: 900px) 90vw, 360px"
+                  />
+                  <span class="selo">{tipoLabel[imovel.data.tipo]}</span>
+                </div>
+                <div class="card-corpo">
+                  <div class="onde">{imovel.data.bairro}</div>
+                  <h3>{imovel.data.titulo}</h3>
+                  <div class="cota-mini card-cota">
+                    <span class="haste"></span>
+                    <span class="num">{imovel.data.areaUtil} m²</span>
+                    <span class="haste"></span>
+                  </div>
+                  <div class="preco">
+                    <span class="v num">{precoBR(imovel.data.preco)}</span>
+                    <span class="ir">Ver detalhes →</span>
+                  </div>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
     </div>
   </section>
 
   <section id="zonasul">
     <div class="wrap">
-      <div class="indice">
-        <div class="reveal">
-          <span class="rotulo">Território de atuação</span>
-          <h2 style="font-size:clamp(28px,3.7vw,42px);margin:.5em 0 18px">A Zona Sul, endereço por endereço.</h2>
-          <p class="muted" style="max-width:44ch;margin:0 0 30px">
-            Conhecer trinta e um endereços a fundo vale mais do que listar a cidade
-            inteira. É esse recorte que permite indicar o imóvel certo — e desaconselhar
-            o errado com a mesma convicção.
-          </p>
-          <div class="medidas">
-            <div class="medida">
-              <div class="v mono">31</div>
-              <div class="l rotulo">Bairros e condomínios</div>
+      <div class="sec-head reveal">
+        <span class="rotulo">Território de atuação</span>
+        <h2>A Zona Sul, em {SUBREGIOES.length} eixos.</h2>
+        <p>Em vez de uma lista infinita de bairros, o território é lido por eixos — cada um com um caráter próprio. Conhecer poucos a fundo vale mais do que anunciar a cidade inteira.</p>
+      </div>
+
+      <div class="eixos">
+        {eixos.map((eixo) => (
+          <article class="eixo reveal">
+            <div class="eixo-topo">
+              <h3>{eixo.nome}</h3>
+              <span class="eixo-conta num">
+                {eixo.imoveis.length > 0
+                  ? `${eixo.imoveis.length} ${plural(eixo.imoveis.length, 'imóvel', 'imóveis')}`
+                  : 'em prospecção'}
+              </span>
             </div>
-            <div class="medida">
-              <div class="v">Venda</div>
-              <div class="l rotulo">Exclusivamente</div>
+            <p class="eixo-desc">{eixo.descricao}</p>
+            <div class="eixo-bairros">
+              {eixo.bairros.map((b) => <span class="tag-bairro">{b}</span>)}
             </div>
-            <div class="medida">
-              <div class="v">Direto</div>
-              <div class="l rotulo">Com o corretor</div>
-            </div>
-          </div>
-        </div>
-        <div class="reveal">
-          <div class="lista-bairros">
-            {bairros.map((b) => (
-              <div class="b"><span class="n">{b}</span></div>
-            ))}
-          </div>
-        </div>
+          </article>
+        ))}
       </div>
     </div>
   </section>

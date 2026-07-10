@@ -211,19 +211,6 @@ section{padding:88px 0;border-top:1px solid var(--traco)}
   .hero-cota .cota{font-size:10px;gap:8px}
 }
 
-/* ---- números do território ---- */
-.medidas{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid var(--traco)}
-.medida{padding:26px 26px 26px 0;border-right:1px solid var(--traco)}
-.medida:last-child{border-right:none;padding-right:0}
-.medida .v{font-family:var(--display);font-weight:700;font-size:34px;letter-spacing:-.03em;line-height:1}
-.medida .v.mono{font-family:var(--mono);font-weight:500;font-size:32px}
-.medida .l{margin-top:9px}
-@media(max-width:640px){
-  .medidas{grid-template-columns:1fr}
-  .medida{border-right:none;border-bottom:1px solid var(--traco);padding:20px 0}
-  .medida:last-child{border-bottom:none}
-}
-
 /* ---- pilares ---- */
 .pilares{display:grid;grid-template-columns:repeat(3,1fr);gap:0}
 .pilar{padding:0 34px;border-left:1px solid var(--traco)}
@@ -265,15 +252,26 @@ section{padding:88px 0;border-top:1px solid var(--traco)}
 .preco .v{font-family:var(--mono);font-weight:500;font-size:19px;letter-spacing:-.02em}
 .preco .ir{font-family:var(--display);font-size:13px;font-weight:600;color:var(--ciano-tinta)}
 
-/* ---- índice de bairros ---- */
-.indice{display:grid;grid-template-columns:.95fr 1.05fr;gap:56px;align-items:start}
-@media(max-width:900px){.indice{grid-template-columns:1fr;gap:34px}}
-.lista-bairros{column-count:2;column-gap:34px}
-@media(max-width:520px){.lista-bairros{column-count:1}}
-.lista-bairros .b{
-  padding:8px 0;border-bottom:1px solid var(--traco);break-inside:avoid;
-}
-.lista-bairros .n{font-size:15px;color:var(--tinta-media);line-height:1.35}
+/* ---- vitrine agrupada por eixo ---- */
+.grupo-eixo{margin-top:52px}
+.grupo-eixo:first-of-type{margin-top:0}
+.grupo-cab{display:flex;align-items:baseline;gap:18px;margin-bottom:22px}
+.grupo-cab h3{font-size:22px;font-weight:600;white-space:nowrap}
+.grupo-cab .cota-mini{flex:1}
+
+/* ---- eixos (território) ---- */
+.eixos{display:grid;grid-template-columns:repeat(2,1fr);gap:0;
+  border-top:1px solid var(--traco);border-left:1px solid var(--traco)}
+@media(max-width:760px){.eixos{grid-template-columns:1fr}}
+.eixo{padding:30px 32px;border-right:1px solid var(--traco);border-bottom:1px solid var(--traco)}
+.eixo-topo{display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin-bottom:12px}
+.eixo-topo h3{font-size:21px;font-weight:600}
+.eixo-conta{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--ciano-tinta);flex:none;white-space:nowrap}
+.eixo-desc{margin:0 0 18px;font-size:15px;color:var(--tinta-media);line-height:1.6;max-width:46ch}
+.eixo-bairros{display:flex;flex-wrap:wrap;gap:7px}
+.tag-bairro{font-family:var(--mono);font-size:11px;letter-spacing:.04em;color:var(--tinta-fraca);
+  border:1px solid var(--traco);padding:4px 9px}
 
 /* ---- o corretor ---- */
 .sobre{display:grid;grid-template-columns:.85fr 1.15fr;gap:48px;align-items:start}

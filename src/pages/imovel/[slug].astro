@@ -128,7 +128,7 @@ const jsonLd = {
           {d.areaTerreno && <div class="linha"><dt>Área do terreno</dt><dd>{d.areaTerreno} m²</dd></div>}
           <div class="linha">
             <dt>Dormitórios</dt>
-            <dd>{d.dormitorios}{d.suites === d.dormitorios ? ' (todos suítes)' : ` (${d.suites} suítes)`}</dd>
+            <dd>{d.dormitorios}{d.suites === d.dormitorios ? ' (todas suítes)' : ` (${d.suites} ${d.suites === 1 ? 'suíte' : 'suítes'})`}</dd>
           </div>
           <div class="linha"><dt>Vagas</dt><dd>{d.vagas}</dd></div>
           {d.aceitaFinanciamento !== undefined && (

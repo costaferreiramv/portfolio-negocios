@@ -63,8 +63,14 @@ const jsonLd = {
       <div class="prop-cotas">
         <div class="c">
           <div class="v">{d.areaUtil} m²</div>
-          <div class="l rotulo">Área útil</div>
+          <div class="l rotulo">{d.areaTerreno ? 'Construída' : 'Área útil'}</div>
         </div>
+        {d.areaTerreno && (
+          <div class="c">
+            <div class="v">{d.areaTerreno} m²</div>
+            <div class="l rotulo">Terreno</div>
+          </div>
+        )}
         <div class="c">
           <div class="v">{d.suites}</div>
           <div class="l rotulo">Suítes</div>
@@ -118,14 +124,19 @@ const jsonLd = {
           <div class="linha"><dt>Tipo</dt><dd>{tipoLabel[d.tipo]}</dd></div>
           <div class="linha"><dt>Bairro</dt><dd>{d.bairro}</dd></div>
           {d.condominio && <div class="linha"><dt>Condomínio</dt><dd>{d.condominio}</dd></div>}
-          <div class="linha"><dt>Área útil</dt><dd>{d.areaUtil} m²</dd></div>
+          <div class="linha"><dt>{d.areaTerreno ? 'Área construída' : 'Área útil'}</dt><dd>{d.areaUtil} m²</dd></div>
+          {d.areaTerreno && <div class="linha"><dt>Área do terreno</dt><dd>{d.areaTerreno} m²</dd></div>}
           <div class="linha">
             <dt>Dormitórios</dt>
             <dd>{d.dormitorios}{d.suites === d.dormitorios ? ' (todos suítes)' : ` (${d.suites} suítes)`}</dd>
           </div>
           <div class="linha"><dt>Vagas</dt><dd>{d.vagas}</dd></div>
-          <div class="linha"><dt>Financiamento</dt><dd>{d.aceitaFinanciamento ? 'Aceita' : 'Consultar'}</dd></div>
-          <div class="linha"><dt>Permuta</dt><dd>{d.aceitaPermuta ? 'Estuda' : 'Não'}</dd></div>
+          {d.aceitaFinanciamento !== undefined && (
+            <div class="linha"><dt>Financiamento</dt><dd>{d.aceitaFinanciamento ? 'Aceita' : 'Não aceita'}</dd></div>
+          )}
+          {d.aceitaPermuta !== undefined && (
+            <div class="linha"><dt>Permuta</dt><dd>{d.aceitaPermuta ? 'Estuda' : 'Não'}</dd></div>
+          )}
           <div class="linha"><dt>Valor</dt><dd>{precoBR(d.preco)}</dd></div>
         </dl>
         <a class="btn-wa" href={WA_LINK} target="_blank" rel="noopener">Falar com o Marcus</a>

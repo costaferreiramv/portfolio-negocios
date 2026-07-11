@@ -337,17 +337,14 @@ footer.foot{background:var(--papel-fundo);border-top:1px solid var(--traco);padd
    ============================================================ */
 .prop-head{padding:56px 0 40px;border-top:none}
 .prop-head h1{font-size:clamp(30px,4.4vw,50px);font-weight:700;margin:16px 0 0;max-width:22ch;text-wrap:balance}
-.prop-cotas{margin-top:30px;display:grid;grid-template-columns:repeat(4,minmax(0,150px));gap:0;
+.prop-cotas{margin-top:30px;display:flex;flex-wrap:wrap;gap:0;
   border-top:1px solid var(--traco);border-bottom:1px solid var(--traco)}
-.prop-cotas .c{padding:16px 20px 16px 0;border-right:1px solid var(--traco)}
+.prop-cotas .c{flex:1 1 0;min-width:120px;padding:16px 20px;border-right:1px solid var(--traco)}
 .prop-cotas .c:last-child{border-right:none}
 .prop-cotas .v{font-family:var(--mono);font-size:20px;font-weight:500}
 .prop-cotas .l{margin-top:6px}
 @media(max-width:640px){
-  .prop-cotas{grid-template-columns:repeat(2,1fr)}
-  .prop-cotas .c{border-bottom:1px solid var(--traco);padding:14px 16px 14px 0}
-  .prop-cotas .c:nth-child(2n){border-right:none}
-  .prop-cotas .c:nth-last-child(-n+2){border-bottom:none}
+  .prop-cotas .c{flex-basis:50%;border-bottom:1px solid var(--traco);padding:14px 16px}
 }
 .prop-preco{font-family:var(--mono);font-weight:500;font-size:clamp(24px,3.2vw,34px);margin-top:26px;letter-spacing:-.02em}
 .prop-acoes{margin-top:26px;display:flex;gap:12px;flex-wrap:wrap}

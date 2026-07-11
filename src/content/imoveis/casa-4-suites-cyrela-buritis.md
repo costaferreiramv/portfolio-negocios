@@ -13,7 +13,7 @@ vagas: 5
 aceitaFinanciamento: false
 publicadoEm: 2026-07-11
 fotos: casa-4-suites-cyrela-buritis
-capa: 1
+capa: 4
 ---
 
 Casa térrea no Cyrela Landscape — Residencial dos Buritis, na Alameda Juruviara. Um dos condomínios mais procurados da Zona Sul de Uberlândia, com infraestrutura de lazer completa e cercado por áreas verdes.

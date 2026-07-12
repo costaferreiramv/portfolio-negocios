@@ -68,12 +68,14 @@
     m = t.match(/(\d+)\s*vagas?/);
     if (m) f.vaga = parseInt(m[1], 10);
 
-    // área: "120 m²", "120 metros", "120m2"
+    // área: "120 m²", "120 metros", "120m2". O qualificador (min/máx) é lido só na
+    // janela imediatamente antes do número — senão um "até" do preço contamina a área.
     const areaM = t.match(/(\d+(?:[.,]\d+)?)\s*(?:m2|m²|metros?)/);
     if (areaM) {
       const a = parseFloat(areaM[1].replace(',', '.'));
-      if (/ate|maximo|no maximo|abaixo/.test(t)) f.areaMax = a;
-      else f.areaMin = a; // "pelo menos", "mínimo", "acima", ou sem qualificador
+      const antes = t.slice(Math.max(0, areaM.index - 18), areaM.index);
+      if (/(ate|no maximo|maximo|abaixo|menos de)\s*$/.test(antes)) f.areaMax = a;
+      else f.areaMin = a; // "pelo menos", "a partir", "acima", "mínimo" ou sem qualificador → piso
     }
 
     // preço: faixa "entre X e Y", "de X a Y", ou "até Y", "a partir de X"
@@ -93,31 +95,55 @@
       f.precoMax = vs[0]; // um valor só = teto
     }
 
-    // texto livre para bairro/eixo (casa com o campo bairro/eixo do imóvel)
-    f.termos = t;
+    // localização: bairros/áreas citados viram PREFERÊNCIA (ordenam), não filtro rígido.
+    // Cada local citado guarda o eixo a que pertence, para casar a região inteira.
+    // "zona sul" é a região toda — neutra, não restringe nem pontua.
+    const EIXOS = window.__EIXOS__ || [];
+    f.locais = [];
+    for (const b of window.__BAIRROS__ || []) {
+      const nb = norm(b);
+      if (nb === 'zona sul' || !new RegExp('\\b' + nb.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b').test(t)) continue;
+      const eixo = EIXOS.find((e) => e.areas.some((a) => norm(a) === nb));
+      f.locais.push({ nome: nb, eixo: eixo ? eixo.id : null });
+    }
     return f;
   }
 
-  function combina(im, f) {
-    if (f.tipo && im.tipo !== f.tipo) return false;
-    if (f.cond === 'sim' && !im.condominio) return false;
-    if (f.cond === 'nao' && im.condominio) return false;
-    if (f.dorm && im.dormitorios < f.dorm) return false;
-    if (f.suite && im.suites < f.suite) return false;
-    if (f.vaga && im.vagas < f.vaga) return false;
-    if (f.areaMin && im.area < f.areaMin) return false;
-    if (f.areaMax && im.area > f.areaMax) return false;
-    if (f.precoMin && im.preco < f.precoMin) return false;
-    if (f.precoMax && im.preco > f.precoMax) return false;
-    // bairro/eixo mencionado no texto?
-    const alvo = norm(im.bairro + ' ' + im.eixo + ' ' + im.titulo);
-    // só aplica se o usuário citou um bairro conhecido (evita filtrar por palavras genéricas)
-    for (const b of window.__BAIRROS__ || []) {
-      if (f.termos.includes(norm(b))) {
-        if (!alvo.includes(norm(b))) return false;
-      }
+  // Critérios "duros" (atributos objetivos do imóvel), do mais descartável ao mais essencial.
+  // Cada um só é exigido se o usuário o mencionou. Usados no relaxamento progressivo.
+  const DUROS = [
+    { k: 'vaga', ok: (im, f) => im.vagas >= f.vaga, ativo: (f) => f.vaga },
+    { k: 'area', ok: (im, f) => (!f.areaMin || im.area >= f.areaMin) && (!f.areaMax || im.area <= f.areaMax), ativo: (f) => f.areaMin || f.areaMax },
+    { k: 'suite', ok: (im, f) => im.suites >= f.suite, ativo: (f) => f.suite },
+    { k: 'preco', ok: (im, f) => (!f.precoMin || im.preco >= f.precoMin) && (!f.precoMax || im.preco <= f.precoMax), ativo: (f) => f.precoMin || f.precoMax },
+    { k: 'dorm', ok: (im, f) => im.dormitorios >= f.dorm, ativo: (f) => f.dorm },
+    { k: 'cond', ok: (im, f) => (f.cond === 'sim' ? im.condominio : f.cond === 'nao' ? !im.condominio : true), ativo: (f) => f.cond === 'sim' || f.cond === 'nao' },
+    { k: 'tipo', ok: (im, f) => im.tipo === f.tipo, ativo: (f) => f.tipo },
+  ];
+
+  // Pontua a proximidade de um imóvel aos locais citados (mesmo bairro > mesmo eixo).
+  function scoreLocal(im, f) {
+    if (!f.locais || !f.locais.length) return 0;
+    let s = 0;
+    const bairro = norm(im.bairro);
+    for (const loc of f.locais) {
+      if (bairro === loc.nome) s += 3;            // bairro/área exata
+      else if (loc.eixo && im.eixo === loc.eixo) s += 2; // mesma região (eixo)
     }
-    return true;
+    return s;
+  }
+
+  // Aplica os critérios duros ativos; se zerar, relaxa um a um (o mais descartável primeiro)
+  // até encontrar imóveis. Retorna { achados, relaxados }.
+  function filtrar(f) {
+    let criterios = DUROS.filter((d) => d.ativo(f));
+    const relaxados = [];
+    while (true) {
+      const achados = IMOVEIS.filter((im) => criterios.every((d) => d.ok(im, f)));
+      if (achados.length || !criterios.length) return { achados, relaxados };
+      relaxados.push(criterios[0].k); // remove o mais descartável e tenta de novo
+      criterios = criterios.slice(1);
+    }
   }
 
   const brl = (n) =>
@@ -152,11 +178,27 @@
     );
   }
 
+  const ROTULO_DURO = {
+    vaga: 'nº de vagas', area: 'área', suite: 'nº de suítes',
+    preco: 'faixa de preço', dorm: 'nº de quartos', cond: 'condomínio', tipo: 'tipo',
+  };
+
   function buscar(q) {
     const f = interpreta(q);
-    const achados = IMOVEIS.filter((im) => combina(im, f));
+    const { achados, relaxados } = filtrar(f);
+    // localização não elimina: ordena os que casam os critérios, mais próximos primeiro
+    achados.sort((a, b) => scoreLocal(b, f) - scoreLocal(a, f) || a.preco - b.preco);
+
     const partes = resumo(f);
-    interp.textContent = partes.length ? 'Entendi: ' + partes.join(' · ') : 'Mostrando toda a seleção.';
+    let msg = partes.length ? 'Entendi: ' + partes.join(' · ') : 'Mostrando toda a seleção.';
+    if (f.locais && f.locais.length && achados.some((im) => scoreLocal(im, f) > 0)) {
+      msg += ' · priorizando os mais próximos';
+    }
+    if (relaxados.length) {
+      const nomes = relaxados.map((k) => ROTULO_DURO[k]);
+      msg += ' — sem correspondência exata; ampliei ' + nomes.join(' e ') + ' para mostrar o mais próximo';
+    }
+    interp.textContent = msg;
     resTitulo.textContent =
       achados.length + (achados.length === 1 ? ' imóvel encontrado' : ' imóveis encontrados');
     grade.innerHTML = achados.map(card).join('');

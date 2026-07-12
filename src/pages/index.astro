@@ -45,6 +45,9 @@ const bairrosConhecidos = Array.from(
   new Set([...EIXOS.flatMap((e) => e.areas), ...imoveis.map((i) => i.data.bairro)])
 );
 
+// eixos (id + áreas) para a busca resolver "perto de X" pela região, não só pelo bairro exato
+const eixosBusca = EIXOS.map((e) => ({ id: e.id, nome: e.curto, areas: e.areas }));
+
 const WA_BUSCA = waLink('Olá Marcus, não encontrei no site exatamente o que procuro. Pode me ajudar?');
 
 // eixos com imagem otimizada
@@ -158,6 +161,7 @@ const eixosImg = await Promise.all(
   </section>
 
   <script is:inline set:html={`window.__IMOVEIS__ = ${JSON.stringify(dadosBusca)};
-    window.__BAIRROS__ = ${JSON.stringify(bairrosConhecidos)};`}></script>
+    window.__BAIRROS__ = ${JSON.stringify(bairrosConhecidos)};
+    window.__EIXOS__ = ${JSON.stringify(eixosBusca)};`}></script>
   <script is:inline src="/busca.js"></script>
 </Base>

@@ -16,57 +16,73 @@
 export interface Eixo {
   id: string;
   nome: string;
+  /** Nome curto para menus e chips. */
+  curto: string;
   descricao: string;
   /** Bairros/áreas que o eixo engloba (tags no cartão de território).
    *  Vazio nos eixos transversais, que não se definem por bairro. */
   areas: string[];
+  /** Arquivo de imagem em src/assets/zonasul usado no cartão do eixo. */
+  imagem: string;
 }
 
 export const EIXOS: Eixo[] = [
   {
     id: 'horizontais',
     nome: 'Condomínios Horizontais',
+    curto: 'Condomínios Horizontais',
     descricao:
       'Todas as casas em condomínio fechado da Zona Sul, reunidas em um só lugar — independentemente do bairro em que estão.',
     areas: [],
+    imagem: 'zona-sul-1.png',
   },
   {
     id: 'landscape',
     nome: 'Complexo Landscape, Parque Una e Villa Gávea',
+    curto: 'Landscape · Parque Una · Villa Gávea',
     descricao:
       'Imóveis em prédios no entorno da avenida que reúne o Complexo Landscape, o Parque Una e a Villa Gávea.',
     areas: ['Complexo Landscape', 'Parque Una', 'Villa Gávea'],
+    imagem: 'parque-una-alt.jpeg',
   },
   {
     id: 'vinhedos',
     nome: 'Complexo Vinhedos',
+    curto: 'Complexo Vinhedos',
     descricao:
       'Imóveis dentro do complexo e no entorno da Avenida dos Vinhedos.',
     areas: ['Complexo Vinhedos', 'Av. dos Vinhedos'],
+    imagem: 'zona-sul-2.png',
   },
   {
     id: 'colina',
     nome: 'Eixo Colina',
+    curto: 'Eixo Colina',
     descricao:
       'Área tradicional de alto padrão às margens do Uberabinha.',
     areas: ['Morada da Colina', 'Jardim Colina', 'Altamira II', 'Gávea'],
+    imagem: 'zona-sul-3.png',
   },
   {
     id: 'praia-clube',
     nome: 'Entorno Praia Clube',
+    curto: 'Entorno Praia Clube',
     descricao:
       'Bairros estabelecidos no entorno do Praia Clube, com comércio e serviços à mão.',
     areas: ['Cidade Jardim', 'Tubalina', 'Patrimônio', 'Copacabana', 'Nova Uberlândia', 'Maracanã'],
+    imagem: 'zona-sul-1.png',
   },
   {
     id: 'karaiba',
     nome: 'Eixo Grande Karaíba e Entorno Cajubá',
+    curto: 'Grande Karaíba · Cajubá',
     descricao:
       'Um dos vetores mais valorizados da cidade, do Jardim Karaíba ao entorno do Cajubá.',
     areas: [
       'Jardim Karaíba', 'City Uberlândia', 'Itapema Sul', 'Jardim das Acácias',
       'Jardim Inconfidência', 'Vigilato Pereira', 'Saraiva', 'Santa Maria', 'Jardim Botânico',
     ],
+    imagem: 'zona-sul-2.png',
   },
 ];
 

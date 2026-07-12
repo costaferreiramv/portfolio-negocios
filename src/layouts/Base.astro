@@ -7,15 +7,22 @@ import '../styles/global.css';
 import { Image } from 'astro:assets';
 import logoNavy from '../assets/brand/logo-navy.png';
 import logoWhite from '../assets/brand/logo-white.png';
+import { EIXOS } from '../lib/eixos';
+import { CONTATO, waLink } from '../lib/site';
 
 interface Props {
   title: string;
   description: string;
 }
 const { title, description } = Astro.props;
-const WA_LINK =
-  'https://wa.me/5534996396869?text=Ol%C3%A1%20Marcus%2C%20vim%20pelo%20site%20e%20gostaria%20de%20falar%20sobre%20um%20im%C3%B3vel%20na%20Zona%20Sul.';
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const WA_GERAL = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóvel na Zona Sul.');
+
+// marca o item de menu ativo
+const path = Astro.url.pathname;
+const ehHome = path === '/' || path === '';
+const ehZonaSul = path.startsWith('/zona-sul');
+const ehContato = path.startsWith('/contato');
 ---
 
 <!doctype html>
@@ -38,16 +45,32 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
   <body>
     <header class="nav">
       <div class="wrap nav-in">
-        <a class="brand" href="/">
-          <span class="mark">Portfólio Negócios</span>
-          <span class="sub">Imobiliários</span>
+        <a class="brand" href="/" aria-label="Portfólio Negócios — página inicial">
+          <Image class="brand-logo so-claro" src={logoNavy} alt="Portfólio Negócios Imobiliários" height={104} />
+          <Image class="brand-logo so-escuro" src={logoWhite} alt="Portfólio Negócios Imobiliários" height={104} />
         </a>
-        <nav class="nav-links">
-          <a href="/#imoveis">Imóveis</a>
-          <a href="/#zonasul">Zona Sul</a>
-          <a href="/#marcus">O Corretor</a>
-          <a class="btn btn-vazado" href="/#contato">Fale comigo</a>
+
+        <nav class="nav-links" aria-label="Menu principal">
+          <a href="/" class={ehHome ? 'ativo' : ''}>Home</a>
+
+          <div class={`temsub ${ehZonaSul ? 'ativo' : ''}`}>
+            <a href="/zona-sul/" class="sub-topo" aria-haspopup="true" aria-expanded="false">
+              Zona Sul <span class="seta" aria-hidden="true">▾</span>
+            </a>
+            <div class="submenu">
+              <a href="/zona-sul/"><strong>Eixos</strong><span>Como a Zona Sul se divide</span></a>
+              {EIXOS.map((e) => (
+                <a href={`/zona-sul/${e.id}/`}>{e.curto}</a>
+              ))}
+            </div>
+          </div>
+
+          <a href="/contato/" class={ehContato ? 'ativo' : ''}>Contato</a>
         </nav>
+
+        <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
       </div>
     </header>
 
@@ -58,45 +81,68 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     <footer class="foot">
       <div class="wrap">
         <div class="foot-in">
-          <div>
+          <div class="foot-marca">
             <Image class="logo so-claro" src={logoNavy} alt="Portfólio Negócios Imobiliários" height={176} />
             <Image class="logo so-escuro" src={logoWhite} alt="Portfólio Negócios Imobiliários" height={176} />
-            <p class="muted" style="max-width:34ch;margin:14px 0 0;font-size:15px">
-              Curadoria de imóveis à venda na Zona Sul de Uberlândia — MG.
-            </p>
+            <p class="muted">Curadoria de imóveis à venda na Zona Sul de Uberlândia — MG.</p>
           </div>
-          <div class="cols">
+
+          <div class="foot-cols">
             <div>
               <h4 class="rotulo">Navegar</h4>
-              <a href="/#imoveis">Imóveis</a>
-              <a href="/#zonasul">Zona Sul</a>
-              <a href="/#marcus">O Corretor</a>
+              <a href="/">Home</a>
+              <a href="/zona-sul/">Zona Sul</a>
+              <a href="/contato/">Contato</a>
+            </div>
+            <div>
+              <h4 class="rotulo">Zona Sul</h4>
+              {EIXOS.map((e) => <a href={`/zona-sul/${e.id}/`}>{e.curto}</a>)}
             </div>
             <div>
               <h4 class="rotulo">Contato</h4>
-              <a href={WA_LINK} target="_blank" rel="noopener">WhatsApp</a>
-              <a href="mailto:contato@portfolionegocios.com.br">E-mail</a>
-              <a href="https://instagram.com/marcus.imoveis" target="_blank" rel="noopener">Instagram</a>
+              <a href={WA_GERAL} target="_blank" rel="noopener">WhatsApp {CONTATO.whatsappLabel}</a>
+              <a href={CONTATO.telefoneHref}>Telefone {CONTATO.telefone}</a>
+              <a href={`mailto:${CONTATO.email}`}>{CONTATO.email}</a>
+              <a href={CONTATO.instagram} target="_blank" rel="noopener">Instagram @marcus.imoveis</a>
+              <a href={CONTATO.tiktok} target="_blank" rel="noopener">TikTok @marcus.imoveis</a>
             </div>
           </div>
         </div>
         <div class="legal">
-          <span class="rotulo">CRECI 42.766 · CNPJ 08.869.898/0001-40</span>
-          <span class="rotulo">Uberlândia — MG · MMXXVI</span>
+          <span class="rotulo">{CONTATO.razao} · {CONTATO.creci} · {CONTATO.cnpj}</span>
+          <span class="rotulo">{CONTATO.cidade} · MMXXVI</span>
         </div>
       </div>
     </footer>
 
+    <a class="wa-flutuante" href={WA_GERAL} target="_blank" rel="noopener" aria-label="Conversar no WhatsApp">
+      <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true" fill="currentColor">
+        <path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.8.9 3.8 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.8.8.8-3.7-.2-.4c-1-1.6-1.5-3.4-1.5-5.3C5.9 9.9 10.5 5.3 16 5.3S26.1 9.9 26.1 15 21.5 24.8 16 24.8zm5.6-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.2-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.2-.2.2-.3.3-.5.1-.2 0-.4 0-.5-.1-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.1-.3-.2-.6-.4z"/>
+      </svg>
+      <span>Fale no WhatsApp</span>
+    </a>
+
     <script>
+      // dropdown Zona Sul no mobile (clique) + menu hambúrguer
+      const toggle = document.querySelector('.nav-toggle');
+      const links = document.querySelector('.nav-links');
+      toggle?.addEventListener('click', () => {
+        const aberto = links?.classList.toggle('aberto');
+        toggle.setAttribute('aria-expanded', String(!!aberto));
+      });
+      // no mobile, o item "Zona Sul" abre o submenu ao tocar na seta
+      const sub = document.querySelector('.temsub');
+      const subTopo = sub?.querySelector('.sub-topo');
+      subTopo?.addEventListener('click', (e) => {
+        if (window.matchMedia('(max-width: 860px)').matches) {
+          e.preventDefault();
+          sub?.classList.toggle('aberto');
+        }
+      });
+
+      // revelação ao rolar
       const io = new IntersectionObserver(
-        (es) => {
-          es.forEach((e) => {
-            if (e.isIntersecting) {
-              e.target.classList.add('in');
-              io.unobserve(e.target);
-            }
-          });
-        },
+        (es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }),
         { threshold: 0.12 }
       );
       document.querySelectorAll('.reveal').forEach((el, i) => {

@@ -1,0 +1,96 @@
+---
+import Base from '../layouts/Base.astro';
+import { CONTATO, waLink } from '../lib/site';
+
+const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóvel na Zona Sul.');
+---
+
+<Base
+  title="Contato — Portfólio Negócios Imobiliários | Zona Sul de Uberlândia"
+  description="Fale com o corretor Marcus Vinícius. Preencha o formulário ou chame no WhatsApp para agendar visitas e tirar dúvidas sobre imóveis na Zona Sul de Uberlândia."
+>
+  <div class="prop-head">
+    <div class="wrap">
+      <span class="rotulo rotulo-ciano">Fale com o corretor</span>
+      <h1>Vamos conversar.</h1>
+      <p class="eixo-lede">
+        Me conte o que você procura ou tire uma dúvida sobre um imóvel. Respondo direto,
+        sem robô e sem enrolação — pelo formulário, por e-mail ou no WhatsApp.
+      </p>
+    </div>
+  </div>
+
+  <section style="border-top:none;padding-top:8px">
+    <div class="wrap contato-grid">
+      <form class="form-contato" id="form-contato">
+        <div class="campo">
+          <label for="nome">Seu nome</label>
+          <input type="text" id="nome" name="nome" required />
+        </div>
+        <div class="form-linha">
+          <div class="campo">
+            <label for="email">E-mail</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <div class="campo">
+            <label for="telefone">Telefone / WhatsApp</label>
+            <input type="tel" id="telefone" name="telefone" />
+          </div>
+        </div>
+        <div class="campo">
+          <label for="mensagem">Mensagem</label>
+          <textarea id="mensagem" name="mensagem" placeholder="Ex.: Tenho interesse na casa do Cyrela Buritis e gostaria de agendar uma visita." required></textarea>
+        </div>
+        <button type="submit" class="btn btn-solido">Enviar mensagem</button>
+        <p class="busca-dica" id="form-aviso" hidden></p>
+      </form>
+
+      <aside class="contato-info">
+        <h3>Portfólio Negócios</h3>
+        <div class="contato-linha">
+          <span class="rot">WhatsApp</span>
+          <a href={WA} target="_blank" rel="noopener">{CONTATO.whatsappLabel}</a>
+        </div>
+        <div class="contato-linha">
+          <span class="rot">Telefone</span>
+          <a href={CONTATO.telefoneHref}>{CONTATO.telefone}</a>
+        </div>
+        <div class="contato-linha">
+          <span class="rot">E-mail</span>
+          <a href={`mailto:${CONTATO.email}`}>{CONTATO.email}</a>
+        </div>
+        <div class="contato-linha">
+          <span class="rot">Instagram</span>
+          <a href={CONTATO.instagram} target="_blank" rel="noopener">@marcus.imoveis</a>
+        </div>
+        <div class="contato-linha">
+          <span class="rot">TikTok</span>
+          <a href={CONTATO.tiktok} target="_blank" rel="noopener">@marcus.imoveis</a>
+        </div>
+        <div class="contato-linha">
+          <span class="rot">Registro</span>
+          <span>{CONTATO.creci} · {CONTATO.cnpj}</span>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <script is:inline define:vars={{ email: CONTATO.email }}>
+    const form = document.getElementById('form-contato');
+    const aviso = document.getElementById('form-aviso');
+    form?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const nome = document.getElementById('nome').value.trim();
+      const mail = document.getElementById('email').value.trim();
+      const tel = document.getElementById('telefone').value.trim();
+      const msg = document.getElementById('mensagem').value.trim();
+      const corpo =
+        `Nome: ${nome}\nE-mail: ${mail}\nTelefone: ${tel}\n\n${msg}`;
+      const assunto = `Contato pelo site — ${nome}`;
+      window.location.href =
+        `mailto:${email}?subject=${encodeURIComponent(assunto)}&body=${encodeURIComponent(corpo)}`;
+      aviso.hidden = false;
+      aviso.textContent = 'Abrindo seu aplicativo de e-mail com a mensagem pronta para enviar…';
+    });
+  </script>
+</Base>

@@ -1,0 +1,67 @@
+---
+import { getCollection } from 'astro:content';
+import { getImage } from 'astro:assets';
+import Base from '../../layouts/Base.astro';
+import { EIXOS } from '../../lib/eixos';
+import { imagemZonaSul } from '../../lib/site';
+
+const imoveis = await getCollection('imoveis');
+const plural = (n: number, s: string, p: string) => (n === 1 ? s : p);
+
+const eixos = await Promise.all(
+  EIXOS.map(async (e) => ({
+    ...e,
+    qtd: imoveis.filter((im) => im.data.eixo === e.id).length,
+    img: await getImage({ src: imagemZonaSul(e.imagem), width: 760, widths: [440, 760], format: 'webp' }),
+  }))
+);
+---
+
+<Base
+  title="Zona Sul de Uberlândia em 6 eixos — Portfólio Negócios"
+  description="Como a Zona Sul de Uberlândia se divide em eixos: condomínios horizontais, Complexo Vinhedos, Colina, Praia Clube, Grande Karaíba e mais. Veja os bairros de cada um."
+>
+  <div class="prop-head">
+    <div class="wrap">
+      <span class="rotulo rotulo-ciano">Território de atuação</span>
+      <h1>A Zona Sul, em {EIXOS.length} eixos.</h1>
+      <p class="eixo-lede">
+        Em vez de uma lista infinita de bairros, lemos a Zona Sul por eixos — cada um
+        com um caráter próprio. Dois deles se definem pelo tipo do imóvel (as casas em
+        condomínio); os demais, pela geografia. Clique em um eixo para ver os imóveis
+        disponíveis nele.
+      </p>
+    </div>
+  </div>
+
+  <section style="border-top:none;padding-top:8px">
+    <div class="wrap">
+      <div class="eixos-detalhe">
+        {eixos.map((e) => (
+          <article class="eixo-det reveal">
+            <a class="eixo-det-foto" href={`/zona-sul/${e.id}/`}>
+              <img src={e.img.src} srcset={e.img.srcSet.attribute} sizes="(max-width:760px) 90vw, 340px" alt={`Zona Sul — ${e.nome}`} loading="lazy" />
+            </a>
+            <div class="eixo-det-corpo">
+              <div class="eixo-det-topo">
+                <h2>{e.nome}</h2>
+                <span class="eixo-conta num">
+                  {e.qtd > 0 ? `${e.qtd} ${plural(e.qtd, 'imóvel', 'imóveis')}` : 'em prospecção'}
+                </span>
+              </div>
+              <p>{e.descricao}</p>
+              {e.areas.length > 0 ? (
+                <div class="eixo-bairros">
+                  {e.areas.map((b) => <span class="tag-bairro">{b}</span>)}
+                </div>
+              ) : (
+                <p class="eixo-nota">Reúne casas em condomínio de qualquer bairro da Zona Sul.</p>
+              )}
+              <a class="eixo-ir" href={`/zona-sul/${e.id}/`}>Ver imóveis do eixo →</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>

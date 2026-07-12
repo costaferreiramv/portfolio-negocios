@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import { Image, getImage } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import { capaDe, precoBR } from '../lib/fotos';
-import { EIXOS } from '../lib/eixos';
+import { EIXOS, eixoOcultaBairro } from '../lib/eixos';
 import { imagemZonaSul, waLink } from '../lib/site';
 import retratoMarcus from '../assets/marcus/marcus-retrato.jpg';
 import familiaMarcus from '../assets/marcus/marcus-familia.jpg';
@@ -26,8 +26,10 @@ const dadosBusca = await Promise.all(
       slug: im.id,
       titulo: im.data.titulo,
       tipo: im.data.tipo,
-      bairro: im.data.bairro,
+      // bairro só embarcado quando o eixo permite exibi-lo — não vaza no HTML dos condomínios
+      bairro: eixoOcultaBairro(im.data.eixo) ? '' : im.data.bairro,
       eixo: im.data.eixo,
+      ocultaBairro: eixoOcultaBairro(im.data.eixo),
       condominio: !!im.data.condominio,
       preco: im.data.preco,
       area: im.data.areaUtil,
@@ -40,9 +42,13 @@ const dadosBusca = await Promise.all(
   })
 );
 
-// bairros/áreas que a busca reconhece (dos eixos + dos imóveis cadastrados)
+// bairros/áreas que a busca reconhece (dos eixos + dos imóveis cadastrados).
+// Imóveis de eixo com bairro oculto não contribuem seu bairro — nem como termo reconhecido.
 const bairrosConhecidos = Array.from(
-  new Set([...EIXOS.flatMap((e) => e.areas), ...imoveis.map((i) => i.data.bairro)])
+  new Set([
+    ...EIXOS.flatMap((e) => e.areas),
+    ...imoveis.filter((i) => !eixoOcultaBairro(i.data.eixo)).map((i) => i.data.bairro),
+  ])
 );
 
 // eixos (id + áreas) para a busca resolver "perto de X" pela região, não só pelo bairro exato

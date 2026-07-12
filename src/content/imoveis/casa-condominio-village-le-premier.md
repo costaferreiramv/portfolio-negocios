@@ -16,7 +16,7 @@ fotos: casa-condominio-village-le-premier
 capa: 14
 ---
 
-Casa no condomínio Village Le Premier, quase em frente ao Royal Park, na Zona Sul de Uberlândia — região de fácil acesso e boa valorização, com a segurança de um ambiente familiar fechado.
+Casa no condomínio Village Le Premier, na Zona Sul de Uberlândia — região de fácil acesso e boa valorização, com a segurança de um ambiente familiar fechado.
 
 ## O imóvel
 

@@ -4,6 +4,7 @@ import { Image, getImage } from 'astro:assets';
 import Base from '../../layouts/Base.astro';
 import { fotosDe, precoBR } from '../../lib/fotos';
 import { waLink } from '../../lib/site';
+import { eixoOcultaBairro } from '../../lib/eixos';
 
 export async function getStaticPaths() {
   const imoveis = await getCollection('imoveis');
@@ -32,9 +33,16 @@ const tipoLabel: Record<string, string> = {
   apartamento: 'Apartamento', casa: 'Casa', cobertura: 'Cobertura', lote: 'Lote',
 };
 
-const WA_LINK = waLink(`Olá Marcus, vi no site o imóvel "${d.titulo}" (${d.bairro}) e gostaria de sanar uma dúvida.`);
+// Eixo de condomínios: o bairro não aparece em lugar nenhum (regra do eixo).
+const ocultaBairro = eixoOcultaBairro(d.eixo);
+// Rótulo de localização usado no lugar do bairro quando ele fica oculto.
+const local = ocultaBairro ? 'Condomínio fechado' : d.bairro;
 
-const descricaoMeta = `${tipoLabel[d.tipo]} à venda no ${d.bairro}, Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}. Direto com o corretor.`;
+const WA_LINK = waLink(`Olá Marcus, vi no site o imóvel "${d.titulo}" e gostaria de sanar uma dúvida.`);
+
+const descricaoMeta = ocultaBairro
+  ? `${tipoLabel[d.tipo]} à venda em condomínio fechado na Zona Sul de Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}. Direto com o corretor.`
+  : `${tipoLabel[d.tipo]} à venda no ${d.bairro}, Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}. Direto com o corretor.`;
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -46,12 +54,12 @@ const jsonLd = {
 };
 ---
 
-<Base title={`${d.titulo} — ${d.bairro}, Uberlândia | Portfólio Negócios`} description={descricaoMeta}>
+<Base title={`${d.titulo} — ${ocultaBairro ? 'Zona Sul' : d.bairro}, Uberlândia | Portfólio Negócios`} description={descricaoMeta}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <section class="prop-topo" style="border-top:none">
     <div class="wrap">
-      <a class="rotulo rotulo-ciano prop-voltar" href="/zona-sul/">← Zona Sul · {tipoLabel[d.tipo]} · {d.bairro}</a>
+      <a class="rotulo rotulo-ciano prop-voltar" href="/zona-sul/">← Zona Sul · {tipoLabel[d.tipo]} · {local}</a>
 
       <div class="prop-layout">
         <!-- GALERIA (lateral): capa + miniaturas -->
@@ -96,7 +104,7 @@ const jsonLd = {
             <span class="rotulo">Dados declarados pelo proprietário</span>
             <dl>
               <div class="linha"><dt>Tipo</dt><dd>{tipoLabel[d.tipo]}</dd></div>
-              <div class="linha"><dt>Bairro</dt><dd>{d.bairro}</dd></div>
+              {!ocultaBairro && <div class="linha"><dt>Bairro</dt><dd>{d.bairro}</dd></div>}
               {d.condominio && <div class="linha"><dt>Condomínio</dt><dd>{d.condominio}</dd></div>}
               <div class="linha"><dt>{d.areaTerreno ? 'Área construída' : 'Área útil'}</dt><dd>{d.areaUtil} m²</dd></div>
               {d.areaTerreno && <div class="linha"><dt>Área do terreno</dt><dd>{d.areaTerreno} m²</dd></div>}

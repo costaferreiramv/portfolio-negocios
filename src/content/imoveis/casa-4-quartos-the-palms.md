@@ -16,7 +16,7 @@ fotos: casa-4-quartos-the-palms
 capa: 2
 ---
 
-Casa de dois pavimentos no condomínio The Palms, na Zona Sul de Uberlândia — um endereço fechado, com segurança reforçada e infraestrutura de lazer completa, no Jardim Karaíba.
+Casa de dois pavimentos no condomínio The Palms, na Zona Sul de Uberlândia — um endereço fechado, com segurança reforçada e infraestrutura de lazer completa.
 
 ## O imóvel
 

@@ -127,8 +127,9 @@
     let s = 0;
     const bairro = norm(im.bairro);
     for (const loc of f.locais) {
-      if (bairro === loc.nome) s += 3;            // bairro/área exata
-      else if (loc.eixo && im.eixo === loc.eixo) s += 2; // mesma região (eixo)
+      // imóveis de eixo com bairro oculto nunca casam por bairro (não revelar localização)
+      if (!im.ocultaBairro && bairro === loc.nome) s += 3; // bairro/área exata
+      else if (loc.eixo && im.eixo === loc.eixo) s += 2;   // mesma região (eixo)
     }
     return s;
   }
@@ -170,7 +171,7 @@
       '<a class="card" href="' + im.url + '">' +
       '<div class="foto"><img src="' + im.capa + '" alt="' + im.titulo + '" loading="lazy">' +
       '<span class="selo">' + (tipoLabel[im.tipo] || im.tipo) + '</span></div>' +
-      '<div class="card-corpo"><div class="onde">' + im.bairro + '</div>' +
+      '<div class="card-corpo"><div class="onde">' + (im.ocultaBairro ? 'Condomínio fechado' : im.bairro) + '</div>' +
       '<h3>' + im.titulo + '</h3>' +
       '<div class="cota-mini card-cota"><span class="haste"></span><span class="num">' + im.area + ' m²</span><span class="haste"></span></div>' +
       '<div class="preco"><span class="v num">' + brl(im.preco) + '</span><span class="ir">Ver detalhes →</span></div>' +

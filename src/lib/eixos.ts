@@ -24,6 +24,11 @@ export interface Eixo {
   areas: string[];
   /** Arquivo de imagem em src/assets/zonasul usado no cartão do eixo. */
   imagem: string;
+  /** Quando true, o bairro dos imóveis deste eixo NÃO é exibido em lugar
+   *  nenhum (card, ficha, título, meta) — vale para todo imóvel atual ou
+   *  futuro do eixo. Regra do Marcus: em condomínios, o histórico do bairro
+   *  não define o imóvel, e alguns bairros carregam estigma indevido. */
+  ocultaBairro?: boolean;
 }
 
 export const EIXOS: Eixo[] = [
@@ -35,6 +40,7 @@ export const EIXOS: Eixo[] = [
       'Todas as casas em condomínio fechado da Zona Sul, reunidas em um só lugar — independentemente do bairro em que estão.',
     areas: [],
     imagem: 'zona-sul-1.png',
+    ocultaBairro: true,
   },
   {
     id: 'landscape',
@@ -91,4 +97,9 @@ export const EIXO_IDS = ['horizontais', 'landscape', 'vinhedos', 'colina', 'prai
 
 export function eixoPorId(id: string): Eixo | undefined {
   return EIXOS.find((e) => e.id === id);
+}
+
+/** O bairro de imóveis deste eixo deve ficar oculto em todo o site? */
+export function eixoOcultaBairro(id: string): boolean {
+  return !!eixoPorId(id)?.ocultaBairro;
 }

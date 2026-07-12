@@ -87,7 +87,7 @@ const jsonLd = {
                 <span class="selo">{tipoLabel[imovel.data.tipo]}</span>
               </div>
               <div class="card-corpo">
-                <div class="onde">{imovel.data.bairro}</div>
+                <div class="onde">{eixo.ocultaBairro ? 'Condomínio fechado' : imovel.data.bairro}</div>
                 <h3>{imovel.data.titulo}</h3>
                 <div class="cota-mini card-cota">
                   <span class="haste"></span>

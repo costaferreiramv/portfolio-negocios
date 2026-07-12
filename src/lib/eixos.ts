@@ -48,7 +48,7 @@ export const EIXOS: Eixo[] = [
     curto: 'Landscape · Parque Una · Villa Gávea',
     descricao:
       'Imóveis em prédios no entorno da avenida que reúne o Complexo Landscape, o Parque Una e a Villa Gávea.',
-    areas: ['Complexo Landscape', 'Parque Una', 'Villa Gávea'],
+    areas: ['Jardim Sul', 'Parque Una', 'Villa Gávea', 'Laranjeiras'],
     imagem: 'parque-una-alt.jpeg',
   },
   {
@@ -57,7 +57,7 @@ export const EIXOS: Eixo[] = [
     curto: 'Complexo Vinhedos',
     descricao:
       'Imóveis dentro do complexo e no entorno da Avenida dos Vinhedos.',
-    areas: ['Complexo Vinhedos', 'Av. dos Vinhedos'],
+    areas: ['Pátio Vinhedos', 'Triad', 'Sense', 'Duo', 'Arven', 'Allma', 'Mellie', 'Torres do Sul', 'Ambar'],
     imagem: 'zona-sul-2.png',
   },
   {

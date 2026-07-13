@@ -1,5 +1,5 @@
 ---
-titulo: Casa térrea de 4 quartos na Morada da Colina
+titulo: Casa térrea de 4 quartos no Morada da Colina
 codigo: CA5851
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca5851
 capa: 1
 ---
 
-Casa térrea na Morada da Colina, em rua tranquila e arborizada, com projeto que privilegia integração, lazer e conforto.
+Casa térrea no Morada da Colina, em rua tranquila e arborizada, com projeto que privilegia integração, lazer e conforto.
 
 ## O imóvel
 

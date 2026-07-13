@@ -1,5 +1,5 @@
 ---
-titulo: Sobrado de 4 suítes na Morada da Colina
+titulo: Sobrado de 4 suítes no Morada da Colina
 codigo: CA3804
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca3804
 capa: 1
 ---
 
-Sobrado na Morada da Colina, com ambientes amplos e integrados, home cinema e amplo espaço gourmet — em uma das melhores localizações da Zona Sul.
+Sobrado no Morada da Colina, com ambientes amplos e integrados, home cinema e amplo espaço gourmet — em uma das melhores localizações da Zona Sul.
 
 ## O imóvel
 

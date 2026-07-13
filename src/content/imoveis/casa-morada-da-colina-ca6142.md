@@ -1,5 +1,5 @@
 ---
-titulo: Casa térrea na Morada da Colina
+titulo: Casa térrea no Morada da Colina
 codigo: CA6142
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca6142
 capa: 1
 ---
 
-Casa térrea na Morada da Colina, com ambientes bem distribuídos e área de lazer própria, em uma das regiões mais consolidadas da Zona Sul.
+Casa térrea no Morada da Colina, com ambientes bem distribuídos e área de lazer própria, em uma das regiões mais consolidadas da Zona Sul.
 
 ## O imóvel
 

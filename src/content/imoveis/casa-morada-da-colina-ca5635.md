@@ -1,5 +1,5 @@
 ---
-titulo: Casa térrea de 4 suítes na Morada da Colina
+titulo: Casa térrea de 4 suítes no Morada da Colina
 codigo: CA5635
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca5635
 capa: 1
 ---
 
-Casa térrea de esquina na Morada da Colina, em rua residencial arborizada. Distribuição ampla e integrada, com área de lazer completa.
+Casa térrea de esquina no Morada da Colina, em rua residencial arborizada. Distribuição ampla e integrada, com área de lazer completa.
 
 ## O imóvel
 

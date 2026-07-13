@@ -1,5 +1,5 @@
 ---
-titulo: Apartamento de 3 quartos na Morada da Colina
+titulo: Apartamento de 3 quartos no Morada da Colina
 codigo: AP3785
 tipo: apartamento
 bairro: Morada da Colina
@@ -15,7 +15,7 @@ fotos: apartamento-morada-da-colina-ap3785
 capa: 1
 ---
 
-Apartamento no 3º andar na Av. Francisco Galassi, na Morada da Colina, com ampla varanda gourmet e planta bem distribuída, em região de infraestrutura completa.
+Apartamento no 3º andar na Av. Francisco Galassi, no Morada da Colina, com ampla varanda gourmet e planta bem distribuída, em região de infraestrutura completa.
 
 ## O imóvel
 

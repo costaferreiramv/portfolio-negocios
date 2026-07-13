@@ -1,5 +1,5 @@
 ---
-titulo: Casa térrea de 3 quartos na Morada da Colina
+titulo: Casa térrea de 3 quartos no Morada da Colina
 codigo: CA2077
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca2077
 capa: 1
 ---
 
-Casa térrea na Morada da Colina, em terreno de 525 m², com ampla área de lazer e forno de pizza na área externa.
+Casa térrea no Morada da Colina, em terreno de 525 m², com ampla área de lazer e forno de pizza na área externa.
 
 ## O imóvel
 

@@ -1,5 +1,5 @@
 ---
-titulo: Casa térrea de 3 suítes na Altamira
+titulo: Casa térrea de 3 suítes no Altamira
 codigo: CA0794
 tipo: casa
 bairro: Altamira
@@ -16,7 +16,7 @@ fotos: casa-altamira-ca0794
 capa: 1
 ---
 
-Casa térrea na Altamira, pronta para morar, com planta inteligente e área de lazer completa com cozinha externa.
+Casa térrea no Altamira, pronta para morar, com planta inteligente e área de lazer completa com cozinha externa.
 
 ## O imóvel
 

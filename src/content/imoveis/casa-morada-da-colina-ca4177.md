@@ -1,5 +1,5 @@
 ---
-titulo: Sobrado de 3 suítes na Morada da Colina
+titulo: Sobrado de 3 suítes no Morada da Colina
 codigo: CA4177
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca4177
 capa: 1
 ---
 
-Sobrado na Morada da Colina, com boa distribuição e acabamento cuidado, em rua residencial da Zona Sul.
+Sobrado no Morada da Colina, com boa distribuição e acabamento cuidado, em rua residencial da Zona Sul.
 
 ## O imóvel
 

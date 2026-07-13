@@ -1,5 +1,5 @@
 ---
-titulo: Casa térrea de 4 quartos na Morada da Colina
+titulo: Casa térrea de 4 quartos no Morada da Colina
 codigo: CA4766
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca4766
 capa: 1
 ---
 
-Casa térrea na Morada da Colina, em amplo terreno de 1.300 m², com grande quintal gramado — espaço raro na região.
+Casa térrea no Morada da Colina, em amplo terreno de 1.300 m², com grande quintal gramado — espaço raro na região.
 
 ## O imóvel
 

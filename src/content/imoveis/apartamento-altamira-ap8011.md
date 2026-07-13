@@ -1,5 +1,5 @@
 ---
-titulo: Apartamento de 3 suítes na Altamira
+titulo: Apartamento de 3 suítes no Altamira
 codigo: AP8011
 tipo: apartamento
 bairro: Altamira
@@ -16,7 +16,7 @@ fotos: apartamento-altamira-ap8011
 capa: 1
 ---
 
-Apartamento novo na Altamira, em localização valorizada da Zona Sul, no 6º andar, com boa vista e ventilação.
+Apartamento novo no Altamira, em localização valorizada da Zona Sul, no 6º andar, com boa vista e ventilação.
 
 ## O imóvel
 

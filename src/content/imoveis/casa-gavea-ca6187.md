@@ -1,5 +1,5 @@
 ---
-titulo: Sobrado de 3 quartos na Gávea
+titulo: Sobrado de 3 quartos no Gávea
 codigo: CA6187
 tipo: casa
 bairro: Gávea
@@ -16,7 +16,7 @@ fotos: casa-gavea-ca6187
 capa: 4
 ---
 
-Sobrado na Gávea, com fácil acesso à Av. Francisco Galassi e cercado por comércios e serviços. Boa iluminação e ventilação natural.
+Sobrado no Gávea, com fácil acesso à Av. Francisco Galassi e cercado por comércios e serviços. Boa iluminação e ventilação natural.
 
 ## O imóvel
 

@@ -1,5 +1,5 @@
 ---
-titulo: Apartamento de 3 suítes na Morada da Colina
+titulo: Apartamento de 3 suítes no Morada da Colina
 codigo: AP5877
 tipo: apartamento
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: apartamento-morada-da-colina-ap5877
 capa: 1
 ---
 
-Apartamento no Edifício Reserva do Gávea, na Morada da Colina, com fácil acesso a serviços, escolas, centros comerciais e vias principais.
+Apartamento no Edifício Reserva do Gávea, no Morada da Colina, com fácil acesso a serviços, escolas, centros comerciais e vias principais.
 
 ## O imóvel
 

@@ -1,5 +1,5 @@
 ---
-titulo: Lote de esquina na Altamira
+titulo: Lote de esquina no Altamira
 codigo: TE1888
 tipo: lote
 bairro: Altamira
@@ -16,7 +16,7 @@ fotos: lote-altamira-te1888
 capa: 1
 ---
 
-Lote de esquina na Altamira, em uma das melhores localizações da Zona Sul, com topografia favorável para construção imediata.
+Lote de esquina no Altamira, em uma das melhores localizações da Zona Sul, com topografia favorável para construção imediata.
 
 ## O imóvel
 

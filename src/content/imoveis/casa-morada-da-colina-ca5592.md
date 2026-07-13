@@ -1,5 +1,5 @@
 ---
-titulo: Sobrado de 3 quartos na Morada da Colina
+titulo: Sobrado de 3 quartos no Morada da Colina
 codigo: CA5592
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca5592
 capa: 1
 ---
 
-Sobrado moderno e recém-construído na Morada da Colina, com acabamento cuidado e infraestrutura para ar-condicionado em todos os cômodos.
+Sobrado moderno e recém-construído no Morada da Colina, com acabamento cuidado e infraestrutura para ar-condicionado em todos os cômodos.
 
 ## O imóvel
 

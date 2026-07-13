@@ -1,5 +1,5 @@
 ---
-titulo: Apartamento de 3 suítes na Altamira
+titulo: Apartamento de 3 suítes no Altamira
 codigo: AP5056
 tipo: apartamento
 bairro: Altamira
@@ -16,7 +16,7 @@ fotos: apartamento-altamira-ap5056
 capa: 1
 ---
 
-Apartamento na Altamira, próximo ao Praia Clube e às avenidas Rondon Pacheco e Nicomedes Alves dos Santos, com vista privilegiada e excelente iluminação natural.
+Apartamento no Altamira, próximo ao Praia Clube e às avenidas Rondon Pacheco e Nicomedes Alves dos Santos, com vista privilegiada e excelente iluminação natural.
 
 ## O imóvel
 

@@ -1,5 +1,5 @@
 ---
-titulo: Apartamento de 3 suítes na Altamira
+titulo: Apartamento de 3 suítes no Altamira
 codigo: AP3033
 tipo: apartamento
 bairro: Altamira
@@ -16,7 +16,7 @@ fotos: apartamento-altamira-ap3033
 capa: 1
 ---
 
-Apartamento na Altamira, com varanda gourmet e amplo hall de prédio com pé-direito duplo.
+Apartamento no Altamira, com varanda gourmet e amplo hall de prédio com pé-direito duplo.
 
 ## O imóvel
 

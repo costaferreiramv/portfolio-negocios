@@ -1,5 +1,5 @@
 ---
-titulo: Casa térrea de 4 suítes na Morada da Colina
+titulo: Casa térrea de 4 suítes no Morada da Colina
 codigo: CA5039
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca5039
 capa: 1
 ---
 
-Casa térrea na Morada da Colina, a poucos passos de uma praça e de bons restaurantes da região. Projeto voltado ao convívio, com ampla área gourmet coberta.
+Casa térrea no Morada da Colina, a poucos passos de uma praça e de bons restaurantes da região. Projeto voltado ao convívio, com ampla área gourmet coberta.
 
 ## O imóvel
 

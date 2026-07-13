@@ -1,5 +1,5 @@
 ---
-titulo: Casa comercial na Altamira
+titulo: Casa comercial no Altamira
 codigo: CA5843
 tipo: casa-comercial
 bairro: Altamira
@@ -16,7 +16,7 @@ fotos: casa-comercial-altamira-ca5843
 capa: 1
 ---
 
-Sobrado comercial na Altamira, em região de excelente visibilidade e fácil acesso. Estrutura completa e pronta para clínicas, consultórios ou escritórios.
+Sobrado comercial no Altamira, em região de excelente visibilidade e fácil acesso. Estrutura completa e pronta para clínicas, consultórios ou escritórios.
 
 ## O imóvel
 

@@ -1,5 +1,5 @@
 ---
-titulo: Apartamento de 3 quartos na Morada da Colina
+titulo: Apartamento de 3 quartos no Morada da Colina
 codigo: AP7759
 tipo: apartamento
 bairro: Morada da Colina

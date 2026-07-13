@@ -1,5 +1,5 @@
 ---
-titulo: Apartamento de 3 suítes na Altamira
+titulo: Apartamento de 3 suítes no Altamira
 codigo: AP6787
 tipo: apartamento
 bairro: Altamira
@@ -15,7 +15,7 @@ fotos: apartamento-altamira-ap6787
 capa: 1
 ---
 
-Apartamento na Altamira, na Zona Sul de Uberlândia, com ambientes amplos e boa distribuição.
+Apartamento no Altamira, na Zona Sul de Uberlândia, com ambientes amplos e boa distribuição.
 
 ## O imóvel
 

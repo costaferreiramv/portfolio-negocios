@@ -1,5 +1,5 @@
 ---
-titulo: Sobrado de 3 suítes na Morada da Colina
+titulo: Sobrado de 3 suítes no Morada da Colina
 codigo: CA5926
 tipo: casa
 bairro: Morada da Colina
@@ -16,7 +16,7 @@ fotos: casa-morada-da-colina-ca5926
 capa: 1
 ---
 
-Sobrado na Morada da Colina, com acabamento moderno e área gourmet integrada à área social, em bairro tranquilo e de fácil acesso.
+Sobrado no Morada da Colina, com acabamento moderno e área gourmet integrada à área social, em bairro tranquilo e de fácil acesso.
 
 ## O imóvel
 

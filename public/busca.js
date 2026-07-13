@@ -137,10 +137,17 @@
   // Aplica os critérios duros ativos; se zerar, relaxa um a um (o mais descartável primeiro)
   // até encontrar imóveis. Retorna { achados, relaxados }.
   function filtrar(f) {
-    let criterios = DUROS.filter((d) => d.ativo(f));
+    // O preço é orçamento do cliente: restrição INEGOCIÁVEL, nunca relaxada.
+    // Nunca mostrar imóvel fora da faixa/teto informado — se nada bate, retorna vazio.
+    const dentroPreco = (im) =>
+      (!f.precoMin || im.preco >= f.precoMin) && (!f.precoMax || im.preco <= f.precoMax);
+    const base = IMOVEIS.filter(dentroPreco);
+    if (!base.length) return { achados: [], relaxados: [] };
+    // Os demais critérios (menos essenciais) podem ser relaxados dentro da faixa de preço.
+    let criterios = DUROS.filter((d) => d.ativo(f) && d.k !== 'preco');
     const relaxados = [];
     while (true) {
-      const achados = IMOVEIS.filter((im) => criterios.every((d) => d.ok(im, f)));
+      const achados = base.filter((im) => criterios.every((d) => d.ok(im, f)));
       if (achados.length || !criterios.length) return { achados, relaxados };
       relaxados.push(criterios[0].k); // remove o mais descartável e tenta de novo
       criterios = criterios.slice(1);
@@ -149,7 +156,11 @@
 
   const brl = (n) =>
     n.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 0 });
-  const tipoLabel = { casa: 'Casa', apartamento: 'Apartamento', cobertura: 'Cobertura', lote: 'Lote' };
+  const tipoLabel = {
+    casa: 'Casa', apartamento: 'Apartamento', cobertura: 'Cobertura', lote: 'Lote',
+    'sala-comercial': 'Sala comercial', 'casa-comercial': 'Casa comercial',
+    area: 'Área', fazenda: 'Fazenda', rancho: 'Rancho', sitio: 'Sítio',
+  };
 
   function resumo(f) {
     const p = [];

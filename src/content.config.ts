@@ -6,6 +6,10 @@ const imoveis = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/imoveis' }),
   schema: z.object({
     titulo: z.string(),
+    // código de referência no sistema Polo/Kenlo (ex.: AP7245, CA6375, CO0254).
+    // Exibido na página para o cliente informar ao corretor e localizar o imóvel
+    // (endereço, dados do proprietário) no sistema. Obrigatório em imóveis novos.
+    codigo: z.string().optional(),
     tipo: z.enum(['apartamento', 'casa', 'cobertura', 'lote']),
     bairro: z.string(),
     // eixo de navegação — ver src/lib/eixos.ts

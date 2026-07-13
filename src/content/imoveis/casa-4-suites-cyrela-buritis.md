@@ -1,5 +1,6 @@
 ---
 titulo: Casa de 4 suítes no Condomínio Cyrela Buritis
+codigo: CA6389
 tipo: casa
 bairro: Jardim Karaíba
 eixo: horizontais

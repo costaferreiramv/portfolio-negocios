@@ -1,5 +1,6 @@
 ---
 titulo: Cobertura de 4 quartos no Jardim Colina
+codigo: CO0254
 tipo: cobertura
 bairro: Jardim Colina
 eixo: colina

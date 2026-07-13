@@ -59,7 +59,7 @@ const jsonLd = {
 
   <section class="prop-topo" style="border-top:none">
     <div class="wrap">
-      <a class="rotulo rotulo-ciano prop-voltar" href="/zona-sul/">← Zona Sul · {tipoLabel[d.tipo]} · {local}</a>
+      <a class="rotulo rotulo-ciano prop-voltar" href="/zona-sul/">← Zona Sul · {tipoLabel[d.tipo]} · {local}{d.codigo ? ` · Ref. ${d.codigo}` : ''}</a>
 
       <div class="prop-layout">
         <!-- GALERIA (lateral): capa + miniaturas -->
@@ -103,6 +103,7 @@ const jsonLd = {
             <h3>Ficha do imóvel</h3>
             <span class="rotulo">Dados declarados pelo proprietário</span>
             <dl>
+              {d.codigo && <div class="linha"><dt>Referência</dt><dd class="ref-codigo">{d.codigo}</dd></div>}
               <div class="linha"><dt>Tipo</dt><dd>{tipoLabel[d.tipo]}</dd></div>
               {!ocultaBairro && <div class="linha"><dt>Bairro</dt><dd>{d.bairro}</dd></div>}
               {d.condominio && <div class="linha"><dt>Condomínio</dt><dd>{d.condominio}</dd></div>}

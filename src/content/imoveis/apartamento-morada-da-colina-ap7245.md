@@ -1,5 +1,6 @@
 ---
 titulo: Apartamento de 1 quarto no Morada da Colina
+codigo: AP7245
 tipo: apartamento
 bairro: Morada da Colina
 eixo: colina

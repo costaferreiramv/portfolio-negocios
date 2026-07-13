@@ -1,5 +1,6 @@
 ---
 titulo: Casa de 3 quartos no Cidade Jardim
+codigo: CA6256
 tipo: casa
 bairro: Cidade Jardim
 eixo: praia-clube

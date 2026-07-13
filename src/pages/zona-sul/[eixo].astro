@@ -22,6 +22,8 @@ const { eixo, imoveis } = Astro.props;
 
 const tipoLabel: Record<string, string> = {
   apartamento: 'Apartamento', casa: 'Casa', cobertura: 'Cobertura', lote: 'Lote',
+  'sala-comercial': 'Sala comercial', 'casa-comercial': 'Casa comercial',
+  area: 'Área', fazenda: 'Fazenda', rancho: 'Rancho', sitio: 'Sítio',
 };
 const plural = (n: number, s: string, p: string) => (n === 1 ? s : p);
 

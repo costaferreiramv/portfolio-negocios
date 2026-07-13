@@ -31,6 +31,8 @@ const urlsGrandes = grandes.map((g) => g.src);
 
 const tipoLabel: Record<string, string> = {
   apartamento: 'Apartamento', casa: 'Casa', cobertura: 'Cobertura', lote: 'Lote',
+  'sala-comercial': 'Sala comercial', 'casa-comercial': 'Casa comercial',
+  area: 'Área', fazenda: 'Fazenda', rancho: 'Rancho', sitio: 'Sítio',
 };
 
 // Eixo de condomínios: o bairro não aparece em lugar nenhum (regra do eixo).
@@ -109,11 +111,13 @@ const jsonLd = {
               {d.condominio && <div class="linha"><dt>Condomínio</dt><dd>{d.condominio}</dd></div>}
               <div class="linha"><dt>{d.areaTerreno ? 'Área construída' : 'Área útil'}</dt><dd>{d.areaUtil} m²</dd></div>
               {d.areaTerreno && <div class="linha"><dt>Área do terreno</dt><dd>{d.areaTerreno} m²</dd></div>}
-              <div class="linha">
-                <dt>Dormitórios</dt>
-                <dd>{d.dormitorios}{d.suites === d.dormitorios ? ' (todas suítes)' : ` (${d.suites} ${d.suites === 1 ? 'suíte' : 'suítes'})`}</dd>
-              </div>
-              <div class="linha"><dt>Vagas</dt><dd>{d.vagas}</dd></div>
+              {d.dormitorios > 0 && (
+                <div class="linha">
+                  <dt>Dormitórios</dt>
+                  <dd>{d.dormitorios}{d.suites === d.dormitorios ? ' (todas suítes)' : d.suites > 0 ? ` (${d.suites} ${d.suites === 1 ? 'suíte' : 'suítes'})` : ''}</dd>
+                </div>
+              )}
+              {d.vagas > 0 && <div class="linha"><dt>Vagas</dt><dd>{d.vagas}</dd></div>}
               {d.aceitaFinanciamento !== undefined && <div class="linha"><dt>Financiamento</dt><dd>{d.aceitaFinanciamento ? 'Aceita' : 'Não aceita'}</dd></div>}
               {d.aceitaPermuta !== undefined && <div class="linha"><dt>Permuta</dt><dd>{d.aceitaPermuta ? 'Estuda' : 'Não'}</dd></div>}
               <div class="linha"><dt>Valor</dt><dd>{precoBR(d.preco)}</dd></div>

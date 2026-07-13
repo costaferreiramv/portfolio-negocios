@@ -10,7 +10,10 @@ const imoveis = defineCollection({
     // Exibido na página para o cliente informar ao corretor e localizar o imóvel
     // (endereço, dados do proprietário) no sistema. Obrigatório em imóveis novos.
     codigo: z.string().optional(),
-    tipo: z.enum(['apartamento', 'casa', 'cobertura', 'lote']),
+    tipo: z.enum([
+      'apartamento', 'casa', 'cobertura', 'lote',
+      'sala-comercial', 'casa-comercial', 'area', 'fazenda', 'rancho', 'sitio',
+    ]),
     bairro: z.string(),
     // eixo de navegação — ver src/lib/eixos.ts
     eixo: z.enum(EIXO_IDS),

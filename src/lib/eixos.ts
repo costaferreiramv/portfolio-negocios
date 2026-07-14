@@ -67,7 +67,7 @@ export const EIXOS: Eixo[] = [
     descricao:
       'Área tradicional de alto padrão às margens do Uberabinha.',
     areas: ['Morada da Colina', 'Jardim Colina', 'Altamira II', 'Gávea'],
-    imagem: 'zona-sul-3.png',
+    imagem: 'zona-sul-4.jpg',
   },
   {
     id: 'praia-clube',
@@ -76,7 +76,7 @@ export const EIXOS: Eixo[] = [
     descricao:
       'Bairros estabelecidos no entorno do Praia Clube, com comércio e serviços à mão.',
     areas: ['Cidade Jardim', 'Tubalina', 'Patrimônio', 'Copacabana', 'Nova Uberlândia', 'Maracanã'],
-    imagem: 'zona-sul-1.png',
+    imagem: 'praia-clube.webp',
   },
   {
     id: 'karaiba',
@@ -88,7 +88,7 @@ export const EIXOS: Eixo[] = [
       'Jardim Karaíba', 'City Uberlândia', 'Itapema Sul', 'Jardim das Acácias',
       'Jardim Inconfidência', 'Vigilato Pereira', 'Saraiva', 'Santa Maria', 'Jardim Botânico',
     ],
-    imagem: 'zona-sul-2.png',
+    imagem: 'karaiba.jpeg',
   },
 ];
 

@@ -58,7 +58,7 @@ export const EIXOS: Eixo[] = [
     descricao:
       'Imóveis dentro do complexo e no entorno da Avenida dos Vinhedos.',
     areas: ['Pátio Vinhedos', 'Triad', 'Sense', 'Duo', 'Arven', 'Allma', 'Mellie', 'Torres do Sul', 'Ambar'],
-    imagem: 'zona-sul-2.png',
+    imagem: 'vinhedos.jpg',
   },
   {
     id: 'colina',

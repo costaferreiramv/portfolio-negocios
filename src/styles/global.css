@@ -204,6 +204,7 @@ header.nav{
   linear-gradient(180deg,color-mix(in srgb,var(--papel) 78%,transparent),color-mix(in srgb,var(--papel) 92%,transparent) 70%,var(--papel))}
 .hero-busca-in{position:relative;z-index:1;padding:92px 28px 84px;max-width:var(--maxw);margin:0 auto}
 .hero-busca h1{font-size:clamp(32px,4.8vw,56px);font-weight:700;margin:20px 0 0;max-width:16ch;text-wrap:balance}
+.hero-busca-titulo{max-width:14ch}
 .hero-busca .lede{margin:22px 0 0;max-width:56ch;font-size:18.5px;color:var(--tinta-media)}
 .busca{margin:34px 0 0;display:flex;gap:0;max-width:760px;border:1px solid var(--traco-forte);
   background:var(--papel-alto);box-shadow:var(--sombra)}

@@ -137,21 +137,19 @@
   // Aplica os critérios duros ativos; se zerar, relaxa um a um (o mais descartável primeiro)
   // até encontrar imóveis. Retorna { achados, relaxados }.
   function filtrar(f) {
-    // O preço é orçamento do cliente: restrição INEGOCIÁVEL, nunca relaxada.
-    // Nunca mostrar imóvel fora da faixa/teto informado — se nada bate, retorna vazio.
-    const dentroPreco = (im) =>
-      (!f.precoMin || im.preco >= f.precoMin) && (!f.precoMax || im.preco <= f.precoMax);
-    const base = IMOVEIS.filter(dentroPreco);
-    if (!base.length) return { achados: [], relaxados: [] };
-    // Os demais critérios (menos essenciais) podem ser relaxados dentro da faixa de preço.
-    let criterios = DUROS.filter((d) => d.ativo(f) && d.k !== 'preco');
-    const relaxados = [];
-    while (true) {
-      const achados = base.filter((im) => criterios.every((d) => d.ok(im, f)));
-      if (achados.length || !criterios.length) return { achados, relaxados };
-      relaxados.push(criterios[0].k); // remove o mais descartável e tenta de novo
-      criterios = criterios.slice(1);
+    // TODOS os critérios digitados são INEGOCIÁVEIS — nada de relaxar.
+    // Mostra só o que casa exatamente com o que o cliente pediu (tipo, preço,
+    // quartos, suítes, vagas, área, condomínio). Se nada bate, retorna vazio.
+    const criterios = DUROS.filter((d) => d.ativo(f));
+    let achados = IMOVEIS.filter((im) => criterios.every((d) => d.ok(im, f)));
+    // Bairro citado também filtra: só imóveis DAQUELE bairro exato — nada de
+    // ampliar para o eixo inteiro. (Imóvel de bairro oculto nunca casa por bairro.)
+    if (f.locais && f.locais.length) {
+      achados = achados.filter(
+        (im) => !im.ocultaBairro && f.locais.some((loc) => norm(im.bairro) === loc.nome)
+      );
     }
+    return { achados, relaxados: [] };
   }
 
   const brl = (n) =>

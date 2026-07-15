@@ -1,10 +1,10 @@
 ---
-titulo: Apartamento de 3 suítes no Torres do Sul
+titulo: Apartamento de 3 suítes no Jardim das Acácias
 codigo: AP8190
 tipo: apartamento
 bairro: Jardim das Acácias
 eixo: karaiba
-condominio: Edifício Torres do Sul
+condominio: true
 preco: 1050000
 areaUtil: 108
 dormitorios: 3
@@ -16,7 +16,7 @@ fotos: apartamento-jardim-das-acacias-ap8190
 capa: 1
 ---
 
-Apartamento totalmente equipado e pronto para morar no Edifício Torres do Sul, com ambientes planejados, climatizados e mobiliados — praticidade e conforto desde o primeiro dia.
+Apartamento totalmente equipado e pronto para morar no Jardim das Acácias, com ambientes planejados, climatizados e mobiliados — praticidade e conforto desde o primeiro dia.
 
 ## O imóvel
 

@@ -1,9 +1,9 @@
 ---
-titulo: Apartamento reformado no Le Freve, no Copacabana
+titulo: Apartamento reformado no Copacabana
 tipo: apartamento
 bairro: Copacabana
 eixo: praia-clube
-condominio: Residencial Le Freve
+condominio: true
 codigo: AP6915
 preco: 850000
 areaUtil: 108
@@ -16,7 +16,7 @@ fotos: apartamento-copacabana-ap6915
 capa: 1
 ---
 
-Apartamento totalmente reformado e decorado no Residencial Le Freve, no Copacabana, bairro consolidado da Zona Sul de Uberlândia com fácil acesso a comércio, escolas e serviços. Unidade no quinto andar, com acabamento de primeira linha e planejados em todos os ambientes.
+Apartamento totalmente reformado e decorado no Copacabana, bairro consolidado da Zona Sul de Uberlândia com fácil acesso a comércio, escolas e serviços. Unidade no quinto andar, com acabamento de primeira linha e planejados em todos os ambientes.
 
 ## O imóvel
 

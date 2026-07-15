@@ -3,7 +3,7 @@ titulo: Apartamento de altíssimo padrão no Tubalina
 tipo: apartamento
 bairro: Tubalina
 eixo: praia-clube
-condominio: Edifício Quintas do Praia
+condominio: true
 codigo: AP6036
 preco: 1600000
 areaUtil: 145.47

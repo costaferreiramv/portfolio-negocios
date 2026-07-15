@@ -4,7 +4,7 @@ codigo: AP3033
 tipo: apartamento
 bairro: Altamira
 eixo: colina
-condominio: Villagio Liberdade
+condominio: true
 preco: 1150000
 areaUtil: 127
 dormitorios: 3

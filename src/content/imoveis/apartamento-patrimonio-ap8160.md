@@ -4,7 +4,7 @@ codigo: AP8160
 tipo: apartamento
 bairro: Patrimônio
 eixo: praia-clube
-condominio: Residencial Milão
+condominio: true
 preco: 720000
 areaUtil: 96
 dormitorios: 3
@@ -16,7 +16,7 @@ fotos: apartamento-patrimonio-ap8160
 capa: 1
 ---
 
-Apartamento no Residencial Milão, no bairro Patrimônio, a poucos minutos do Praia Clube — uma vizinhança tranquila e arborizada, com a conveniência de estar perto de um dos maiores complexos de lazer da cidade.
+Apartamento no bairro Patrimônio, a poucos minutos do Praia Clube — uma vizinhança tranquila e arborizada, com a conveniência de estar perto de um dos maiores complexos de lazer da cidade.
 
 ## O imóvel
 

@@ -1,10 +1,10 @@
 ---
-titulo: Apartamento de 3 suítes no Edifício Terrasse Praia, Copacabana
+titulo: Apartamento de 3 suítes no Copacabana
 codigo: AP0536
 tipo: apartamento
 bairro: Copacabana
 eixo: praia-clube
-condominio: Edifício Terrasse Praia
+condominio: true
 preco: 1700000
 areaUtil: 142
 dormitorios: 3
@@ -16,7 +16,7 @@ fotos: apartamento-copacabana-ap0536
 capa: 2
 ---
 
-Apartamento de 142 m² no Edifício Terrasse Praia, no Copacabana — bairro consolidado da Zona Sul, no entorno do Praia Clube, com comércio e serviços a poucos minutos.
+Apartamento de 142 m² no Copacabana — bairro consolidado da Zona Sul, no entorno do Praia Clube, com comércio e serviços a poucos minutos.
 
 ## O imóvel
 

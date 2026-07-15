@@ -4,7 +4,7 @@ codigo: AP8165
 tipo: apartamento
 bairro: Patrimônio
 eixo: praia-clube
-condominio: Edifício Karaíba IV
+condominio: true
 preco: 1990000
 areaUtil: 143
 dormitorios: 3
@@ -16,7 +16,7 @@ fotos: apartamento-patrimonio-ap8165
 capa: 4
 ---
 
-Apartamento de altíssimo padrão no Edifício Karaíba IV, situado exatamente em frente ao Praia Clube, a poucos metros da Avenida Rondon Pacheco — uma das localizações mais exclusivas e valorizadas de Uberlândia.
+Apartamento de altíssimo padrão no Patrimônio, exatamente em frente ao Praia Clube, a poucos metros da Avenida Rondon Pacheco — uma das localizações mais exclusivas e valorizadas de Uberlândia.
 
 ## O imóvel
 

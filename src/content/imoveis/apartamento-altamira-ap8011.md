@@ -4,7 +4,7 @@ codigo: AP8011
 tipo: apartamento
 bairro: Altamira
 eixo: colina
-condominio: Villagio Liberdade
+condominio: true
 preco: 1100000
 areaUtil: 127
 dormitorios: 3

@@ -17,7 +17,11 @@ const imoveis = defineCollection({
     bairro: z.string(),
     // eixo de navegação — ver src/lib/eixos.ts
     eixo: z.enum(EIXO_IDS),
-    condominio: z.string().optional(),
+    // está em condomínio? (só flag de busca — o NOME do edifício/condomínio nunca é exposto)
+    condominio: z.boolean().optional(),
+    // valor mensal do condomínio em R$, exibido na Ficha do Imóvel.
+    // NÃO preencher quando ausente ou informado como 1,00 (placeholder do Kenlo).
+    taxaCondominio: z.number().optional(),
     preco: z.number(),
     areaUtil: z.number(),
     // área do terreno — relevante para casas; omitir em apartamentos

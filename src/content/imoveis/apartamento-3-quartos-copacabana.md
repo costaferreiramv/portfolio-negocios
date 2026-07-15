@@ -3,7 +3,7 @@ titulo: Apartamento de 3 quartos no Copacabana
 tipo: apartamento
 bairro: Copacabana
 eixo: praia-clube
-condominio: Essenza Copacabana
+condominio: true
 preco: 1399000
 areaUtil: 115
 dormitorios: 3
@@ -15,7 +15,7 @@ fotos: apartamento-3-quartos-copacabana
 capa: 1
 ---
 
-Apartamento no Essenza Copacabana, em um dos bairros mais procurados da Zona Sul de Uberlândia, com acesso fácil ao Uberlândia Shopping, faculdades e serviços da região. Venda em porteira fechada.
+Apartamento no Copacabana, em um dos bairros mais procurados da Zona Sul de Uberlândia, com acesso fácil ao Uberlândia Shopping, faculdades e serviços da região. Venda em porteira fechada.
 
 ## O imóvel
 

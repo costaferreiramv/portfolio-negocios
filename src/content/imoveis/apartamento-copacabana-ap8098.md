@@ -1,10 +1,10 @@
 ---
-titulo: Apartamento com vista panorâmica no Torres do Praia
+titulo: Apartamento com vista panorâmica no Copacabana
 codigo: AP8098
 tipo: apartamento
 bairro: Copacabana
 eixo: praia-clube
-condominio: Torres do Praia
+condominio: true
 preco: 630000
 areaUtil: 70.62
 dormitorios: 2

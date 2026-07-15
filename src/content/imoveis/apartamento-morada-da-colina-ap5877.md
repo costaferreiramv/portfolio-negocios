@@ -4,7 +4,7 @@ codigo: AP5877
 tipo: apartamento
 bairro: Morada da Colina
 eixo: colina
-condominio: Reserva do Gávea
+condominio: true
 preco: 1700000
 areaUtil: 132
 dormitorios: 3
@@ -16,7 +16,7 @@ fotos: apartamento-morada-da-colina-ap5877
 capa: 1
 ---
 
-Apartamento no Edifício Reserva do Gávea, no Morada da Colina, com fácil acesso a serviços, escolas, centros comerciais e vias principais.
+Apartamento no Morada da Colina, com fácil acesso a serviços, escolas, centros comerciais e vias principais.
 
 ## O imóvel
 

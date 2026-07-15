@@ -1,10 +1,10 @@
 ---
-titulo: Casa de 4 quartos no Condomínio The Palms
+titulo: Casa de 4 quartos em condomínio fechado
 codigo: CA5655
 tipo: casa
 bairro: Jardim Karaíba
 eixo: horizontais
-condominio: Cond. The Palms
+condominio: true
 preco: 1100000
 areaUtil: 170
 areaTerreno: 140
@@ -17,7 +17,7 @@ fotos: casa-4-quartos-the-palms
 capa: 2
 ---
 
-Casa de dois pavimentos no condomínio The Palms, na Zona Sul de Uberlândia — um endereço fechado, com segurança reforçada e infraestrutura de lazer completa.
+Casa de dois pavimentos em condomínio fechado na Zona Sul de Uberlândia — com segurança reforçada e infraestrutura de lazer completa.
 
 ## O imóvel
 

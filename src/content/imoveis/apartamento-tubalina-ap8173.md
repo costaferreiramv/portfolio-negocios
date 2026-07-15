@@ -4,7 +4,7 @@ codigo: AP8173
 tipo: apartamento
 bairro: Tubalina
 eixo: praia-clube
-condominio: Residencial Portal do Praia
+condominio: true
 preco: 600000
 areaUtil: 78
 dormitorios: 3
@@ -16,7 +16,7 @@ fotos: apartamento-tubalina-ap8173
 capa: 1
 ---
 
-Apartamento no Residencial Portal do Praia, a apenas 50 metros do Praia Clube, em uma das regiões mais valorizadas da cidade — fácil acesso a comércio, serviços e vias de deslocamento.
+Apartamento no Tubalina, a apenas 50 metros do Praia Clube, em uma das regiões mais valorizadas da cidade — fácil acesso a comércio, serviços e vias de deslocamento.
 
 ## O imóvel
 

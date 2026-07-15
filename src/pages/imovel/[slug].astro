@@ -133,7 +133,7 @@ const breadcrumbLd = {
               {d.codigo && <div class="linha"><dt>Referência</dt><dd class="ref-codigo">{d.codigo}</dd></div>}
               <div class="linha"><dt>Tipo</dt><dd>{tipoLabel[d.tipo]}</dd></div>
               {!ocultaBairro && <div class="linha"><dt>Bairro</dt><dd>{d.bairro}</dd></div>}
-              {d.condominio && <div class="linha"><dt>Condomínio</dt><dd>{d.condominio}</dd></div>}
+              {d.taxaCondominio && <div class="linha"><dt>Condomínio</dt><dd>{precoBR(d.taxaCondominio)}/mês</dd></div>}
               <div class="linha"><dt>{d.areaTerreno ? 'Área construída' : 'Área útil'}</dt><dd>{d.areaUtil} m²</dd></div>
               {d.areaTerreno && <div class="linha"><dt>Área do terreno</dt><dd>{d.areaTerreno} m²</dd></div>}
               {d.dormitorios > 0 && (

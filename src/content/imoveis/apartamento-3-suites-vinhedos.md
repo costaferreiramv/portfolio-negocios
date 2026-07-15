@@ -4,7 +4,7 @@ codigo: AP7587
 tipo: apartamento
 bairro: Vinhedos
 eixo: vinhedos
-condominio: Sense Vertical Living
+condominio: true
 preco: 1900000
 areaUtil: 151
 dormitorios: 3
@@ -16,7 +16,7 @@ fotos: apartamento-3-suites-vinhedos
 capa: 1
 ---
 
-Apartamento no Sense Vertical Living, próximo ao Pátio Vinhedos — região valorizada da Zona Sul de Uberlândia, com fácil acesso a comércios, restaurantes, serviços e vias importantes.
+Apartamento no Complexo Vinhedos, próximo ao Pátio Vinhedos — região valorizada da Zona Sul de Uberlândia, com fácil acesso a comércios, restaurantes, serviços e vias importantes.
 
 ## O imóvel
 

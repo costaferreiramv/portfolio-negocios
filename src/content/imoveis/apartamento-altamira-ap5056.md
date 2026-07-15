@@ -4,7 +4,7 @@ codigo: AP5056
 tipo: apartamento
 bairro: Altamira
 eixo: colina
-condominio: Villagio Liberdade
+condominio: true
 preco: 1250000
 areaUtil: 129
 dormitorios: 3

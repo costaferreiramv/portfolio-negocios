@@ -4,7 +4,7 @@ codigo: AP6357
 tipo: apartamento
 bairro: Jardim Sul
 eixo: landscape
-condominio: Edifício Íris
+condominio: true
 preco: 1470000
 areaUtil: 147
 dormitorios: 3

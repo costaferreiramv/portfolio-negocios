@@ -4,7 +4,7 @@ codigo: AP7768
 tipo: apartamento
 bairro: Tubalina
 eixo: praia-clube
-condominio: Splendia
+condominio: true
 preco: 1290000
 areaUtil: 135
 dormitorios: 3
@@ -17,7 +17,7 @@ fotos: apartamento-tubalina-ap7768
 capa: 1
 ---
 
-Apartamento com localização privilegiada e vista deslumbrante para o Praia Clube, no Splendia, uma das regiões mais valorizadas e desejadas da cidade.
+Apartamento com localização privilegiada e vista deslumbrante para o Praia Clube, no Tubalina, uma das regiões mais valorizadas e desejadas da cidade.
 
 ## O imóvel
 

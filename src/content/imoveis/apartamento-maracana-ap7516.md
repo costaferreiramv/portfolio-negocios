@@ -9,7 +9,7 @@ areaUtil: 107
 dormitorios: 3
 suites: 3
 vagas: 2
-condominio: Residencial Ohana
+condominio: true
 aceitaFinanciamento: false
 aceitaPermuta: true
 publicadoEm: 2026-07-14

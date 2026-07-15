@@ -3,7 +3,7 @@ titulo: Apartamento assinado por arquiteto no Tubalina
 tipo: apartamento
 bairro: Tubalina
 eixo: praia-clube
-condominio: Splendia Residence
+condominio: true
 codigo: AP7524
 preco: 1050000
 areaUtil: 135

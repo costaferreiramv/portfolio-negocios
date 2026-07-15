@@ -1,10 +1,10 @@
 ---
-titulo: Casa no Condomínio Village Le Premier
+titulo: Casa em condomínio fechado
 codigo: CA6375
 tipo: casa
 bairro: Royal Park
 eixo: horizontais
-condominio: Cond. Village Le Premier
+condominio: true
 preco: 650000
 areaUtil: 120
 areaTerreno: 200
@@ -17,7 +17,7 @@ fotos: casa-condominio-village-le-premier
 capa: 14
 ---
 
-Casa no condomínio Village Le Premier, na Zona Sul de Uberlândia — região de fácil acesso e boa valorização, com a segurança de um ambiente familiar fechado.
+Casa em condomínio fechado na Zona Sul de Uberlândia — região de fácil acesso e boa valorização, com a segurança de um ambiente familiar fechado.
 
 ## O imóvel
 

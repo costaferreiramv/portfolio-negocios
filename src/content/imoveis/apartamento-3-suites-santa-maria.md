@@ -1,10 +1,10 @@
 ---
-titulo: Apartamento de 3 suítes no Residencial Athenas
+titulo: Apartamento de 3 suítes no Santa Maria
 codigo: AP3970
 tipo: apartamento
 bairro: Santa Maria
 eixo: karaiba
-condominio: Residencial Athenas
+condominio: true
 preco: 1490000
 areaUtil: 142
 dormitorios: 3
@@ -17,7 +17,7 @@ fotos: apartamento-3-suites-santa-maria
 capa: 6
 ---
 
-Apartamento de 142 m² no Residencial Athenas, no bairro Santa Maria — a cerca de 800 metros do campus da UFU, com supermercados, farmácias, restaurantes e shopping num raio curto. Endereço consolidado, de perfil residencial e com liquidez comprovada.
+Apartamento de 142 m² no bairro Santa Maria — a cerca de 800 metros do campus da UFU, com supermercados, farmácias, restaurantes e shopping num raio curto. Endereço consolidado, de perfil residencial e com liquidez comprovada.
 
 ## O imóvel
 

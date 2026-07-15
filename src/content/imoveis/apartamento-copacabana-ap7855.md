@@ -4,7 +4,7 @@ tipo: apartamento
 bairro: Copacabana
 eixo: praia-clube
 codigo: AP7855
-condominio: Edifício Varandas do Praia
+condominio: true
 preco: 650000
 areaUtil: 82.75
 dormitorios: 3
@@ -16,7 +16,7 @@ fotos: apartamento-copacabana-ap7855
 capa: 21
 ---
 
-Apartamento semimobiliado no Edifício Varandas do Praia, no Copacabana, bairro tradicional da Zona Sul de Uberlândia com fácil acesso a comércio e serviços. Localizado no 3º andar, com marcenaria planejada em praticamente todos os ambientes.
+Apartamento semimobiliado no Copacabana, bairro tradicional da Zona Sul de Uberlândia com fácil acesso a comércio e serviços. Localizado no 3º andar, com marcenaria planejada em praticamente todos os ambientes.
 
 ## O imóvel
 

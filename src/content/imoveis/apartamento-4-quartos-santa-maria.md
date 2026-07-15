@@ -4,7 +4,7 @@ codigo: AP6801
 tipo: apartamento
 bairro: Santa Maria
 eixo: karaiba
-condominio: Condomínio Ile de France
+condominio: true
 preco: 750000
 areaUtil: 106
 dormitorios: 4

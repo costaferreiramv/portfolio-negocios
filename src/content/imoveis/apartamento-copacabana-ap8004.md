@@ -4,7 +4,7 @@ codigo: AP8004
 tipo: apartamento
 bairro: Copacabana
 eixo: praia-clube
-condominio: Edifício Karaíba IV
+condominio: true
 preco: 1890000
 areaUtil: 140
 dormitorios: 3
@@ -16,7 +16,7 @@ fotos: apartamento-copacabana-ap8004
 capa: 1
 ---
 
-Apartamento de altíssimo padrão no Edifício Karaíba IV, situado na região mais nobre do Copacabana, exatamente em frente ao Praia Clube e a poucos metros da Avenida Rondon Pacheco — uma das localizações mais exclusivas e valorizadas de Uberlândia.
+Apartamento de altíssimo padrão na região mais nobre do Copacabana, exatamente em frente ao Praia Clube e a poucos metros da Avenida Rondon Pacheco — uma das localizações mais exclusivas e valorizadas de Uberlândia.
 
 ## O imóvel
 

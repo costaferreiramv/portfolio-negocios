@@ -6,15 +6,18 @@
    ============================================================ */
 
 :root{
-  /* papel diazo */
-  --papel:#edf0f3; --papel-alto:#f7f9fa; --papel-fundo:#e3e8ed;
-  /* tinta — escala verificada contra o papel: 12.5:1 / 6.6:1 / 4.6:1 (WCAG AA) */
-  --tinta:#1e2a44; --tinta-media:#46536e; --tinta-fraca:#5f6b80;
+  /* prancha diazo (fundo) + folhas brancas (superfícies) — cria camadas */
+  --papel:#e6ebf1; --papel-alto:#ffffff; --papel-fundo:#d5dde6;
+  /* tinta mais profunda — contraste editorial contra o papel (WCAG AA) */
+  --tinta:#141f38; --tinta-media:#3c4863; --tinta-fraca:#586680;
   /* traço */
-  --traco:rgba(30,42,68,.16); --traco-forte:rgba(30,42,68,.42);
+  --traco:rgba(20,31,56,.16); --traco-forte:rgba(20,31,56,.36);
   /* marca */
-  --ciano:#14a5d4; --ciano-tinta:#0b7ba3;
-  --sombra:0 1px 1px rgba(30,42,68,.04), 0 10px 34px rgba(30,42,68,.09);
+  --ciano:#0e8dbe; --ciano-tinta:#0a6c93;
+  /* latão — sotaque quente do alto padrão, usado com avareza */
+  --latao:#96702f; --latao-claro:#bd9552;
+  --sombra:0 1px 2px rgba(20,31,56,.07), 0 16px 40px rgba(20,31,56,.15);
+  --sombra-alta:0 3px 8px rgba(20,31,56,.10), 0 30px 64px rgba(20,31,56,.22);
 
   --display:"Archivo Variable", "Archivo", Helvetica, Arial, sans-serif;
   --corpo:"Literata Variable", "Literata", Georgia, serif;
@@ -31,7 +34,9 @@
     --tinta:#e4e9f1; --tinta-media:#a6b1c6; --tinta-fraca:#8794aa;
     --traco:rgba(228,233,241,.15); --traco-forte:rgba(228,233,241,.40);
     --ciano:#35bde8; --ciano-tinta:#63cff2;
+    --latao:#cca367; --latao-claro:#e0bd85;
     --sombra:0 1px 1px rgba(0,0,0,.3), 0 14px 40px rgba(0,0,0,.45);
+    --sombra-alta:0 2px 6px rgba(0,0,0,.4), 0 26px 64px rgba(0,0,0,.6);
   }
 }
 
@@ -88,7 +93,7 @@ h1,h2,h3,h4,.display{font-family:var(--display);font-weight:600;letter-spacing:-
   content:"";position:absolute;top:0;bottom:0;left:0;right:0;
   border-left:1px solid var(--traco-forte);border-right:1px solid var(--traco-forte);
 }
-.cota-valor{flex:none;color:var(--ciano-tinta);font-weight:500}
+.cota-valor{flex:none;color:var(--latao);font-weight:600}
 
 /* cota simples, só a haste + valor (usada nos cards) */
 .cota-mini{
@@ -105,19 +110,19 @@ h1,h2,h3,h4,.display{font-family:var(--display);font-weight:600;letter-spacing:-
   display:inline-flex;align-items:center;gap:8px;
   font-family:var(--display);font-size:14px;font-weight:600;letter-spacing:-.005em;
   padding:12px 22px;border-radius:0;
-  transition:background .18s,color .18s,border-color .18s;
+  transition:background .18s,color .18s,border-color .18s,transform .18s,box-shadow .18s;
 }
 .btn-solido{background:var(--tinta);color:var(--papel)}
-.btn-solido:hover{background:var(--ciano-tinta);color:#fff}
+.btn-solido:hover{background:var(--ciano-tinta);color:#fff;transform:translateY(-2px);box-shadow:0 8px 22px color-mix(in srgb,var(--ciano-tinta) 32%,transparent)}
 .btn-vazado{border:1px solid var(--traco-forte);color:var(--tinta)}
-.btn-vazado:hover{border-color:var(--ciano);color:var(--ciano-tinta)}
+.btn-vazado:hover{border-color:var(--ciano);color:var(--ciano-tinta);transform:translateY(-2px)}
 .btn-wa{
   display:inline-flex;align-items:center;justify-content:center;
   background:var(--ciano);color:var(--wa-tinta);
   font-family:var(--display);font-weight:700;font-size:15px;
-  padding:15px 26px;border-radius:0;transition:filter .18s;
+  padding:15px 26px;border-radius:0;transition:filter .18s,transform .18s,box-shadow .18s;
 }
-.btn-wa:hover{filter:brightness(1.08)}
+.btn-wa:hover{filter:brightness(1.08);transform:translateY(-2px);box-shadow:0 8px 22px color-mix(in srgb,var(--ciano) 40%,transparent)}
 
 /* ---- nav ---- */
 header.nav{
@@ -199,9 +204,23 @@ header.nav{
    ============================================================ */
 .hero-busca{position:relative;border-top:none;padding:0;overflow:hidden}
 .hero-bg{position:absolute;inset:0;z-index:0}
-.hero-bg img{width:100%;height:100%;object-fit:cover;object-position:center 60%;opacity:0.75}
+.hero-bg img{width:100%;height:100%;object-fit:cover;object-position:center 60%}
+/* scrim direcional: pesado sob o texto (esquerda/topo), leve sobre a aérea (direita/baixo),
+   para a foto respirar sem perder a legibilidade — substitui o véu que apagava a imagem
+   (o paliativo opacity:0.75 saiu: o scrim já garante legibilidade sem re-lavar a foto) */
 .hero-veu2{position:absolute;inset:0;background:
-  linear-gradient(180deg,color-mix(in srgb,var(--papel) 78%,transparent),color-mix(in srgb,var(--papel) 92%,transparent) 70%,var(--papel))}
+  linear-gradient(102deg,
+    color-mix(in srgb,var(--papel) 93%,transparent) 0%,
+    color-mix(in srgb,var(--papel) 76%,transparent) 42%,
+    color-mix(in srgb,var(--papel) 34%,transparent) 74%,
+    color-mix(in srgb,var(--papel) 12%,transparent) 100%),
+  linear-gradient(180deg,transparent 44%,color-mix(in srgb,var(--papel) 42%,transparent) 100%)}
+@media(max-width:820px){
+  /* na vertical não há "lado": véu de cima para baixo, foto espiando no topo */
+  .hero-veu2{background:linear-gradient(180deg,
+    color-mix(in srgb,var(--papel) 74%,transparent) 0%,
+    color-mix(in srgb,var(--papel) 90%,transparent) 46%,var(--papel) 100%)}
+}
 .hero-busca-in{position:relative;z-index:1;padding:92px 28px 84px;max-width:var(--maxw);margin:0 auto}
 .hero-busca h1{font-size:clamp(32px,4.8vw,56px);font-weight:700;margin:20px 0 0;max-width:16ch;text-wrap:balance}
 .hero-busca-titulo{max-width:14ch}
@@ -231,8 +250,8 @@ header.nav{
 .eixos-img{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
 @media(max-width:820px){.eixos-img{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.eixos-img{grid-template-columns:1fr;max-width:420px;margin:0 auto}}
-.eixo-card{display:block;border:1px solid var(--traco);background:var(--papel-alto);transition:border-color .2s,transform .2s}
-.eixo-card:hover{border-color:var(--traco-forte);transform:translateY(-3px)}
+.eixo-card{display:block;border:1px solid var(--traco);background:var(--papel-alto);box-shadow:var(--sombra);transition:border-color .2s,transform .2s,box-shadow .2s}
+.eixo-card:hover{border-color:var(--traco-forte);transform:translateY(-3px);box-shadow:var(--sombra-alta)}
 .eixo-card:hover .eixo-foto img{transform:scale(1.04)}
 .eixo-foto{aspect-ratio:16/10;overflow:hidden;background:var(--papel-fundo)}
 .eixo-foto img{width:100%;height:100%;object-fit:cover;transition:transform .45s ease}
@@ -268,7 +287,7 @@ header.nav{
 .form-linha{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 @media(max-width:520px){.form-linha{grid-template-columns:1fr}}
 .form-contato button{align-self:flex-start;margin-top:6px}
-.contato-info{background:var(--papel-alto);border:1px solid var(--traco);padding:30px}
+.contato-info{background:var(--papel-alto);border:1px solid var(--traco);padding:30px;box-shadow:var(--sombra)}
 .contato-info h3{font-size:20px;font-weight:600;margin:0 0 4px}
 .contato-linha{display:flex;flex-direction:column;gap:2px;padding:16px 0;border-top:1px solid var(--traco)}
 .contato-linha:first-of-type{border-top:none;padding-top:14px}
@@ -364,9 +383,15 @@ section{padding:88px 0;border-top:1px solid var(--traco)}
 .card{
   display:block;background:var(--papel-alto);
   border:1px solid var(--traco);border-radius:0;
-  transition:border-color .2s, transform .2s;
+  box-shadow:var(--sombra);
+  transition:border-color .2s, transform .2s, box-shadow .2s;
 }
-.card:hover{border-color:var(--traco-forte);transform:translateY(-3px)}
+.card:hover{border-color:var(--traco-forte);transform:translateY(-3px);box-shadow:var(--sombra-alta)}
+/* a elevação das folhas brancas é própria do claro; no escuro a prancha fica plana */
+@media(prefers-color-scheme:dark){
+  .card,.eixo-card{box-shadow:none}
+  .card:hover,.eixo-card:hover{box-shadow:none}
+}
 .card:hover .foto img{transform:scale(1.03)}
 .foto{position:relative;aspect-ratio:4/3;overflow:hidden;background:var(--papel-fundo)}
 .foto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .45s ease}
@@ -375,6 +400,7 @@ section{padding:88px 0;border-top:1px solid var(--traco)}
   background:var(--tinta);color:var(--papel);
   font-family:var(--mono);font-size:10px;font-weight:500;
   letter-spacing:.14em;text-transform:uppercase;padding:6px 11px;
+  border-bottom:2px solid var(--latao);
 }
 .card-corpo{padding:20px}
 .card-corpo .onde{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;
@@ -383,7 +409,7 @@ section{padding:88px 0;border-top:1px solid var(--traco)}
 .card-cota{margin:0 0 16px}
 .preco{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
   border-top:1px solid var(--traco);padding-top:14px}
-.preco .v{font-family:var(--mono);font-weight:500;font-size:19px;letter-spacing:-.02em}
+.preco .v{font-family:var(--mono);font-weight:600;font-size:19px;letter-spacing:-.02em;color:var(--latao)}
 .preco .ir{font-family:var(--display);font-size:13px;font-weight:600;color:var(--ciano-tinta)}
 
 /* ---- vitrine agrupada por eixo ---- */
@@ -499,7 +525,7 @@ footer.foot{background:var(--papel-fundo);border-top:1px solid var(--traco);padd
 
 /* informações ao lado */
 .prop-info h1{font-size:clamp(26px,3.4vw,40px);font-weight:700;line-height:1.08;margin:0;text-wrap:balance}
-.prop-info .prop-preco{font-family:var(--mono);font-weight:500;font-size:clamp(24px,3vw,32px);margin:14px 0 0;letter-spacing:-.02em}
+.prop-info .prop-preco{font-family:var(--mono);font-weight:600;font-size:clamp(24px,3vw,32px);margin:14px 0 0;letter-spacing:-.02em;color:var(--latao)}
 .prop-cotas{margin-top:24px;display:flex;flex-wrap:wrap;gap:0;
   border-top:1px solid var(--traco);border-bottom:1px solid var(--traco)}
 .prop-cotas .c{flex:1 1 0;min-width:96px;padding:14px 16px;border-right:1px solid var(--traco)}
@@ -520,7 +546,8 @@ footer.foot{background:var(--papel-fundo);border-top:1px solid var(--traco);padd
 .prosa li{margin:9px 0;padding-left:20px;position:relative}
 .prosa li::before{content:"";position:absolute;left:0;top:.72em;width:9px;height:1px;background:var(--traco-forte)}
 
-.ficha{background:var(--papel-alto);border:1px solid var(--traco);padding:26px;margin-top:32px}
+.ficha{background:var(--papel-alto);border:1px solid var(--traco);padding:26px;margin-top:32px;box-shadow:var(--sombra)}
+@media(prefers-color-scheme:dark){.ficha,.contato-info{box-shadow:none}}
 .ficha h3{font-size:18px;font-weight:600;margin:0 0 4px}
 .ficha dl{margin:16px 0 0;font-size:15px}
 .ficha .linha{display:flex;justify-content:space-between;gap:12px;padding:11px 0;border-top:1px solid var(--traco)}

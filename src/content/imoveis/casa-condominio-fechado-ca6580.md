@@ -14,7 +14,7 @@ suites: 3
 vagas: 4
 aceitaFinanciamento: false
 publicadoEm: 2026-07-15
-fotos: casa-condominio-golden-village-ca6580
+fotos: casa-condominio-fechado-ca6580
 capa: 1
 ---
 

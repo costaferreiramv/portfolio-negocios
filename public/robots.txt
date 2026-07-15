@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.portfolionegocios.com.br/sitemap-index.xml
+Sitemap: https://portfolionegocios.com.br/sitemap-index.xml

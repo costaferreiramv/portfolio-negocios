@@ -4,19 +4,51 @@ import '@fontsource-variable/literata';
 import '@fontsource/ibm-plex-mono/400.css';
 import '@fontsource/ibm-plex-mono/500.css';
 import '../styles/global.css';
-import { Image } from 'astro:assets';
+import { Image, getImage } from 'astro:assets';
 import logoNavy from '../assets/brand/logo-navy.png';
 import logoWhite from '../assets/brand/logo-white.png';
+import aereaSocial from '../assets/zonasul/zona-sul-1.png';
 import { EIXOS } from '../lib/eixos';
 import { CONTATO, waLink } from '../lib/site';
 
 interface Props {
   title: string;
   description: string;
+  /** URL absoluta da imagem social (og:image); default = aérea da Zona Sul */
+  image?: string;
+  ogType?: string;
+  /** JSON-LD específico da página (objeto ou array) — injetado no <head> */
+  jsonLd?: object | object[];
 }
-const { title, description } = Astro.props;
+const { title, description, image, ogType = 'website', jsonLd } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const WA_GERAL = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóvel na Zona Sul.');
+
+// imagem social padrão (aérea) e resolução para URL absoluta
+const ogDefault = await getImage({ src: aereaSocial, width: 1200, format: 'jpg' });
+const ogImage = new URL(image ?? ogDefault.src, Astro.site).href;
+const logoAbs = new URL(logoNavy.src, Astro.site).href;
+
+// schema de negócio local (site-wide) — sinal de marca + SEO local
+const negocioLd = {
+  '@context': 'https://schema.org',
+  '@type': 'RealEstateAgent',
+  name: 'Portfólio Negócios Imobiliários',
+  url: new URL('/', Astro.site).href,
+  logo: logoAbs,
+  image: ogImage,
+  telephone: '+55' + CONTATO.whatsappNum.slice(2),
+  areaServed: { '@type': 'City', name: 'Uberlândia' },
+  address: { '@type': 'PostalAddress', addressLocality: 'Uberlândia', addressRegion: 'MG', addressCountry: 'BR' },
+  sameAs: [CONTATO.instagram, CONTATO.tiktok],
+};
+const siteLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Portfólio Negócios Imobiliários',
+  url: new URL('/', Astro.site).href,
+  inLanguage: 'pt-BR',
+};
 
 // marca o item de menu ativo
 const path = Astro.url.pathname;
@@ -34,13 +66,23 @@ const ehContato = path.startsWith('/contato');
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/png" href={logoNavy.src} />
+    <link rel="apple-touch-icon" href={logoNavy.src} />
     <meta name="theme-color" content="#1e2a44" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:locale" content="pt_BR" />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content="Portfólio Negócios Imobiliários" />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:alt" content={title} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <script type="application/ld+json" set:html={JSON.stringify(negocioLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(siteLd)} />
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   </head>
   <body>
     <header class="nav">

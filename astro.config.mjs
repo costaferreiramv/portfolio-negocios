@@ -5,6 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://www.portfolionegocios.com.br',
+  // domínio canônico = apex (o www faz 301 → apex); canonical/OG/sitemap seguem daqui
+  site: 'https://portfolionegocios.com.br',
   integrations: [sitemap()],
 });

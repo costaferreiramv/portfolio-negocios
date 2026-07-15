@@ -46,18 +46,43 @@ const descricaoMeta = ocultaBairro
   ? `${tipoLabel[d.tipo]} à venda em condomínio fechado na Zona Sul de Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}. Direto com o corretor.`
   : `${tipoLabel[d.tipo]} à venda no ${d.bairro}, Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}. Direto com o corretor.`;
 
-const jsonLd = {
+// URLs absolutas (schema/og exigem absolutas)
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const fotosAbs = grandes.map((g) => new URL(g.src, Astro.site).href);
+// og:image em JPG (preview do WhatsApp lida melhor com JPG que WebP)
+const ogJpg = await getImage({ src: fotos[0], width: 1200, format: 'jpg' });
+const ogImovel = new URL(ogJpg.src, Astro.site).href;
+
+const listingLd = {
   '@context': 'https://schema.org',
   '@type': 'RealEstateListing',
   name: d.titulo,
   description: descricaoMeta,
-  offers: { '@type': 'Offer', price: d.preco, priceCurrency: 'BRL', availability: 'https://schema.org/InStock' },
+  url: canonical,
+  image: fotosAbs,
+  ...(d.dormitorios > 0 ? { numberOfRooms: d.dormitorios } : {}),
+  floorSize: { '@type': 'QuantitativeValue', value: d.areaUtil, unitCode: 'MTK' },
+  offers: { '@type': 'Offer', price: d.preco, priceCurrency: 'BRL', availability: 'https://schema.org/InStock', url: canonical },
   address: { '@type': 'PostalAddress', addressLocality: 'Uberlândia', addressRegion: 'MG', addressCountry: 'BR' },
+};
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Início', item: new URL('/', Astro.site).href },
+    { '@type': 'ListItem', position: 2, name: 'Zona Sul', item: new URL('/zona-sul/', Astro.site).href },
+    { '@type': 'ListItem', position: 3, name: d.titulo, item: canonical },
+  ],
 };
 ---
 
-<Base title={`${d.titulo} — ${ocultaBairro ? 'Zona Sul' : d.bairro}, Uberlândia | Portfólio Negócios`} description={descricaoMeta}>
-  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+<Base
+  title={`${d.titulo} — ${ocultaBairro ? 'Zona Sul' : d.bairro}, Uberlândia | Portfólio Negócios`}
+  description={descricaoMeta}
+  image={ogImovel}
+  ogType="article"
+  jsonLd={[listingLd, breadcrumbLd]}
+>
 
   <section class="prop-topo" style="border-top:none">
     <div class="wrap">

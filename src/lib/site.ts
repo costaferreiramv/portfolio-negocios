@@ -4,8 +4,6 @@ import type { ImageMetadata } from 'astro';
 export const CONTATO = {
   whatsappNum: '5534996396869',
   whatsappLabel: '(34) 99639-6869',
-  telefone: '(34) 99639-6869',
-  telefoneHref: 'tel:+5534996396869',
   email: 'contato@portfolionegocios.com.br',
   instagram: 'https://instagram.com/marcus.imoveis',
   tiktok: 'https://www.tiktok.com/@marcus.imoveis',

@@ -1,9 +1,9 @@
 ---
-titulo: Sala comercial no Morada da Colina
+titulo: Sala comercial no Complexo Vinhedos
 codigo: SA0260
 tipo: sala-comercial
-bairro: Morada da Colina
-eixo: colina
+bairro: Vinhedos
+eixo: vinhedos
 preco: 631800
 areaUtil: 35.86
 dormitorios: 0
@@ -11,11 +11,11 @@ suites: 0
 vagas: 1
 aceitaFinanciamento: false
 publicadoEm: 2026-07-13
-fotos: sala-comercial-morada-da-colina-sa0260
+fotos: sala-comercial-vinhedos-sa0260
 capa: 6
 ---
 
-Sala comercial na Av. dos Vinhedos, no Morada da Colina, em ponto estratégico com boa visibilidade e fácil acesso — ótima opção para quem busca um endereço profissional na Zona Sul.
+Sala comercial na Av. dos Vinhedos, em ponto estratégico com boa visibilidade e fácil acesso — ótima opção para quem busca um endereço profissional na Zona Sul.
 
 ## O imóvel
 

@@ -87,6 +87,12 @@ export async function onRequestPost(context) {
     access_token: token,
   };
 
+  // Opcional: marca eventos com o código de teste do Gerenciador de Eventos da Meta
+  // (aba "Eventos de teste"), sem afetar dados/otimização de produção.
+  if (env.META_CAPI_TEST_EVENT_CODE) {
+    payload.test_event_code = env.META_CAPI_TEST_EVENT_CODE;
+  }
+
   try {
     const resposta = await fetch(
       `https://graph.facebook.com/${GRAPH_API_VERSION}/${PIXEL_ID}/events`,

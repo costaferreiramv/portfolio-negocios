@@ -230,6 +230,7 @@ const ehContato = path.startsWith('/contato');
         (window as any).fbq && fbq('track', 'Contact', {}, { eventID: eventId });
         fetch('/api/capi', {
           method: 'POST',
+          keepalive: true, // garante o envio mesmo com o handoff pro app do WhatsApp (celular)
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             event_name: 'Contact',

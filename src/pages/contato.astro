@@ -86,6 +86,7 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
       window.fbq && fbq('track', 'Lead', {}, { eventID: eventId });
       fetch('/api/capi', {
         method: 'POST',
+        keepalive: true, // garante o envio mesmo com a navegação para o mailto: logo em seguida (celular)
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           event_name: 'Lead',

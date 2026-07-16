@@ -2,7 +2,7 @@
 // sem depender do app de e-mail do visitante.
 
 const DESTINATARIO = 'contato@portfolionegocios.com.br';
-const REMETENTE = 'Portfólio Negócios <site@portfolionegocios.com.br>';
+const REMETENTE = 'Portfólio Negócios <site@mail.portfolionegocios.com.br>';
 
 function escaparHtml(texto) {
   return texto

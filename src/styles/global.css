@@ -175,7 +175,7 @@ header.nav{
   }
   .nav-links.aberto{max-height:600px}
   .nav-links>a,.nav-links .sub-topo{padding:14px 28px}
-  .temsub .submenu{
+  .temsub .submenu,.temsub:hover .submenu{
     position:static;transform:none;opacity:1;visibility:visible;min-width:0;border:none;box-shadow:none;
     background:var(--papel-fundo);padding:0;max-height:0;overflow:hidden;transition:max-height .25s ease;
   }

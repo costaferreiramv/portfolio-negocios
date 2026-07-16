@@ -221,6 +221,23 @@ const ehContato = path.startsWith('/contato');
         (el as HTMLElement).style.transitionDelay = Math.min(i, 5) * 45 + 'ms';
         io.observe(el);
       });
+
+      // Pixel + CAPI: evento "Contact" ao clicar em qualquer link do WhatsApp
+      document.addEventListener('click', (e) => {
+        const link = (e.target as HTMLElement).closest('a[href*="wa.me/"]');
+        if (!link) return;
+        const eventId = 'contact_' + Date.now() + '_' + Math.random().toString(36).slice(2, 10);
+        (window as any).fbq && fbq('track', 'Contact', {}, { eventID: eventId });
+        fetch('/api/capi', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            event_name: 'Contact',
+            event_id: eventId,
+            event_source_url: window.location.href,
+          }),
+        }).catch(() => {});
+      });
     </script>
   </body>
 </html>

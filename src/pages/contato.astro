@@ -80,6 +80,21 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
       const mail = document.getElementById('email').value.trim();
       const tel = document.getElementById('telefone').value.trim();
       const msg = document.getElementById('mensagem').value.trim();
+
+      // Pixel + CAPI: mesmo event_id nos dois lados, para deduplicação no Meta
+      const eventId = 'lead_' + Date.now() + '_' + Math.random().toString(36).slice(2, 10);
+      window.fbq && fbq('track', 'Lead', {}, { eventID: eventId });
+      fetch('/api/capi', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          event_name: 'Lead',
+          event_id: eventId,
+          event_source_url: window.location.href,
+          contato: { email: mail, telefone: tel },
+        }),
+      }).catch(() => {});
+
       const corpo =
         `Nome: ${nome}\nE-mail: ${mail}\nTelefone: ${tel}\n\n${msg}`;
       const assunto = `Contato pelo site — ${nome}`;

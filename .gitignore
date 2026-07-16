@@ -2,6 +2,12 @@ node_modules/
 dist/
 .astro/
 .DS_Store
+.wrangler/
+
+# variáveis de ambiente locais (segredos: nunca versionar)
+.env
+.env.*
+!.env.example
 
 # workspace interno de SEO (não publicar em repo público)
 .seoagent/

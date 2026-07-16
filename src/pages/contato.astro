@@ -71,10 +71,12 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
     </div>
   </section>
 
-  <script is:inline define:vars={{ email: CONTATO.email }}>
+  <script is:inline>
     const form = document.getElementById('form-contato');
     const aviso = document.getElementById('form-aviso');
-    form?.addEventListener('submit', (e) => {
+    const botao = form?.querySelector('button[type="submit"]');
+
+    form?.addEventListener('submit', async (e) => {
       e.preventDefault();
       const nome = document.getElementById('nome').value.trim();
       const mail = document.getElementById('email').value.trim();
@@ -86,7 +88,7 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
       window.fbq && fbq('track', 'Lead', {}, { eventID: eventId });
       fetch('/api/capi', {
         method: 'POST',
-        keepalive: true, // garante o envio mesmo com a navegação para o mailto: logo em seguida (celular)
+        keepalive: true,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           event_name: 'Lead',
@@ -96,13 +98,31 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
         }),
       }).catch(() => {});
 
-      const corpo =
-        `Nome: ${nome}\nE-mail: ${mail}\nTelefone: ${tel}\n\n${msg}`;
-      const assunto = `Contato pelo site — ${nome}`;
-      window.location.href =
-        `mailto:${email}?subject=${encodeURIComponent(assunto)}&body=${encodeURIComponent(corpo)}`;
+      botao.disabled = true;
       aviso.hidden = false;
-      aviso.textContent = 'Abrindo seu aplicativo de e-mail com a mensagem pronta para enviar…';
+      aviso.textContent = 'Enviando sua mensagem…';
+
+      try {
+        const resposta = await fetch('/api/contato', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ nome, email: mail, telefone: tel, mensagem: msg }),
+        });
+        const dados = await resposta.json().catch(() => ({}));
+
+        if (resposta.ok && dados.ok) {
+          form.reset();
+          aviso.textContent = 'Mensagem enviada! Retorno em breve — obrigado pelo contato.';
+        } else {
+          aviso.textContent =
+            'Não consegui enviar sua mensagem agora. Tente de novo em instantes ou chame no WhatsApp.';
+        }
+      } catch {
+        aviso.textContent =
+          'Não consegui enviar sua mensagem agora. Tente de novo em instantes ou chame no WhatsApp.';
+      } finally {
+        botao.disabled = false;
+      }
     });
   </script>
 </Base>

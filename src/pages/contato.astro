@@ -24,28 +24,36 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
 
   <section style="border-top:none;padding-top:8px">
     <div class="wrap contato-grid">
-      <form class="form-contato" id="form-contato">
-        <div class="campo">
-          <label for="nome">Seu nome</label>
-          <input type="text" id="nome" name="nome" required />
-        </div>
-        <div class="form-linha">
+      <div id="form-wrap">
+        <form class="form-contato" id="form-contato">
           <div class="campo">
-            <label for="email">E-mail</label>
-            <input type="email" id="email" name="email" required />
+            <label for="nome">Seu nome</label>
+            <input type="text" id="nome" name="nome" required />
+          </div>
+          <div class="form-linha">
+            <div class="campo">
+              <label for="email">E-mail</label>
+              <input type="email" id="email" name="email" required />
+            </div>
+            <div class="campo">
+              <label for="telefone">Telefone / WhatsApp</label>
+              <input type="tel" id="telefone" name="telefone" />
+            </div>
           </div>
           <div class="campo">
-            <label for="telefone">Telefone / WhatsApp</label>
-            <input type="tel" id="telefone" name="telefone" />
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" name="mensagem" placeholder="Ex.: Tenho interesse na casa do Cyrela Buritis e gostaria de agendar uma visita." required></textarea>
           </div>
+          <button type="submit" class="btn btn-solido">Enviar mensagem</button>
+          <p class="busca-dica" id="form-aviso" hidden></p>
+        </form>
+
+        <div class="form-sucesso" id="form-sucesso" hidden>
+          <span class="icone-sucesso" aria-hidden="true">✓</span>
+          <h2>Mensagem enviada!</h2>
+          <p>Entraremos em contato o mais breve possível! Receba nossas boas vindas!</p>
         </div>
-        <div class="campo">
-          <label for="mensagem">Mensagem</label>
-          <textarea id="mensagem" name="mensagem" placeholder="Ex.: Tenho interesse na casa do Cyrela Buritis e gostaria de agendar uma visita." required></textarea>
-        </div>
-        <button type="submit" class="btn btn-solido">Enviar mensagem</button>
-        <p class="busca-dica" id="form-aviso" hidden></p>
-      </form>
+      </div>
 
       <aside class="contato-info">
         <h3>Portfólio Negócios Imobiliários</h3>
@@ -77,6 +85,7 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
     const form = document.getElementById('form-contato');
     const aviso = document.getElementById('form-aviso');
     const botao = form?.querySelector('button[type="submit"]');
+    const sucesso = document.getElementById('form-sucesso');
 
     form?.addEventListener('submit', async (e) => {
       e.preventDefault();
@@ -113,8 +122,8 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
         const dados = await resposta.json().catch(() => ({}));
 
         if (resposta.ok && dados.ok) {
-          form.reset();
-          aviso.textContent = 'Mensagem enviada! Retorno em breve — obrigado pelo contato.';
+          form.hidden = true;
+          sucesso.hidden = false;
         } else {
           aviso.textContent =
             'Não consegui enviar sua mensagem agora. Tente de novo em instantes ou chame no WhatsApp.';

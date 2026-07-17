@@ -277,6 +277,7 @@ header.nav{
 .contato-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:56px;align-items:start}
 @media(max-width:860px){.contato-grid{grid-template-columns:1fr;gap:40px}}
 .form-contato{display:flex;flex-direction:column;gap:16px}
+.form-contato[hidden]{display:none}
 .campo{display:flex;flex-direction:column;gap:6px}
 .campo label{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--tinta-fraca)}
 .campo input,.campo textarea{
@@ -287,6 +288,20 @@ header.nav{
 .form-linha{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 @media(max-width:520px){.form-linha{grid-template-columns:1fr}}
 .form-contato button{align-self:flex-start;margin-top:6px}
+
+.form-sucesso{
+  display:flex;flex-direction:column;align-items:flex-start;gap:16px;
+  padding:48px 40px;background:var(--papel-alto);border:1px solid var(--traco);box-shadow:var(--sombra);
+}
+.form-sucesso[hidden]{display:none}
+.form-sucesso .icone-sucesso{
+  display:flex;align-items:center;justify-content:center;
+  width:56px;height:56px;border-radius:50%;background:var(--ciano-tinta);color:#fff;
+  font-size:28px;line-height:1;
+}
+.form-sucesso h2{font-size:clamp(26px,3.6vw,34px);margin:0}
+.form-sucesso p{font-size:19px;color:var(--tinta-media);max-width:42ch;line-height:1.5;margin:0}
+
 .contato-info{background:var(--papel-alto);border:1px solid var(--traco);padding:30px;box-shadow:var(--sombra)}
 .contato-info h3{font-size:20px;font-weight:600;margin:0 0 4px}
 .contato-linha{display:flex;flex-direction:column;gap:2px;padding:16px 0;border-top:1px solid var(--traco)}

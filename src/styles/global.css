@@ -185,7 +185,7 @@ header.nav{
 
 /* botão flutuante do WhatsApp */
 .wa-flutuante{
-  position:fixed;right:20px;bottom:20px;z-index:80;
+  position:fixed;right:20px;bottom:44px;z-index:80;
   display:inline-flex;align-items:center;gap:10px;
   background:#25d366;color:#062e18;
   font-family:var(--display);font-weight:700;font-size:14.5px;
@@ -196,7 +196,7 @@ header.nav{
 .wa-flutuante svg{flex:none}
 @media(max-width:560px){
   .wa-flutuante span{display:none}
-  .wa-flutuante{padding:14px;right:16px;bottom:16px}
+  .wa-flutuante{padding:14px;right:16px;bottom:38px}
 }
 
 /* ============================================================
@@ -508,11 +508,27 @@ footer.foot{background:var(--papel-fundo);border-top:1px solid var(--traco);padd
   .foot .logo.so-claro{display:none}
   .foot .logo.so-escuro{display:block}
 }
-.foot-cols{display:grid;grid-template-columns:repeat(3,1fr);gap:32px;font-size:14.5px}
-@media(max-width:560px){.foot-cols{grid-template-columns:1fr;gap:26px}}
+.foot-cols{display:grid;grid-template-columns:.85fr .85fr 1.3fr;gap:26px;font-size:14.5px;max-width:640px;margin-left:auto}
+@media(max-width:560px){.foot-cols{grid-template-columns:1fr;gap:26px;max-width:none;margin-left:0}}
 .foot-cols a{color:var(--tinta-media);display:block;padding:4px 0}
 .foot-cols a:hover{color:var(--tinta)}
-.foot h4{margin:0 0 12px}
+.foot h4.rotulo{margin:0 0 12px;font-size:11.5px}
+
+/* contato: ícone + texto, clicável e alinhado ao corpo do texto */
+.foot-cols .contato-icone{display:flex;align-items:center;gap:10px;padding:6px 0}
+.contato-icone .ic{flex:none;width:17px;height:17px}
+.contato-icone .ic-whatsapp{color:#25d366}
+.contato-icone .ic-telefone{color:#c9a24b}
+.contato-icone .ic-email{color:var(--tinta)}
+.contato-icone .ic-instagram{color:var(--tinta-media)}
+.contato-icone .ic-tiktok{color:var(--tinta-media)}
+.contato-icone span{line-height:1.3;color:var(--tinta-media)}
+.foot-cols .contato-icone.so-mobile{display:none}
+@media(max-width:860px){.foot-cols .contato-icone.so-mobile{display:flex}}
+.contato-linha-dupla{gap:8px}
+.foot-cols .contato-linha-dupla a{display:flex;transition:opacity .15s}
+.contato-linha-dupla a:hover{opacity:.72}
+.contato-linha-dupla span{margin-left:2px}
 .foot .legal{margin-top:40px;padding-top:20px;border-top:1px solid var(--traco);
   display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 .foot .legal .rotulo{color:var(--tinta-media)}

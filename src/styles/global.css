@@ -114,7 +114,7 @@ h1,h2,h3,h4,.display{font-family:var(--display);font-weight:600;letter-spacing:-
 }
 .btn-solido{background:var(--tinta);color:var(--papel)}
 .btn-solido:hover{background:var(--ciano-tinta);color:#fff;transform:translateY(-2px);box-shadow:0 8px 22px color-mix(in srgb,var(--ciano-tinta) 32%,transparent)}
-.btn-vazado{border:1px solid var(--traco-forte);color:var(--tinta)}
+.btn-vazado{background:transparent;border:1px solid var(--traco-forte);color:var(--tinta)}
 .btn-vazado:hover{border-color:var(--ciano);color:var(--ciano-tinta);transform:translateY(-2px)}
 .btn-wa{
   display:inline-flex;align-items:center;justify-content:center;

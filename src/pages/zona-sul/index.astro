@@ -26,10 +26,10 @@ const eixos = await Promise.all(
       <span class="rotulo rotulo-ciano">Território de atuação</span>
       <h1>A Zona Sul, em {EIXOS.length} eixos.</h1>
       <p class="eixo-lede">
-        Em vez de uma lista infinita de bairros, lemos a Zona Sul por eixos — cada um
-        com um caráter próprio. Dois deles se definem pelo tipo do imóvel (as casas em
-        condomínio); os demais, pela geografia. Clique em um eixo para ver os imóveis
-        disponíveis nele.
+        Ao invés de uma enorme lista de bairros, dividimos a Zona Sul por eixos setoriais.
+        Um deles se define pelo tipo do imóvel (as casas em condomínio); os demais, pela
+        geografia e seus bairros. Escolha um eixo e clique para ver os imóveis disponíveis
+        nele.
       </p>
     </div>
   </div>
@@ -55,7 +55,7 @@ const eixos = await Promise.all(
                   {e.areas.map((b) => <span class="tag-bairro">{b}</span>)}
                 </div>
               ) : (
-                <p class="eixo-nota">Reúne casas em condomínio de qualquer bairro da Zona Sul.</p>
+                <p class="eixo-nota">Reúne casas em condomínio dos melhores bairros da Zona Sul.</p>
               )}
               <a class="eixo-ir" href={`/zona-sul/${e.id}/`}>Ver imóveis do eixo →</a>
             </div>

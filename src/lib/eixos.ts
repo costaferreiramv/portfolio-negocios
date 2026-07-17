@@ -37,7 +37,7 @@ export const EIXOS: Eixo[] = [
     nome: 'Condomínios Horizontais',
     curto: 'Condomínios Horizontais',
     descricao:
-      'Todas as casas em condomínio fechado da Zona Sul, reunidas em um só lugar — independentemente do bairro em que estão.',
+      'As melhores casas em condomínio na Zona Sul, selecionadas e catalogadas em um só lugar.',
     areas: [],
     imagem: 'zona-sul-1.png',
     ocultaBairro: true,
@@ -47,7 +47,7 @@ export const EIXOS: Eixo[] = [
     nome: 'Complexo Landscape, Parque Una e Villa Gávea',
     curto: 'Landscape · Parque Una · Villa Gávea',
     descricao:
-      'Imóveis em prédios no entorno da avenida que reúne o Complexo Landscape, o Parque Una e a Villa Gávea.',
+      'Imóveis residenciais e comerciais no entorno da Avenida Landscape, no Parque Una e no Villa Gávea.',
     areas: ['Jardim Sul', 'Parque Una', 'Villa Gávea', 'Laranjeiras'],
     imagem: 'parque-una-alt.jpeg',
   },
@@ -65,7 +65,7 @@ export const EIXOS: Eixo[] = [
     nome: 'Eixo Colina',
     curto: 'Eixo Colina',
     descricao:
-      'Área tradicional de alto padrão às margens do Uberabinha.',
+      'Área tradicional de alto padrão à direita de quem sobe sentido Udia Shopping a Av. Nicomedes com opções comerciais e residenciais.',
     areas: ['Morada da Colina', 'Jardim Colina', 'Altamira II', 'Gávea'],
     imagem: 'zona-sul-4.jpg',
   },
@@ -74,7 +74,7 @@ export const EIXOS: Eixo[] = [
     nome: 'Entorno Praia Clube',
     curto: 'Entorno Praia Clube',
     descricao:
-      'Bairros estabelecidos no entorno do Praia Clube, com comércio e serviços à mão.',
+      'Bairros consolidados próximo ao clube, nas duas margens do Uberabinha com comércio e serviços estabelecidos. Deixe o carro na garagem!',
     areas: ['Cidade Jardim', 'Tubalina', 'Patrimônio', 'Copacabana', 'Nova Uberlândia', 'Maracanã'],
     imagem: 'praia-clube.webp',
   },
@@ -83,7 +83,7 @@ export const EIXOS: Eixo[] = [
     nome: 'Eixo Grande Karaíba e Entorno Cajubá',
     curto: 'Grande Karaíba · Cajubá',
     descricao:
-      'Um dos vetores mais valorizados da cidade, do Jardim Karaíba ao entorno do Cajubá.',
+      'Uma das regiões mais valorizadas da cidade, e não só financeiramente, este eixo engloba os melhores bairros à direita de quem desce a Av. Nicomedes sentido Centro até a Av. João Naves de Ávila.',
     areas: [
       'Jardim Karaíba', 'City Uberlândia', 'Itapema Sul', 'Jardim das Acácias',
       'Jardim Inconfidência', 'Vigilato Pereira', 'Saraiva', 'Santa Maria', 'Jardim Botânico',

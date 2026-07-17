@@ -112,13 +112,23 @@
     // localização: bairro/área citado filtra pelo bairro exato; apelido/marco de eixo
     // citado (ex.: "praia" para o eixo Entorno Praia Clube) filtra pelo eixo inteiro.
     // "zona sul" é a região toda — neutra, não restringe.
+    // O contexto imediatamente antes do termo decide inclusão x exclusão: "perto/em/no"
+    // exige a região, "longe/distante/evitar" descarta — não é a palavra que importa,
+    // é o que o cliente disse sobre ela.
+    const negado = (idx) =>
+      /(longe|distante|evitar|nao\s+quero\s+perto|nada\s+perto)\s*(?:de|do|da)?\s*$/.test(
+        t.slice(Math.max(0, idx - 24), idx)
+      );
+
     const EIXOS = window.__EIXOS__ || [];
     f.locais = [];
     for (const b of window.__BAIRROS__ || []) {
       const nb = norm(b);
-      if (nb === 'zona sul' || !new RegExp('\\b' + nb.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b').test(t)) continue;
+      if (nb === 'zona sul') continue;
+      const m = new RegExp('\\b' + nb.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b').exec(t);
+      if (!m) continue;
       const eixo = EIXOS.find((e) => e.areas.some((a) => norm(a) === nb));
-      f.locais.push({ nome: nb, eixo: eixo ? eixo.id : null, tipo: 'bairro' });
+      f.locais.push({ nome: nb, rotulo: b, eixo: eixo ? eixo.id : null, tipo: 'bairro', excluir: negado(m.index) });
     }
     // apelidos/marcos de eixo que não são um bairro específico cadastrado
     const APELIDOS_EIXO = {
@@ -129,9 +139,10 @@
       landscape: 'landscape',
     };
     for (const [apelido, eixoId] of Object.entries(APELIDOS_EIXO)) {
-      if (new RegExp('\\b' + apelido + '\\b').test(t) && !f.locais.some((l) => l.eixo === eixoId)) {
-        f.locais.push({ nome: null, eixo: eixoId, tipo: 'eixo' });
-      }
+      const m = new RegExp('\\b' + apelido + '\\b').exec(t);
+      if (!m || f.locais.some((l) => l.eixo === eixoId)) continue;
+      const eixo = EIXOS.find((e) => e.id === eixoId);
+      f.locais.push({ nome: null, rotulo: eixo ? eixo.nome : apelido, eixo: eixoId, tipo: 'eixo', excluir: negado(m.index) });
     }
     return f;
   }
@@ -154,6 +165,7 @@
     let s = 0;
     const bairro = norm(im.bairro);
     for (const loc of f.locais) {
+      if (loc.excluir) continue; // exclusão não pontua proximidade, só descarta (em filtrar)
       // imóveis de eixo com bairro oculto nunca casam por bairro (não revelar localização)
       if (!im.ocultaBairro && bairro === loc.nome) s += 3; // bairro/área exata
       else if (loc.eixo && im.eixo === loc.eixo) s += 2;   // mesma região (eixo)
@@ -176,11 +188,16 @@
     let achados = IMOVEIS.filter((im) => criterios.every((d) => d.ok(im, f)));
     // Bairro citado filtra só DAQUELE bairro exato (imóvel de bairro oculto nunca
     // casa por bairro). Apelido/marco de eixo citado filtra pelo eixo inteiro.
+    // Locais em contexto negativo ("longe de", "distante de"...) excluem, não exigem.
+    const bateLocal = (im, loc) =>
+      loc.tipo === 'eixo' ? im.eixo === loc.eixo : !im.ocultaBairro && norm(im.bairro) === loc.nome;
     if (f.locais && f.locais.length) {
-      achados = achados.filter((im) =>
-        f.locais.some((loc) =>
-          loc.tipo === 'eixo' ? im.eixo === loc.eixo : !im.ocultaBairro && norm(im.bairro) === loc.nome
-        )
+      const incluir = f.locais.filter((l) => !l.excluir);
+      const excluir = f.locais.filter((l) => l.excluir);
+      achados = achados.filter(
+        (im) =>
+          (incluir.length === 0 || incluir.some((loc) => bateLocal(im, loc))) &&
+          !excluir.some((loc) => bateLocal(im, loc))
       );
     }
     return { achados, relaxados: [] };
@@ -211,6 +228,12 @@
     if (f.precoMin && f.precoMax) p.push(brl(f.precoMin) + ' – ' + brl(f.precoMax));
     else if (f.precoMax) p.push('até ' + brl(f.precoMax));
     else if (f.precoMin) p.push('a partir de ' + brl(f.precoMin));
+    if (f.locais && f.locais.length) {
+      const incluir = f.locais.filter((l) => !l.excluir);
+      const excluir = f.locais.filter((l) => l.excluir);
+      if (incluir.length) p.push('perto de ' + incluir.map((l) => l.rotulo).join(', '));
+      if (excluir.length) p.push('longe de ' + excluir.map((l) => l.rotulo).join(', '));
+    }
     return p;
   }
 

@@ -124,6 +124,7 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
         if (resposta.ok && dados.ok) {
           form.hidden = true;
           sucesso.hidden = false;
+          sucesso.scrollIntoView({ behavior: 'smooth', block: 'center' });
         } else {
           aviso.textContent =
             'Não consegui enviar sua mensagem agora. Tente de novo em instantes ou chame no WhatsApp.';

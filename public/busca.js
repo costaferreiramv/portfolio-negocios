@@ -60,10 +60,13 @@
       if (new RegExp('\\b' + k + '\\b').test(t)) { f.tipo = v; break; }
     }
 
-    // condomínio: "sem condomínio" / "não ... condomínio" = excluir; "em condomínio" = exigir
+    // condomínio: "não necessariamente em condomínio" = sem preferência (não filtra);
+    // "sem/fora de condomínio" = excluir; "em condomínio" = exigir
     if (/condomini/.test(t)) {
-      if (/(sem|nao|fora)\s+(?:necessariamente\s+)?(?:em\s+|de\s+)?condomini/.test(t) || /nao necessariamente/.test(t)) {
-        f.cond = 'qualquer';
+      if (/nao necessariamente/.test(t)) {
+        // sem preferência — não define f.cond, não filtra
+      } else if (/(sem|nao|fora)\s+(?:necessariamente\s+)?(?:em\s+|de\s+)?condomini/.test(t)) {
+        f.cond = 'nao';
       } else if (/(em|de|no)\s+condomini/.test(t)) {
         f.cond = 'sim';
       }
@@ -106,16 +109,29 @@
       f.precoMax = vs[0]; // um valor só = teto
     }
 
-    // localização: bairros/áreas citados viram PREFERÊNCIA (ordenam), não filtro rígido.
-    // Cada local citado guarda o eixo a que pertence, para casar a região inteira.
-    // "zona sul" é a região toda — neutra, não restringe nem pontua.
+    // localização: bairro/área citado filtra pelo bairro exato; apelido/marco de eixo
+    // citado (ex.: "praia" para o eixo Entorno Praia Clube) filtra pelo eixo inteiro.
+    // "zona sul" é a região toda — neutra, não restringe.
     const EIXOS = window.__EIXOS__ || [];
     f.locais = [];
     for (const b of window.__BAIRROS__ || []) {
       const nb = norm(b);
       if (nb === 'zona sul' || !new RegExp('\\b' + nb.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b').test(t)) continue;
       const eixo = EIXOS.find((e) => e.areas.some((a) => norm(a) === nb));
-      f.locais.push({ nome: nb, eixo: eixo ? eixo.id : null });
+      f.locais.push({ nome: nb, eixo: eixo ? eixo.id : null, tipo: 'bairro' });
+    }
+    // apelidos/marcos de eixo que não são um bairro específico cadastrado
+    const APELIDOS_EIXO = {
+      praia: 'praia-clube', 'praia clube': 'praia-clube',
+      karaiba: 'karaiba', cajuba: 'karaiba',
+      vinhedos: 'vinhedos',
+      colina: 'colina',
+      landscape: 'landscape',
+    };
+    for (const [apelido, eixoId] of Object.entries(APELIDOS_EIXO)) {
+      if (new RegExp('\\b' + apelido + '\\b').test(t) && !f.locais.some((l) => l.eixo === eixoId)) {
+        f.locais.push({ nome: null, eixo: eixoId, tipo: 'eixo' });
+      }
     }
     return f;
   }
@@ -158,11 +174,13 @@
     // quartos, suítes, vagas, área, condomínio). Se nada bate, retorna vazio.
     const criterios = DUROS.filter((d) => d.ativo(f));
     let achados = IMOVEIS.filter((im) => criterios.every((d) => d.ok(im, f)));
-    // Bairro citado também filtra: só imóveis DAQUELE bairro exato — nada de
-    // ampliar para o eixo inteiro. (Imóvel de bairro oculto nunca casa por bairro.)
+    // Bairro citado filtra só DAQUELE bairro exato (imóvel de bairro oculto nunca
+    // casa por bairro). Apelido/marco de eixo citado filtra pelo eixo inteiro.
     if (f.locais && f.locais.length) {
-      achados = achados.filter(
-        (im) => !im.ocultaBairro && f.locais.some((loc) => norm(im.bairro) === loc.nome)
+      achados = achados.filter((im) =>
+        f.locais.some((loc) =>
+          loc.tipo === 'eixo' ? im.eixo === loc.eixo : !im.ocultaBairro && norm(im.bairro) === loc.nome
+        )
       );
     }
     return { achados, relaxados: [] };
@@ -184,6 +202,7 @@
     }
     if (f.tipo) p.push(tipoLabel[f.tipo]);
     if (f.cond === 'sim') p.push('em condomínio');
+    else if (f.cond === 'nao') p.push('fora de condomínio');
     if (f.dorm) p.push(f.dorm + '+ quartos');
     if (f.suite) p.push(f.suite + '+ suítes');
     if (f.vaga) p.push(f.vaga + '+ vagas');

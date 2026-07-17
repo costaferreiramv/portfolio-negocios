@@ -221,6 +221,14 @@ header.nav{
     color-mix(in srgb,var(--papel) 74%,transparent) 0%,
     color-mix(in srgb,var(--papel) 90%,transparent) 46%,var(--papel) 100%)}
 }
+@media(prefers-color-scheme:light) and (max-width:820px){
+  /* no claro, var(--papel) é quase branco — as mesmas porcentagens lavam a foto
+     por completo; reduz o véu para a cor da aérea sobreviver */
+  .hero-veu2{background:linear-gradient(180deg,
+    color-mix(in srgb,var(--papel) 30%,transparent) 0%,
+    color-mix(in srgb,var(--papel) 55%,transparent) 46%,
+    color-mix(in srgb,var(--papel) 85%,transparent) 100%)}
+}
 .hero-busca-in{position:relative;z-index:1;padding:92px 28px 84px;max-width:var(--maxw);margin:0 auto}
 .hero-busca h1{font-size:clamp(32px,4.8vw,56px);font-weight:700;margin:20px 0 0;max-width:16ch;text-wrap:balance}
 .hero-busca-titulo{max-width:14ch}

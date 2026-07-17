@@ -1,9 +1,9 @@
 ---
-titulo: Apartamento de 3 suítes no Jardim das Acácias
+titulo: Apartamento de 3 suítes no Complexo Vinhedos
 codigo: AP8190
 tipo: apartamento
-bairro: Jardim das Acácias
-eixo: karaiba
+bairro: Vinhedos
+eixo: vinhedos
 condominio: true
 preco: 1050000
 areaUtil: 108
@@ -12,11 +12,11 @@ suites: 3
 vagas: 2
 aceitaFinanciamento: false
 publicadoEm: 2026-07-14
-fotos: apartamento-jardim-das-acacias-ap8190
+fotos: apartamento-vinhedos-ap8190
 capa: 1
 ---
 
-Apartamento totalmente equipado e pronto para morar no Jardim das Acácias, com ambientes planejados, climatizados e mobiliados — praticidade e conforto desde o primeiro dia.
+Apartamento totalmente equipado e pronto para morar no Complexo Vinhedos, com ambientes planejados, climatizados e mobiliados — praticidade e conforto desde o primeiro dia.
 
 ## O imóvel
 

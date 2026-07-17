@@ -12,8 +12,8 @@ suites: 3
 vagas: 2
 aceitaFinanciamento: false
 publicadoEm: 2026-07-11
-fotos: apartamento-3-suites-vinhedos
-capa: 1
+fotos: apartamento-vinhedos-ap7587
+capa: 4
 ---
 
 Apartamento no Complexo Vinhedos, próximo ao Pátio Vinhedos — região valorizada da Zona Sul de Uberlândia, com fácil acesso a comércios, restaurantes, serviços e vias importantes.

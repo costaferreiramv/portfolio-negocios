@@ -24,6 +24,7 @@ const dadosBusca = await Promise.all(
     });
     return {
       slug: im.id,
+      codigo: im.data.codigo || '',
       titulo: im.data.titulo,
       tipo: im.data.tipo,
       // bairro só embarcado quando o eixo permite exibi-lo — não vaza no HTML dos condomínios

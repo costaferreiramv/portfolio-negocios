@@ -40,7 +40,18 @@
     return out;
   }
 
+  // Código de referência do imóvel (ex.: CA6574, AP8011): duas letras + 4 dígitos.
+  // Quando citado, o cliente já sabe exatamente o que quer — nenhum outro critério
+  // é lido, e o resultado é só aquele(s) imóvel(is), nunca uma lista ampla.
+  function extraiCodigos(q) {
+    const m = q.match(/\b[A-Za-z]{2}\d{4}\b/g);
+    return m ? Array.from(new Set(m.map((c) => c.toUpperCase()))) : [];
+  }
+
   function interpreta(q) {
+    const codigos = extraiCodigos(q);
+    if (codigos.length) return { codigos };
+
     const t = norm(q);
     const f = {};
 
@@ -137,6 +148,11 @@
   // Aplica os critérios duros ativos; se zerar, relaxa um a um (o mais descartável primeiro)
   // até encontrar imóveis. Retorna { achados, relaxados }.
   function filtrar(f) {
+    // Código de referência: identifica o imóvel com precisão — ignora todo o resto.
+    if (f.codigos && f.codigos.length) {
+      const achados = IMOVEIS.filter((im) => im.codigo && f.codigos.includes(im.codigo.toUpperCase()));
+      return { achados, relaxados: [] };
+    }
     // TODOS os critérios digitados são INEGOCIÁVEIS — nada de relaxar.
     // Mostra só o que casa exatamente com o que o cliente pediu (tipo, preço,
     // quartos, suítes, vagas, área, condomínio). Se nada bate, retorna vazio.
@@ -162,6 +178,10 @@
 
   function resumo(f) {
     const p = [];
+    if (f.codigos && f.codigos.length) {
+      p.push(f.codigos.length === 1 ? 'código ' + f.codigos[0] : 'códigos ' + f.codigos.join(', '));
+      return p;
+    }
     if (f.tipo) p.push(tipoLabel[f.tipo]);
     if (f.cond === 'sim') p.push('em condomínio');
     if (f.dorm) p.push(f.dorm + '+ quartos');

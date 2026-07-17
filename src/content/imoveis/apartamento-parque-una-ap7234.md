@@ -1,8 +1,8 @@
 ---
-titulo: Apartamento de 2 dormitórios no Gávea
+titulo: Apartamento de 2 dormitórios no Parque Una
 codigo: AP7234
 tipo: apartamento
-bairro: Gávea
+bairro: Parque Una
 eixo: landscape
 condominio: true
 preco: 890868
@@ -11,11 +11,11 @@ dormitorios: 2
 suites: 0
 vagas: 2
 publicadoEm: 2026-07-17
-fotos: apartamento-gavea-ap7234
+fotos: apartamento-parque-una-ap7234
 capa: 4
 ---
 
-Apartamento em lançamento no Gávea, a poucos passos do Parque Una — uma das regiões mais valorizadas da Zona Sul de Uberlândia, ao lado do Uberlândia Shopping e próximo à UNITRI.
+Apartamento em lançamento no Parque Una — uma das regiões mais valorizadas da Zona Sul de Uberlândia, ao lado do Uberlândia Shopping e próximo à UNITRI.
 
 ## O imóvel
 

@@ -12,7 +12,7 @@ suites: 3
 vagas: 2
 aceitaFinanciamento: false
 publicadoEm: 2026-07-17
-fotos: apartamento-jardim-das-acacias-ap7890
+fotos: apartamento-vinhedos-ap7890
 capa: 1
 ---
 

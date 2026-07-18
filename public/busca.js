@@ -241,7 +241,9 @@
     return (
       '<a class="card" href="' + im.url + '">' +
       '<div class="foto"><img src="' + im.capa + '" alt="' + im.titulo + '" loading="lazy">' +
-      '<span class="selo">' + (tipoLabel[im.tipo] || im.tipo) + '</span></div>' +
+      '<span class="selo">' + (tipoLabel[im.tipo] || im.tipo) + '</span>' +
+      (im.codigo ? '<span class="selo-ref">' + im.codigo + '</span>' : '') +
+      '</div>' +
       '<div class="card-corpo"><div class="onde">' + (im.ocultaBairro ? 'Condomínio fechado' : im.bairro) + '</div>' +
       '<h3>' + im.titulo + '</h3>' +
       '<div class="cota-mini card-cota"><span class="haste"></span><span class="num">' + im.area + ' m²</span><span class="haste"></span></div>' +

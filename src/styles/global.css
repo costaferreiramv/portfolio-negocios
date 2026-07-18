@@ -425,6 +425,13 @@ section{padding:88px 0;border-top:1px solid var(--traco)}
   letter-spacing:.14em;text-transform:uppercase;padding:6px 11px;
   border-bottom:2px solid var(--latao);
 }
+.selo-ref{
+  position:absolute;bottom:0;right:0;
+  background:color-mix(in srgb,var(--tinta) 82%,transparent);color:var(--papel);
+  backdrop-filter:blur(3px);
+  font-family:var(--mono);font-size:10.5px;font-weight:600;
+  letter-spacing:.06em;padding:5px 10px;
+}
 .card-corpo{padding:20px}
 .card-corpo .onde{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;
   text-transform:uppercase;color:var(--tinta-fraca)}

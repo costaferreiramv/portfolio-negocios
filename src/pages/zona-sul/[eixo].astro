@@ -87,6 +87,7 @@ const jsonLd = {
                   sizes="(max-width: 900px) 90vw, 360px"
                 />
                 <span class="selo">{tipoLabel[imovel.data.tipo]}</span>
+                {imovel.data.codigo && <span class="selo-ref">{imovel.data.codigo}</span>}
               </div>
               <div class="card-corpo">
                 <div class="onde">{eixo.ocultaBairro ? 'Condomínio fechado' : imovel.data.bairro}</div>

@@ -65,7 +65,7 @@ export const EIXOS: Eixo[] = [
     nome: 'Eixo Colina',
     curto: 'Eixo Colina',
     descricao:
-      'Área tradicional de alto padrão à direita de quem sobe sentido Udia Shopping a Av. Nicomedes com opções comerciais e residenciais.',
+      'Área tradicional de alto padrão à direita de quem sobe, sentido Udia Shopping, a Av. Nicomedes com opções comerciais e residenciais.',
     areas: ['Morada da Colina', 'Jardim Colina', 'Altamira II', 'Gávea'],
     imagem: 'zona-sul-4.jpg',
   },

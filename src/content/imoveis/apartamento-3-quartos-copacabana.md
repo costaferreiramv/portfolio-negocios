@@ -1,5 +1,6 @@
 ---
 titulo: Apartamento de 3 quartos no Copacabana
+codigo: AP7868
 tipo: apartamento
 bairro: Copacabana
 eixo: praia-clube

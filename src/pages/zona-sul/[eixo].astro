@@ -75,7 +75,7 @@ const jsonLd = {
   <section style="border-top:none;padding-top:8px">
     <div class="wrap">
       {imoveis.length > 0 ? (
-        <div class="grade">
+        <div class="grade" id="grade-eixo">
           {imoveis.map((imovel) => (
             <a class="card reveal" href={`/imovel/${imovel.id}/`}>
               <div class="foto">
@@ -105,6 +105,20 @@ const jsonLd = {
             </a>
           ))}
         </div>
+        <script>
+          // ordem visual aleatória a cada carregamento — dá a impressão de página sempre atualizada,
+          // sem depender de ordenação por data de publicação (o HTML/SEO mantém a ordem real)
+          (function () {
+            const grade = document.getElementById('grade-eixo');
+            if (!grade) return;
+            const cards = Array.from(grade.children);
+            for (let i = cards.length - 1; i > 0; i--) {
+              const j = Math.floor(Math.random() * (i + 1));
+              [cards[i], cards[j]] = [cards[j], cards[i]];
+            }
+            cards.forEach((c) => grade.appendChild(c));
+          })();
+        </script>
       ) : (
         <div class="vazio">
           <p>

@@ -16,7 +16,7 @@ fotos: casa-altamira-ca5494
 capa: 1
 ---
 
-Sobrado com enorme apelo comercial muito bem posicionado na mais movimentada e desejada avenida da Zona Sul, com 1000 m² de terreno e arquitetura inspiradora e atemporal.
+Sobrado com enorme apelo comercial muito bem posicionado na mais movimentada e desejada avenida da Zona Sul, com 1000 m² de terreno, arquitetura inspiradora e atemporal.
 
 ## O imóvel
 

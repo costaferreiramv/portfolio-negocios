@@ -1,5 +1,5 @@
 ---
-titulo: Sobrado de alto padrão com piscina no Altamira
+titulo: Sua empresa merece esta localização no Altamira
 codigo: CA5494
 tipo: casa
 bairro: Altamira
@@ -10,13 +10,13 @@ areaTerreno: 1000
 dormitorios: 4
 suites: 2
 vagas: 4
-aceitaFinanciamento: false
+aceitaFinanciamento: true
 publicadoEm: 2026-07-19
 fotos: casa-altamira-ca5494
 capa: 1
 ---
 
-Sobrado de alto padrão no Altamira, em terreno de 1.000 m², com ampla área de lazer e distribuição de espaços pensada para famílias que valorizam conforto e privacidade.
+Sobrado com enorme apelo comercial muito bem posicionado na mais movimentada e desejada avenida da Zona Sul, com 1000 m² de terreno e arquitetura inspiradora e atemporal.
 
 ## O imóvel
 

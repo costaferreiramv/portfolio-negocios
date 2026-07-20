@@ -84,11 +84,14 @@ const eixosImg = await Promise.all(
       </p>
 
       <form class="busca reveal" id="form-busca" role="search">
-        <input
-          type="text" id="q" name="q" autocomplete="off"
-          placeholder="Ex.: casa de 3 quartos na Zona Sul, entre 870 mil e 1,2 milhões, 120 m²+"
-          aria-label="Descreva o imóvel que procura"
-        />
+        <div class="busca-campo">
+          <input
+            type="text" id="q" name="q" autocomplete="off"
+            placeholder="Ex.: casa de 3 quartos na Zona Sul, entre 870 mil e 1,2 milhões, 120 m²+"
+            aria-label="Descreva o imóvel que procura"
+          />
+          <span class="busca-placeholder-mob" aria-hidden="true">Ex.: casa de 3 quartos na Zona Sul, entre 870 mil e 1,2 milhões, 120 m²+</span>
+        </div>
         <button type="submit">Buscar</button>
       </form>
       <p class="busca-dica reveal">Escreva livremente: tipo, bairro ou eixo, nº de quartos/suítes, faixa de preço e área.</p>

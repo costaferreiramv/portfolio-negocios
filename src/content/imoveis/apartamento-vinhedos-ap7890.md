@@ -24,7 +24,7 @@ Apartamento no Complexo Vinhedos, em região nobre e de crescente valorização,
 - 3 suítes privativas
 - Sala de estar e jantar integradas
 - Cozinha e lavanderia funcionais, com lavabo
-- Elevador privativo, gás encanado e sistema de segurança avançado
+- Elevadores social e de serviço, gás encanado e sistema de segurança avançado
 - 2 vagas de garagem
 
 ## Lazer
@@ -40,7 +40,6 @@ Apartamento no Complexo Vinhedos, em região nobre e de crescente valorização,
 
 ## Diferenciais
 
-- Elevador privativo, garantindo acesso direto e mais privacidade
 - Espaços dedicados como home office e espaço mulher, para rotina e autocuidado sem sair de casa
 - Áreas específicas para pets, adolescentes e leitura, para todas as idades e perfis
 

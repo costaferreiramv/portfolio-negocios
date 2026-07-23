@@ -20,6 +20,43 @@ const tipoLabel: Record<string, string> = {
   area: 'Área', fazenda: 'Fazenda', rancho: 'Rancho', sitio: 'Sítio',
 };
 
+// Tipos de imóvel que o site realmente tem hoje — usados só na busca por filtro
+// (a Home free-text reconhece mais sinônimos, mas o menu mostra só o que existe).
+const FILTRO_TIPOS = [
+  { valor: 'apartamento', rotulo: 'Apartamento' },
+  { valor: 'casa', rotulo: 'Casa' },
+  { valor: 'casa-condominio', rotulo: 'Casa em condomínio' },
+  { valor: 'cobertura', rotulo: 'Cobertura' },
+  { valor: 'lote', rotulo: 'Lote' },
+  { valor: 'comercial', rotulo: 'Comercial' },
+];
+
+const FILTRO_AREAS = [
+  { valor: 'ate-50', rotulo: 'Até 50 m²', min: '', max: '50' },
+  { valor: '50-75', rotulo: '50 até 75 m²', min: '50', max: '75' },
+  { valor: '75-150', rotulo: '75 até 150 m²', min: '75', max: '150' },
+  { valor: '150-250', rotulo: '150 até 250 m²', min: '150', max: '250' },
+  { valor: '250-350', rotulo: '250 até 350 m²', min: '250', max: '350' },
+  { valor: 'acima-350', rotulo: 'Acima de 350 m²', min: '350', max: '' },
+];
+
+const FILTRO_PRECOS = [
+  { valor: '600-800', rotulo: 'De R$ 600.000 até R$ 800.000', min: '600000', max: '800000' },
+  { valor: '800-1000', rotulo: 'De R$ 800.000 até R$ 1.000.000', min: '800000', max: '1000000' },
+  { valor: '1000-1200', rotulo: 'De R$ 1.000.000 até R$ 1.200.000', min: '1000000', max: '1200000' },
+  { valor: '1200-1400', rotulo: 'De R$ 1.200.000 até R$ 1.400.000', min: '1200000', max: '1400000' },
+  { valor: '1400-1600', rotulo: 'De R$ 1.400.000 até R$ 1.600.000', min: '1400000', max: '1600000' },
+  { valor: '1600-2000', rotulo: 'De R$ 1.600.000 até R$ 2.000.000', min: '1600000', max: '2000000' },
+  { valor: '2000-3000', rotulo: 'De R$ 2.000.000 até R$ 3.000.000', min: '2000000', max: '3000000' },
+  { valor: 'acima-3000', rotulo: 'Acima de R$ 3.000.000', min: '3000000', max: '' },
+];
+
+// nomes de empreendimentos/prédios dentro do Complexo Vinhedos — não são bairros,
+// não devem aparecer soltos no filtro (o eixo "Complexo Vinhedos" continua selecionável)
+const EXCLUIR_DO_FILTRO_BAIRRO = new Set([
+  'Pátio Vinhedos', 'Triad', 'Sense', 'Duo', 'Arven', 'Allma', 'Mellie', 'Torres do Sul', 'Ambar',
+]);
+
 // mantém a ordem definida em DESTAQUES, ignora silenciosamente código que não exista mais
 const imoveisDestaque = DESTAQUES
   .map((cod) => imoveis.find((im) => im.data.codigo === cod))
@@ -63,6 +100,9 @@ const bairrosConhecidos = Array.from(
     ...imoveis.filter((i) => !eixoOcultaBairro(i.data.eixo)).map((i) => i.data.bairro),
   ])
 );
+
+// mesma lista, mas sem os nomes de empreendimentos/prédios — usada só no menu do filtro
+const bairrosFiltro = bairrosConhecidos.filter((b) => !EXCLUIR_DO_FILTRO_BAIRRO.has(b));
 
 // eixos (id + áreas) para a busca resolver "perto de X" pela região, não só pelo bairro exato
 const eixosBusca = EIXOS.map((e) => ({ id: e.id, nome: e.curto, areas: e.areas }));
@@ -111,40 +151,75 @@ const eixosImg = await Promise.all(
 
       <form class="busca-filtros" id="form-filtros" hidden>
         <div class="busca-filtros-grade">
+          <div class="campo campo-dropdown">
+            <label>Pretensão</label>
+            <button type="button" class="dropdown-btn" disabled>
+              <span>Comprar</span>
+            </button>
+          </div>
+
+          <div class="campo campo-dropdown" data-dropdown id="campo-f-tipo">
+            <label id="lbl-f-tipo">Tipo de imóvel</label>
+            <button type="button" class="dropdown-btn" data-dropdown-btn aria-haspopup="listbox" aria-expanded="false" aria-labelledby="lbl-f-tipo">
+              <span data-dropdown-label>Todos os tipos</span>
+              <span class="seta" aria-hidden="true">▾</span>
+            </button>
+            <div class="dropdown-painel" data-dropdown-painel hidden role="listbox">
+              <button type="button" class="dropdown-opcao ativo" data-valor="">Todos os tipos</button>
+              {FILTRO_TIPOS.map((t) => (
+                <button type="button" class="dropdown-opcao" data-valor={t.valor}>{t.rotulo}</button>
+              ))}
+            </div>
+          </div>
+
+          <div class="campo campo-dropdown" data-dropdown id="campo-f-local">
+            <label id="lbl-f-local">Bairro ou eixo</label>
+            <button type="button" class="dropdown-btn" data-dropdown-btn aria-haspopup="listbox" aria-expanded="false" aria-labelledby="lbl-f-local">
+              <span data-dropdown-label>Todos os bairros e eixos</span>
+              <span class="seta" aria-hidden="true">▾</span>
+            </button>
+            <div class="dropdown-painel dropdown-painel-rolagem" data-dropdown-painel hidden role="listbox">
+              <button type="button" class="dropdown-opcao ativo" data-valor="">Todos os bairros e eixos</button>
+              <span class="dropdown-grupo">Eixos</span>
+              {EIXOS.map((e) => (
+                <button type="button" class="dropdown-opcao" data-valor={e.id} data-tipo="eixo">{e.curto}</button>
+              ))}
+              <span class="dropdown-grupo">Bairros</span>
+              {bairrosFiltro.map((b) => (
+                <button type="button" class="dropdown-opcao" data-valor={b} data-tipo="bairro">{b}</button>
+              ))}
+            </div>
+          </div>
+
+          <div class="campo campo-dropdown" data-dropdown id="campo-f-preco">
+            <label id="lbl-f-preco">Preço</label>
+            <button type="button" class="dropdown-btn" data-dropdown-btn aria-haspopup="listbox" aria-expanded="false" aria-labelledby="lbl-f-preco">
+              <span data-dropdown-label>Todas as faixas</span>
+              <span class="seta" aria-hidden="true">▾</span>
+            </button>
+            <div class="dropdown-painel" data-dropdown-painel hidden role="listbox">
+              <button type="button" class="dropdown-opcao ativo" data-valor="" data-min="" data-max="">Todas as faixas</button>
+              {FILTRO_PRECOS.map((p) => (
+                <button type="button" class="dropdown-opcao" data-valor={p.valor} data-min={p.min} data-max={p.max}>{p.rotulo}</button>
+              ))}
+            </div>
+          </div>
+
+          <div class="campo campo-dropdown" data-dropdown id="campo-f-area">
+            <label id="lbl-f-area">Área</label>
+            <button type="button" class="dropdown-btn" data-dropdown-btn aria-haspopup="listbox" aria-expanded="false" aria-labelledby="lbl-f-area">
+              <span data-dropdown-label>Qualquer área</span>
+              <span class="seta" aria-hidden="true">▾</span>
+            </button>
+            <div class="dropdown-painel" data-dropdown-painel hidden role="listbox">
+              <button type="button" class="dropdown-opcao ativo" data-valor="" data-min="" data-max="">Qualquer área</button>
+              {FILTRO_AREAS.map((a) => (
+                <button type="button" class="dropdown-opcao" data-valor={a.valor} data-min={a.min} data-max={a.max}>{a.rotulo}</button>
+              ))}
+            </div>
+          </div>
+
           <div class="campo">
-            <label for="f-pretensao">Pretensão</label>
-            <select id="f-pretensao" disabled>
-              <option>Comprar</option>
-            </select>
-          </div>
-          <div class="campo">
-            <label for="f-tipo">Tipo de imóvel</label>
-            <select id="f-tipo">
-              <option value="">Todos</option>
-              {Object.entries(tipoLabel).map(([valor, rotulo]) => <option value={valor}>{rotulo}</option>)}
-            </select>
-          </div>
-          <div class="campo campo-largo">
-            <label for="f-local">Bairro ou eixo</label>
-            <input type="text" id="f-local" list="lista-bairros" autocomplete="off" placeholder="Ex.: Jardim Sul, Gávea, Vinhedos..." />
-            <datalist id="lista-bairros">
-              {bairrosConhecidos.map((b) => <option value={b} />)}
-              {EIXOS.map((e) => <option value={e.curto} />)}
-            </datalist>
-          </div>
-          <div class="campo">
-            <label for="f-preco-de">Preço de</label>
-            <input type="number" id="f-preco-de" inputmode="numeric" placeholder="R$ mín." min="0" step="10000" />
-          </div>
-          <div class="campo">
-            <label for="f-preco-ate">Preço até</label>
-            <input type="number" id="f-preco-ate" inputmode="numeric" placeholder="R$ máx." min="0" step="10000" />
-          </div>
-          <div class="campo">
-            <label for="f-area">Área a partir de</label>
-            <input type="number" id="f-area" inputmode="numeric" placeholder="m² mín." min="0" step="5" />
-          </div>
-          <div class="campo campo-largo">
             <label>Quartos</label>
             <div class="chips" data-chips="dorm" data-valor="">
               <button type="button" class="chip ativo" data-valor="">Todos</button>
@@ -154,7 +229,7 @@ const eixosImg = await Promise.all(
               <button type="button" class="chip" data-valor="4">4+</button>
             </div>
           </div>
-          <div class="campo campo-largo">
+          <div class="campo">
             <label>Suítes</label>
             <div class="chips" data-chips="suite" data-valor="">
               <button type="button" class="chip ativo" data-valor="">Todas</button>
@@ -164,7 +239,7 @@ const eixosImg = await Promise.all(
               <button type="button" class="chip" data-valor="4">4+</button>
             </div>
           </div>
-          <div class="campo campo-largo">
+          <div class="campo">
             <label>Vagas</label>
             <div class="chips" data-chips="vaga" data-valor="">
               <button type="button" class="chip ativo" data-valor="">Todas</button>
@@ -174,7 +249,7 @@ const eixosImg = await Promise.all(
               <button type="button" class="chip" data-valor="4">4+</button>
             </div>
           </div>
-          <div class="campo campo-largo">
+          <div class="campo">
             <label>Condomínio horizontal</label>
             <div class="chips" data-chips="cond" data-valor="">
               <button type="button" class="chip ativo" data-valor="">Indiferente</button>

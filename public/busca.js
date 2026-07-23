@@ -147,6 +147,14 @@
     return f;
   }
 
+  // Tipos "virtuais" que só existem no menu da busca por filtro (não no campo livre):
+  // distinguem casa comum de casa em condomínio, e agrupam as duas modalidades comerciais.
+  const TIPO_PREDICADOS = {
+    casa: (im) => im.tipo === 'casa' && !im.condominio,
+    'casa-condominio': (im) => im.tipo === 'casa' && im.condominio,
+    comercial: (im) => im.tipo === 'casa-comercial' || im.tipo === 'sala-comercial',
+  };
+
   // Critérios "duros" (atributos objetivos do imóvel), do mais descartável ao mais essencial.
   // Cada um só é exigido se o usuário o mencionou. Usados no relaxamento progressivo.
   const DUROS = [
@@ -156,7 +164,7 @@
     { k: 'preco', ok: (im, f) => (!f.precoMin || im.preco >= f.precoMin) && (!f.precoMax || im.preco <= f.precoMax), ativo: (f) => f.precoMin || f.precoMax },
     { k: 'dorm', ok: (im, f) => im.dormitorios >= f.dorm, ativo: (f) => f.dorm },
     { k: 'cond', ok: (im, f) => (f.cond === 'sim' ? im.condominio : f.cond === 'nao' ? !im.condominio : true), ativo: (f) => f.cond === 'sim' || f.cond === 'nao' },
-    { k: 'tipo', ok: (im, f) => im.tipo === f.tipo, ativo: (f) => f.tipo },
+    { k: 'tipo', ok: (im, f) => (TIPO_PREDICADOS[f.tipo] ? TIPO_PREDICADOS[f.tipo](im) : im.tipo === f.tipo), ativo: (f) => f.tipo },
   ];
 
   // Pontua a proximidade de um imóvel aos locais citados (mesmo bairro > mesmo eixo).
@@ -209,6 +217,7 @@
     casa: 'Casa', apartamento: 'Apartamento', cobertura: 'Cobertura', lote: 'Lote',
     'sala-comercial': 'Sala comercial', 'casa-comercial': 'Casa comercial',
     area: 'Área', fazenda: 'Fazenda', rancho: 'Rancho', sitio: 'Sítio',
+    'casa-condominio': 'Casa em condomínio', comercial: 'Comercial',
   };
 
   function resumo(f) {
@@ -329,39 +338,78 @@
     });
   });
 
-  // resolve o texto de "bairro ou eixo" digitado/selecionado em f.locais,
-  // reaproveitando a mesma lista de bairros/eixos conhecidos da busca livre
-  function localDoFiltro(texto) {
-    const nt = norm(texto);
-    if (!nt) return [];
-    const EIXOS_F = window.__EIXOS__ || [];
-    for (const b of window.__BAIRROS__ || []) {
-      if (norm(b) === nt) {
-        const eixo = EIXOS_F.find((e) => e.areas.some((a) => norm(a) === nt));
-        return [{ nome: nt, rotulo: b, eixo: eixo ? eixo.id : null, tipo: 'bairro', excluir: false }];
-      }
-    }
-    for (const e of EIXOS_F) {
-      if (norm(e.nome) === nt) {
-        return [{ nome: null, rotulo: e.nome, eixo: e.id, tipo: 'eixo', excluir: false }];
-      }
-    }
-    return [];
+  // menus da busca por filtro (Tipo, Bairro/eixo, Preço, Área) — mesmo padrão
+  // visual/comportamental do submenu "Zona Sul": um aberto por vez, fecha ao
+  // escolher, ao clicar fora ou com Esc. O valor escolhido fica no dataset do
+  // próprio campo (lido depois pelo submit do formulário).
+  function fecharDropdowns() {
+    document.querySelectorAll('.campo-dropdown.aberto').forEach((c) => {
+      c.classList.remove('aberto');
+      c.querySelector('[data-dropdown-painel]')?.setAttribute('hidden', '');
+      c.querySelector('[data-dropdown-btn]')?.setAttribute('aria-expanded', 'false');
+    });
   }
+  document.querySelectorAll('[data-dropdown]').forEach((campo) => {
+    const btn = campo.querySelector('[data-dropdown-btn]');
+    const painel = campo.querySelector('[data-dropdown-painel]');
+    const rotulo = campo.querySelector('[data-dropdown-label]');
+    if (!btn || !painel) return;
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const jaAberto = campo.classList.contains('aberto');
+      fecharDropdowns();
+      if (!jaAberto) {
+        campo.classList.add('aberto');
+        painel.hidden = false;
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    });
+    painel.querySelectorAll('.dropdown-opcao').forEach((op) => {
+      op.addEventListener('click', () => {
+        painel.querySelectorAll('.dropdown-opcao').forEach((o) => o.classList.remove('ativo'));
+        op.classList.add('ativo');
+        if (rotulo) rotulo.textContent = op.textContent;
+        for (const [k, v] of Object.entries(op.dataset)) campo.dataset[k] = v;
+        fecharDropdowns();
+      });
+    });
+  });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('[data-dropdown]')) fecharDropdowns();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') fecharDropdowns();
+  });
 
   formFiltros?.addEventListener('submit', (e) => {
     e.preventDefault();
     const f = {};
-    const tipo = document.getElementById('f-tipo').value;
-    if (tipo) f.tipo = tipo;
-    const local = document.getElementById('f-local').value.trim();
-    f.locais = localDoFiltro(local);
-    const precoDe = parseFloat(document.getElementById('f-preco-de').value);
-    const precoAte = parseFloat(document.getElementById('f-preco-ate').value);
-    if (!isNaN(precoDe)) f.precoMin = precoDe;
-    if (!isNaN(precoAte)) f.precoMax = precoAte;
-    const area = parseFloat(document.getElementById('f-area').value);
-    if (!isNaN(area)) f.areaMin = area;
+
+    const campoTipo = document.getElementById('campo-f-tipo');
+    if (campoTipo?.dataset.valor) f.tipo = campoTipo.dataset.valor;
+
+    const campoLocal = document.getElementById('campo-f-local');
+    f.locais = [];
+    if (campoLocal?.dataset.valor) {
+      const EIXOS_F = window.__EIXOS__ || [];
+      if (campoLocal.dataset.tipo === 'eixo') {
+        const eixo = EIXOS_F.find((ei) => ei.id === campoLocal.dataset.valor);
+        f.locais = [{ nome: null, rotulo: eixo ? eixo.nome : campoLocal.dataset.valor, eixo: campoLocal.dataset.valor, tipo: 'eixo', excluir: false }];
+      } else {
+        const nb = norm(campoLocal.dataset.valor);
+        const eixo = EIXOS_F.find((ei) => ei.areas.some((a) => norm(a) === nb));
+        f.locais = [{ nome: nb, rotulo: campoLocal.dataset.valor, eixo: eixo ? eixo.id : null, tipo: 'bairro', excluir: false }];
+      }
+    }
+
+    const campoPreco = document.getElementById('campo-f-preco');
+    if (campoPreco?.dataset.min) f.precoMin = parseFloat(campoPreco.dataset.min);
+    if (campoPreco?.dataset.max) f.precoMax = parseFloat(campoPreco.dataset.max);
+
+    const campoArea = document.getElementById('campo-f-area');
+    if (campoArea?.dataset.min) f.areaMin = parseFloat(campoArea.dataset.min);
+    if (campoArea?.dataset.max) f.areaMax = parseFloat(campoArea.dataset.max);
+
     const dorm = document.querySelector('[data-chips="dorm"]').dataset.valor;
     if (dorm) f.dorm = parseInt(dorm, 10);
     const suite = document.querySelector('[data-chips="suite"]').dataset.valor;

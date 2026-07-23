@@ -359,6 +359,14 @@
       const jaAberto = campo.classList.contains('aberto');
       fecharDropdowns();
       if (!jaAberto) {
+        // painel é position:fixed (a seção do hero recorta qualquer coisa em
+        // position:absolute que passe da borda dela) — por isso a posição é
+        // calculada aqui, em coordenadas de viewport, a partir do botão.
+        const r = btn.getBoundingClientRect();
+        painel.style.top = r.bottom + 6 + 'px';
+        painel.style.left = r.left + 'px';
+        painel.style.width = r.width + 'px';
+        painel.style.maxHeight = Math.min(320, window.innerHeight - r.bottom - 16) + 'px';
         campo.classList.add('aberto');
         painel.hidden = false;
         btn.setAttribute('aria-expanded', 'true');
@@ -380,6 +388,9 @@
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') fecharDropdowns();
   });
+  // painel é position:fixed com coordenadas calculadas na abertura — rolar a
+  // página o desalinharia, então fecha em vez de deixar flutuando errado
+  window.addEventListener('scroll', fecharDropdowns);
 
   formFiltros?.addEventListener('submit', (e) => {
     e.preventDefault();

@@ -1,8 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { CONTATO, waLink } from '../lib/site';
-
-const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóvel na Zona Sul.');
+import { CONTATO } from '../lib/site';
 ---
 
 <Base
@@ -59,7 +57,7 @@ const WA = waLink('Olá Marcus, vim pelo site e gostaria de falar sobre um imóv
         <h3>Portfólio Negócios Imobiliários</h3>
         <div class="contato-linha">
           <span class="rot">WhatsApp / Telefone</span>
-          <a href={WA} target="_blank" rel="noopener">{CONTATO.whatsappLabel}</a>
+          <button type="button" class="abrir-contato-modal" aria-haspopup="dialog">{CONTATO.whatsappLabel}</button>
         </div>
         <div class="contato-linha">
           <span class="rot">E-mail</span>

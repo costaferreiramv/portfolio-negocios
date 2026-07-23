@@ -235,6 +235,7 @@ header.nav{
 .hero-busca .lede{margin:22px 0 0;max-width:56ch;font-size:18.5px;color:var(--tinta-media)}
 .busca{margin:34px 0 0;display:flex;gap:0;max-width:760px;border:1px solid var(--traco-forte);
   background:var(--papel-alto);box-shadow:var(--sombra)}
+.busca[hidden]{display:none}
 .busca-campo{position:relative;flex:1;display:flex}
 .busca input{flex:1;border:none;background:transparent;color:var(--tinta);
   font-family:var(--corpo);font-size:16.5px;padding:18px 20px;outline:none}
@@ -292,12 +293,14 @@ header.nav{
 .dropdown-btn .seta{font-size:10px;color:var(--tinta-fraca);transition:transform .18s;flex:none}
 .campo-dropdown.aberto .dropdown-btn .seta{transform:rotate(180deg)}
 .dropdown-painel{
-  position:absolute;top:calc(100% + 6px);left:0;right:0;z-index:60;
+  /* position:fixed (não absolute) porque a seção do hero tem overflow:hidden pra
+     recortar a imagem de fundo — um painel absoluto seria cortado nas bordas dela.
+     top/left/width são calculados em JS a partir do botão, em coordenadas de viewport. */
+  position:fixed;z-index:70;max-height:320px;overflow-y:auto;
   background:var(--papel-alto);border:1px solid var(--traco);box-shadow:var(--sombra);
   padding:8px;display:flex;flex-direction:column;gap:2px;
 }
 .dropdown-painel[hidden]{display:none}
-.dropdown-painel-rolagem{max-height:320px;overflow-y:auto}
 .dropdown-opcao{display:block;width:100%;text-align:left;border:none;background:none;
   padding:9px 12px;color:var(--tinta-media);font-family:var(--display);font-size:14px;
   cursor:pointer;transition:background .15s,color .15s}
@@ -381,8 +384,9 @@ header.nav{
 .contato-linha{display:flex;flex-direction:column;gap:2px;padding:16px 0;border-top:1px solid var(--traco)}
 .contato-linha:first-of-type{border-top:none;padding-top:14px}
 .contato-linha .rot{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--tinta-fraca)}
-.contato-linha a,.contato-linha span{font-size:16px;color:var(--tinta)}
-.contato-linha a:hover{color:var(--ciano-tinta)}
+.contato-linha a,.contato-linha span,.contato-linha button{font-size:16px;color:var(--tinta)}
+.contato-linha button{background:none;border:none;padding:0;font:inherit;text-align:left;cursor:pointer}
+.contato-linha a:hover,.contato-linha button:hover{color:var(--ciano-tinta)}
 
 /* ---- seções ---- */
 section{padding:88px 0;border-top:1px solid var(--traco)}

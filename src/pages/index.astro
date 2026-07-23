@@ -55,6 +55,7 @@ const FILTRO_PRECOS = [
 // não devem aparecer soltos no filtro (o eixo "Complexo Vinhedos" continua selecionável)
 const EXCLUIR_DO_FILTRO_BAIRRO = new Set([
   'Pátio Vinhedos', 'Triad', 'Sense', 'Duo', 'Arven', 'Allma', 'Mellie', 'Torres do Sul', 'Ambar',
+  'Vinhedos', // não é bairro — só o eixo "Complexo Vinhedos" fica na lista
 ]);
 
 // mantém a ordem definida em DESTAQUES, ignora silenciosamente código que não exista mais
@@ -178,7 +179,7 @@ const eixosImg = await Promise.all(
               <span data-dropdown-label>Todos os bairros e eixos</span>
               <span class="seta" aria-hidden="true">▾</span>
             </button>
-            <div class="dropdown-painel dropdown-painel-rolagem" data-dropdown-painel hidden role="listbox">
+            <div class="dropdown-painel" data-dropdown-painel hidden role="listbox">
               <button type="button" class="dropdown-opcao ativo" data-valor="">Todos os bairros e eixos</button>
               <span class="dropdown-grupo">Eixos</span>
               {EIXOS.map((e) => (

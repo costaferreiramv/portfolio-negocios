@@ -107,6 +107,87 @@ const eixosImg = await Promise.all(
         <button type="submit">Buscar</button>
       </form>
       <p class="busca-dica reveal">Escreva livremente: tipo, bairro ou eixo, nº de quartos/suítes, faixa de preço e área.</p>
+      <button type="button" id="toggle-filtro" class="busca-toggle-filtro reveal">Buscar por filtro <span aria-hidden="true">▾</span></button>
+
+      <form class="busca-filtros" id="form-filtros" hidden>
+        <div class="busca-filtros-grade">
+          <div class="campo">
+            <label for="f-pretensao">Pretensão</label>
+            <select id="f-pretensao" disabled>
+              <option>Comprar</option>
+            </select>
+          </div>
+          <div class="campo">
+            <label for="f-tipo">Tipo de imóvel</label>
+            <select id="f-tipo">
+              <option value="">Todos</option>
+              {Object.entries(tipoLabel).map(([valor, rotulo]) => <option value={valor}>{rotulo}</option>)}
+            </select>
+          </div>
+          <div class="campo campo-largo">
+            <label for="f-local">Bairro ou eixo</label>
+            <input type="text" id="f-local" list="lista-bairros" autocomplete="off" placeholder="Ex.: Jardim Sul, Gávea, Vinhedos..." />
+            <datalist id="lista-bairros">
+              {bairrosConhecidos.map((b) => <option value={b} />)}
+              {EIXOS.map((e) => <option value={e.curto} />)}
+            </datalist>
+          </div>
+          <div class="campo">
+            <label for="f-preco-de">Preço de</label>
+            <input type="number" id="f-preco-de" inputmode="numeric" placeholder="R$ mín." min="0" step="10000" />
+          </div>
+          <div class="campo">
+            <label for="f-preco-ate">Preço até</label>
+            <input type="number" id="f-preco-ate" inputmode="numeric" placeholder="R$ máx." min="0" step="10000" />
+          </div>
+          <div class="campo">
+            <label for="f-area">Área a partir de</label>
+            <input type="number" id="f-area" inputmode="numeric" placeholder="m² mín." min="0" step="5" />
+          </div>
+          <div class="campo campo-largo">
+            <label>Quartos</label>
+            <div class="chips" data-chips="dorm" data-valor="">
+              <button type="button" class="chip ativo" data-valor="">Todos</button>
+              <button type="button" class="chip" data-valor="1">1+</button>
+              <button type="button" class="chip" data-valor="2">2+</button>
+              <button type="button" class="chip" data-valor="3">3+</button>
+              <button type="button" class="chip" data-valor="4">4+</button>
+            </div>
+          </div>
+          <div class="campo campo-largo">
+            <label>Suítes</label>
+            <div class="chips" data-chips="suite" data-valor="">
+              <button type="button" class="chip ativo" data-valor="">Todas</button>
+              <button type="button" class="chip" data-valor="1">1+</button>
+              <button type="button" class="chip" data-valor="2">2+</button>
+              <button type="button" class="chip" data-valor="3">3+</button>
+              <button type="button" class="chip" data-valor="4">4+</button>
+            </div>
+          </div>
+          <div class="campo campo-largo">
+            <label>Vagas</label>
+            <div class="chips" data-chips="vaga" data-valor="">
+              <button type="button" class="chip ativo" data-valor="">Todas</button>
+              <button type="button" class="chip" data-valor="1">1+</button>
+              <button type="button" class="chip" data-valor="2">2+</button>
+              <button type="button" class="chip" data-valor="3">3+</button>
+              <button type="button" class="chip" data-valor="4">4+</button>
+            </div>
+          </div>
+          <div class="campo campo-largo">
+            <label>Condomínio horizontal</label>
+            <div class="chips" data-chips="cond" data-valor="">
+              <button type="button" class="chip ativo" data-valor="">Indiferente</button>
+              <button type="button" class="chip" data-valor="sim">Sim</button>
+              <button type="button" class="chip" data-valor="nao">Não</button>
+            </div>
+          </div>
+        </div>
+        <div class="busca-filtros-acoes">
+          <button type="button" id="voltar-busca-livre" class="btn btn-vazado">← Busca livre</button>
+          <button type="submit" class="btn btn-solido">Encontrar imóvel</button>
+        </div>
+      </form>
     </div>
   </section>
 

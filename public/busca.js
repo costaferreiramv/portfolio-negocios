@@ -257,8 +257,7 @@
     preco: 'faixa de preço', dorm: 'nº de quartos', cond: 'condomínio', tipo: 'tipo',
   };
 
-  function buscar(q) {
-    const f = interpreta(q);
+  function renderResultados(f) {
     const { achados, relaxados } = filtrar(f);
     // localização não elimina: ordena os que casam os critérios, mais próximos primeiro
     achados.sort((a, b) => scoreLocal(b, f) - scoreLocal(a, f) || a.preco - b.preco);
@@ -282,6 +281,10 @@
     secao.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
+  function buscar(q) {
+    renderResultados(interpreta(q));
+  }
+
   form.addEventListener('submit', (e) => {
     e.preventDefault();
     const q = input.value.trim();
@@ -291,5 +294,82 @@
     input.value = '';
     secao.hidden = true;
     input.focus();
+  });
+
+  /* ---- Busca por filtro (formulário estruturado, alternativa à busca livre) ---- */
+  const toggleFiltro = document.getElementById('toggle-filtro');
+  const formFiltros = document.getElementById('form-filtros');
+  const voltarBuscaLivre = document.getElementById('voltar-busca-livre');
+
+  toggleFiltro?.addEventListener('click', () => {
+    const abrindo = formFiltros.hidden; // true = painel de filtro estava escondido, vai abrir agora
+    formFiltros.hidden = !abrindo;
+    form.hidden = abrindo;
+    document.querySelector('.busca-dica')?.toggleAttribute('hidden', abrindo);
+    toggleFiltro.classList.toggle('aberto', abrindo);
+    toggleFiltro.innerHTML =
+      (abrindo ? 'Busca livre' : 'Buscar por filtro') + ' <span aria-hidden="true">▾</span>';
+  });
+  voltarBuscaLivre?.addEventListener('click', () => {
+    formFiltros.hidden = true;
+    form.hidden = false;
+    document.querySelector('.busca-dica')?.removeAttribute('hidden');
+    toggleFiltro?.classList.remove('aberto');
+    if (toggleFiltro) toggleFiltro.innerHTML = 'Buscar por filtro <span aria-hidden="true">▾</span>';
+  });
+
+  // grupos de chip (quartos/suítes/vagas/condomínio) — seleção única por grupo
+  document.querySelectorAll('.chips').forEach((grupo) => {
+    grupo.addEventListener('click', (e) => {
+      const btn = e.target.closest('.chip');
+      if (!btn) return;
+      grupo.querySelectorAll('.chip').forEach((c) => c.classList.remove('ativo'));
+      btn.classList.add('ativo');
+      grupo.dataset.valor = btn.dataset.valor || '';
+    });
+  });
+
+  // resolve o texto de "bairro ou eixo" digitado/selecionado em f.locais,
+  // reaproveitando a mesma lista de bairros/eixos conhecidos da busca livre
+  function localDoFiltro(texto) {
+    const nt = norm(texto);
+    if (!nt) return [];
+    const EIXOS_F = window.__EIXOS__ || [];
+    for (const b of window.__BAIRROS__ || []) {
+      if (norm(b) === nt) {
+        const eixo = EIXOS_F.find((e) => e.areas.some((a) => norm(a) === nt));
+        return [{ nome: nt, rotulo: b, eixo: eixo ? eixo.id : null, tipo: 'bairro', excluir: false }];
+      }
+    }
+    for (const e of EIXOS_F) {
+      if (norm(e.nome) === nt) {
+        return [{ nome: null, rotulo: e.nome, eixo: e.id, tipo: 'eixo', excluir: false }];
+      }
+    }
+    return [];
+  }
+
+  formFiltros?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const f = {};
+    const tipo = document.getElementById('f-tipo').value;
+    if (tipo) f.tipo = tipo;
+    const local = document.getElementById('f-local').value.trim();
+    f.locais = localDoFiltro(local);
+    const precoDe = parseFloat(document.getElementById('f-preco-de').value);
+    const precoAte = parseFloat(document.getElementById('f-preco-ate').value);
+    if (!isNaN(precoDe)) f.precoMin = precoDe;
+    if (!isNaN(precoAte)) f.precoMax = precoAte;
+    const area = parseFloat(document.getElementById('f-area').value);
+    if (!isNaN(area)) f.areaMin = area;
+    const dorm = document.querySelector('[data-chips="dorm"]').dataset.valor;
+    if (dorm) f.dorm = parseInt(dorm, 10);
+    const suite = document.querySelector('[data-chips="suite"]').dataset.valor;
+    if (suite) f.suite = parseInt(suite, 10);
+    const vaga = document.querySelector('[data-chips="vaga"]').dataset.valor;
+    if (vaga) f.vaga = parseInt(vaga, 10);
+    const cond = document.querySelector('[data-chips="cond"]').dataset.valor;
+    if (cond) f.cond = cond;
+    renderResultados(f);
   });
 })();

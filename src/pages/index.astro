@@ -8,7 +8,6 @@ import { imagemZonaSul, waLink } from '../lib/site';
 import { DESTAQUES } from '../lib/destaques';
 import retratoMarcus from '../assets/marcus/marcus-retrato.jpg';
 import familiaMarcus from '../assets/marcus/marcus-familia.jpg';
-import aereaZonaSul from '../assets/zonasul/zona-sul-home-bg.png';
 
 const imoveis = (await getCollection('imoveis')).sort(
   (a, b) => b.data.publicadoEm.getTime() - a.data.publicadoEm.getTime()
@@ -126,7 +125,9 @@ const eixosImg = await Promise.all(
   <!-- HERO: forma de trabalhar + busca livre -->
   <section class="hero-busca">
     <div class="hero-bg">
-      <Image src={aereaZonaSul} alt="Vista aérea da Zona Sul de Uberlândia" widths={[900, 1400, 2048]} sizes="100vw" loading="eager" fetchpriority="high" />
+      <video autoplay muted loop playsinline poster="/img/hero-zona-sul-poster.png" aria-label="Vista aérea da Zona Sul de Uberlândia">
+        <source src="/video/hero-zona-sul.mp4" type="video/mp4" />
+      </video>
       <div class="hero-veu2"></div>
     </div>
     <div class="wrap hero-busca-in">

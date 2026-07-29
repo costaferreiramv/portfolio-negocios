@@ -203,8 +203,9 @@ header.nav{
    HOME — hero de busca
    ============================================================ */
 .hero-busca{position:relative;border-top:none;padding:0;overflow:hidden}
-.hero-bg{position:absolute;inset:0;z-index:0}
+.hero-bg{position:absolute;inset:0;z-index:0;background:#0b1220}
 .hero-bg img,.hero-bg video{width:100%;height:100%;object-fit:cover;object-position:center 60%}
+.hero-bg video{transition:opacity .1s linear}
 /* scrim direcional: pesado sob o texto (esquerda/topo), leve sobre a aérea (direita/baixo),
    para a foto respirar sem perder a legibilidade — substitui o véu que apagava a imagem
    (o paliativo opacity:0.75 saiu: o scrim já garante legibilidade sem re-lavar a foto) */

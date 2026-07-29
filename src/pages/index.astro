@@ -125,7 +125,7 @@ const eixosImg = await Promise.all(
   <!-- HERO: forma de trabalhar + busca livre -->
   <section class="hero-busca">
     <div class="hero-bg">
-      <video autoplay muted loop playsinline poster="/img/hero-zona-sul-poster.png" aria-label="Vista aérea da Zona Sul de Uberlândia">
+      <video id="hero-video" autoplay muted loop playsinline poster="/img/hero-zona-sul-poster.png" aria-label="Vista aérea da Zona Sul de Uberlândia">
         <source src="/video/hero-zona-sul.mp4" type="video/mp4" />
       </video>
       <div class="hero-veu2"></div>
@@ -385,4 +385,21 @@ const eixosImg = await Promise.all(
     window.__BAIRROS__ = ${JSON.stringify(bairrosConhecidos)};
     window.__EIXOS__ = ${JSON.stringify(eixosBusca)};`}></script>
   <script is:inline src="/busca.js"></script>
+
+  <script is:inline>
+    // disfarça o corte seco do loop do vídeo do hero: escurece bem rápido
+    // perto do fim e clareia de volta logo após reiniciar
+    (function () {
+      const v = document.getElementById('hero-video');
+      if (!v) return;
+      const FADE = 0.35;
+      v.addEventListener('timeupdate', () => {
+        if (!v.duration) return;
+        const restante = v.duration - v.currentTime;
+        if (restante < FADE) v.style.opacity = String(Math.max(restante / FADE, 0));
+        else if (v.currentTime < FADE) v.style.opacity = String(Math.min(v.currentTime / FADE, 1));
+        else v.style.opacity = '1';
+      });
+    })();
+  </script>
 </Base>

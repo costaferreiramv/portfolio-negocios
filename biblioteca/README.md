@@ -17,31 +17,46 @@ Serve a dois propósitos:
 
 ## Como o conteúdo entra
 
-O Instagram não expõe os Salvos por API, e bloqueia leitura sem login (HTTP 403).
-Nenhuma automação alcança a coleção — o material precisa ser entregue manualmente.
+O Instagram não expõe os Salvos numa API pública e bloqueia leitura sem login. Mas na
+sessão local, com o Chrome logado, a API interna do próprio site responde — e é por ela
+que a coleção foi lida, sem print manual e sem download do pacote "Baixar suas
+informações".
 
-### 1. Índice da coleção (opcional, mas recomendado)
+O caminho está descrito em `INSTRUCOES-EXTRACAO.md` e implementado em `ferramentas/`.
+Resumo:
 
-Instagram → Configurações → Central de Contas → Suas informações e permissões →
-**Baixar suas informações**. O pacote inclui os posts salvos com **link e nome da
-coleção**, o que dá a lista completa e ordenada da aba Portfólio Negócios.
+### 1. Inventário da coleção
 
-Serve para garantir cobertura: sabemos quantos posts existem e quais ainda faltam
-processar. Sem ele, trabalhamos no escuro quanto ao total.
+Pelo Chrome logado, `GET /api/v1/collections/list/` devolve as coleções e o id da
+**Portfólio Negócios**. `GET /api/v1/feed/collection/<id>/posts/` pagina a coleção
+inteira (cursor em `next_max_id`).
 
-### 2. Conteúdo de cada post
+Dois cuidados aprendidos na prática:
+- **O feed devolve duplicatas.** Deduplicar por `code` — o número bruto de itens é quase
+  o dobro do número de posts reais.
+- **O Instagram limita a taxa.** Aparece `HTTP 572` depois de algumas dezenas de páginas.
+  O laço precisa guardar o cursor e ter backoff, senão perde tudo e recomeça do zero.
 
-| Tipo | O que enviar | Resultado |
-|---|---|---|
-| Carrossel | Prints de todas as telas | Texto de cada slide, na ordem |
-| Imagem única | Print | Texto e descrição do visual |
-| Legenda longa | Copiar e colar | Íntegra preservada |
-| Reels / vídeo | Arquivo `.mp4` baixado | Transcrição da fala + leitura do que aparece na tela |
+### 2. Ponte para o disco
 
-Pode vir pelo chat ou por uma pasta no Google Drive (o conector está ativo) — o que
-for mais prático para o volume.
+O `javascript_tool` não devolve strings com query string, o Instagram tem CSP que bloqueia
+`fetch` para `localhost`, e o Chrome bloqueia downloads automáticos repetidos. A saída que
+funciona: `ferramentas/recebedor.py` sobe um servidor local que serve uma página-ponte;
+a aba do Instagram abre essa ponte num popup (com clique real, para valer como gesto do
+usuário) e manda os dados por `postMessage`. A ponte faz `POST` e grava no disco.
 
-### 3. Processamento
+### 3. Mídia e transcrição
+
+| Tipo | Como é capturado |
+|---|---|
+| Legenda | Vem no próprio inventário, íntegra |
+| Carrossel | Baixa os slides e monta contact sheet 3x3 (`processar_lote.py`), lido em bloco |
+| Reels / vídeo | Baixa o `.mp4`, transcreve com `mlx-whisper` local (large-v3-turbo-q4) |
+| Vídeo sem fala | Frames a cada 3s viram contact sheet, para ler o texto na tela |
+
+A mídia é apagada logo após o processamento — só ficam o texto e as transcrições.
+
+### 4. Processamento
 
 Cada post recebe um arquivo em `posts/`, nomeado `<autor>-<assunto-curto>.md`,
 seguindo `_TEMPLATE.md`. Depois `INDICE.md` é atualizado.
@@ -83,6 +98,7 @@ Taxonomia inicial, ajustável conforme o material real chegar:
 | `mercado-imobiliario` | Dados de mercado, tendências, precificação |
 | `gestao` | Processos, produtividade, ferramentas, rotina |
 | `ia-automacao` | IA aplicada, automações, prompts |
+| `mentalidade` | Disciplina, hábitos, recomeço, desenvolvimento pessoal |
 
 Um post pode ter mais de um tema. Temas novos entram nesta tabela quando aparecerem.
 

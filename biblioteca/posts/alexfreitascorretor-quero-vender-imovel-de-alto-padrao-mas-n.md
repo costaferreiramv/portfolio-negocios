@@ -8,7 +8,7 @@ tags: []
 duracao: "1min29"
 data_post: 2025-06-04
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Quero vender alto padrão, mas nem carro importado eu tenho. Se essa frase já passou pela sua cabeça, fica aqui comigo até o final para ouvir 3 dicas importantes. Muita gente acha que para vender imóvel de alto padrão precisa parecer rico, mas o cliente que compra um imóvel de 3, 5, 10 milhões, ele não está escolhendo pelo teu carro, relógio, nem pela marca da tua roupa. Ele quer clareza, profissionalismo e alguém que saiba guiar a compra do jeito certo. E aí entra o problema, tem corretor com potencial que estuda, que rala, mas se sente inseguro só porque acha que não tem perfil para atender alto padrão. Mas essa crença, ela te trava. E a verdade é que o cliente de alto padrão, ele não quer aparência e sem resultado. Então, primeira coisa, começa pela captação certa. Quanto mais você estiver perto de imóveis acima de um milhão, mais natural vai ser o seu discurso. Você passa a respirar esse universo e entender mais sobre ele. Segunda coisa, conheça o imóvel como ninguém. Detalhes de acabamento, estrutura, vizinhança, potencial de valorização. Quando você sabe tudo, você traz segurança ao que está dizendo e o cliente sente isso. Terceiro, se acostume com o ambiente. marque presença nos lançamentos ande pelos bairros nobres melhore seu relacionamento fazendo networking com fraria de vinhos e clubes de esporte da sua cidade, você não precisa parecer algo que não é, e sim circular nos ambientes certos, agora se você quer descobrir como transformar seus leads em contratos assinados e começar a faturar mais de 20 mil por mês com mensagens persuasivas e posicionamento certo digita a chave aqui nos comentários que eu vou te mostrar o caminho para faturar no mercado de forma estratégica com passo a passo eficiente e tudo isso mesmo sem ter um carro importado.
 
 ### Legenda
 

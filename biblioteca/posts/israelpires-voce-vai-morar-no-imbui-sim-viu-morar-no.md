@@ -8,7 +8,7 @@ tags: []
 duracao: "55s"
 data_post: 2025-04-07
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ei, o Imbuí será seu novo endereço? Caraca, velho! E eu vou te provar por quê. Chegou o Imbuí, Clésio. Com a localização privilegiada. Tudo isso pra você chegar em casa. É regular na piscina de bordo o primeiro rooftop de um residencial do Imbuí. Rapaz, pare esse anúncio um pouquinho. Eu tava aqui pensando que depois de cinco anos é o primeiro lançamento no Imbuí. Isso quer dizer que daqui a três anos nós teremos um empreendimento mais moderno da região. Quem investir vai se dar bem, viu? E o melhor, na entrega das chaves, todas as áreas comuns com padrão passear já estarão 100% equipadas, perfeitas pra morar. E se você for investidor, com certeza vai agregar em muitos na valorização. Agora se você pensa em financiar, só clica nesse anúncio se sua renda familiar for acima de 10 mil reais. Porque eu pago por cada clique desse anúncio e eu fico indignado, velho. E Buiclés, não é pra quem pode, é pra quem sabe que lançamento bom é igual moqueca. Se vacilar, não sobra.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min16"
 data_post: 2025-05-14
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu vou te mostrar uma estratégia que eu juro que eu não sei como que quase ninguém no mercado imobiliário está usando isso para atrair as pessoas certas para comprar o aluguel. Vem comigo. A estratégia de oferecer um material na troca de informação já existe há muitos anos, mas é pouco explorada no mercado imobiliário. Enquanto a maioria ainda está fazendo isso aqui, poucos estão fazendo isso aqui. Criar um conteúdo que entregue valor, informação de verdade sobre compra ou investimento, trazendo assim pessoas mais interessadas. Tá, beleza, mim, mas como é que eu faço isso? se sou eu mesmo que faço meu marketing, eu não tenho um site, você vai fazer o seguinte, você vai montar o seu ebook conforme o seu nicho, seu produto imobiliário, inclusive eu vou deixar aqui na legenda títulos de vários nichos do imobiliário pra você se inspirar a fazer no teu ebook, vai abrir o Canva, o Visme ou o ebookmaker e montar o seu material, vai deixar no final um link pro teu WhatsApp, deixa alguma forma de contar, depois você vai criar uma campanha Meta Ads com o objetivo de leads, formulário instantâneo e ao final você vai ativar essa opção aqui ó, de download de arquivo, com o botão baixar. Assim a pessoa vai se cadastrar e depois pode baixar o seu material sem você precisar de um site. Feito? Sua estratégia de marketing chique, né? Tá pronta. Salva pra fazer hoje mesmo, não esquece de pegar os títulos aqui na legenda e é claro me segue pra aprender mais sobre marketing imobiliário que funciona na prática.
 
 ### Legenda
 

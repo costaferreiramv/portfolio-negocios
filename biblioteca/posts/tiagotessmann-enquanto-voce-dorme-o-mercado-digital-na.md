@@ -8,7 +8,7 @@ tags: []
 duracao: "58s"
 data_post: 2026-02-06
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Nenhum anúncio que você vê hoje é dinheiro meu. Como que você faz isso, Tiago? Eu descobri que tanto o Google quanto o Facebook, eles têm uma opção chamada de pós-pago. Como é que é esse pós-pago? Você pega um mês, vamos supor, mês de junho, e aí eu investi aqui um milhão de reais. Pode ser cinco mil, dez mil, não importa. O Facebook tem uma opção de que ele empresta dinheiro pra você, você investe em tráfego pago. No final desse período de 30 dias, ele gera um boleto pra 30 dias. Eu tenho 60 dias para pegar o dinheiro do Google, investir em tráfego pago, fazer dinheiro, tirar o reembolso, pagar a Google. Obrigado, te amo e bota dinheiro no meu bolso sem gastar um real. Olha só, presta atenção. Eu vou te ensinar a vender pela internet e colocar a sua empresa na cabeça de todo mundo. Eu vou ensinar tudo do zero. Você vai aprender a dominar os anúncios do Google, Facebook, YouTube e Instagram com inteligência artificial. Clique no botão de saiba mais e inscreva-se no evento. É de graça. E aí
 
 ### Legenda
 

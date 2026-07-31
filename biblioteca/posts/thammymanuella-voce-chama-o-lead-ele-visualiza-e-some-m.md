@@ -8,7 +8,7 @@ tags: []
 duracao: "32s"
 data_post: 2025-04-25
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Enquanto tem gente utilizando o IA para poder fazer bonequinhos, tem outras pessoas utilizando para poder vender, deixar negócios. De verdade. Como esse print aqui que você acabou de ver. Basta subir os prints. Nas últimas conversas, por exemplo, aquele cliente que derreteu, sumiu, desapareceu, para a IA poder identificar pelo que ela chegou, mas os argumentos que ela trouxe, e por consequência, te dar a resposta exata, para que ela volte. Mas ela não somente volte, mas ela fecha com você. Você quer acessar essa IA? Clique em ensaiar mais. E acessa. Está na sua mão. Copia, cola, envia e fecha o negócio Depois me ardece
 
 ### Legenda
 

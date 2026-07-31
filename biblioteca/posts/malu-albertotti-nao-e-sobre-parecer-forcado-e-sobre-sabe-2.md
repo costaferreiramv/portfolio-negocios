@@ -8,7 +8,7 @@ tags: []
 duracao: "1min29"
 data_post: 2025-10-25
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Para transmitir luxo e diferenciação ao apresentar seus produtos ou serviços, você precisa prestar atenção na linguagem que está usando. A comunicação e a curadoria das palavras e das expressões verbais que representam uma marca devem ser pensadas com todo o critério. A utilização das palavras erradas pode ter um impacto negativo ou até mesmo transmitir algo comum e ordinário sobre o que você vende. De forma muito sutil, esse erro pode fazer com que o seu serviço ou produto perca valor para o cliente. A construção da sua comunicação deve ser capaz de gerar o engajamento pessoal e emocional com a sua marca e com os seus produtos. Emoção e personalização são duas coisas que impulsionam o cliente do luxo e pesam na hora que ele decide fazer uma compra. Utilizar palavras que remetem ao universo do luxo, expressões para receber, interagir e despedir-se do cliente com base na hospitalidade 5 estrelas vão transformar a percepção do cliente ao interagir com você. Se essa é a evolução que você busca, eu te convido para o curso Comunicação e Vocabulário no Atendimento de Luxo da Universidade Instituto do Luxo. É um treinamento prático, direto ao ponto, para alinhar forma e conteúdo, fortalecer vínculos e fazer o cliente sentir com naturalidade a exclusividade da sua marca.
 
 ### Legenda
 

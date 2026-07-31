@@ -8,7 +8,7 @@ tags: []
 duracao: "43s"
 data_post: 2025-08-04
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Faz sentido terceirizar a produção de criativos pra uma agência? Olha, um criativo ruim custa muito caro. Caro mesmo. Ele é caro em resultado, caro em escala, caro em tempo. E você só percebe isso quando você olha pro mês inteiro e vê o quanto perdeu ou deixou de faturar. Agora, quando você roda o criativo certo, como os Jiu-Di-Cis que a gente produz aqui na Turbo, o jogo muda. A Minimal Club, por exemplo, teve roas 13 com os nossos criativos. E é isso que acontece quando um anúncio para de parecer anúncio e começa a vender de forma orgânica e natural. E se você quer parar de queimar dinheiro com criativos que não geram resultado, toque aqui em Saiba Mais para conhecer as soluções de criativos feitas pela Turpa.
 
 ### Legenda
 

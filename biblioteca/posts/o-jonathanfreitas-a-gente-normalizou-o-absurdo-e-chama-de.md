@@ -8,7 +8,7 @@ tags: []
 duracao: "18s"
 data_post: 2025-12-10
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Por mais que possa parecer, eu nunca vou pertencer àquela cidade Um mar de gente, um sol diferente, um monte de patão Não me provoca nada, não me confio
 
 ### Legenda
 

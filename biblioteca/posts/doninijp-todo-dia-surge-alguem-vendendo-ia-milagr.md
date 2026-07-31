@@ -8,7 +8,7 @@ tags: []
 duracao: "51s"
 data_post: 2025-11-14
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Contratei a SDR IA para a imobiliária, mas os leads continuam frios. Não sei se o problema é a IA ou a campanha. A IA por si só não vai mudar o jogo da imobiliária. Se o tráfego não estiver gerando pelo menos 30%, 40% de lead qualificado, você está jogando dinheiro no lixo. Seja fazendo por conta ou até apostando em alguma agência que possivelmente não entende nada do mercado imobiliário. Aqui nós trabalhamos três pilares essenciais. Lead qualificado chegando diariamente com intenção real de compra. captação de imóveis de alta liquidez para melhorar o teu portfólio e um pré-atendimento de elite com a melhor IA do mercado imobiliário para você economizar o tempo dos seus melhores corretores. Aplicando isso, nós geramos mais de 400 milhões em VGV em dois anos atuando 100% focado no mercado imobiliário. A gente não atende outro segmento por aqui. Só que aqui embaixo a gente saiba mais esse cadastro que eu vou te mostrar na prática como que isso se aplica para você.
 
 ### Legenda
 

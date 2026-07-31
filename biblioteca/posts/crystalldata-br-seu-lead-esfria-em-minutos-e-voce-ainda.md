@@ -8,7 +8,7 @@ tags: []
 duracao: "1min00"
 data_post: 2025-07-23
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você levaria quanto tempo para reaquecer 60 leads no seu WhatsApp? Aqui na Crystal Data, a gente teve um cliente que semana passada fez isso em 15 segundos usando a clara, a inteligência artificial que eles denominaram. E o melhor disso, 55% desses leads voltaram a engajar, começaram a receber os imóveis de acordo com o seu perfil ideal. Eles foram até para um funil de visita ou até de uma reunião online. Isso é o resultado de inteligência artificial dos nossos agentes na operação da imobiliária. tá no dia a dia do corretor você ter é uma inteligência artificial fazendo esse atendimento como a Clara fez preço nosso usuário significa ganhar tempo sabe retomar retomar oportunidades esquecidas e até manter um relacionamento ativo com todos os seus leads tá sem depender de um trabalho manual sem depender de uma planilha tá ou até porventura períodos que você não esteja trabalhando como tem uma assistente 24 horas que conhece seu funil entrega resultado tá isso daí tudo a gente entrega com os nossos agentes de qualificação na Cristal Data. Você quer testar no seu WhatsApp? A gente vai mostrar pra você como. Grande abraço.
 
 ### Legenda
 

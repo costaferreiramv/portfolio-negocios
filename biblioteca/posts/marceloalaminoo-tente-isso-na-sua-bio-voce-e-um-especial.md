@@ -8,7 +8,7 @@ tags: []
 duracao: "1min08"
 data_post: 2025-08-05
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Toma muito cuidado e fica muito esperto Pra você não cometer esse erro aqui, ó Na bio aí do seu perfil do Instagram Se você fazer isso aqui, ó Você tá praticamente pedindo pro Instagram Não recomendar o seu perfil pra ninguém É sério, a bio é muito importante Pra você conseguir converter visitantes em seguidores E até pro Instagram recomendar mais o seu perfil Eu vou mostrar como que você cria a bio perfeita Aí pro seu perfil Antes, só deixa o seu curtido aqui, né? Primeira coisa, você vai entrar aqui no seu perfil, ó E vai tirar um print aqui da sua bio Depois você vai vir aqui e vai recortar esse print Pra de fato aparecer só a parte aqui da sua bio Feito isso, você vai vir aqui no chat, ó Vai vir aqui em mais, anexar fotos E vai adicionar esse print que você acabou de tirar Feito isso, você vai adicionar esse comando aqui, ó Onde você pede pro chat atuar como especialista em Instagram E criar uma bio personalizada Seguindo uma estrutura viral aí pro seu perfil Eu vou colocar esse comando aqui na legenda Mas, se você quiser, eu também posso te enviar ele É só você comentar a palavra biografia Depois é só você clicar aqui, ó Pra enviar, aguardar alguns segundos E prontinho, ele já cria uma bio nova otimizada aí pro seu perfil, explica todas as mudanças e até dá algumas sugestões adicionais aí pro seu perfil. Muito legal, né?
 
 ### Legenda
 

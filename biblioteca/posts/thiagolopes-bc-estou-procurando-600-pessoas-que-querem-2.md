@@ -8,7 +8,7 @@ tags: []
 duracao: "1min09"
 data_post: 2025-10-28
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Em apenas um minuto eu vou te mostrar como é que você pode ganhar um salário de médico utilizando inteligência artificial. Um médico iniciante ganha quanto? Uns 10, 20, 30 mil reais por mês? Tem gente fazendo isso agora, sem diploma e sem anos de faculdade. Você decide quanto quer ganhar. A verdade é o seguinte, a maioria das pessoas não sabe nem por onde começar. Há 5 anos eu desenvolvi uma tecnologia que permite donos de negócios implementarem em seus negócios. E nesses 5 anos geramos mais de 100 milhões de reais com essa tecnologia. O Brasil possui 24 milhões de empresas ativas hoje. Praticamente toda empresa quer utilizar a inteligência artificial de alguma forma pra ganhar mais dinheiro. Existe uma solução de inteligência artificial específica que todas elas precisam. Por isso eu decidi abrir uma oportunidade que eu nunca fiz antes. Estou procurando 600 pessoas que querem fazer dinheiro com IA, trabalhando de casa e no tempo que quiserem. Essa é uma oportunidade de uma vida. Eu acredito que essas 600 pessoas vão dividir pelo menos 50 milhões de reais nos próximos 12 meses. Agora você está no momento de escolha. Você pode rolar pra baixo e continuar a sua vida. Ou você pode clicar aqui e em 15 minutos você vai entender tudo. E daqui a 5 anos, qual história que você quer contar?
 
 ### Legenda
 

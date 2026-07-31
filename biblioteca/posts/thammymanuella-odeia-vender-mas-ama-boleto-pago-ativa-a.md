@@ -8,7 +8,7 @@ tags: []
 duracao: "23s"
 data_post: 2025-06-01
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ah, mas eu vou ter um vídeo. Ah, mas esse negócio... Ah, mas tem que fazer reunião. Ah, mas é difícil. Clique em saber mais e acessa. Agora. Tá na tua mão. E o preço tá aí, diga. Ah, mas... Libera logo, vai.
 
 ### Legenda
 

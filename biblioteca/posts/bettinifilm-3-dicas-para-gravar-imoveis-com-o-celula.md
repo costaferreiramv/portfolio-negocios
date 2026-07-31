@@ -8,7 +8,7 @@ tags: []
 duracao: "47s"
 data_post: 2025-09-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+3 dicas para fazer vídeos imobiliários com o seu celular E a primeira é sobre Speed Ramp Para ter qualidade, esquece movimentos curtos O ideal é criar um movimento longo atravessando o ambiente de ponta a ponta Trazendo esse efeito Você também pode usar esse efeito em um único vídeo Sem a necessidade de trocar de um para o outro Basta trabalhar outra curva de velocidade e você já cria uma sensação completamente diferente A segunda dica é sobre movimentação do corpo Você não precisa inventar movimentos exagerados O segredo é manter as pernas semi-abertas, os joelhos levemente flexionados e usar o corpo para deslizar de um lado para o outro. Isso serve para todos os movimentos. E a terceira dica é sobre lentes do celular. Alterne entre elas para variar a forma como você apresenta o ambiente. Assim você consegue mostrar amplitude quando precisa, mas também consegue destacar detalhes importantes quando foca um objeto ou acabamento. Se você gostou, siga para mais dicas.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "40s"
 data_post: 2025-07-03
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você quer saber como essa imobiliária investiu R$ 1.400 e realizou 4 vendas em apenas 30 dias? Pode parecer mentira, né? Mas não é. E eu vou te explicar como que a gente fez isso. Nós temos um processo comercial prático, nós temos criativos validados, nós temos os melhores gestores de tráfego, um grande time para poder atender a sua imobiliária, a sua incorporadora, você corretor autônomo. E além disso, nós temos todo um processo educacional que vai ensinar você a trabalhar muito bem essa jornada do lead. Do momento que ele entra no funil até o fechamento. Se você quer entrar nesse jogo, escalar suas vendas, é só clicar no link aqui embaixo que meu time está esperando para te atender. Valeu!
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min00"
 data_post: 2025-07-15
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+A boa notícia é que provavelmente não é apenas você que cometeu esse erro de contratar um chatbot com a esperança de ter mais performance no time comercial. O que dá certo em questão de inteligência artificial é o que eu vou mostrar aqui no computador. Esse aqui é um de 16 fluxos com inteligência artificial que compõem um funil de vendas de um cliente. É assim que a gente faz a captura, a nutrição, a qualificação, o follow-up, chamando uma call de vendas, o encaminhamento para a venda, e depois caso a gente não feche, a gente faz ali a recuperação da venda. Então se você quiser ver isso aqui na prática, aplicado na tua empresa, vendo um demonstrativo do que a gente consegue fazer aqui na Temes, aperta no botão que está aparecendo aqui embaixo, a gente vai marcar uma call de 45 minutos, é um jogo rápido, a gente vai analisar antes o teu funil de vendas, a tua empresa, e mostrar onde tu pode de fato aplicar inteligência artificial com sucesso. Depois dessa call, não é pitch de vendas, tu vai comprar algo apenas se tu quiseres, senão vai ter forçação de barra, então aperta aí no botão, deixa eu bater um papo, e no pior do cenário você vai saber exatamente o que fazer com o IA na tua empresa. Valeu!
 
 ### Legenda
 

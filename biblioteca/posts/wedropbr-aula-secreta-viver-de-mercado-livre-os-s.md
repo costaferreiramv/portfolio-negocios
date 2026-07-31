@@ -8,7 +8,7 @@ tags: []
 duracao: "2min00"
 data_post: 2025-03-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Opa! Será que rola de ficar rico vendendo ralo de banheiro? Meu amigo, esse mesmo produto é vendido no Mercado Livre no valor aqui de R$ 21,75. R$ 21,75 no Mercado Livre. Nesse anúncio apenas, já vendeu mais de 50 mil unidades em um único anúncio, um único vendedor, ok? E exatamente esse mesmo item aqui na Udrop, olha aqui, na Udrop ele vai te custar R$ 7,99. Mesmo produto, a mesma coisa. Já fazendo para você uma continha rapidinha aqui, você vê, olha só. Ralo Cout, no Mercado Livre ele é vendido a R$ 21,75. Só que não é isso aqui que você recebe. Já batendo a comissão do Mercado Livre, na venda você recebe o valor de R$ 14,00. Menos o valor de custo na e-drop, seria lucro líquido aqui de R$ 6,00. Vezes as mais de 50 mil unidades vendidas lá no único anúncio, te daria R$ 300 mil de lucro vendendo ralo de banheiro no Mercado Livre. E eu gravei uma aula completa chamada Viver de Mercado Livre. Fica tranquilo que isso aqui não é venda de curso. Lá eu te revelo os segredos desse que é o maior e-commerce e marketplace da América Latina pra você transformar o Mercado Livre na sua principal fonte de renda. É isso aí, meu camarada. Ou minha amiga também, né? Mercado Livre, você nunca viu do jeito que eu vou te mostrar. Uma oportunidade de você ganhar dinheiro ao invés de você só gastar. Lá, cara, eu vou te falar que são milhões de pessoas que passam diariamente no mercado livre, ou seja, é um mercado gigantesco, é um marketplace muito grande e você vai conhecer um método simples para lucrar com vendas através da internet diariamente, melhor de tudo, sem você investir um real sequer em estoque. Lá você vai entender também como começar um negócio digital sólido, escalável, mesmo que você ainda nunca tenha vendido nada antes pela internet. você já vai tocar e saiba mais, escolher o melhor horário para você assistir e eu te vejo lá na aula. Mas corre, eu não sei até quando eu vou deixar esse vídeo aqui rodando. Espero você, vambora!
 
 ### Legenda
 

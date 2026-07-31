@@ -8,7 +8,7 @@ tags: []
 duracao: "54s"
 data_post: 2025-12-03
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+E o sucesso não é algo que você corre atrás. O sucesso é algo que você atrai. As pessoas querem vender mais, mas não estudam sobre vendas. As pessoas querem ser mais felizes, mas não estudam sobre felicidade. As pessoas querem ter mais sucesso no seu casamento, mas não estudam sobre casamento. Você simplesmente não estuda nada. Você quer que o sucesso aconteça de uma forma espontânea. E o sucesso não é algo que você corre atrás. Presta atenção, o sucesso é algo que você atrai. O sucesso é uma pessoa que procura um bom lugar pra ficar. Sabe qual é o nosso problema? A gente quer que as vendas aconteçam e as vendas não acontecem. Você precisa provocar as vendas. Você precisa fazer com que elas aconteçam. Aumentar o seu nível de fechamento. Aumentar o seu nível de prospecção. Não compra um curso, não lê um livro, não assiste uma palestra, se distrai na reunião. Se eu não mandar o vídeo, é engraçado. Se eu não mandar o vídeo de terça, a sessitulidade da reunião cai drasticamente. Acesso ao instituto, mais de 100, 200, 300 horas de aulas puramente práticas. E não assiste. É de graça. De graça não. Eu pago. Pra que você tenha acesso. Tudo de cara.
 
 ### Legenda
 

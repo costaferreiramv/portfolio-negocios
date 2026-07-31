@@ -8,7 +8,7 @@ tags: []
 duracao: "34s"
 data_post: 2025-10-14
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Boa pergunta! Muita gente quer fazer disparo em massa sem ter o API oficial da Meta. O que é isso? Quando a gente faz, não tem autorização, não é por um aplicativo que tem que ser oficial, que tem essa autorização, você pode perder sua conta de uma maneira muito rápida. Eu tenho clientes que perderam a conta do WhatsApp. Então, disparo em massa tem que ser por aplicativo que tem o API da Meta e eu indico, polidigital. Vale a pena porque eles têm uma semana também de teste gratuito Então vai lá, se cadastra, faz o teste, vocês vão gostar
 
 ### Legenda
 

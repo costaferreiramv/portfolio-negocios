@@ -8,7 +8,7 @@ tags: []
 duracao: "42s"
 data_post: 2025-07-10
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Tudo bom? Pode botar 100 de comum, por favor. Gastei 100 reais de gasolina. Estou controlando aqui meus gastos. Eu contratei essa ferramenta, meu assessor, que é uma ferramenta com inteligência artificial, onde todos os meus gastos do dia a dia, eu vou jogando aqui e olha só, ele já anotou quanto que eu gastei aqui. E agora, quando eu quiser saber o meu gasto mensal. O assessor, quanto que eu gastei de gasolina esse mês? Eu posso fazer qualquer pergunta que ele vai me dar todas as informações. pode ser gasto com iFood, gasto com Uber gasto com gasolina, qualquer gasto teu do teu dia, tu vai anotando e ele te dá um relatório completo se tu quiser otimizar tuas finanças e também teus compromissos, clica no link aqui embaixo
 
 ### Legenda
 

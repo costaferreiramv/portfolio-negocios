@@ -8,7 +8,7 @@ tags: []
 duracao: "33s"
 data_post: 2025-10-17
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Essa AI não tira férias, não fica doente e ainda entrega mais do que metade do seu time de pré-vendas. Enquanto o SDR Humano fez uma ligação, a Prospect AI falou com 3 leads simultaneamente, validou necessidade, orçamento e já agendou uma reunião. A Prospect AI não improvisa, ela executa o seu pitch com a precisão que nenhum ser humano consegue ter 24 horas por dia. Ela segue o Spin, o GPCT, a data em tempo real e nunca comete um erro. E o melhor, custa 3 vezes menos. Sem CLT, sem gestão, sem rotatividade. Clique em Saiba Mais para destravar o seu crescimento agora.
 
 ### Legenda
 

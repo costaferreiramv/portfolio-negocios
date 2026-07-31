@@ -8,7 +8,7 @@ tags: []
 duracao: "1min25"
 data_post: 2025-03-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Imobiliária de uma pessoa só. Aquela figura que trabalha de forma autônoma no mercado imobiliário. Essa figura hoje, em 2025, pode ganhar mais do que muitas imobiliárias com dezenas de corretores. E para dar esse salto, essas figuras precisam aprender o que são agentes de inteligência artificial. Os agentes de inteligência artificial podem atender clientes ao telefone, pode responder clientes ao WhatsApp, pode também fazer oferta ativa, pode preencher CRM, coisa que muita gente não gosta de fazer. E para você sair na frente e deixar um monte de gente para trás e aprender tudo isso, eu separei dois dias para a gente ficar junto, um tempo de qualidade, onde nós vamos passar de 9 da manhã até as 17 horas entendendo tudo sobre inteligência artificial aplicada na vida de um profissional autônomo. Se você é um autônomo e quer faturar igual uma imobiliária com faturamento de gente grande, precisa clicar agora e olhar o que eu coloquei na página depois que você clicar. Clica aí.
 
 ### Legenda
 

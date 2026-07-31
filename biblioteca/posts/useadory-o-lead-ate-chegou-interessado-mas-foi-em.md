@@ -8,7 +8,7 @@ tags: []
 duracao: "36s"
 data_post: 2025-06-28
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O lead chegou no seu WhatsApp. Mas em vez de atendimento, começou o questionário. Era pra ser simples, virou um interrogatório. Você perde tempo. E o lead perde o interesse. Com a dor é diferente. O atendimento já começa com contexto. Você entra só quando faz sentido. E o lead já vem quente. Atenda com rapidez e inteligência. Conheça a Dory.
 
 ### Legenda
 

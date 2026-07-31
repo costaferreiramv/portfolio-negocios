@@ -8,7 +8,7 @@ tags: []
 duracao: "22s"
 data_post: 2025-08-20
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você já perdeu um número por usar API não oficial, né? Uma hora funciona, outra hora some tudo e quem paga a conta é você. Com a Trendmult é API oficial homologada, sem bloqueio, sem improviso. Você dispara com confiança e estabilidade real. Cansado de jogar tempo e dinheiro fora, entre em contato agora mesmo e fale com um de nossos especialistas.
 
 ### Legenda
 

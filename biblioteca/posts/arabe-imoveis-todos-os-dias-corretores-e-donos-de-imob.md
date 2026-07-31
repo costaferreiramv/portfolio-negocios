@@ -8,7 +8,7 @@ tags: []
 duracao: "22s"
 data_post: 2026-02-25
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Espero andar mando lá fora Eu tenho que cuidar dos negócios agora Por isso que a guerra só anda com a guerra Por isso que olho não mistura com a água Por isso que o alemão não anda comigo Por isso que eu separo o joio do trigo Por isso que a guerra
 
 ### Legenda
 

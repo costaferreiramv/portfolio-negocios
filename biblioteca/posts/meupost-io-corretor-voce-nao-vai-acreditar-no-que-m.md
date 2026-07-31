@@ -8,7 +8,7 @@ tags: []
 duracao: "28s"
 data_post: 2026-01-05
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Meu post, o cliente disse que o imóvel está caro. Criar uma mensagem que faça com que ele entenda que o momento de compra é agora. Ele me ajuda no primeiro atendimento, reativar mensagens antigas e ainda fazer o follow-up. Quer parar de travar na hora de atender seus clientes pelo WhatsApp? Então clique aqui e experimente meu post. Na hora que você começar, não vai conseguir ficar sem.
 
 ### Legenda
 

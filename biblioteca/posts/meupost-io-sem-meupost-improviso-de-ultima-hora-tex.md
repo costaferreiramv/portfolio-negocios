@@ -8,7 +8,7 @@ tags: []
 duracao: "20s"
 data_post: 2026-01-11
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Quando o luxo e a localização se encontram, cada detalhe faz diferença. Aquele endereço que todo mundo quer, mas com um nível de luxo que poucas famílias podem ter. Vamos conhecer?
 
 ### Legenda
 

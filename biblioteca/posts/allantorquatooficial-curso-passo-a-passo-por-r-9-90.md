@@ -8,7 +8,7 @@ tags: []
 duracao: "44s"
 data_post: 2025-12-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Aqui estão os improváveis. Os invisíveis. Os inconformados. Aqueles que nascem com pouco e sonham com tudo. Os que são chamados de doidos e sonhadores. De quem não sabe o seu lugar. Eles não seguem regras. Nem pedem permissão. Não aceitam o... Isso não é pro meu bico. Somos os que vieram de fora do jogo. Sem padrinhos. Sem pedigree. Só decisão, desapego e fé Porque somos os que mudam as coisas Os que desafiam o possível Podem até zombar Desacreditar, ignorar Só não podem Nos parar
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min06"
 data_post: 2025-06-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+É, corretor de imóveis, tá aí postando seus imóveis no seu Instagram todos os dias, mas no final, nada de venda. A verdade é dura e eu vou te falar. Enquanto você tá esperando alguém ver o seu post do seu imóvel e ficar interessado por ele, tem corretor vendendo todos os meses usando as estratégias de divulgação de imóveis através do tráfego pago. E o que eu vou te ensinar aqui dentro não é teoria, é método validado pelos meus mais de 100 clientes do setor imobiliário aqui na minha agência. Entre eles, a maior monteadora do estado do Rio de Janeiro, o maior banco de investimentos imobiliários do Brasil e o prédio da Ferrari, o prédio mais caro do Rio de Janeiro que também é meu cliente. Além de mais de 10 mil corretores de imóveis com malunhos, já validando o meu método de anunciar imóveis no Instagram, Facebook, Google e YouTube. Você sai do completamente zero e até 72 horas depois de fazer o meu curso, você já vai estar gerando os seus leads para os seus imóveis. Então, coletor de imóveis, se você quer parar de depender de sorte, de indicação, de líder imobiliário e começar a gerar os seus próprios leads, é aqui dentro que eu te espero. Dentro do maior e mais completo, 100% autorizado, curso de tráfego pago para coletores de imóveis.
 
 ### Legenda
 

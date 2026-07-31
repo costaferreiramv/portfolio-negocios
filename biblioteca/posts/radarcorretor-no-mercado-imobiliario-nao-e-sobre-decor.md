@@ -8,7 +8,7 @@ tags: []
 duracao: "56s"
 data_post: 2025-09-17
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O que você acha que diferencia um corretor mediano de um corretor de alta performance? Inicialmente, capacidade de adaptação. Um mundo com tanta informação, com tantos dados, capacidade do corretor de se adaptar a aprender, desaprender e reaprender uma educação contínua. Qual é o segredo para criar relacionamento duradouro com os clientes? Honestidade. Ser honesto e entender exatamente qual é a necessidade e solucionar o problema do teu cliente. Qual dica você daria para quem está começando na corretagem agora? Estuda, estuda muito. Não é uma profissão qualquer não, tem que estudar muito. O que o cliente de hoje mais busca em um corretor? Oportunidade. Oportunidade do melhor imóvel, da melhor localização, do melhor negócio e da melhor pessoa com muito compromisso com a verdade e também com o retorno que cada um de nós colocamos no imóvel.
 
 ### Legenda
 

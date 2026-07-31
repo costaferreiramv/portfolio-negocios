@@ -8,7 +8,7 @@ tags: []
 duracao: "29s"
 data_post: 2025-07-29
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Esse é o estilo de vídeo imobiliário para você se inspirar. Esse é o estilo de vídeo topo de funil, onde você se preocupa muito mais em atrair e entreter do que a venda em si. Se você quer aprender a fazer esse vídeo, escreve aqui embaixo o tutorial que eu trago futuramente aqui.
 
 ### Legenda
 

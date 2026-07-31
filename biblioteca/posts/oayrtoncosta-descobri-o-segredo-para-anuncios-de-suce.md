@@ -8,7 +8,7 @@ tags: []
 duracao: "29s"
 data_post: 2025-06-04
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+A verdade é que quanto mais simples a campanha, melhor o lucro, é verdade. E é por isso que o gestor complica tanto com otimizações complexas, porque se você soubesse disso, você não ia pagar um gestor fixo todos os meses. Tudo que você precisa são 30 minutos por dia e 3 configurações simples que vão te garantir lucro e resultado previsível. Eu fiz um vídeo curto para te mostrar como que você consegue assumir o controle do seu tráfego com apenas 30 minutos por dia. Clique aqui no link.
 
 ### Legenda
 

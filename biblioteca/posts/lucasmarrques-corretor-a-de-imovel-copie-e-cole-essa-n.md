@@ -8,7 +8,7 @@ tags: []
 duracao: "45s"
 data_post: 2026-02-10
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ô amigo, bom? Qual que é o seu nome? Lucas. Lucas, qual que é a sua profissão? Corretor de imóveis. E quanto que você ganha por mês? A gente fala não, cara. É tão alto assim? É, relevante. Mais de 10 mil? Pô, pouco mais. 40? Mais. Mais de 70 mil? Bem mais. Como assim, cara? O que você faz? Não é normal, né? O corretor no Brasil ganha em média 3 mil reais por mês. É porque a gente trabalha de um jeito diferente. Mas o que você faz pra ganhar tanto assim? A gente desenvolveu um processo A gente trabalha de um jeito que ninguém mais no mercado Está trabalhando e nós estamos colhendo os frutos disso 70 mil? Um pouco mais E como eu aprendo a fazer isso? Tem que clicar aqui embaixo Nesse link aqui embaixo, você vai entender como a gente trabalha
 
 ### Legenda
 

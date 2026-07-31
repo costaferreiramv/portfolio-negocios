@@ -8,7 +8,7 @@ tags: []
 duracao: "25s"
 data_post: 2025-08-02
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você pagaria 50 mil a mais no imóvel sem nem saber? Um em cada três imóveis está com preço acima do que realmente vale. Você olha a fachada, o piso, mas não sabe o valor real. Pode estar pagando por um imóvel que não vale nem perto o que estão cobrando. Com o Checkmóvel, você descobre o valor justo com base em critérios técnicos. E o melhor, sem ser engenheiro. Evite pagar caro. Baixe o Checkmóvel agora.
 
 ### Legenda
 

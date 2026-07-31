@@ -8,7 +8,7 @@ tags: []
 duracao: "36s"
 data_post: 2025-10-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Corretor de imóvel, descubra o erro que está matando suas indicações. E você nem sabe. Corrija isso. Com um truque de apenas 15 minutos por dia no WhatsApp. Enquanto corretores mais novos fecham toda semana, suas décadas de contatos estão sendo desperdiçadas. O problema? Seus contatos nem lembram que você trabalha com imóveis. O Carlos, 48 anos, ex-contador, 2 anos como corretor, teve zero indicações. Até mandar uma mensagem simples para ex-colegas no WhatsApp. 30 dias depois, 47 mil reais em comissões. O segredo? Só 15 minutos por dia no WhatsApp, sem TikTok, sem virar influencer. Descubra as três mensagens exatas nesse vídeo gratuito. Clique em Saiba Mais agora.
 
 ### Legenda
 

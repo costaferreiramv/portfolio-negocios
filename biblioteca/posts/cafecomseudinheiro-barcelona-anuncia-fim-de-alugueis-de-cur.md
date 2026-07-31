@@ -8,7 +8,7 @@ tags: []
 duracao: "55s"
 data_post: 2025-11-02
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Não mais Airbnb em minha cidade em 2028. Nós decidimos que ban a renta turística em nosso cidade. Nós aplicamos uma RENC cap para um RENC. Desde que fizemos isso, RENC capa em Barcelona de 9%. Nós adotamos em Barcelona extraordinárias medidas para responder a uma situação extraordinária. Mas não é suficiente. A casa é hoje a primeira source da desigualdade social em toda a Europa em cidades. A nossa luta hoje é garantir o direito dos cidadãos de ficar em nossas cidades. Todos precisamos proteger o direito das pessoas de ficar em suas próprias cidades. Precisamos de ação em todos os níveis, porque temos um objetivo comum. Ação da Ação da Casa da Casa.
 
 ### Legenda
 

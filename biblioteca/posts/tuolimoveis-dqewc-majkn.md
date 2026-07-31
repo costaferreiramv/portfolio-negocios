@@ -8,7 +8,7 @@ tags: []
 duracao: "20s"
 data_post: 2025-10-31
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+A mesa oval é perfeita para reunir a família. Na atualidade, cada detalhe é pensado para criar momentos inesquecíveis. Você personaliza medidas, acabamentos e combina com as cadeiras do seu jeito. Tudo com o design e qualidade que sua casa merece. Entre em contato com nossa equipe e descubra mais.
 
 ### Legenda
 

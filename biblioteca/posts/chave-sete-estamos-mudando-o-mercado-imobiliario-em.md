@@ -8,7 +8,7 @@ tags: []
 duracao: "1min03"
 data_post: 2025-06-30
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Na chave 7, você tem esse imóvel com comissão 100% sua e mais de 3 mil imóveis. Corretor, a venda desse imóvel vai te dar uma comissão de 160 mil reais. A venda de dois imóveis, neste contexto, vai te dar uma renda mensal de 26 mil reais. Será que é fácil? Com certeza não. A profissão do corretor é desafiadora. Você tem que se modernizar, estudar diariamente, ter foco, fazer o que é certo. Com certeza você precisa das ferramentas que vai te trazer o sucesso. Baixe o app agora, ganhe um acesso gratuito. Além desse imóvel, vai ter 10 escolhidos para você. Além disso, tem uma formação excelente que vai te colocar em alto nível. Chave 7, a virada para a sua alta performance. Legenda Adriana Zanotto
 
 ### Legenda
 

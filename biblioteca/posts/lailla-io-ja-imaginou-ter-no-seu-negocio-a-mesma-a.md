@@ -8,7 +8,7 @@ tags: []
 duracao: "37s"
 data_post: 2025-06-20
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Como automatizar o WhatsApp da minha empresa sem que pareça um robô? Só tem uma maneira de automatizar um WhatsApp, deixar ele automático respondendo por você, sem que pareça um robô. Utilizando uma ferramenta que te dê a possibilidade de interações humanas. Não dá pra usar um bot no seu WhatsApp, vai ficar robotizado. Você precisa usar uma ferramenta que te dê a possibilidade de pegar a sua atendente e multiplicá-la no atendimento. Com os vícios de linguagem dela, com o jeito que ela conversa no WhatsApp, usando a voz dela de forma automática e fazendo com que ela também escute os áudios do seu cliente. Mas será que isso é possível? Existe uma ferramenta assim? Eu tô aqui pra te dizer que sim. Então toca em Cybermise e vou mostrar pra você. Vou te dar de mão beijada como você pode pegar essa ferramenta e jogar no seu negócio.
 
 ### Legenda
 

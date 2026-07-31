@@ -8,7 +8,7 @@ tags: []
 duracao: "1min49"
 data_post: 2025-06-24
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Um corretor autônomo ou uma dupla ou um trio vai ter uma vantagem absurda em cima de grandes imobiliárias. Eu vou te explicar por quê. Porque nós estamos na era da tecnologia e o autônomo que souber programar um assistente virtual, ele vai ter, na verdade, mais de 100, 300 ou 400 pessoas trabalhando para ele. E eu quero te dizer que é um oceano azul ainda. porque muitos corretores ainda nem sabem como é que faz isso. Então eu quero te chamar para dois dias juntos, aonde de 9 às 17 horas nós vamos estar falando como que um corretor autônomo, aquela famosa imobiliária de uma pessoa só, ou talvez você que é dupla, que trabalha com o seu cônjuge, ou até mesmo um trio, uma equipe enxuta de poucas pessoas, podem colocar o novo tráfego pago para seu favor, utilizando assistentes virtuais, e você ganhar muito mais do que grandes imobiliárias, por exemplo, que estão ainda na era de colocar um monte de gente ineficiente para trabalhar. Se você tem conexão com esse assunto, você precisa clicar aí e conhecer, pelo menos conhecer, Não ignorem, igual muitos já fizeram em 2016, 2017, ignoraram o marketing digital, pagaram alto preço por colocar isso depois. Nós estamos numa outra era e você precisa aproveitar essa era onde poucas pessoas sabem. Então clica aí agora, conhece, vem pra junto, pra gente aprender aí.
 
 ### Legenda
 

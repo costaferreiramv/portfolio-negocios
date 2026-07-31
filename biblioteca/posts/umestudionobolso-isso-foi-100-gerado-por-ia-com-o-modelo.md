@@ -8,7 +8,7 @@ tags: []
 duracao: "15s"
 data_post: 2026-02-14
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você matou a Jeffrey Epstein, você animal! Ele era um bom homem! Ele sabia muito sobre a nossa operação de russas. Ele tinha que morrer, e agora você morrer, também.
 
 ### Legenda
 

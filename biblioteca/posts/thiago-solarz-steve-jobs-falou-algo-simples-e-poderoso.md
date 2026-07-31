@@ -8,7 +8,7 @@ tags: []
 duracao: "1min52"
 data_post: 2025-10-04
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu gostaria de dizer que você está falando sobre isso, por exemplo, para você expressar em termos claramente como Java, se trata de ideias embodidas em OpenDoc. E quando você está terminando com isso, talvez você possa dizer o que você tem feito por 7 anos. You know, you can please some of the people, some of the time, but... One of the hardest things when you're trying to affect change is that people like this gentleman are right in some areas. Eu tenho certeza que existem coisas que OpenDoc, provavelmente mais que eu não me familiarizarei, que nada mais outro lado faz. E eu tenho certeza que você pode fazer algumas demos, talvez uma pequena app de comercial, que demonstra essas coisas. O difícil é, como isso se encaixar em uma visão cohesiva, maior, uma visão que vai te permitir para vender 8 bilhões, 10 bilhões de produtos a mês. E uma coisa que eu sempre encontrei é que você tem que começar com a experiência do cliente e trabalhar com a tecnologia. Você não pode começar com a tecnologia e tentar descobrir onde você vai vender. Eu tenho feito esse errores mais do que ninguém mais do que em este lugar.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min05"
 data_post: 2025-11-27
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+É agora a hora de comprar ou espera para 2026, na sua opinião? Vai sair uma nova reforma tributária. A gente vai crescer aproximadamente entre 5% e 8% no preço do imóvel. Por causa da reforma tributária, mais tributos? Isso vai ser repassado, não tem jeito, não tem como ser absorvido. Vai ser menos para os imóveis econômicos e mais para os imóveis de alto padrão. Então o preço vai subir. O preço vai subir. Não é só a inflação. Não. Segunda componente, está faltando mão de obra na construção civil. Hoje, cada vez mais, a média da idade dos funcionários aumenta. Então, para você reter essas pessoas, você tem que pagar mais. Terceiro, o plano de diretor participativo está sendo discutido, mas a gente vê aí que tem algumas regiões como Aldeó e Meirelles, o índice básico vai cair. Então, consequentemente, isso aí irá refletir no preço. Então você pergunta, quem quiser adquirir imóvel, eu acho que a hora é mais do que agora. É mais do que agora. A pessoa tem que partir porque ele vai valorizar até pelos custos.
 
 ### Legenda
 

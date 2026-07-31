@@ -8,7 +8,7 @@ tags: []
 duracao: "49s"
 data_post: 2025-10-01
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você sabe fazer isso? Você sabe usar elementos 3D como esses? E mudar o seu cenário? Sabe escrever textos de um jeito diferente? Ou até mesmo colocar eles por trás de você? Você sabe passar por debaixo de um texto? Ou até mesmo fazer transições mais criativas pra prender a atenção nos seus vídeos? Um efeito sonoro pra impactar a sua mensagem. Você sabe fazer? Sabe melhorar a sua pele em segundos naqueles dias que você não tá legal? Aprimorar a qualidade do seu áudio? E dar mais personalidade pra tudo que você faz? Não sabe? Ainda não! Então clica aqui nesse vídeo que em poucas horas você aprende tudo isso. E por um precinho de uma pizza. Só que corre, porque esse valor promocional, ele vai acabar.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "23s"
 data_post: 2025-07-28
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu sei que nessa hora tudo o que você mais queria Era morar num apartamento do lado do trabalho Ou do lado da escola das crianças E se você quer ter acesso às melhores opções aqui de Goiânia É só seguir o nosso perfil do Fala com a Andressa
 
 ### Legenda
 

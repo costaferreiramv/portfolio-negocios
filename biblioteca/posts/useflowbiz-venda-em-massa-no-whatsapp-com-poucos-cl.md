@@ -8,7 +8,7 @@ tags: []
 duracao: "30s"
 data_post: 2025-09-16
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+A mesma mensagem no WhatsApp não funciona para todos. Com o envim massa da Flowbeez, você envia e segmenta com precisão. Se o seu cliente não retorna a 30 dias, você envia um incentivo para que ele volte a comprar. Se o seu cliente já comprou recentemente, você oferece uma oferta para que ele compre novamente com desconto. É 100% rápido, automatizado e eficiente. Conheça o recurso no link abaixo. E aí
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "34s"
 data_post: 2026-01-23
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+IAs para imobiliárias não são a mesma coisa. E por isso, criamos um teste que coloca lado a lado as principais IAs do mercado imobiliário. Responder a mensagens não paga boleto da sua imobiliária. O que aumenta faturamento é converter conversa em visita. No nosso e-book exclusivo, analisamos as principais IAs em critérios específicos. Quem entende o cliente, quem faz follow-up, quem agenda a visita e quem realmente ajuda a vender mais. Se você quer parar de perder leads e aumentar suas vendas em 2026, clique abaixo e baixe agora nosso e-book exclusivo.
 
 ### Legenda
 

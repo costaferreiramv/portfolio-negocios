@@ -8,7 +8,7 @@ tags: []
 duracao: "12s"
 data_post: 2025-11-19
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ele disse que um dia você vai deixar de ser um dia Então, você vai ter a vida você vai lembrar Meu pai disse que eu era só um filho Ele disse que um dia você vai deixar de ser um dia
 
 ### Legenda
 

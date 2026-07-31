@@ -8,7 +8,7 @@ tags: []
 duracao: "33s"
 data_post: 2025-04-01
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Essa inteligência artificial gera clientes 100% de maneira automática para o meu negócio. E a única preocupação que eu tenho é essa. Visitar o imóvel e vender. Vem ver como que funciona. Aqui você coloca a descrição do seu imóvel, seleciona as fotos e os grupos dos quais você participa. Hoje temos 191 grupos da quase 2 milhões de pessoas atingidas. Ele vai postar para você 7 dias por semana, 30 dias por mês, 24 horas por dia. E você vai se preocupar apenas em vender e atender. E essa inteligência artificial está 50% off. Clique em Saiba Mais e garante a sua máquina de liga. Mude o jogo em 2025.
 
 ### Legenda
 

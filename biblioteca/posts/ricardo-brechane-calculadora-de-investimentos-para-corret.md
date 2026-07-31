@@ -8,7 +8,7 @@ tags: []
 duracao: "1min07"
 data_post: 2024-11-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Se você é corretor de imóveis e quer atender o cliente investidor do mercado imobiliário, não sabe como calcular correção durante o período de obra, correção de saldo devedor, assim como valorização desse imóvel mês a mês, quando esse cliente consegue ter lucro líquido no final, então até sabe fazer esses calculos assim. Mas demora muito tempo para passar as informações para esse cliente, perdendo todo o time de venda e negociação, eu desenvolvi uma calculadora de investimento imobiliário, onde você vai apenas colocar o valor de tabela do seu produto, o valor de compra que esse cliente está adquirindo dentro da negociação, valor de entrada, valor de parcela mensal e reforços. Também você vai configurar a valorização prevista para cada região e também a correção durante esse período de obra. Em menos de 10 segundos você vai ter todas as informações até a entrega do imóvel saindo dessa tabela com o lucro líquido que o seu cliente vai ter. Tudo isso em menos de 10 segundos. aproveitando o tempo de resposta curta e a emoção do momento para um possível fechamento. Essa planilha já está disponível para compra. Clique em algum link por aqui...
 
 ### Legenda
 

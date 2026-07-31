@@ -8,7 +8,7 @@ tags: []
 duracao: "1min25"
 data_post: 2025-05-15
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Chegou a nova geração de atendimentos via WhatsApp. Sabe aqueles chatbots antigos que mais irritam do que ajudam? Digita 1 para atendimento, digita 2 para dúvidas, digita 3 para desistir do seu negócio. A verdade é que esses robôs genéricos ficaram ultrapassados. Hoje, com a inteligência artificial do chat GPT, é possível oferecer uma conversa real, contextual, inteligente, que entende o que o seu cliente está dizendo, adapta o tom, responde com naturalidade e fecha vendas sozinhas. E agora, graças a uma iniciativa da BotConversa, você pode usar uma inteligência artificial no seu WhatsApp, treiná-la com conteúdo do seu próprio negócio que colocava para trabalhar 24 horas por dia, sem pagar nada, sem mensalidades absurdas, sem intermediários complicados, sem aquelas respostas robóticas que afastam clientes. a gente vai bancar a tecnologia da inteligência artificial do chat EPT, a mais famosa do mundo, para você colocá-la no seu WhatsApp. É como você ter um vendedor inteligente, incansável e 100% treinado sobre o seu produto e sobre o seu negócio, funcionando direto no seu WhatsApp. E quem paga essa tecnologia de novo é a gente. Se você quer entender como funciona essa condição e quer colocar a inteligência artificial do chat EPT no seu WhatsApp sem pagar nada por isso, clica no link aqui embaixo e assiste a apresentação curta, que eu vou te explicar tudo sobre essa condição.
 
 ### Legenda
 

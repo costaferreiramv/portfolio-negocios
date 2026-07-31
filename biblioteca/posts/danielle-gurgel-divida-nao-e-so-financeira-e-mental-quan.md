@@ -8,7 +8,7 @@ tags: []
 duracao: "1min03"
 data_post: 2025-11-28
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Muito pessoas não entendem como se cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat O que você está se repaidando? O que você está se repaidando? Você está se ensinando até você para você comprar sua liberdade com interesse. É por isso que eles enviam a carta de crédito para gratuito na mail. É por isso que eles permitem você pagar em instalments. A mais querem você, e mais longo o período de pagamento, o mais dinheiro que você faz. É por isso que eles fizeram a estuda de crédito. Se você não tem o dinheiro para comprar em dinheiro, você não pode pagar. Você precisa de gastar sua pagina. Ok? As grossas as isso pode ser, Acece ocececece
 
 ### Legenda
 

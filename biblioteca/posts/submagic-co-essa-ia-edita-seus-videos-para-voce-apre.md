@@ -8,7 +8,7 @@ tags: []
 duracao: "34s"
 data_post: 2025-04-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Esquece CapCut, esquece Adobe Premiere, porque agora o negócio é editar vídeo com inteligência artificial, porque é muito mais simples. Você consegue criar vídeo viral com apenas 3 cliques e ainda deixar o seu vídeo muito envolvente. Se você quer editar vídeos em segundos, utilizar o inteligência artificial, é só entrar no submedic.co e lá tem tudo que você precisa para você editar os seus vídeos e viralizar. Ele faz tudo automático, ele remove silêncio, ele adiciona legenda, ele coloca B-roll nos seus vídeos pra ilustrar aquilo que você tá falando, ele dá zoom no seu vídeo pra poder dar mais dinamismo nos cortes. Você quer testar? É só clicar no botão aqui embaixo.
 
 ### Legenda
 

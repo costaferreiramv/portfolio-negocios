@@ -8,7 +8,7 @@ tags: []
 duracao: "34s"
 data_post: 2025-05-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Quais objeções você aguenta até desistir de uma venda? Uma, duas, três. Quais objeções você mais tem dificuldade? Tá caro, vou ver com a minha esposa, vou pensar em depois de falo, talvez mais pra frente. Porque se você responder errado uma objeção, você vai perder a venda. Porque você vai gerar desconfiança no cliente. E confiança é a base de qualquer venda. Ou você domina de uma vez por todas essas objeções, você vai continuar perdendo venda. E por isso eu decidi te ajudar. Eu tirei uma aula do meu melhor curso da nova escola de vendas. E o que é melhor? De forma gratuita, sem nenhum custo, pra poder te ajudar. É só você se cadastrar clicando aqui embaixo para você parar de perder vendas. Te vejo lá.
 
 ### Legenda
 

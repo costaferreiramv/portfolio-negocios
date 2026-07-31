@@ -8,7 +8,7 @@ tags: []
 duracao: "31s"
 data_post: 2025-10-27
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Piscina no rooftop. Localização estratégica. Academia completa. E estúdios mobiliados, decorados, com enxoval completo e já em funcionamento, esse é o segredo do Actual House. Com a ocupação média acima de 80%, este investimento imobiliário está rentabilizando mais de 1,5% para os nossos investidores. Se você tem interesse em saber mais informação e garantir aqui a sua unidade, mande uma mensagem nesse vídeo que um dos corretores da MyBroker Imobiliária vai entrar em contato com você. Valeu!
 
 ### Legenda
 

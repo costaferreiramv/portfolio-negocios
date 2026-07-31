@@ -8,7 +8,7 @@ tags: []
 duracao: "21s"
 data_post: 2025-08-07
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Dona de mobiliária, automatizar todo o seu atendimento sem trocar de sistema hoje é possível. Hoje nós temos um produto como a Samantha IA que consegue entender o seu mercado, atender lentes 24 horas por dia, agendar essas pessoas e guardar todas as informações com detalhes dentro do seu CRM. Já implementamos nosso IA em pelo menos 50 mobiliárias no Brasil e a sua pode ser a próxima. Agende uma demonstração clicando no botão abaixo.
 
 ### Legenda
 

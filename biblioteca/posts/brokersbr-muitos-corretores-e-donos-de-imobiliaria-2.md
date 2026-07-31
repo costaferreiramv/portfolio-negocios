@@ -8,7 +8,7 @@ tags: []
 duracao: "39s"
 data_post: 2025-08-19
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Tem uma frase que mudou a minha forma de vender no digital. O cliente não compra de quem sabe mais. Ele compra de quem parece melhor. Você pode estudar, ter anos de mercado, ter ótimos imóveis na carteira, mas se o seu Instagram não te posiciona como referência, você vira só mais um que posta imóvel e espera alguém cair no inbox. Chega! É hora de transformar a sua imagem digital na sua maior ponte de vendas. Na aula gratuita que liberei, eu mostro como dezenas de corretores venderam imóveis com um único vídeo sem gastar contrato agrupado. Fica aqui e assiste, porque a autoridade digital não se improvisa, se constrói com o método claro.
 
 ### Legenda
 

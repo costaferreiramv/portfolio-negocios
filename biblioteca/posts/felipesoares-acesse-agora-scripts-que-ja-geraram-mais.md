@@ -8,7 +8,7 @@ tags: []
 duracao: "29s"
 data_post: 2025-07-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Sabe aquele lead que te ignora como se fosse mais um spam? Talvez porque você ainda está agindo como mais um na caixa de entrada. Oi, tudo bem? Tem interesse no imóvel? Fala sério. Vamos deixar esse texto para os corretores que estão sempre reclamando do lead. Quer saber o que realmente funciona? O script de primeira abordagem está aqui para salvar o seu WhatsApp. Baixe aí e para de falar sozinho.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min40"
 data_post: 2025-10-11
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ontem bombou a internet sobre as notícias das alterações que o governo federal fez para os financiamentos imobiliários, que vai impactar muito o setor imobiliário no Brasil. Mas o que isso significa para você que quer comprar sua casa nova agora? Bom, a gente já sabe que a cota de financiamento sobe de 70% para 80% e se diminui seu valor de entrada. A gente também sabe que o valor do imóvel financiado vai subir. A trava antes era 1,5 milhão, agora até 2,5 milhões. as taxas também agora ficam travadas em até 12% ao ano. Agora a notícia que mais vai impactar o mercado imobiliário é essa aqui, sobre os compulsórios. Todo dinheiro emprestado para crédito imobiliário no Brasil provém da poupança. 65% é destinado para crédito imobiliário e 20% em compulsório. 15% os bancos ficam livres para emprestar de uma outra forma com maior rentabilidade. Acontece que esses compulsórios vão cair de 20% para 15%. Então 5 pontos percentuais. Isso dá mais ou menos de 20 a 25 bilhões a mais liberados e emprestados para crédito imobiliário. As novas regras começam a valer a partir de agora, mas esse crédito extra que a gente vai ter vem a partir de janeiro de 2026. Isso vai gerar muito, muito dinheiro para crédito habitacional no Brasil. Ah, mas a taxa ainda está alta, tem que baixar para compensar e financiar um imóvel. A estimativa é que a Selic comece a baixar em 2026. e quando isso acontece a gente sabe que eleva o preço dos imóveis. Então a hora de você comprar um imóvel é exatamente agora que as regras mudam e que você ainda tem oferta de imóvel com preço abaixo. Antes que a Selic comece a baixar em 2026 e o preço dos imóveis comecem a subir.
 
 ### Legenda
 

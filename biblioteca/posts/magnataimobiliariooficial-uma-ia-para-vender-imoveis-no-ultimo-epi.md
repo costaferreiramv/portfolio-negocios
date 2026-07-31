@@ -8,7 +8,7 @@ tags: []
 duracao: "46s"
 data_post: 2025-06-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O que a inteligência artificial hoje entrega não é venda. Quem faz a venda é o corretor. A inteligência artificial consegue levar visita para o stand. Então o que eu posso fazer é levar a pessoa para o corretor fazer o gol. O tempo leva para ensinar a ferramenta para vender para um novo mercado. Para ela ser 80% assertiva em um mês. Eu estava querendo ouvir aqui um pouquinho mais da rapidez que a gente pudesse flutuar nesse sentido. Poder fazer e achei o valuation. Qual é a diferença do teu software para o líder de mercado? Hoje o líder de mercado teve investimentos de 5 milhões de dólares. Por muitas vezes, eu e meu irmão, nós colocavamos muita tecnologia e vimos que a tecnologia começou a atrapalhar nossas vendas.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min40"
 data_post: 2026-01-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Vamos parar de picuinha? Sabe por que você não está achando o apartamento que você quer? Porque você fica arrumando picuinha. Deixa eu te ajudar. O apartamento ideal, sabe o que ele tem que ter? Localização perfeita pra você e planta. Se isso é bom, meu amigo, o resto é dar um jeito. Por exemplo, ai não gosto de pedra preta. Tira a pedra preta, coloca do seu jeito. Ah, eu não gostei dessa bancada, do lavabo Tira a bancada e coloca do seu jeito O que você não muda é a localização Que essa tem que ser perfeita pra você Porque às vezes você acha a pedra perfeita Uma localização que não te atende E aí eu vou te falar uma coisa Sabe, vai ficar muito difícil Você vai ficar olhando pra pedra e falar assim Meu Deus, o que eu fiz com essa pedra? Então, o que eu quero dizer pra você É que quando você vai olhar um apartamento Você precisa escalonar suas prioridades E essas prioridades que eu te falei, localização e planta, tem que estar no topo, porque é isso que vai deixar a sua vida fácil. A planta desse apartamento, por exemplo, você acredita que ela tem 130 metros quadrados. É uma planta perfeita, grande, três suítes, localização sensacional, rua 9, praça do sol, te leva pertinho de tudo, te leva rápido para todos os lugares. Então, para mim, esse aqui é um apartamento perfeito. Se eu não gostar da pedra preta Eu vou pôr a minha pedra Branca E vai ficar tudo certo, entendeu? Monta seu apartamento do jeito que você quer Na localização perfeita, com a planta que te atende E aí você vai ser feliz, tá bom? E aí se você quiser me ajuda de verdade É só você me chamar, tá?
 
 ### Legenda
 

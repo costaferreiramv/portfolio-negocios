@@ -8,7 +8,7 @@ tags: []
 duracao: "1min16"
 data_post: 2025-04-17
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O médico que tem um imóvel quitado bem acima de 20 mil, ele precisa ter acesso a esse aqui. Vamos imaginar que você tem um imóvel avaliado em torno de 1 milhão e 500. Pode ser para mais ou para menos, a conta vai ser proporcional. Você não precisa nem vender e nem alugar o seu imóvel para colocar dinheiro no bolso. Você consegue manter o seu imóvel com você e, utilizando uma estratégia de construção de patrimônio, você consegue colocar 750 mil, 900 mil e até 1 milhão e 200 mil no seu bolso. Isso significa que você mantém o imóvel com você avaliado em 1 milhão e 500, e você adicionou até 1 milhão e 200, ou seja, você clonou o seu patrimônio. E esse é um processo que os médicos mais ricos do Brasil repetem de tempos em tempos e que você também pode fazer. Isso faz parte de uma metodologia de construção de patrimônio chamado O Quarto Caminho, onde você consegue se aposentar em 7 anos ou menos. Se você quer entender melhor como isso funciona, vai acontecer o desafio Anamnese Patrimonial. Vão ser 5 encontros ao vivo e online ministrados pelo Adrian Carvalho, um dos maiores planejadores financeiros e patrimoniais do Brasil. O valor simbólico para garantir o seu ingresso é R$97,00. Então, aperte Saiba Mais para você acessar a próxima página e descobrir tudo que você vai ter acesso ao longo desse evento. E aí, você garante o seu ingresso. Então, aperte Saiba Mais e garante o ingresso.
 
 ### Legenda
 

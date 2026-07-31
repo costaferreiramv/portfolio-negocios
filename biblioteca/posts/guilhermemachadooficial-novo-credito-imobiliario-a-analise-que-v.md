@@ -8,7 +8,7 @@ tags: []
 duracao: "1min26"
 data_post: 2025-10-10
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Enquanto todo mundo está comemorando o novo teto de 2 milhões e 250, eu vou te mostrar o que realmente está acontecendo aqui. Essa não é só uma mudança de crédito, bicho. É uma jogada estratégica para salvar o sistema financeiro habitacional que estava quebrado. A poupança perdeu 87,80 milhões nos últimos anos. O SFH estava morrendo, o governo não tinha escolha. Ou criava uma nova fonte de funding ou o crédito imobiliário colapsava. Qual foi a solução deles? Forçar os bancos a usar LCIs e LIGs para financiar a habitação. Agora, aqui está, se os analistas não perceberam. Ao levar o direcionamento de 65% para 100% da poupança até 2027, o governo está criando um multiplicador. Cada real de poupança vai gerar mais de um real de crédito. É engenhoso, mas arriscado. Para a gente que trabalha no mercado imobiliário, nossos clientes de 8 mil a 12 mil mensais saem do limbo. Mas atenção, nosso estoque está em 8,2 meses, bicho, o menor da história. Preços de imóveis vão subir antes da demanda chegar Quem se posicionar agora, pega essa onda Se a Selic não cair, essa política de chuveiro a pó, Galípolo, deixou claro O modelo só funciona com juros baixos E tem mais, com oferta limitada, podemos criar uma bolha localizada no segmento de 1 milhão e meio a 2 milhões e 250 É uma política inteligente para um problema real, mas o timing é tudo Os próximos seis meses vão definir se isso é revolução ou mais uma promessa quebrada Quero ver sua opinião, comenta aqui embaixo
 
 ### Legenda
 

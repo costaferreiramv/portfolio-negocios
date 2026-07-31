@@ -8,7 +8,7 @@ tags: []
 duracao: "56s"
 data_post: 2025-05-15
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Corretor de imóveis, isso aqui vai mudar a sua vida. Esse é o agente de inteligência artificial que vai te ajudar a construir todo o seu posicionamento digital com bios, destaques, reels e até mesmo carrosséis em questões de segundos. Basicamente, ele começa a entender um pouco sobre você e depois ele passa a transformar a sua presença digital de uma forma que vai fazer com que o seu Instagram seja uma máquina de te gerar leads qualificados. Ou seja, acabou toda aquela sua questão de não sei o que postar, não sei como postar, o que fazer, como fazer, porque você consegue ir conversando com ele, até mesmo enviando áudio, porque depois ele vai te entregar tudo pronto, bonitinho, do jeito que você precisa fazer. E se você quer ter acesso a não só essa, mas a outras duas inteligências artificiais que vão te ajudar a vender muito mais por WhatsApp e até mesmo a criar do zero e a escalar as suas campanhas de tráfego pago, é bem simples. É só você tocar aqui embaixo no botãozinho.
 
 ### Legenda
 

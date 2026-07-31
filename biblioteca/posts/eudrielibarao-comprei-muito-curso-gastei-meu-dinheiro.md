@@ -8,7 +8,7 @@ tags: []
 duracao: "34s"
 data_post: 2025-02-21
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Comprei muito curso, gastei o meu dinheiro e nada. Agora eu estou com receio de comprar uma nova promessa. Você não vai comprar uma nova promessa. Você vai acessar uma pessoa que faturava mais de 100 mil e menos de 50 dias e agora está faturando 100 mil por semana. Ou seja, você vai acessar esse conhecimento, essa pessoa ali no seu WhatsApp, te mentorando e te ajudando todos os dias, literalmente pegando pela mão. Você não vai ficar sem suporte, você não vai ficar em uma área de membros cheia de aula. você vai ter alguém ali pra te literalmente pegar pela mão
 
 ### Legenda
 

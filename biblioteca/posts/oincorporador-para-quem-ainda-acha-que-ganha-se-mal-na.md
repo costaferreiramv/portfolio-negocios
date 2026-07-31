@@ -8,7 +8,7 @@ tags: []
 duracao: "39s"
 data_post: 2025-07-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Os salários já subiram muito. Nós fizemos agora uma viagem internacional para a Espanha para ver o mercado imobiliário lá. E os salários dos mestres de obras, dos pedreiros, dos tarifeiros, hoje já está tal e qual o salário na Europa, por incrível que pareça. A mesma quantidade de euros que eles recebem lá, os nossos mestres estão recebendo aqui. Que é raríssimo no mercado. É raríssimo no nosso mercado. Quer dizer, esses profissionais foram extremamente valorizados e é uma função também do Sinduscom mostrar como houve essa valorização dos profissionais da construção civil para poder atrair mais mão de obra para o setor.
 
 ### Legenda
 

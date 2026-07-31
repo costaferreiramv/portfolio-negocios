@@ -8,7 +8,7 @@ tags: []
 duracao: "57s"
 data_post: 2025-07-16
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O cara só conseguiu fazer a venda do imóvel dele de 10 milhões por conta do corretor. Então vai querer negociar comissão, quer dizer, é ridículo isso. Comissão é padrão e as pessoas respeitam isso lá. É uma profissão altamente respeitada lá nos Estados Unidos. A Realtors Association, lá nos Estados Unidos, a Associação de Corretores Americanas, é a maior associação do mundo. Não é associação de engenheiros, de advogados, de taxistas, é de corretores. São muito fortes, são muito poderosos. Outros que me falaram aqui, a comissão dele foi pré-datada. ele recebeu 10 cheques de X valor e a comissão dele foi paga em partes. Cara, isso não existe lá nos Estados Unidos também. A comissão é paga à vista, no ar do negócio. Fechou o negócio, a comissão paga inteiramente para o corretor. Não tem esse negócio de negociar a comissão. Falta isso um pouco aqui no Brasil, né? Criar esse respeito maior pelo corretor que está intermediando. O cara só conseguiu fazer a venda do imóvel dele de 10 milhões por conta do corretor. Então vai querer negociar a comissão, quer dizer, é ridículo isso.
 
 ### Legenda
 

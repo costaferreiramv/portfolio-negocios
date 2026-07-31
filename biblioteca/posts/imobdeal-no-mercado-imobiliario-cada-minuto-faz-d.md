@@ -8,7 +8,7 @@ tags: []
 duracao: "21s"
 data_post: 2025-10-01
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você ainda manda o link da imobiliária para o seu cliente ver o imóvel? Ele entra, vê diversos anúncios e se perde com tantas opções. No ImobDeal, ele vê somente o que você selecionou personalizado para ele. E você ainda recebe no seu WhatsApp por quanto tempo e quando ele acessou essa proposta. Se você quer vender mais e ser mais preciso no seu atendimento, clica no link e faz um teste grátis.
 
 ### Legenda
 

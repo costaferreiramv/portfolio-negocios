@@ -8,7 +8,7 @@ tags: []
 duracao: "1min12"
 data_post: 2025-06-20
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Social Media, eu vou te contar uma coisa que vai transformar a forma que você vai criar conteúdos pro seu cliente. Eu sei que você já deve ter ouvido que seguir as tendências, as pautas quentes, são os pontos principais pra que tenha resultados, como viralização, mais likes, comentários, mas... E se eu te dissesse que o segredo não tá só no formato de conteúdo, mas sim em um método por trás? O método do conteúdo magnético, ele segue três pilares. Atrair as pessoas certas, aquelas que de fato se interessem pelo que você faz. Se conectar com essas pessoas pra que a venda se torne uma consequência. Seja algo natural e nada de técnicas milagrosas e manipuladoras. E é por isso que no plano magnético 2.0 eu vou te ensinar a implementar todos esses princípios nos nichos dos seus clientes, seja ele qual for. Você vai aprender a criar roteiros magnéticos, técnicas de gravação que geram conexão naturalmente e técnicas de edição que potencializam os seus resultados. Ah, e agora utilizando a inteligência artificial para otimizar o seu tempo e facilitar o seu processo. Esses conhecimentos vão te posicionar em outro nível como profissional e vão fazer com que seus clientes também te enxerguem assim. O evento é online e gratuito. É só clicar em Saiba Mais que eu te encontro no lado mais genético do digital. Se embora.
 
 ### Legenda
 

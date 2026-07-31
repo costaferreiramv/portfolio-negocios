@@ -8,7 +8,7 @@ tags: []
 duracao: "29s"
 data_post: 2024-12-29
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Movimento. Todo vídeo viral tem movimento, mas movimento não é mexer a câmera, mas sim qualquer coisa que deixe o seu vídeo mais dinâmico. Como mudar a voz, usar legendas, mudar o zoom, fazer barulho, porque não importa o que você diz, se você fizer isso de uma forma dinâmica, o seu vídeo vai viralizar. Usar movimento é apenas uma técnica de viralização, existem muitas outras e eu reuni todas elas em uma apresentação gratuita. É só tocar e saiba mais pra assistir e copiar e colar essas técnicas.
 
 ### Legenda
 

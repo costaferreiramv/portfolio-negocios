@@ -8,7 +8,7 @@ tags: []
 duracao: "1min19"
 data_post: 2025-10-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Daqui 5 anos quando você estiver fazendo um churrasco da sua família, alguém vai te perguntar Como foi que a IA mudou a sua vida? E você só vai ter duas histórias pra contar Eu vi todo mundo falando de IA, vi gente ganhando dinheiro, mas eu achei que era papo furado Eu continuei no meu emprego, aí fui demitido, substituído por uma máquina e hoje eu tô aqui, tentando recomeçar Eu vi uma oportunidade em 2025 Uma tecnologia de inteligência social tinha faturado 100 milhões de reais em 5 anos e a empresa estava procurando pessoas interessadas em dividir 50 milhões de reais em 12 meses. Parecia bom demais para ser verdade, mas eu arrisquei e foi a melhor decisão da minha vida. Eu estou o dono da tecnologia da segunda história. E sim, eu estou procurando as pessoas que vão dividir 50 milhões de reais nos próximos 12 meses. E não é porque eu sou bonzinho, mas sim porque eu descobri algo que empresas pagam fortunas e eu não consigo atender todo mundo sozinho. O que eu tenho para te mostrar é sobre a A. mas não é o óbvio que você imagina não é programar, não é caçar clientes é muito mais simples e paga extremamente bem agora você está no momento de escolha você pode rolar para baixo e continuar a sua vida ou você pode clicar aqui e em 15 minutos você vai entender tudo daqui a 5 anos, qual história que você quer contar?
 
 ### Legenda
 

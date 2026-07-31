@@ -8,7 +8,7 @@ tags: []
 duracao: "2min03"
 data_post: 2025-06-21
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Olha só o absurdo que acabou de acontecer. Eu corri para gravar esse vídeo porque isso não é um caos isolado. E por isso acontecer com frequência, deveria ser obrigatório nos agentes do mercado imobiliário ter estandes, ter palestras, ter roda de conversas para que essas mulheres sejam orientadas a denunciar e identificar o abuso de imediato. Porque casos como esse se repetem, sumindo de endereço, o nome do cliente e a desculpa usada para camuflar o abuso. Deixa eu te dizer uma coisa, com toda a força que me cabe nesse momento. Ninguém precisa vender a dignidade pra fechar negócio Vai no campo, na rua, no plantão De salto ou de tênis, são mães solos Filhas que sustentam uma casa São mulheres que carregam o peso de uma família nas costas E ainda tem que aguentar Piadinha, olhar atravessado E cliente abusado Não, não mais Esse vídeo é pra dizer pra vocês corretoras Vocês são gigantes, são fodas E vocês não estão sozinhos Porque chegou a hora da gente sair dessa missão Porque o silêncio acabou, porque a venda que exige humilhação não vale o preço, que respeito, não se negocia, porque quem cruza essa linha vai ser exposto. A gente precisa ensinar esse ciclo de violência, disfarçada de visitas, isso só vai mudar quando toda corretora souber que não está sozinha. Tem homens e mulheres que não vão mais aceitar ficar calados. Dessa forma que a partir de agora, tenho certeza que clientes abusivos vão começar a pensar duas vezes. Mulheres corretoras, elas têm voz, elas precisam falar a partir de agora. tem força, tem quem lute por elas elas não vão mais abaixar a cabeça e nós não vamos mais fechar os olhos, que não é apenas um vídeo é um pacto, começa agora leva esse conteúdo pra sua rede social fala sobre, mostra tua indignação e mostra você mulher principalmente que você tem voz e que você não vai se calar, já deixa esse recado lá, ava isso no teu filho ava isso nos teus stories, você homem também, abraça essa corrente acho que você não vai permitir de forma nenhuma, nenhuma mulher esteja do seu lado, vai sofrer abuso você vai permitir, esse é o abraço que você pode dar pra uma corretora nesse momento, e aí você vai fazer parte do pacto comigo?
 
 ### Legenda
 

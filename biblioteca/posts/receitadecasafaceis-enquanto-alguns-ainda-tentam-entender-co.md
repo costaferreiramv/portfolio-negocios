@@ -8,7 +8,7 @@ tags: []
 duracao: "1min45"
 data_post: 2025-05-01
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Até que enfim, eu descobri a resposta para criar esse monte de vídeo irado que aparece na internet. Agora com apenas algumas palavras, eu consigo criar o que vier na minha cabeça. Com esse programa, eu consigo usar mais de 20 ferramentas IA sem pagar nenhuma delas. Com isso, consigo criar efeitos especiais super realistas. Imagens e vídeos, músicas originais, gerar cortes infinitos, criar clones realistas e até criar atendentes IA para automatizar vendas no WhatsApp. E tudo isso sem complexidade. Você já imaginou o poder disso e as possibilidades que isso tem? Mas tem, porém, que elas são cobradas em dólares e é o olho da cara. Mas eu descobri um programinha que te dá acesso a mais de 20 ferramentas. De graça. E não são quaisquer ferramentas, são as mais poderosas do mercado. Editor, libera o link, por favor. Nessa aula rápida de 5 minutos, eu mostro como funciona esse programa. E claro, pra quem ficar até o final, eu libero o link. Então clica no link que tá aqui embaixo e aproveita. E aí Tchau, tchau.
 
 ### Legenda
 

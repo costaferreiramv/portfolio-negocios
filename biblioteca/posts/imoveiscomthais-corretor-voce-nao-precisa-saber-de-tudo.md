@@ -8,7 +8,7 @@ tags: []
 duracao: "1min00"
 data_post: 2025-08-01
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+E aí, corretor de imóveis, te falaram que era fácil gravar vídeo pras redes sociais, né? Mas na verdade, o que que acontece? Você vem gravar num decorado lindo como esse aqui, se arruma, se produz, começa a gravar. Aí você odeia a sua voz, odeia a sua cara no vídeo, não gosta de nada daquilo que você tá vendo, se sente frustrado, ansioso, e aí bate aquela dúvida. Será que isso aqui é pra mim mesmo? Eu aprendi a estruturar melhor os meus roteiros e a forma como eu gravei. E com isso, eu fui perdendo medo de ligar a bendita câmera. E aí eu fui aparecendo aqui com mais confiança. Tudo isso porque eu decidi parar de querer ser perfeita. E comecei a ser autêntica e natural. Aí mudou tudo pra mim. Se você quer parar de perder tempo gravando vídeos mirabolantes, sem resultado nenhum, e começar a se posicionar com confiança e principalmente com estratégia, então clique aqui e conheça o método andar de cima, o passo a passo que eu usei pra me destravar na produção de conteúdos e transformar seguidores em clientes.
 
 ### Legenda
 

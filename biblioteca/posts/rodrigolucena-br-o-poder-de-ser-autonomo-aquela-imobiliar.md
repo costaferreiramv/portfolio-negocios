@@ -8,7 +8,7 @@ tags: []
 duracao: "1min55"
 data_post: 2025-05-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Um corretor autônomo, uma dupla ou um trio, vai ter uma vantagem absurda em cima de grandes imobiliárias. Eu vou te explicar por quê. Por que nós estamos na era da tecnologia acessível, e o autônomo que começar rapidamente a usar assistentes virtuais, ele vai ter na verdade mais de 100, 300, 400 pessoas muito mais eficientes trabalhando pra ele. E isso não custa nada também pra ele. E eu quero te dizer que isso ainda é um oceano azul, até porque a maioria dos corretores ainda nem sabem como isso funciona. Você sabe? Então, pra você entender tudo, eu quero chamar a sua atenção pra gente passar dois dias juntos, aonde de 9 às 17 nós vamos estar mostrando abertamente como que um corretor autônomo, aquela famosa imobiliária de uma pessoa só, ou talvez você, que é uma dupla, trabalha aí com seu cônjuge ou seu filho, ou até mesmo um trio, uma equipe enxuta de poucas pessoas, podem colocar o novo tráfego pago a seu favor, utilizando assistentes virtuais, e ganhar muito mais do que grandes imobiliárias, e que ainda estão dormindo, recrutando um monte de gente ineficiente para trabalhar. E se esse assunto atraiu você, você sentiu conexão, é hora de dar aquela virada, não? Então, não ignora esse anúncio, não. Você precisa clicar agora, conhecer a proposta que nós temos para esses dois dias. pessoas que ignoraram novidades e deram muito mal. Em 2016, 2017, 2020, eu comecei a falar de marketing digital. Muitos corretores ignoraram e pagam um alto preço até hoje por não saber colocar esse troço pra funcionar direito. E aí tá todo mundo na mão de gente que não sabe fazer. Então, nós estamos entrando numa outra era e você precisa aproveitar e essa vez você vai aproveitar. Então, confere tudo aí sem compromisso. Clica, se fizer sentido você garante seu ingresso. Então, clica agora. Vai lá. E aí
 
 ### Legenda
 

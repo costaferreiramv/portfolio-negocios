@@ -8,7 +8,7 @@ tags: []
 duracao: "1min15"
 data_post: 2025-08-19
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+atenção imobiliárias incorporadores corretores autônomos olha só nossa nossa atendente que vende imóvel aqui no nosso celular aqui olha só vou ligar para ela agora o nome dela é Renata vamos ver ela falar com a gente e pode ter uma assim também e aí Renata tudo bem como é que tu sabe que eu tô ligando de volta tu tem um histórico meu aí é isso sim tudo bem obrigada eu tenho acesso a um sistema que me permite ver as interações anteriores então eu sabia que você já havia entrado em contato tá Renata falando direto então o que que tu vende tem imóvel para me vender é ela marca na agenda bota resumo no cm faz ligação em massa também sabe trabalhar 24 horas por dia 7 dias por semana e não reclama tá então deixa eu te falar negócio isso aqui tá tu precisa aprender a fazer e não contratar uma solução pronta porque não tem milagre tá tem que aprender a fazer mas o A boa notícia é que a gente ensina isso na comunidade com o Brasil. Passo a passo. E caso você também não me entenda, nas vídeo-aulas que nós temos, nós temos a nossa comunidade o grupo no WhatsApp, Tira Dúvidas e aulas ao vivo de segunda a sexta. Então você que trabalha com imóveis, clica no botão aqui nessa tela e vem aqui já ter a tua agente de voz, tanto para discar como para receber em tempo real, integrado ao Como CRM.
 
 ### Legenda
 

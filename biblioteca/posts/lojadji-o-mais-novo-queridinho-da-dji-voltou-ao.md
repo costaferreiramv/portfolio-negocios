@@ -8,7 +8,7 @@ tags: []
 duracao: "1min42"
 data_post: 2025-06-06
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Se você tá pensando em comprar o DJI Flip agora, não compra ainda. Espere pelo dia 17 que vai valer a pena. Pela primeira vez desde o lançamento, esse drone vai ter um preço assim. Increditável, gente. E se você não conhece ainda, esse aqui é o DJI Flip. Um drone compacto, moderno, dobrável, cabe no bolso, na bolsa e tem qualidade absurda. Qualidade de cinema, 4K na horizontal, 2.7K na vertical e filme na vertical, já direto pro Reels, pros Stories. A qualidade que tem nesse drone aqui, eu me surpreendi, no drone tão pequeno e portátil. É um drone super seguro, ele já vem com esses protetores de hélicos E esse formato dobrável facilita pra gente transportar, né? Ele tem várias tecnologias de drones maiores e mais caros Então ele tem inteligência artificial, ele tem sensor aqui pra identificar obstáculos E a qualidade desse drone, gente, realmente é algo que eu me surpreendi Ele voa apenas com um toque sem controle e te segue Vou mostrar pra vocês Gente, sensacional, né? Aqui no meu estúdio eu consigo voar com segurança Guiar e também tem o controle Olha como que é fácil pra guardar E se você quiser controlar esse drone aqui De forma mais profissional, fazer esses voos espetaculares Ele ainda vem com controle Com esse controle aqui, gente, você pode voar com controle pra bem longe Qualidade de senão impecável Você não vai perder o seu drone Tela sensacional, extrema qualidade E o que você precisa fazer pra adquirir esse drone? Um garantia com nota fiscal, com assistência técnica Ele original, oficial e com o precinho lá embaixo. O que você precisa? Clicar aqui e participar do grupo oficial que no dia 17 de junho vai ser liberado a venda com esse desconto. E aí você vai poder adquirir o seu DJ iFlip. Esse aqui já é meu, não troca por nada. E no dia 17 você pode adquirir o seu também.
 
 ### Legenda
 

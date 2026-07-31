@@ -8,7 +8,7 @@ tags: []
 duracao: "2min18"
 data_post: 2025-04-30
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Essa notícia aqui decreta o fim dos portais imobiliários e isso pode ser muito bom para você, corretor. Olha só, a OpenAI, que é a fundadora lá do ChatGPT, a dona do ChatGPT, ela colocou agora produtos que vão estar sendo anunciados dentro da sua própria plataforma. E não tem que pagar nada por isso, simplesmente quando a pessoa fizer uma pergunta, eu quero comprar um carro ou um imóvel, vai aparecer diretamente dentro do ChatGPT. E aí ele não vai mostrar um site, não vai mostrar o Google, não vai mostrar o portal imobiliário. Ele vai mostrar as fotos do imóvel que ele pegou dentro do seu site. E aí ele vai pegar e já vai falar assim, olha só, olha só esses apartamentos. E o cliente vai escolher um desses apartamentos. E eu estou falando apartamentos, mas pode ser casa, pode ser o que for, corretor. Então o que vai acontecer? Se o cliente vai entrar, por exemplo, num condomínio como esse aqui e vai falar, Ué, estou querendo comprar uma casa aqui, chat GPT, tem alguma casa para vender? Ele vai falar, olha, tem sim, na rua de baixo tem casa para vender, ali tem casa para vender, olha só as fotos, aí você fala, hum, gostei dessa daqui, como é que eu faço? Ele já vai falar, olha só, esse imóvel está sendo vendido pelo Fábio, quer o telefone dele, ele é corretor de imóveis aí da região, e ele já vai passar o meu contato direto, sem precisar levar o cara para portal imobiliário. Isso significa que os portais acabaram de falir. É só uma questão de tempo. Igual foi a lista telefônica, igual foi classificado de jornal, acabou para eles. E sabe por que eles estão cobrando caro para caramba agora? Porque eles sabem que são os últimos anos para ele arrancar uma graninha do seu bolso. Fica de olho porque vem muita novidade por aí e você pode surfar a próxima onda das inteligências artificiais. Faltam poucos dias para a semana, 50 mil com vídeos. Se você quer aprender tudo sobre como fazer vídeos imobiliários, que são a próxima onda que já está acontecendo e que vai continuar nos próximos anos, e também como utilizar a inteligência artificial para não depender de portal, não depender de indicação, não depender de imobiliário, não depender de construtor, não depender de ninguém, só de você mesmo, fica de olho aqui e se prepara porque está chegando.
 
 ### Legenda
 

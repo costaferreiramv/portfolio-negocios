@@ -8,7 +8,7 @@ tags: []
 duracao: "49s"
 data_post: 2025-06-18
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Como eu faço pra gravar meus vídeos em qualquer lugar? Eu vou te contar minha melhor descoberta dos últimos meses, mas pode ficar tranquilo com essa descoberta aí, foi menos de 150 reais. De um, mas eu quero gravar um vídeo cozinhando. Toma. Trabalhando? Toma. Dirigindo? Toma. Se fosse te contar todos os lugares possíveis, isso aqui viraria música de funk. Toma, toma, toma. Mas como não é o caso, vamos reposicionar o foco dessa conversa. Esses são bastões de LED super potentes e você pode usar como luz principal, luz de recorte ou preenchimento. Com esses dois equipamentos você vai ter o melhor dos dois muros. Então faz o seguinte. Se você quiser o nome dos dois é só ir na legenda. Mas agora se você quiser o conhecimento para começar a criar conteúdos magnéticos que atraem e convertem. É só comentar equipamentos. Que eu te mando uma lista de todos eles. E de quebra um convite especial para o meu plano magnético. Simbora.
 
 ### Legenda
 

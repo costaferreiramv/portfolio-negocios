@@ -8,7 +8,7 @@ tags: []
 duracao: "47s"
 data_post: 2025-07-16
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+A profissão que fatura alto e quase ninguém conhece. Ela não aparece no portal de vagas e nem exige diploma e nem capital inicial. Mas ela pode mudar completamente a sua renda. É a profissão de assessor de leilões de imóveis. Pouca gente conhece e menos ainda ganha dinheiro com ela. Mas os que sabem jogar o jogo ganham muito alto com poucas operações por ano. Sem investir do próprio bolso, usando apenas conhecimento e estratégia. Mas você precisa de apenas uma habilidade, conectar oportunidades a investidores. E isso dá lucro. Nas datas que estão aparecendo aqui embaixo, eu vou te ensinar como faturar de 10 a 100 mil reais usando apenas o seu conhecimento e estratégia. Clique agora mesmo em Saiba Mais e faça sua inscrição.
 
 ### Legenda
 

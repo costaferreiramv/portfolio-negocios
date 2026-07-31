@@ -8,7 +8,7 @@ tags: []
 duracao: "1min09"
 data_post: 2025-04-25
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você não tá vendendo pra crescer, você tá vendendo pra não quebrar, pra apagar o incêndio de... Pra tentar respirar mais uma semana, você sabe quanto vai faturar esse mês? Ou tá só esperando cair algum pix na sorte? Tem que empreender sem previsão, é só desespero com CNPJ. Problema não é o seu serviço, nem sua entrega. É que você não tem estrutura de... Você improvisa a conversa, perde lead, corre atrás, desgota. Foi por isso que nasceu o MCCZTT O método que entra na mente do Lee Entende a trava silenciosa que está impedindo a decisão Escreve a mensagem exata que quebra a luxação Diva a urgência É tipo uma mira laser apontando onde tem que bater Sem machismo, sem enrolar, sem ser ignorado E o melhor, já está pronto dentro de uma assistente GPT secreta Treinada com mais de 10 mil conversas reais Ela te entrega a frase certa, na hora certa, com o tom certo Para fechar sem correr atrás Clica em saiba mais, quando sua mensagem para de mendigar E começa a fechar
 
 ### Legenda
 

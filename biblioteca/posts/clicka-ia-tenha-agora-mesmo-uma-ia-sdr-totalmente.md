@@ -8,7 +8,7 @@ tags: []
 duracao: "35s"
 data_post: 2025-08-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Empresário, imagina você ter uma inteligência artificial que entende tudo sobre o teu negócio. Uma manhã treinada, no detalhe, para falar com o seu cliente. Implementada no teu WhatsApp, pronta para atender, qualificar e preparar o lead para a compra. Ela entende o que o cliente quer, responde como um humano e manda áudio na sua voz. Como se fosse você ali numa onda. Só que ela não dorme, não atrasa, não esquece. Tem empresário vendendo 24 horas por dia com S&A, S&R, implementada no seu time comercial. Quer saber mais sobre ela? Preencha nosso cadastro agora mesmo que o meu time está te esperando para conversar com você.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min20"
 data_post: 2025-12-29
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu vou te mostrar agora o que tu compra com 3 milhões e 700. O principal é, claro, segurança. Muito conforto. Um lazer onde seus filhos vão aproveitar cada segundo. Um paisagismo que além de lindo, te traz muita privacidade. E uma cozinha independente que vai ser o palco de todos os seus cafés da manhã de domingo. Um designer elegante que fala por si só. Não tem como eu colocar em palavras o que é a suíte principal. Acredito que é melhor você ver. E esse é somente o closet. Agora esse é o banheiro mágico. Agora que tu já sabe que consegue comprar com 3 milhões e 700, me chame agora e a gente já sua visita nessa casa maravilhosa.
 
 ### Legenda
 

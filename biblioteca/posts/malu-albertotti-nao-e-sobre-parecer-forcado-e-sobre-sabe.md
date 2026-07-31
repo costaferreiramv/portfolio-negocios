@@ -8,7 +8,7 @@ tags: []
 duracao: "1min39"
 data_post: 2025-11-12
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Como ter a voz do luxo? Sua voz é uma das ferramentas mais poderosas para transmitir sofisticação, autoridade e autoconfiança. E no universo do luxo não basta o que você diz, é como você diz. Esse é o Insights do Luxo com Malu Overdote. A voz do luxo é macia, clara, envolvente, projetada, sem esforço, articulada, com precisão e entregue com serenidade. Ela inspira confiança porque carrega presença, domínio e harmonia. Quer começar a desenvolvê-la? Aqui vão algumas direções. Pronuncie bem as vogais e consoantes. Cada som importa. Fale pausadamente com gestos suaves que acompanham o ritmo da fala. Use o tom médio, firme, mas acolhedor. Acredite nas palavras que saem da sua boca. A autenticidade gera impacto. Mantenha uma postura ereta, corpo e cabeça alinhados. Respire. A respiração é o ponto de equilíbrio da voz consciente. E atenção aos boicotadores silenciosos da sua voz. Pensamentos negativos tornam a voz monótona. A insegurança transforma a sua fala em defesa. O cansaço rouba a energia e brilho do seu tom. Falar rápido, transmite insegurança e rouba o seu refinamento. Sua voz é o reflexo direto do seu estado emocional. A voz do luxo é treinada, mas acima de tudo ela é sentida pelo outro. Bons insights. Aprenda a comunicação do luxo. Clique em Saiba Mais.
 
 ### Legenda
 

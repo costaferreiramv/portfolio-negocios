@@ -8,7 +8,7 @@ tags: []
 duracao: "39s"
 data_post: 2025-08-27
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+I was down but now I'm up This all God, this ain't no love I used to be stuck in that mud I was down but now I'm up I was down but now I'm up Like my name Lazarus, no Satan gonna be mad at this I had to ask my dad if it's okay to sweep my bed This he said, boy if I pitch it it's out of the park 보ifaifa
 
 ### Legenda
 

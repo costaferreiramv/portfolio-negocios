@@ -8,7 +8,7 @@ tags: []
 duracao: "17s"
 data_post: 2025-07-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Se você é aquele corretor que tá sem vender imóveis nesse exato momento, esse vídeo é pra você. É sério o que você ainda acha que... Ai, mas eu tô cheio de imóveis nos portais, tá todo mundo vendo. Você vai vender assim, só? Só com os portais? É sério o que você acha isso? Dá uma olhadinha aqui nessa estratégia.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "34s"
 data_post: 2025-06-12
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eles nunca vão admitir isso, mas o Instagram seleciona quem é que vai viralizar. E se você sente que o seu perfil está travado, esse vídeo é para você. O que você prefere? Fazer postagens aleatórias, mas ninguém vai interagir com você, ou usar uma estratégia simples, copia e cola, que obriga o Instagram a mostrar o seu conteúdo para quem ainda não te segue. E não é sobre postar menos, é sobre apertar os botões certos. Eu preparei uma apresentação gratuita e curta, te mostrando como você vai fazer para forçar o Instagram a entregar o seu conteúdo e fazer o seu perfil crescer 10 mil seguidores em 30 dias. Clica aqui embaixo para assistir.
 
 ### Legenda
 

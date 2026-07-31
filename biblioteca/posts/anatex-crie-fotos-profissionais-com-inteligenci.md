@@ -8,7 +8,7 @@ tags: []
 duracao: "59s"
 data_post: 2025-04-03
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Essa foto aqui foi feita com inteligência artificial. E essa aqui também. E essa também. O que você precisa entender é que hoje você consegue criar as suas fotos pra melhorar o seu posicionamento nas suas redes sociais, porque muitas vezes você não tem tempo, você não tem como fazer um ensaio fotográfico, né? Por quê? Porque o ensaio fotográfico não é só o fotógrafo, tem maquiador envolvido, tem cabelo envolvido. E o que você precisa é uma foto mostrando principalmente você no seu escritório, trabalhando, etc, se você é um especialista. Então, eu vou te ensinar a fazer as suas fotos com inteligência artificial no treinamento Fotos em Minutos. É um treinamento super prático pra você. E além de tudo, tem um robô que vai te ajudar ali, uma inteligência artificial, que vai te ajudar a entender quais são as fotos, as poses que você tem que fazer e que a inteligência artificial vai fazer por você. Então, comece hoje mesmo a criar as suas fotos com inteligência artificial e tem também um outro bônus que eu vou te ensinar como faturar com essas fotos também, se você quiser colocar isso no seu portfólio de serviços. Clica aqui em Saiba Mais e vem comigo.
 
 ### Legenda
 

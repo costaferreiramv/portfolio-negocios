@@ -8,7 +8,7 @@ tags: []
 duracao: "32s"
 data_post: 2026-01-21
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Esqueçam viagens caras, joias, bolsas, o novo luxo é morar bem. Isso não sou eu que estou falando. Foi Pharrell Williams no último desfile da Vuitton. Ele transformou a passarela em casa. Ou na verdade ele transformou a casa em passarela. E a atmosfera do desfile toda impregnada com o perfume que foi desenvolvido pelo perfumista da Vuitton, Jacques Cavalier. Passarela que foi transformada em hábita. E aí está a genialidade do Pharrell de antecipar tendências. Casa é o meu luxo, muito mais do que moda
 
 ### Legenda
 

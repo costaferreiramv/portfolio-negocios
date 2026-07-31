@@ -8,7 +8,7 @@ tags: []
 duracao: "38s"
 data_post: 2025-05-23
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Quando o cliente diz obrigado, você responde o que? Imagina, de nada, valeu? Pois é, em ambientes de prestígio, de mais sofisticação, cada palavra pode construir ou pode destruir a sua imagem. Eu sou a Marita Eleski, especialista em etiqueta, e eu vou te mostrar como responder com elegância verdadeira essa pergunta. Então, o adequado é dizer simplesmente assim, foi um prazer atendê-lo, fico feliz por ajudar. simples, educado e refinado porque a elegância é dizer muito com poucas palavras quer elevar a sua comunicação e também a sua credibilidade profissional para ganhar mais? Então me segue aqui
 
 ### Legenda
 

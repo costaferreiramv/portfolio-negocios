@@ -8,7 +8,7 @@ tags: []
 duracao: "6s"
 data_post: 2025-07-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Se você for me, eu vou me on the track I'm a thing, I'm possibly sitting on the track now
 
 ### Legenda
 

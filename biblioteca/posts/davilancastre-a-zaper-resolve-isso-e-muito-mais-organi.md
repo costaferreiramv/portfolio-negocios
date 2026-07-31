@@ -8,7 +8,7 @@ tags: []
 duracao: "28s"
 data_post: 2025-10-03
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Se você é empreendedor aqui em Uberlândia e você quer ter uma das maiores inteligências eficiais dentro do WhatsApp do seu negócio, é exatamente isso. Atendendo 24 horas por dia, 7 dias por semana os seus clientes, de maneira organizada, gestão, encaminha para a sua equipe os leads qualificados, você sequenciar a Zap, é exatamente isso. Clica aqui, clica aqui embaixo, vai ter um botão, preenche os dados que um dos nossos especialistas vai entrar em contato com você para personalizar já para o seu negócio. Clica aqui e vem falar com a gente.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "27s"
 data_post: 2025-07-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você não começa uma conversa com o cliente com oi, tudo bem? Tem interesse no imóvel? Então não reclama quando o cliente te deixar no vácuo. A culpa não é do mercado, é da sua abordagem genérica. Se quiser sair da zona de esquecimento e entrar na zona das respostas, você precisa mudar o script. O script de primeira abordagem te mostra o que falar, como falar e quando falar. Quer mais respostas e menos frustração? Baixe agora!
 
 ### Legenda
 

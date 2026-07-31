@@ -8,7 +8,7 @@ tags: []
 duracao: "1min06"
 data_post: 2025-12-02
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Boa noite, pizzaria Bela Massa. Meu nome é Maia. Como posso te ajudar? Oi Maia, tudo bem? Eu queria fazer um pedido. Olá, tudo ótimo. Graças a Deus e com você? Pode me falar qual é o seu pedido? Qual que é a pizza de vocês que mais saem? A mais pedida é a moda da casa que vai calabresa, cassopiri, mussarela e bacon. Essa é a que mais sai. Quer essa ou prefere outra? Pode ser essa mesmo. Me vê uma Coca-Cola Zero também, por favor. Fechado. Só pra confirmar seu pedido. Uma pizza moda da casa e uma Coca-Cola Zero, certo? Isso, isso mesmo. Perfeito. Qualquer 2 litros? Isso, de 2 litros. Agora preciso só do seu nome completo e endereço para confirmar a entrega. Meu nome é Sibeli Fernandes, rua Alex Vargas, número 223. Pedido confirmado, Sibeli. O pedido deve chegar até você em 35 minutinhos, ok? Tá ótimo, obrigada, viu? Obrigada a você, Sibeli, pela preferência. Tchau, tchau, até mais. Até mais, tchau, tchau. Se você quer implementar essa inteligência artificial que liga, atende, qualifica e converte e se integra ao seu sistema, clique no link da Bill ou acesse mayahub.ai
 
 ### Legenda
 

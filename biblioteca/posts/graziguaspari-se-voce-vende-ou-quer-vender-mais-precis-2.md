@@ -8,7 +8,7 @@ tags: []
 duracao: "1min16"
 data_post: 2025-07-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Os três maiores erros de quem trabalha com empresa. O primeiro, achar que precisa convencer o cliente a comprar. É, quando você tenta convencer o seu cliente, o cérebro dele ativa o mecanismo de defesa, afinal de contas, ninguém gosta de ser pressionado. E como resultado, resistência automática e frases como vou pensar, preciso falar com fulano, preciso falar com ciclano e a venda esfria. Erro dois, falhar na hora de criar a percepção de valor. Porque se o cliente não enxerga valor, o preço sempre vai parecer caro. E na verdade, um erro aí não vai estar no preço, e sim em como você comunica isso pro cliente. Quando falta clareza, o cliente hesita e na dúvida ele não compra. Erro 3, usar excessivos argumentos racionais. Quando você explica demais, o cérebro do seu cliente precisa fazer um esforço enorme e ele se desconecta. Isso acaba com essa venda, porque o cérebro decide pela erros e justifica pela razão só depois. O fato é, esses três erros estão acabando com as suas vendas. E eu preparei uma aula gratuita explicando pra você tudo direitinho como que você pode utilizar a neurovendas pra não cometer mais esses erros por aí e vender muito mais. Aula prática, ouro puro, material e informação de primeira pra você colocar aí nas suas vendas e já começar a mudar a sua forma de vender. Só que eu não sei por quanto tempo essa aula vai ficar disponível. Então, não perde tempo, clica aqui embaixo e vem pra próxima página assistir essa aula que tá incrível.
 
 ### Legenda
 

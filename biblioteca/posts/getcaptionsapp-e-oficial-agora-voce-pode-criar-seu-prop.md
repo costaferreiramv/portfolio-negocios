@@ -8,7 +8,7 @@ tags: []
 duracao: "27s"
 data_post: 2024-10-25
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Esse sou eu de verdade, e eu sou o gêmeo gerado por IA, e vou te mostrar como fazer o seu. Basta abrir o aplicativo do Captions e ir até a ferramenta AI Creators. Em seguida, selecione a opção AI Twins. A partir daí, tudo que você precisa fazer é filmar por um minuto, seguir no roteiro e pronto. Você já tem seu próprio avatar. Agora você pode criar vários avatares pessoais para diferentes cenários. E pode criar qualquer vídeo seu instantaneamente. É uma revolução total. Tá duvidando? Experimente você mesmo. Baixe o Captions agora.
 
 ### Legenda
 

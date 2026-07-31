@@ -8,7 +8,7 @@ tags: []
 duracao: "23s"
 data_post: 2024-09-10
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Se você é corretor de imóveis ou dono de imobiliária, você não precisa mais contratar agência de marketing digital, nem cursos, nem mentorias. Porque acaba de surgir no Brasil a primeira tecnologia com inteligência artificial que cria anúncios nas redes sociais e leva clientes direto para o seu WhatsApp. Clique em Saiba Mais e realize sua inscrição e entenda como que você pode utilizar essa tecnologia.
 
 ### Legenda
 

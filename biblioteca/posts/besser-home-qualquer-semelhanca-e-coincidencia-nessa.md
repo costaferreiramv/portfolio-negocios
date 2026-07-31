@@ -8,7 +8,7 @@ tags: []
 duracao: "2min31"
 data_post: 2024-07-02
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Uma casa de 6 bilhões de reais e você não pode comprá-la. Por dois motivos. Primeiro, ela não está à venda. Segundo, se o dono dela descobre que eu estou anunciando, ele me mata. Nós viemos só resolver o problema de calor que ele estava tendo. Essa é uma película voltada especificamente para a residência. E ele queria resolver esse problema sem perder essa vista. maravilhosa que ele tem de dentro da casa dele. Imagine estar nessa sala recebendo seus amigos e o excesso de calor que passa pelos vidros. E olha que não é só naquele ambiente. Olha quantos vidros essa casa tem. Fala pra mim. O cliente sofre com o excesso de calor através desses vidros. Eu vou te contar um segredo. A gente vai resolver isso, tá bom? Música Alexa, você já viu um conteúdo mais original que o meu? Claro que não, Israel. O que é isso, Alexa? Meu nome é Murilo. Agora você pegou pesado. Se você não tem 6 bilhões de reais na sua conta e nem quer comprar uma casa que não está à venda, não tem problema. Você pode ter conforto térmico também. Dá uma olhada aqui. Olha como é o calor com as nossas películas e olha como era antes das nossas películas. Agora sim. O melhor pôr do sol da cidade Sem desconforto térmico E aí
 
 ### Legenda
 

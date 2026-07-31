@@ -8,7 +8,7 @@ tags: []
 duracao: "32s"
 data_post: 2024-10-29
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+E aí Amém.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "29s"
 data_post: 2025-02-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Takes que não podem faltar na hora de filmar um apartamento. Primeiro você pode aproveitar a luz natural e mostrar toda a vista que seu AP tem. Um movimento de trevling para ficar bem cinematográfico. E claro, uma pan geral para mostrar todo o espaço, né? Se você quer aprender tudo sobre vídeos imobiliários, comenta aqui a palavra AP que eu vou te mandar no direct o meu treinamento completo.
 
 ### Legenda
 

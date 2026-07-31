@@ -8,7 +8,7 @@ tags: []
 duracao: "49s"
 data_post: 2024-01-03
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Script pra saudação. Script de ausência. Script de quando o cliente pergunta o preço. É sério mesmo? É sério que você quer basear toda a comunicação da sua empresa com os seus clientes em scripts prontos e você quer fechar mais vendas. Igual os grandes negócios fazem. Tá bom, né? Vendemos pra pessoas diferentes, tickets diferentes, serviços e produtos diferentes. Se você quer parar de perder tempo e quer ter acesso ao método com resultados comprovados, você tem que fazer como a Jéssica e Manufi Zero. Elas tiveram acesso ao segredo da persuasão do WhatsApp, onde eu te dou o passo a passo para você ter uma comunicação envolvente no seu negócio, persuasiva, e que aumente muito a sua conversão em vendas. Então, se você quer parar de perder tempo e quer fazer de fato resultado, clica aqui e garante a sua vaga.
 
 ### Legenda
 

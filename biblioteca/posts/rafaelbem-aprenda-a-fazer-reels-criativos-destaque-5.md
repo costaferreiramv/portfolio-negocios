@@ -8,7 +8,7 @@ tags: []
 duracao: "14s"
 data_post: 2024-12-24
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Isso é um gancho visual. Isso é um gancho visual. Isso é um gancho visual. Isso também é um gancho visual. Então, se os seus vídeos não viralizam, não mude o roteiro, mude o gancho. Quer conhecer todos os ganchos? É só tocar em Saiba Mais que eu te mostro como viralizar com eles.
 
 ### Legenda
 

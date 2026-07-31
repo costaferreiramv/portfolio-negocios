@@ -8,7 +8,7 @@ tags: []
 duracao: "28s"
 data_post: 2025-01-17
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Se você não sabe usar inteligência artificial ainda no seu trabalho, você vai aprender em 60 segundos. É o seguinte, a gente criou uma inteligência artificial dentro do WhatsApp que vai te mostrar justamente como usar inteligência artificial. E esse teste é totalmente gratuito. É só você clicar aqui embaixo e a inteligência artificial vai te ensinar a usar inteligência artificial num caso prático, hoje mesmo, no seu trabalho. É só clicar e acessar.
 
 ### Legenda
 

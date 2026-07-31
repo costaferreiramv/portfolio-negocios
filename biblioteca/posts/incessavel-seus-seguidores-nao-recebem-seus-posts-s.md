@@ -8,7 +8,7 @@ tags: []
 duracao: "28s"
 data_post: 2025-01-16
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O seu Insta pode aparecer para mais pessoas e ganhar novos seguidores todos os dias, sem sorteios e sem qualquer tipo de atalho. Mas como que eu posso te afirmar isso? Nós criamos um perfil experimental do zero e crescemos 100 mil seguidores em 30 dias. E isso sem fazer sorteio nem nada do tipo. Só fazendo tudo do jeito certo. Se você precisa crescer o seu perfil, não importa de qual nicho ele seja, é só apertar em Saiba Mais que nós podemos te ajudar. Te vejo lá.
 
 ### Legenda
 

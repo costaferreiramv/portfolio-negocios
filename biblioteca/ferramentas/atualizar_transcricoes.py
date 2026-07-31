@@ -11,15 +11,22 @@ import sys, os, re, glob
 
 POSTS, LOTES = sys.argv[1], sys.argv[2]
 
+# aceita tanto o layout de lotes (lotes/<n>/txt) quanto o da pasta persistente
+# (Biblioteca Instagram/txt)
+def achar(sub, ext):
+    return (glob.glob(os.path.join(LOTES, "*", sub, "*." + ext))
+            + glob.glob(os.path.join(LOTES, sub, "*." + ext)))
+
+
 trans = {}
-for t in glob.glob(os.path.join(LOTES, "*", "txt", "*.txt")):
+for t in achar("txt", "txt"):
     code = os.path.splitext(os.path.basename(t))[0]
     if "_S" in code:
         continue
     trans[code] = open(t, encoding="utf-8").read().strip()
 
 sheets = set()
-for s in glob.glob(os.path.join(LOTES, "*", "sheets", "*.jpg")):
+for s in achar("sheets", "jpg"):
     sheets.add(re.sub(r"-(slides|video)(-\d+)?\.jpg$", "", os.path.basename(s)))
 
 n_tx = n_sh = 0

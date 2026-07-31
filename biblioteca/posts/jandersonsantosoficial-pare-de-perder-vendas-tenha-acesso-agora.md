@@ -8,7 +8,7 @@ tags: []
 duracao: "50s"
 data_post: 2024-06-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Olha aqui, manda uma mensagem e o cliente não responde. Provavelmente não responde porque você está sendo chato pra caramba. Vendedor chato tem que ser ignorado mesmo. Vendedor que pega uma mensagem e sai encaminhando pra todo mundo como spam. Quando é comigo, eu bloqueio, eu denuncio como spam e eu fico torcendo pro WhatsApp bloquear. Você quer aprender o jeito certo de fechar a venda? Quer aprender o jeito certo? Então é simples, aperta no botão abaixo e vem conhecer o treinamento experto em fechamento de vendas. Treinamento experto em fechamento de vendas vai te mostrar como contornar objeções, como negociar como especialista e como fechar vendas como especialista, sem precisar ficar sendo chato e inconveniente. Tem jeito certo de fechar venda. Tá aqui, só você clicar, aprender. Bora, bora aprender o jeito certo?
 
 ### Legenda
 

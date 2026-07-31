@@ -8,7 +8,7 @@ tags: []
 duracao: "38s"
 data_post: 2025-01-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+e a Caixa voltou a ter recursos para financiar casas acima de 350 mil reais até 1 milhão e meio de reais. Agora, se você quer financiar casas acima de 1 milhão e meio de reais, tem uma ótima opção no mercado para você, que é o BRB, Banco de Brasília. E não, ele não financia casas somente em Brasília, ele tem 203 agências espalhadas por todo o Brasil, nesses estados que eu estou deixando aqui para você, então já consulta se você pode financiar, e você vai poder financiar casas de 350 mil até 10 milhões de reais, com juros inclusive menores do que o da Caixa. E essas são as melhores opções de financiamento para você construir sua casa financiada ainda esse ano. Então já me segue aqui, curte e compartilhe esse vídeo com um amigo que quer construir e lucrar também em 2025.
 
 ### Legenda
 

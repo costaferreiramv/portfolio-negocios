@@ -8,7 +8,7 @@ tags: []
 duracao: "49s"
 data_post: 2025-02-05
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Terrified is the man who stands to lose you Oh, I hope I don't lose you Please stay I want you, I need you, oh God Don't take these beautiful things that I've got Please stay I want you, I need you all, God Don't take These beautiful things that I've got Oh, oh, oh, oh Oh, oh, oh, oh
 
 ### Legenda
 

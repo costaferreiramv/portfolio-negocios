@@ -8,7 +8,7 @@ tags: []
 duracao: "1min14"
 data_post: 2024-08-12
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Três dicas que parecem óbvias, mas ainda os corretores têm muita dificuldade em fazer. Quando você vai fazer um atendimento, você precisa fazer três coisas. Perguntar, ouvir e contar uma história. Você precisa perguntar o que o seu cliente está buscando. Não importa se ele entrou numa casa de 200 mil reais ou se ele entrou num apartamento de 100 milhões. Importa que você precisa perguntar. O que ele está buscando, até que valor ele procura. E você precisa esperar ele responder. Você precisa ouvir o seu cliente para poder trazer o melhor produto. Então não é só perguntar, é ouvir também. Por isso a pergunta tem que ser uma de cada vez. Pergunta uma coisa, aguarde a resposta. Não tenha pressa para fazer um atendimento, é uma conversa. Lead por lead, pessoa por pessoa. E depois que você entender tudo o que o seu cliente está buscando, porque você fez as perguntas certas, você esperou ele responder, você vai contar uma história. Conte a história do imóvel, conte a história que você está oferecendo para ele. Histórias vendem, perguntas convertem. E escutar faz a venda.
 
 ### Legenda
 

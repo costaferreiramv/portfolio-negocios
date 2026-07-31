@@ -8,7 +8,7 @@ tags: []
 duracao: "37s"
 data_post: 2024-12-17
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Oi Vanessa, você vai falar com seu marido, né? Não, fica tranquila, tá? Vou aguardar o seu retorno aqui. Obrigada. Meu Deus, você mandou isso pro teu cliente no WhatsApp? Uai, mandei, por quê? Meu Deus, você não tem um passo a passo, um método de venda, um processo persuasivo? Acho que não, né? Você não tem, fica levando água todo dia, não é? Sim, não tô vendendo nada. Não, é isso que tá faltando pra você vender, mulher. É um processo de venda. Tá, como é que faz esse processo? Olha só, se você é empreendedora, empreendedora, tá querendo vender mais no WhatsApp, eu separei 50 scripts altamente persuasivos pra você copiar e colar e tudo que você precisa fazer é clicar no botão que tá aparecendo aqui embaixo então clica agora e bora fazer venda todo dia tá esperando o que? clica, vai
 
 ### Legenda
 

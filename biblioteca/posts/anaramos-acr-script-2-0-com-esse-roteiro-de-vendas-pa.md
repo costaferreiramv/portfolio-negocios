@@ -8,7 +8,7 @@ tags: []
 duracao: "22s"
 data_post: 2024-10-28
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Já perdi algumas vendas por não saber o que falar para o lead. Então, com esse roteiro de vendas para corretores de imóveis, você vai conseguir abordar o teu lead, desde o contato inicial, as quebras de objeções mais comuns do mercado, até o pós-venda e reativação dos leads. Eu vou deixar o link aqui embaixo, dar uma olhadinha mais completa em tudo que a gente tem nesse roteiro. Clique em Saiba Mais.
 
 ### Legenda
 

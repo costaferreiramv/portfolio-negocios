@@ -8,7 +8,7 @@ tags: []
 duracao: "11s"
 data_post: 2024-08-10
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+E aí
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "51s"
 data_post: 2024-10-14
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Chegou o meu tão esperado suporte de celular iStand da UTIO. Vocês não têm noção do quanto eu procurei um suporte pro meu celular que tivesse realmente uma qualidade Apple. Eu tava simplesmente exausta de gastar com esses suportes porcaria que vende por aí. Agora o meu iStand é meu casquinha de bala, literalmente. Eu uso ele todos os dias. Seja pra falar em uma reunião, pra gravar conteúdo, pra mostrar a tela do meu computador dentro de uma chamada. E além de ter uma qualidade incrível, ele também dá aquele tom mais aesthetic pro meu escritório. Sério, olha isso, eu tô muito apaixonada. Eu posso mexer tanto na altura quanto na inclinação dele. E posso usar o meu celular ou meu tablet na posição vertical ou na posição horizontal pra assistir YouTube, por exemplo. Ele tá disponível em duas cores, eu vou deixar o link aqui embaixo pra você.
 
 ### Legenda
 

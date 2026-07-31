@@ -8,7 +8,7 @@ tags: []
 duracao: "36s"
 data_post: 2024-11-14
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O que eu comprei versus o que chegou na Black Friday da UTIO. Eu pedi o iStand, o suporte giratório em alumínio 360 da UTIO. Chegou super rápido. E eu achei ele mega funcional, além de lindo, né? Olha como ficou no meu escritório. Eu consigo ajustar ele na altura que eu quero. Assim eu trabalho muito mais confortável, evitando ficar com dor no pescoço. E ele também gira 360, olha que incrível. E suporta qualquer notebook de até 5,19 kg. Ele é super robusto, com uma qualidade alta, mas ao mesmo tempo eu consigo colocar ele na bolsa e levar pra trabalhar em um café, por exemplo. Aprovadíssimo, eu vou deixar o link aqui pra vocês.
 
 ### Legenda
 

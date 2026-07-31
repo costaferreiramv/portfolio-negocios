@@ -8,7 +8,7 @@ tags: []
 duracao: "1min27"
 data_post: 2025-01-19
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Esse projeto é para você que trabalha próximo a Faria Lima ou busca um ponto de apoio refinado e luxuoso aqui em São Paulo. Eu trago para vocês o JK Horizonte. Contempla nesse imóvel uma cozinha toda decorada e equipada e premiada pela Deca Além disso, eu tenho toda a parte de mármore Carrara e os móveis são todos laqueados Como localização é tudo, aqui você está situado exatamente ao lado do Itami. Além disso, o JK te dá muitas opções de loja e duas grandes faculdades nesse eixo. Uma que é a Insper e agora a Link. Gostou? Faz sentido pra você. Eu sou o Robson Stallion da 3Digital. Fica aqui meu convite. Agende já a sua visita.
 
 ### Legenda
 

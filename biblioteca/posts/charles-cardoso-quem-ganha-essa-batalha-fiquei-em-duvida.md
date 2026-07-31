@@ -8,7 +8,7 @@ tags: []
 duracao: "1min29"
 data_post: 2025-02-07
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Quem ganhou essa batalha? Esse é o canto original. Olha o drag. Olha o drag. Linda essa queda. Socorro. Eu quero pensar umintointo Não se importa Essas becas das coisas que eu tenho Eu tenho uminto Eu tenho uminto Eu tenho uminto Essas becas das coisas que eu tenho Pinto Eu quero você e eu percasar Eu tenho uminto Don't take these beautiful things that I've got Whoa! Please stay I want you, I need you, oh God Don't take these beautiful things that I've got Whoa! Hey, quem deu pra você? Acho que o original foi melhor
 
 ### Legenda
 

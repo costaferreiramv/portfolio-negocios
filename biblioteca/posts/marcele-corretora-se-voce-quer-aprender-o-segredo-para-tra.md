@@ -8,7 +8,7 @@ tags: []
 duracao: "41s"
 data_post: 2025-01-14
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Marcele, o que fazer quando o cliente não responde? Você fala, fala, fala e ele desaparece. Eu tenho certeza que você, corretor de imóveis, também já passou por isso. Aliás, basta ser corretor de imóveis para ter essa reclamação de que o cliente não responde. O que você não sabe é que existem métodos que fazem você qualificar de verdade um lead. Porque não existe lead frio. Existe corretor que não sabe o que fazer com um lead. E se você é um desses corretores, clique aqui agora, entre no código secreto dos leads e descubra.
 
 ### Legenda
 

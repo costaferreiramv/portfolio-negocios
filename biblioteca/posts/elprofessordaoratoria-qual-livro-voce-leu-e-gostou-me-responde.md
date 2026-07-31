@@ -8,7 +8,7 @@ tags: []
 duracao: "46s"
 data_post: 2024-07-15
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Livros que você deve ler para ontem para melhorar a sua comunicação da água para o vinho. Como fazer amigos e influenciar pessoas, do Dale Carnegie. Como convencer alguém em 90 segundos, do Nicholas Butchman. TED Talks, o guia oficial do TED para falar em público, do Chris Anderson. As armas da persuasão, Robert Cialdini. Gatiles mentais, do Gustavo Ferreira. Story Selling, também do Gustavo Ferreira. Como fazer alguém gostar de você em menos de 90 segundos, também do Nicholas Butchman. Você vai ler Marketing e Arquétipos, Símbolos, Poder e Persuasão, do Hélio Couto. O Corpo Fala, do Pierre Whale. Palavras Mágicas, do Jonah Berger. E Tribos, do Seth Godin. Se você ler esses 11 livros, você vai ver que a sua comunicação vai transcender. Você vai virar um semideusador.
 
 ### Legenda
 

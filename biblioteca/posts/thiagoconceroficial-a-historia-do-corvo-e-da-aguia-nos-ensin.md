@@ -8,7 +8,7 @@ tags: []
 duracao: "33s"
 data_post: 2024-06-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O único pássaro que usa atacar uma águia é o curvo. O curvo senta nas costas da águia e começa a picar o pescoço dele. A águia não responde. Ela não gasta tempo nem energia com o curvo. Em vez disso, ela apenas abre as asas e começa a subir mais alto no céu. Quanto mais alto o voo, mais difícil é pro curvo respirar. E eventualmente, claro, o curvo acaba caindo por causa da falta de oxigênio. Ó, aprende o negócio com a águia e não lute contra a curva. Apenas continue subindo. Eles podem até grudar em você no passeio, mas logo eles vão cair. Evite se perder com as distrações, mantenha o seu foco no topo e continue a subir. Só assim você vai atingir a alta performance.
 
 ### Legenda
 

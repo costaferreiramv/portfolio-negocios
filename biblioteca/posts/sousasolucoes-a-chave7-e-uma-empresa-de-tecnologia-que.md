@@ -8,7 +8,7 @@ tags: []
 duracao: "31s"
 data_post: 2025-01-12
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Corretor, se você quer ter sucesso, precisa focar no que realmente interessa. Em vendas, marcar visitas, mostrar imóveis, realizar fechamentos. A Chave 7 já tem imóveis certos para o seu cliente. E o melhor, a comissão é 100% sua. Chave 7, a chave da sua alta performance. E aí
 
 ### Legenda
 

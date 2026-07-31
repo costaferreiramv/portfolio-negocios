@@ -8,7 +8,7 @@ tags: []
 duracao: "32s"
 data_post: 2024-06-18
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Não! Para de perder vendas e deixar resultados na mesa enquanto você continua respondendo para o cliente, tudo bem, qualquer coisa estou à disposição. Quando você faz isso, você acaba com a venda ali onde ela ainda poderia acontecer. Então, se você quer parar com isso e quer alavancar as suas vendas, aumentar a sua conversão em vendas, clica no link e acessa o segredo da persuasão no WhatsApp.
 
 ### Legenda
 

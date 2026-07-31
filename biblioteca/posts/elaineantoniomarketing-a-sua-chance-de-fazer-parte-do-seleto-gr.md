@@ -8,7 +8,7 @@ tags: []
 duracao: "47s"
 data_post: 2024-12-12
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Corretor, pessoas compram de pessoas. No mercado imobiliário, a conexão humana é o que realmente vende. Porque você é o caminho que leva o cliente até o desejo dele, que é o imóvel. Se você ainda não está usando o poder do Instagram para criar essa conexão e atrair mais clientes, você está perdendo muito em comissão. E agora, de forma gratuita, você tem a oportunidade de aprender a utilizar o Instagram para fazer com que o cliente escolha você para atendê-lo. É só clicar em Saiba Mais e assistir a aula gratuita que eu preparei para você. Então, clica aí enquanto ela está no ar. Rapidinho, clique agora.
 
 ### Legenda
 

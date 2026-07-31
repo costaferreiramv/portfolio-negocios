@@ -8,7 +8,7 @@ tags: []
 duracao: "1min18"
 data_post: 2025-01-11
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Esses são os três números mágicos do Google que geram oito dígitos em reais por ano. Guarda aí. Sete, onze, quatro. Essa é a regra de ouro do Google, que não por acaso também está inserida em um funil de vendas americano muito sofisticado. Com isso, essa empresa gera um fluxo infinito de clientes e dinheiro que não acaba mais. Por isso que quando você souber implementar esse funil de vendas no seu negócio, você vai adicionar 100 mil reais de faturamento no mínimo, sem depender de estratégias obsoletas aí no Brasil. Eu vou te ensinar qual é essa regra 7114 do Google e como você pode implementar esse funil no seu negócio. Se você quiser gerar 100 clientes por mês e aprender a faturar 100 mil reais sem o risco comum e o estresse do marketing digital, aperte no botão Saiba Mais e se inscreva no desafio Código da Riqueza, onde eu vou te ensinar o passo a passo de como você pode conseguir isso. Já adianto que não tem nada a ver com perpétuos ou lançamentos ou qualquer outra estratégia arriscada do Brasil. É algo diferente de tudo que você já viu, porque nasceu aqui nos Estados Unidos entre os maiores players como Russell Brunson e Tony Robbins. Mas cuidado, as vagas para esse treinamento são limitadas por lote Então é melhor você correr para não rasgar dinheiro Clique em Sabe a Mais e se inscreva agora
 
 ### Legenda
 

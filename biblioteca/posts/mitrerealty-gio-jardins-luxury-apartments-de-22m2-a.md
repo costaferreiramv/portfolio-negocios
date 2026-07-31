@@ -8,7 +8,7 @@ tags: []
 duracao: "1min25"
 data_post: 2024-07-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Hoje eu estou aqui no Mitri Exclusive Collection, no Gil Jardins, e a gente agora vai conhecer o lançamento de hoje, que são os Luxury Apartments. Vamos lá? E esse aqui é o Luxury Apartment. É lindo, mas um dos grandes diferenciais desse empreendimento é o serviço de hospitalidade By Hudson. A Mitre é a primeira incorporadora e construtora a trazer esses serviços de hospitalidade by Hudson para o Brasil. E os luxury apartments têm plantas de 22 a 93 metros quadrados e assinados pela arquitetura de Konigsberg Vanucci. Olha que incrível! E esse empreendimento de altíssimo padrão é um sonho. A 180 metros d'Oscar Freire é walking distance no coração dos jardins. Venha conhecer! Fica na Gabriel Montenhor da Silva número 3.
 
 ### Legenda
 

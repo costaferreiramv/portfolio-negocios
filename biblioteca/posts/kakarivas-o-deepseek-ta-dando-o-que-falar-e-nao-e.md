@@ -8,7 +8,7 @@ tags: []
 duracao: "1min19"
 data_post: 2025-01-30
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Só se fala em DeepSeek. E você, corretor? Já sabe utilizar essa ferramenta para vender os seus imóveis? Eu vou te mostrar. Mas antes, já coloca aqui para seguir, para você não perder nenhum conteúdo de marketing digital específico para o mercado imobiliário. E assim, triplicar as suas vendas. Vambora? Baixe o aplicativo DeepSeek, este da baleia, e faça a seguinte busca. Use este prompt aqui. Ajude-me na criação de um anúncio. Meu imóvel é ideal para investimento e renda passiva em São Paulo. Preciso para segmentação. Você vai colocar estes dados aqui. Idade do avatar Renda do avatar Localização Interesses Olha só como o DeepSeek vai te ajudar A criar um anúncio Muito mais eficiente Ele já vai te dar aqui a idade 30, 50 anos A localização do seu anúncio A renda que ele tem e os interesses E se você quiser receber o meu ebook Escreve nos comentários Rivas E aí
 
 ### Legenda
 

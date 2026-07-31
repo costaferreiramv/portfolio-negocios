@@ -8,7 +8,7 @@ tags: []
 duracao: "37s"
 data_post: 2024-12-10
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Instagram agora está impulsionando contas pequenas, mas você precisa ativar essas 7 configurações. Primeiro você precisa clicar no editor de Reels, adicionar o seu Reels, clicar em mais opções. Aqui você precisa ativar essas 3 opções. Volta, clique em exibição do perfil e marca essa função. Vai em compartilhar no Facebook e ativa essa opção. Agora na tela do perfil você clica nos três tracinhos, vai em comentários, publicações e reels e marca essa opção todos Por último acesse o Insta pelo navegador, vai em editar perfil e marca essa opção
 
 ### Legenda
 

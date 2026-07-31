@@ -11,8 +11,8 @@ Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 | status | o que significa | posts |
 |---|---|---|
 | `completo` | íntegra capturada e analisada | 42 |
-| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 839 |
-| `pendente` | legenda capturada; falta transcrever slides ou analisar | 386 |
+| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 1005 |
+| `pendente` | legenda capturada; falta transcrever slides ou analisar | 220 |
 
 ### Tipo
 

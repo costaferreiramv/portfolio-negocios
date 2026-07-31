@@ -8,7 +8,7 @@ tags: []
 duracao: "44s"
 data_post: 2024-05-14
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Existem três erros que você nunca deve cometer no seu local de trabalho. Primeiro, nunca pense que seus colegas são seus amigos. Eles não são. Eles estão apenas fazendo o trabalho que tem que ser feito. Quando a situação aperta, eles vão se proteger e te deixar na mão. Segundo, nunca revele sua vida pessoal para seus colegas. Não conte seus planos, investimentos ou próximos passos. Apenas um tolo revela segredos. Terceiro, nunca compartilhe informações que podem te prejudicar com nenhum colega. Guarde para si mesmo Tudo o que você compartilha com seus colegas Pode e será usado contra você Se você não está seguindo o Vida Focada Provavelmente nunca nos verá novamente Mas se estiver, parabéns Você está crescendo a cada dia
 
 ### Legenda
 

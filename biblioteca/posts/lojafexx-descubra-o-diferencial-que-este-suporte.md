@@ -8,7 +8,7 @@ tags: []
 duracao: "29s"
 data_post: 2024-12-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Imagine um suporte que se importa com cada detalhe, e com um simples toque ele não só te mantém no foco, como acompanha cada movimento seu, como se entendesse o que você precisa, quando você precisa. Com iluminação dupla para realçar o seu melhor ângulo e controle bluetooth, você controla tudo a distância, fotos, vídeos, momentos, tudo com a facilidade de quem não precisa se preocupar com nada. Pixel Plus porque cada detalhe importa, clique agora em saiba mais e garanta já o seu.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "18s"
 data_post: 2024-11-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Isso aqui é um material específico de pré-atendimento para o mercado imobiliário, explicando todos os scripts para conseguir ter mais de 80% de taxa de resposta com os leads que você recebe. Se você quer receber esse material por R$19,90, é só clicar no botão aqui embaixo que você consegue garantir isso aqui e resolver de uma vez por todas a taxa de resposta baixa dos seus leads.
 
 ### Legenda
 

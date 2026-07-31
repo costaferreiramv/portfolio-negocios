@@ -8,7 +8,7 @@ tags: []
 duracao: "33s"
 data_post: 2024-10-04
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu nunca vi um estabilizador tão completo quanto esse. Esse é o Gimbal Max, o estabilizador que redefine o seu jeito de gravar. E além de manter seus vídeos estáveis, ele possui um controle Bluetooth pra foto e vídeo a distância e controle do Gimbal. Ele também possui uma iluminação removível com 9 modos que vai trazer brilho e qualidade onde quer que você esteja. E além de uma estabilização profissional, ele também pode ser ajustável como tripé, chegando até 70cm. Clique agora no botão abaixo do vídeo e venha conferir esse super lançamento.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "14s"
 data_post: 2024-07-10
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Não diga cara. Diga nome do cliente. Não diga aguardo seu retorno. Diga posso te ligar amanhã para ter um retorno? Não diga vou te dar esse desconto. Diga vou te dar um bônus exclusivo. Não diga orçamento. Diga proposta.
 
 ### Legenda
 

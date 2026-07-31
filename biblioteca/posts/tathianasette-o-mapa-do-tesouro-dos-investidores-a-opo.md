@@ -8,7 +8,7 @@ tags: []
 duracao: "53s"
 data_post: 2023-05-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Presento a vocês a obra do João Augusta, aqui ao lado do Sterna Café e aqui é considerado o quadrilátero de ouro do Jardins ali naquele amarelinho ali, próximo dali tem Dom ali você tem a torre do Hotel Emiliano aqui atrás gente, CJ Shops, Gero, Figueira Rubaiá, Oscar Freire então aqui gente, vocês estão na melhor localização do bairro do Jardins Agora eu vou mostrar aqui mais da frente o empreendimento E essa obra aqui minha gente É a obra do On Augusto É aqui que está se apresentando Uma grande oportunidade Para você que quer investir e formar patrimônio Na melhor localização daqui de São Paulo Que é no bairro dos jardins Eu vou explicar tudo detalhadamente para vocês Unidades que nunca estiveram à venda Olha o símbolo, localização E o símbolo do dinheiro
 
 ### Legenda
 

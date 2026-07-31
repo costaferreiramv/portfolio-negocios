@@ -8,7 +8,7 @@ tags: []
 duracao: "20s"
 data_post: 2024-05-30
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Um abraço. That thing, that thing, that thing Bruns you
 
 ### Legenda
 

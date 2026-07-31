@@ -8,7 +8,7 @@ tags: []
 duracao: "33s"
 data_post: 2024-11-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Meu amigo recomendou um aplicativo que mudou tudo. Fiquei cético no início, mas esse aplicativo era diferente. Comecei a fazer os exercícios de TCC e minha vida melhorou muito Finalmente estou feliz
 
 ### Legenda
 

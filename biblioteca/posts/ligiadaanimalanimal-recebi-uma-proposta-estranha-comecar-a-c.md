@@ -8,7 +8,7 @@ tags: []
 duracao: "42s"
 data_post: 2025-01-06
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ah, eu entendi, você acha caro fazer patrocinado, né? Já fiz, não deu resultado, patrocinado também não funciona pra mim. A Melina, minha cliente, eu adoro o caso dela. A Melina investiu apenas 100 reais no dia 1 com o nosso roteiro publicitário. E ela tá recebendo uma plaquinha de 1 milhão em menos de um ano, sozinha. O roteiro? Peraí. Tá aqui embaixo!
 
 ### Legenda
 

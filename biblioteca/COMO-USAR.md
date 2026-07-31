@@ -122,8 +122,19 @@ Não vai para o repo de propósito: são ~80 MB de imagem e o repo é público.
    ```
 
 2. **Se ainda faltar mídia** (contact sheet inexistente para o post), rebaixar um lote novo.
-   As URLs de `urls.json` **expiram** — se der 403 no download, refazer o inventário antes:
-   abrir o Instagram logado no Chrome e repetir o passo 1 de `INSTRUCOES-EXTRACAO.md`.
+
+   As URLs de `urls.json` **expiram** — o prazo está carimbado no parâmetro `oe=` de cada
+   URL (unix em hexadecimal). No dump de 30/07/2026 os prazos foram **32 h** para o
+   primeiro lote paginado e **~4,5 dias** para o restante. O TTL não é fixo; conferir
+   antes de baixar:
+
+   ```sh
+   python3 -c "import json,re,datetime;d=json.load(open('urls.json'));o=[int(m.group(1),16) for it in d for u in ([it['video']] if it.get('video') else [])+[x[7:] if x.startswith('VIDEO::') else x for x in (it.get('images') or [])] for m in [re.search(r'[?&]oe=([0-9A-Fa-f]+)',u)] if m];o.sort();print('mais cedo:',datetime.datetime.fromtimestamp(o[0]),'| mais tarde:',datetime.datetime.fromtimestamp(o[-1]))"
+   ```
+
+   Expirado (ou 403 no download), refazer o inventário: abrir o Instagram logado no Chrome
+   e repetir o passo 1 de `INSTRUCOES-EXTRACAO.md` (~40 min de paginação). Nada se perde —
+   transcrições e contact sheets já baixados são permanentes.
 
    ```sh
    biblioteca/ferramentas/lote.sh <indice_inicial> 32

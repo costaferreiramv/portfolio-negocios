@@ -8,7 +8,7 @@ tags: []
 duracao: "2min45"
 data_post: 2026-06-15
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Tem corretor que perde autoridade antes de falar o primeiro bom dia. Sabe por quê? Porque ele entra na sala tentando agradar demais, sorri demais, concorda demais, ri de piada sem graça, fala rápido demais, quer mostrar que conhece todo mundo, quer provar que pertence àquele ambiente. Bicho, em ambiente de poder, excesso de simpatia não gera conexão, gera desconfiança. O incorporador, o investidor, o cliente de alto padrão, o empresário, Esse cara está acostumado com gente querendo alguma coisa dele, querendo agradar ele o tempo todo. Então quando você entra com a energia de quem quer, de quem está desesperado, como aquele cara que entrou no plantão porque encontrei o meu línguio de quente, o cérebro do outro lê uma coisa, esse cara quer alguma coisa de mim. E aí ativa o modo de segurança, ataque e fuga. Quem parece precisar demais perde poder. No mercado imbiliário, autoridade não é gritar, autoridade não é ser arrogante, autoridade é postura. Então você, primeiro, entra devagar, não chega igual aquele corretor desesperado, observa o ambiente, entende quem está ali, escolhe com inteligência com quem você vai falar, quem tem clareza não sai correndo para se encaixar, quem tem clareza sabe onde está pisando. Segundo, sustenta o olhar, não é encarar igual maluco, é não fugir. Tem muito corretor que quando está diante de alguém que lhe acha grande, baixa a energia, desvia o olhar, ria sem graça e começa a se diminuir. Bicho, se você mesmo se diminui, por que o cliente vai te enxergar grande? Terceiro, fale menos e fale melhor. Corretor ocioso fala demais, fala rápido, se explica demais, enfeita demais, tenta convencer antes de entender. O profissional respeitado escolhe as palavras, porque no mercado imobiliário, bicho, quem fala demais normalmente está tentando compensar falta de diagnóstico. E aqui que está o grande ponto. Você não precisa ser o corretor mais simpático da sala. Você precisa ser o corretor mais respeitado. Simpatia abre conversa, respeito abre oportunidade. E respeito vem de postura, leitura de ambiente, repertório, silêncio, pergunta boa e segura. Tem gente que entra no mesmo lugar que você sai com conexão, com convite, negócio e oportunidade. E você só sai com cartão de visita e promessa de vamos tomar um café. Bicho, isso não é sorte, isso é jogo. E tem corretor que ainda não entendeu que vender imóvel, principalmente em alto nível, não começa no imóvel. Começa na percepção que o outro cria de você. Porque antes do cliente confiar no seu produto, ele precisa confiar na sua presença.
 
 ### Legenda
 

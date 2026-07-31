@@ -8,7 +8,7 @@ tags: []
 duracao: "1min10"
 data_post: 2026-06-21
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O mercado te ensinou a correr atrás de lead novo. Ninguém te contou que você já tem clientes prontos, parados no teu WhatsApp. A maioria dos corretores passa o mês inteiro tentando gerar lead. É anúncio, é portal, é story, é tráfego pago. Enquanto isso, tem uma carteira inteira travada. Pessoas que já demonstraram interesse, que já responderam uma vez, que estão lá parada esperando alguém fazer alguma coisa. Eu fiz uma pesquisa com quase 100 corretores. e 54% disseram que a maior dor não é gerar lead, é não saber o que fazer com os que já tem lá. Antes de investir R$1 em anúncio novo, faz isso aqui agora. Abre o teu WhatsApp e filtra os contatos sem resposta nos últimos 30 dias. Pega o primeiro nome da lista e manda essa mensagem aqui. Cliente, houve alguma falha no meu atendimento para que você não me retornasse? Gostaria de entender para não repetir com outros clientes. Não é cobrança, é reativação. O cliente sente necessidade de responder porque ninguém quer aparecer que sumiu por culpa do outro. Lead novo custa dinheiro. Lead parado já é seu. Vai lá buscar. Salve esse vídeo aqui antes de gastar dinheiro com o lead novo. Você vai querer se lembrar disso.
 
 ### Legenda
 

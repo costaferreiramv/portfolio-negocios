@@ -8,7 +8,7 @@ tags: []
 duracao: "30s"
 data_post: 2026-07-10
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Se você quer que as pessoas sintam que você é amigo delas, grave assim. Se você quer que as pessoas sintam que você tá em uma call com elas, grave assim. Se você quer que as pessoas se sintam motivadas com o que você diz, grave assim. Se você quer ser visto como um profissional no seu nicho, grave assim. Se você quer passar aquela energia de irmã mais velha, melhor amiga, sabe? Grava assim. Esse último aqui faz o espectador sentir que você tá falando diretamente com ele e ele sente como se estivesse dentro da cena. Então testa esse também. E se você ainda não segue esse perfil pra saber tudo sobre o universo de criação de conteúdo na prática, Já segue aqui
 
 ### Legenda
 

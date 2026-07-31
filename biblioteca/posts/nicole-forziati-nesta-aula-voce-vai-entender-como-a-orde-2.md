@@ -8,7 +8,7 @@ tags: []
 duracao: "1min15"
 data_post: 2026-06-20
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Uma corretora que é minha aluna fechou seis imóveis em 60 dias depois de três anos parada. E ela não fez nada que você ainda não saiba fazer. Ela estava no mercado há três anos e ela tinha meses e meses sem sequer fechar nenhuma venda. Só que em janeiro desse ano, nós começamos a aplicar o que eu chamo de a nova regra de três. Que é um passo a passo de três ações que traz vendas todos os meses. E aí no primeiro mês, ela fechou dois imóveis e conseguiu respirar. No segundo mês, ela fechou quatro. E aí ela ficou em primeiro lugar da equipe dela pela primeira vez. No terceiro mês, ela fechou seis imóveis. E ela até me mandou um áudio chorando porque ela passou a comissão dos três anos anteriores somado. Pois é. E eu gravei uma aula, uma aula curta, abrindo tudo sobre essa fórmula. abrindo exatamente o que ela aplicou diariamente e o melhor. Eu faço toda essa conta junto com você ao vivo pra você ver com seus próprios olhos que qualquer corretora consegue vender pelo menos dois imóveis por mês. Então toca agora no botão aqui embaixo, vai lá assistir essa aula enquanto ela ainda está no ar e antes do seu próximo mês começar.
 
 ### Legenda
 

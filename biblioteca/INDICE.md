@@ -4,15 +4,15 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 32
+**Analisados (resumo, pontos-chave e aplicação escritos):** 34
 
 ### Status
 
 | status | o que significa | posts |
 |---|---|---|
-| `completo` | íntegra capturada e analisada | 29 |
-| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 122 |
-| `pendente` | legenda capturada; falta transcrever slides ou analisar | 1116 |
+| `completo` | íntegra capturada e analisada | 31 |
+| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 182 |
+| `pendente` | legenda capturada; falta transcrever slides ou analisar | 1054 |
 
 ### Tipo
 
@@ -46,12 +46,15 @@ automaticamente.
 - [Marketing Silencioso: anúncio + carrossel que qualifica + WhatsApp que filtra](posts/acaroldutraa-marketing-silencioso.md) — @acaroldutraa
 - [ChatGPT Ads chega ao Brasil: anúncio na hora da decisão, só para quem usa o plano gratuito](posts/allesinisgalli-chatgpt-ads-brasil.md) — @allesinisgalli
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr
+- [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker
 - [Pare de mandar o anúncio direto pro WhatsApp: filtre com uma conversão mais avançada](posts/pedromoro93-funil-0405-conversao-avancada.md) — @pedromoro93
 
 ### criativos
 
 - [Tela dividida no CapCut em 5 passos](posts/andressapenna-tela-dividida-capcut.md) — @andressapenna.oficial
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr
+- [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
+- [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker
 - [Speed ramp x câmera lenta: o ritmo do vídeo imobiliário depende do que o imóvel é](posts/dentrodoimovel-ritmo-video-imobiliario.md) — @dentrodoimovel
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
@@ -62,6 +65,7 @@ automaticamente.
 - [O caso Ricardo Martins: 7 vídeos por dia com função definida, e o corretor virando a marca](posts/andersonbarbosast-ricardo-martins-marca-pessoal.md) — @andersonbarbosast
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr
+- [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
 - [Foto de check-in não é conteúdo: como transformar um evento em material para a audiência](posts/clubedaborboleta-como-postar-evento.md) — @clubedaborboleta
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
@@ -73,6 +77,7 @@ automaticamente.
 
 - [Marketing Silencioso: anúncio + carrossel que qualifica + WhatsApp que filtra](posts/acaroldutraa-marketing-silencioso.md) — @acaroldutraa
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli
+- [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
 - [Vocabulário do luxo: cinco trocas de frase para remarcar um compromisso](posts/malu-albertotti-remarcar-com-elegancia.md) — @malu_albertotti
@@ -108,6 +113,7 @@ automaticamente.
 ### ia-automacao
 
 - [ChatGPT Ads chega ao Brasil: anúncio na hora da decisão, só para quem usa o plano gratuito](posts/allesinisgalli-chatgpt-ads-brasil.md) — @allesinisgalli
+- [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
 - [6 sacadas do criador do Claude Code sobre como ele usa IA](posts/manualdedonos-6-sacadas-claude-code.md) — @manualdedonos
 - [6 skills que tiram o Claude do modo chatbot](posts/nicksoncarvalho-6-skills-claude.md) — @nicksoncarvalho
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi
@@ -131,8 +137,10 @@ automaticamente.
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr · video · 2026-05-22
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr · carrossel · 2026-07-29
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli · carrossel · 2026-07-18
+- [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator · carrossel · 2026-07-26
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz · carrossel · 2026-07-09
 - [Foto de check-in não é conteúdo: como transformar um evento em material para a audiência](posts/clubedaborboleta-como-postar-evento.md) — @clubedaborboleta · reel · 2026-07-21
+- [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker · carrossel · 2026-07-22
 - [Speed ramp x câmera lenta: o ritmo do vídeo imobiliário depende do que o imóvel é](posts/dentrodoimovel-ritmo-video-imobiliario.md) — @dentrodoimovel · reel · 2026-07-23
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric · carrossel · 2026-07-22
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive · video · 2026-06-29

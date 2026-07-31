@@ -8,7 +8,7 @@ tags: []
 duracao: "1min42"
 data_post: 2026-06-25
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O Cloud tem uma função tão poderosa e quase ninguém está falando dela ainda. Essa é a parte 11 do Todo Mundo Amo Cloud. O mais curioso é que ela nem aparece no aplicativo do desktop. Eu descobri ela por acaso e quando eu vi ela pela primeira vez, eu tive a mesma sensação de que quando eu usei o chat de EPT pela primeira vez. Essa área se chama Cloud Design. Ela fica escondida em cloud.ai.design. O mais impressionante é que ela consegue substituir várias ferramentas diferentes. Por exemplo, se você precisa criar uma apresentação, basta escrever um prompt. E em poucos segundos o cloud cria todos os slides para você. Quando termina, você pode exportar tudo para o Canva ou para o PowerPoint. Mas isso é só o começo. Se você trabalha com criação de conteúdo, essa ferramenta fica ainda mais interessante. Porque um simples prompt pode virar um carrossel para o Instagram, um PDF, um guia de identidade visual ou praticamente qualquer material de marketing. Só que a parte que realmente me deixou impressionada foi essa. Eu comecei a pedir para o Cloud escrever um briefing completo para aplicativos e sites. Depois eu pegava esse briefing e colava no Cloud Design. E em poucos minutos ele criava todo o site, toda a interface. Mas o que acontece depois é a parte mais absurda. Eu exportava isso para o Cloud Code e ele transformava isso num protótipo funcional. Ou seja, saía de uma ideia na cabeça para algo que já estava pronto para usar e testar. E isso tem mudado completamente a forma como eu penso sobre criar coisas. Porque pela primeira vez, parece que a distância entre pensar em criar alguma coisa e realmente criá-la ficou muito menor. Então, se você gosta de inteligência artificial, essa é uma daquelas ferramentas que vale a pena experimentar.
 
 ### Legenda
 

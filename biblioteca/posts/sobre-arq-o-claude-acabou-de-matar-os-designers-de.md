@@ -8,7 +8,7 @@ tags: []
 duracao: "1min02"
 data_post: 2026-06-18
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O Cloud acabou de matar os designers de interiores. Agora qualquer um consegue redesenhar um espaço inteiro sem contratar um arquiteto ou designer usando o Cloud Code. Eu vou te mostrar como configurar isso em três passos simples. Vai até o Google e pesquisa por Banana Skill Cloud. Em seguida, clica nesse primeiro link. Então você só copia esse link, cola o link e fala para ele instalar essa skill. Agora você vai até o Google AI Studio e clica aqui em API Key. Então você vem em Criar API Key e clica nesse botão para copiar a chave de API. Depois disso, você sobe a foto do seu ambiente e digita o comando traço banana e escreve algo como Redesenha esse ambiente como um design de interiores profissional. E o Cloud vai gerar propostas de design impressionantes e que realmente são bonitas. E você pode pedir alteração no mobiliário, layout dos ambientes, materiais, tudo o que você quiser. Se você quer um guia completo de IA para arquitetura interiores e PDF, explicando exatamente como usar IA, além de prontos perfeitos para obter os melhores resultados, siga o perfil e comente IA para receber o material.
 
 ### Legenda
 

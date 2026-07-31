@@ -8,7 +8,7 @@ tags: []
 duracao: "58s"
 data_post: 2026-06-19
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Anota aí. Oi, cliente, tudo bem? A gente conversou um tempo atrás sobre imóvel e eu lembrei de você hoje. Queria te perguntar, essa busca ainda faz sentido para você ou você deixou esse plano mais para frente? Essa mensagem funciona porque ela não pressiona. Ela dá contexto. Ela respeita o tempo do cliente e ela te tira da dúvida. E durante 7 dias, 30 minutinhos pela manhã, eu vou aplicar esse método com você, ao vivo, do zero ao próximo passo. Você vai saber o que dizer para reativar contato parado, como qualificar sem desperdiçar visita, como fazer follow-up sem parecer desesperado e como conduzir o cliente depois da visita, em vez de só esperar ele decidir sozinho. 5 aulas, 5 micro tarefas que trazem resultados ainda essa semana, com os teus clientes reais durante 7 dias. O ingresso está num lote promocional com vagas limitadas, então você precisa clicar aqui em saiba mais para aproveitar enquanto está disponível.
 
 ### Legenda
 

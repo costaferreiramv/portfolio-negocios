@@ -8,7 +8,7 @@ tags: []
 duracao: "1min05"
 data_post: 2026-07-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+A próxima atualização do Instagram é sempre a pior e para mulheres ela também sempre é mais perigosa. Olha só, agora a Meta lançou um gerador de imagens por IA dentro do Instagram. Se a sua conta é pública, pública, qualquer pessoa pode marcar o seu arroba no comando, ali no chat EPT, no cloud e usar suas fotos como referência para criar a imagem que quiser. Dizendo eles, essa ferramenta seria para fazer a criação de cards, de divulgação, de conteúdo, de convites inocentes, né? E a função já está ativada. Ninguém perguntou se você queria participar e você não vai receber nenhum aviso quando alguém cria uma imagem usando a sua aparência. E para desativar, eu vou deixar o print na tela. Mas também pausa o vídeo, olha esse print e escuta as minhas orientações quantas vezes precisar. Você vai entrar no seu perfil, tocar no menu, vai em compartilhamento e reutilização e desliga a opção que permite usar seu conteúdo no Instagram no seu curso de IA. Se ainda não apareceu para você, calma, não precisa desesperar. É porque ela está sendo liberada aos poucos, mas já vale também deixar configurado. Então, mais uma vez, cabe a você correr atrás de uma proteção que deveria vir por padrão. Então salve esse vídeo agora, antes de esquecer, e manda para uma amiga que também tem um perfil público. Ela também precisa desativar esse pré-cabico.
 
 ### Legenda
 

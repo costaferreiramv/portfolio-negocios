@@ -8,7 +8,7 @@ tags: []
 duracao: "1min17"
 data_post: 2026-03-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu casei com Liza Ambicioso e hoje nós temos 7 negócios juntos. Eu e meu marido não dividimos nossas contas 50 a 50. Nós somos um casal de 27 e 28 anos. E hoje a gente tem mais de 7 negócios juntos. Em vez de dividir tudo meio a meio, ele paga todas as contas de casa. E o dinheiro que eu faço vai para os nossos investimentos. E se você também sente que nasceu para algo maior, mas nesse momento está totalmente perdida. Você está sem rumo, você está sem saber o que faz da vida. Você está querendo ganhar mais dinheiro, mas não quer aparecer. Você não quer virar influencer. Assiste esse vídeo porque há pouquíssimo tempo atrás Eu tava largando minha faculdade Porque eu sentia que aquilo não era pra mim Que eu não ia ter a vida que eu queria Outro dia eu tava no YouTube guiando E caiu um anúncio pra mim de como fazer 3 a 10 mil reais por mês Sem mostrar o meu rosto e com um perfil anônimo no Instagram Óbvio que eu não acreditei, né? Porque eu só via gente que mostrava o rosto ganhando dinheiro Mas aí eu descobri que dentro do Instagram Tem um sistema que permite postar vídeos de outras pessoas E monetizar o seu perfil E monetizar significa sacar dinheiro pra sua conta Ninguém sabe que sou eu, nem os meus amigos, nem a minha família E esse é o melhor de tudo Porque eu faço dinheiro e ninguém fica enchendo meu saco Ninguém fica me pedindo dinheiro, é só eu, meu celular e meus 20 minutos por dia Eu já até ensinei pra algumas amigas que já conseguiram replicar o sistema no mesmo dia Enquanto todo mundo fica achando que eu tô desempregada Se você quer ganhar dinheiro sem aparecer, sem criar conteúdo, sem virar influencer Clica no botão aqui embaixo que eu deixei o sistema completo pra você baixar o passo a passo agora e aplicar ainda hoje Mas corre que eu não sou louca de compartilhar isso por muito tempo, inclusive sai do ar hoje meia noite
 
 ### Legenda
 

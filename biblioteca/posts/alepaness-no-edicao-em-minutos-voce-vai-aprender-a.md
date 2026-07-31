@@ -8,7 +8,7 @@ tags: []
 duracao: "1min45"
 data_post: 2026-07-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Da próxima vez que você tiver uma ideia nova, da próxima vez que você tiver uma ideia nova, não saia pedindo confirmação e opiniões de todo mundo. Nem todo mundo vai conseguir enxergar aquilo que você está vendo. E tudo bem, porque a visão nasceu em você. Muitas vezes a ideia é só uma sementinha. E quando você entrega para muitas pessoas, e quando você entrega para muitas pessoas opinarem cedo demais, algumas vão julgar como se essa ideia já precisasse ser uma árvore. Da próxima vez que você tiver uma ideia nova, não saia pedindo confirmação e opiniões de todo mundo. Nem todo mundo vai conseguir enxergar aquilo que você está vendo. Muitas vezes a ideia é só uma sementinha. E quando você entrega para muitas pessoas opinarem cedo demais, algumas vão julgar como se essa ideia já precisasse ser uma árvore. Vão opinar com os medos delas, com as experiências delas, com os limites delas. E sem perceber, você pode abandonar algo que fazia sentido para você. só porque alguém não conseguiu entender os seus planos. É claro que ouvir pessoas é importante, mas existe uma diferença enorme entre buscar orientação e pedir permissão para acreditar nos próprios sonhos. Algumas coisas você só vai descobrir tentando, ajustando no caminho, aprendendo enquanto faz. Então, cuide das suas ideias, porque nem toda semente precisa ser mostrada antes de criar raiz.
 
 ### Legenda
 

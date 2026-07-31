@@ -13,6 +13,9 @@ Serve a dois propósitos:
 > Esta pasta fica na raiz do repositório, **fora** de `src/`. O Astro só publica
 > `src/pages/` e `public/`, então nada daqui vai para o ar em portfolionegocios.com.br.
 
+**Para usar isto numa tarefa (anúncio, roteiro, copy, captação) ou para retomar a
+extração, ver [COMO-USAR.md](COMO-USAR.md).**
+
 ---
 
 ## Como o conteúdo entra

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min12"
 data_post: 2026-05-15
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Sempre me perguntam, ah, mas Mariana, por que as pizzas são redondas, são entregues em caixas quadradas e cortadas em triângulos? Não sei, meu nome não é Mariana, é Lara. Esse é o vídeo viralizado original. Todo mundo me pergunta, seu Hiroshi, como eu faço um pastel assim, tão sequinho? Na verdade, eu não faço a menor ideia, porque o meu nome não é Hiroshi e eu não entendo nada de pastel. E essa é a versão replicada. Isso é chamado de hackear um formato viral. O jogo não é inventar moda, é pegar uma ideia que já foi validada pelo mercado e modelar ela com o seu toque. Vou te entregar o passo a passo pra você achar esses vídeos no seu nicho em menos de 15 segundos. Bora pra tela. Primeiro passo, vai direto na aba Explorar do Instagram e digita o seu nicho. Segundo, procura vídeos que tenham pelo menos 5 vezes mais views do que o número de seguidores do criador. Se o cara tem 10 mil seguidores e o vídeo bateu 50 mil ou 100 mil views, isso é um ponto fora da curva. Esse vídeo performou muito acima da média e é ele que a gente vai usar como base. Agora, a chave pra escala não é só copiar e colar. Você vai recriar a mesma estrutura, mas vai colocar o seu estilo e a sua perspectiva. Se um formato já validou e viralizou uma vez, a chance de ele performar de novo é gigante desde que você saiba adaptar para o seu jogo. Aplica isso nos teus criativos e depois me conta o resultado. Salva esse vídeo para não perder o passo a passo.
 
 ### Legenda
 

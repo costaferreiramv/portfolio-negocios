@@ -8,7 +8,7 @@ tags: []
 duracao: "36s"
 data_post: 2026-05-16
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Muita gente pensa que ter a API oficial do WhatsApp é algo caro e burocrático, só para grandes empresas. Mas será que isso é verdade? Na realidade, qualquer negócio pode ter acesso à API oficial com um custo muito mais acessível do que você imagina. A tecnologia e metodologia da Letalk. Você tem a API oficial rodando no seu negócio de forma rápida e sem burocracia. Já são mais de 4 mil empresas que confiaram na Letalk para automatizar seus atendimentos com segurança e estabilidade. Quer descobrir como economizar e personalizar o seu WhatsApp ao mesmo tempo? Clique aqui em Saiba Mais e veja como isso é possível.
 
 ### Legenda
 

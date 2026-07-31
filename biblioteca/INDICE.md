@@ -4,15 +4,15 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 34
+**Analisados (resumo, pontos-chave e aplicação escritos):** 36
 
 ### Status
 
 | status | o que significa | posts |
 |---|---|---|
-| `completo` | íntegra capturada e analisada | 31 |
-| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 182 |
-| `pendente` | legenda capturada; falta transcrever slides ou analisar | 1054 |
+| `completo` | íntegra capturada e analisada | 33 |
+| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 189 |
+| `pendente` | legenda capturada; falta transcrever slides ou analisar | 1045 |
 
 ### Tipo
 
@@ -65,7 +65,9 @@ automaticamente.
 - [O caso Ricardo Martins: 7 vídeos por dia com função definida, e o corretor virando a marca](posts/andersonbarbosast-ricardo-martins-marca-pessoal.md) — @andersonbarbosast
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr
+- [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
+- [Três mudanças que o Instagram está testando: etiqueta de IA, seguidores ocultos e séries pagas](posts/catiacreator-mudancas-instagram-agosto.md) — @catiacreator
 - [Foto de check-in não é conteúdo: como transformar um evento em material para a audiência](posts/clubedaborboleta-como-postar-evento.md) — @clubedaborboleta
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
@@ -77,6 +79,7 @@ automaticamente.
 
 - [Marketing Silencioso: anúncio + carrossel que qualifica + WhatsApp que filtra](posts/acaroldutraa-marketing-silencioso.md) — @acaroldutraa
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli
+- [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni
 - [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
@@ -89,6 +92,7 @@ automaticamente.
 - [Silvio Santos, Pelé e Flávio Augusto: quem virou referência apareceu antes de estar pronto](posts/brokersbr-aparecer-antes-de-estar-pronto.md) — @brokersbr
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli
+- [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
@@ -137,7 +141,9 @@ automaticamente.
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr · video · 2026-05-22
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr · carrossel · 2026-07-29
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli · carrossel · 2026-07-18
+- [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni · carrossel · 2026-07-17
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator · carrossel · 2026-07-26
+- [Três mudanças que o Instagram está testando: etiqueta de IA, seguidores ocultos e séries pagas](posts/catiacreator-mudancas-instagram-agosto.md) — @catiacreator · carrossel · 2026-07-22
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz · carrossel · 2026-07-09
 - [Foto de check-in não é conteúdo: como transformar um evento em material para a audiência](posts/clubedaborboleta-como-postar-evento.md) — @clubedaborboleta · reel · 2026-07-21
 - [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker · carrossel · 2026-07-22

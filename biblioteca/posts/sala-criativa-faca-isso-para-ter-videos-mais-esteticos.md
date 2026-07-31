@@ -8,7 +8,7 @@ tags: []
 duracao: "1min07"
 data_post: 2026-05-20
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ao invés de gravar assim quando você for mostrar um ambiente, você vai estabilizar o celular e fazer movimentos suaves. Primeira cena que você vai gravar, você vai colocar na câmera meio para gravar o ambiente e vai fazer um movimento aproximando, lateralizando devagar. E aí para mostrar detalhes, você vai colocando duas vezes e vai fazer pequenos movimentos mostrando algum detalhe. Sempre fazendo um movimento. E quando você for se gravar, ao invés de você simplesmente se gravar em uma parede lisa E ter esse resultado, procure um ambiente que tem elementos atrás Pra você conseguir ter profundidade e ter esse resultado que é muito melhor Ao invés de você gravar contra a luz, você vai fazer isso aqui A via a favor da luz, fica muito melhor Se você fizer isso, seus vídeos vão ficar muito mais estéticos e bonitos Uma coisa que facilita muito é ter roupas minimalistas, com estética legal Com peças que são de fácil combinação, podem deixar o seu vídeo ainda muito mais elegante e estético As peças da Insider são perfeitas pra isso Elas combinam tecnologia, mais conforto. Pode adquirir essas peças na Insider com o nosso cupom SALACRIATIVA. Lembrando que o nosso cupom acumula com os descontos que estão no site.
 
 ### Legenda
 

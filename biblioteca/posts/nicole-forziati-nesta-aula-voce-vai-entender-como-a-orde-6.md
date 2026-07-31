@@ -8,7 +8,7 @@ tags: []
 duracao: "52s"
 data_post: 2026-05-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Momento mais perigoso na venda dos imóveis não é o não, é o silêncio que acontece depois da famosa frase Eu adorei. Você fez a visita, o cliente até mediu o quarto, perguntou tudo, só que ele sumiu. Mas ele não mudou de plano. Ele comprou sim um imóvel. Ele só não comprou com você. Eu chamo eles de Lidy Fantasma, que é aquele cliente que demonstrou interesse, recebeu toda a sua atenção e sumiu e foi comprar com outra corretora. Ele não achou caro, ele não desistiu, ele não mudou de plano. Ele foi embora porque existe um momento exato na jornada de todo cliente em que ele começa a esfriar. E se você não percebe esse momento, você continua mandando foto, mandando mensagem, achando que o negócio ainda está vivo, quando na verdade o lead já até foi embora.
 
 ### Legenda
 

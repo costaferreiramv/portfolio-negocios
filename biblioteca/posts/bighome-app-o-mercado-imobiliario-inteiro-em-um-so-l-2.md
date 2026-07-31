@@ -8,7 +8,7 @@ tags: []
 duracao: "54s"
 data_post: 2026-06-01
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+No mercado imobiliário existem dois tipos de pessoas. As que estão no lugar certo, na hora certa com as pessoas certas e as que chegam quando já acabou. O construtor, o dono de imobiliária e o corretor que não investir em tecnologia em breve vai se tornar... Elefante! Eu vivo esse mercado há mais de 10 anos e desenvolvi a Big Home, o mais alto nível de tecnologia e simplicidade para te ajudar nas suas vendas. construtor, incorporadora dono de imobiliária ou corretor vocês estão convidados para a House, nosso grupo exclusivo onde você vai ter acesso em primeira mão as novidades da Big Home, novidades do mercado tecnologia estratégia, tudo isso organizado, simplificado e de forma gratuita entra, fica à vontade a casa é sua
 
 ### Legenda
 

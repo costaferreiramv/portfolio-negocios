@@ -8,7 +8,7 @@ tags: []
 duracao: "1min26"
 data_post: 2026-04-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu fiz uma landing page de um imóvel que não existe e três pessoas quiseram comprar. Mas não, não estava dando golpe. Na verdade eu vi a quantidade de anúncios de corretores imobiliárias que fazem tráfego pago enviando lead para um formulário que é da meta, que é muito simples. Basicamente eles fazem tráfego pago enviando para um formulário assim. Muito simples, feio e que o cliente fica em dúvida se clica em enviar ou não. Aí eu fiz um tráfego pago para mostrar meu sistema de criação de landing page para os corretores. Criei uma landing page de exemplo De um imóvel que não existia E veio o lead se interessando naquele imóvel Essa foi a landing page que eu fiz Para mostrar para os corretores Para eles largarem mão daquele form Seu de mandar lead direto para o WhatsApp Aqui ele consegue colocar fotos Colocar descrição, colocar localização E consegue obter leads mais qualificados Não curiosos, que nem querem comprar E aqui embaixo tem o forms Muito mais bonito, muito mais elegante e fluido, e além disso, cada resposta dessa que o lead dá conta uma pontuação. Essa pontuação no sistema é o score, ele vai te mostrar se o lead é quente ou morno ou é frio, baseado nas respostas que ele deu ali naquela landing page. Isso é muito útil, porque o corretor não fica perdendo tempo com o lead curioso ou desqualificado. E já aproveitando, se você é corretor e tá vendo esse vídeo e quer uma landing page inteligente com o formulário que vai medir, fazer uma pré-qualificação se o lead é quente, temor no frio, comenta aqui nesse post que eu te envio o link.
 
 ### Legenda
 

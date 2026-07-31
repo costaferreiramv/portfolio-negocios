@@ -8,7 +8,7 @@ tags: []
 duracao: "2min31"
 data_post: 2026-04-01
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+É bonito, mas não funciona. Versão Instagram profissional. Tem algumas coisas nas edições dos vídeos que vocês fazem aí que acaba com a entrega e vocês estão achando que tá abalando. Tipo, a sua logo no vídeo. O próprio CEO do Instagram já falou que tudo que tem logo, eles não priorizam. Principalmente se tiver logo de outro aplicativo, eles não priorizam. Não é que ele vai tirar até o que eu sei que não vai priorizar mais. Simplesmente não vai dar moral. Te dá trabalho pegar essa logo, logo da empresa, colocar no vídeo e no fim fica com cara de algo comercial. Você ia querer ver um vídeo que tem uma logo grandona, que você não conhece, e aí você pensa assim, vão querer vender alguma coisa aqui, né? Ai, mas é que eu tô protegendo o meu post pra ninguém copiar. Gente, um clique sai essa logo, um clique, não precisa ser mais do que um clique. Ainda sobre essa edição de Reels Uma outra coisa que você Fica pensando ali é por que as pessoas Não assistem os outros vídeos Por que um vai muito bem e os outros não Quando a pessoa talvez Entra no seu perfil ali e olha Rapidamente os outros vídeos Ela está olhando a capa do vídeo E as vezes não tem nada Escrito nessa capa Ou está muito pequenininho Ou é uma capa super elaborada Com cara de jabá inclusive com a sua logo, né? Uma capa feita no Canva, aí a pessoa não se sente tentada a assistir aquilo lá. A ausência total de capa é ruim e a capa com muita cara de jabá também é ruim. Então, qual que é a dica, né? Pega um pedaço do vídeo mesmo e escreve ali a chamada desse vídeo pra que quando a pessoa veja a miniatura, ela se interesse pra assistir aquele vídeo. Tem a própria ferramenta do Instagram, você clica em editar capa antes de dar o compartilhar, tá? terminou, escreveu sua legenda ali embaixo está editar capa, você clica ali tem como escrever em cima então faz uma chamada interessante porque a pessoa que estava assistindo um outro vídeo seu vai querer assistir o próximo porque ali tem as vezes uma continuação parte 1, parte 2, tem uma sequência aqui para eu maratonar então imagina um tema legal ali ou um nicho bacana que você consegue abordar e você vai ali dissecando aquele tema em vários sub-temas e você consegue fazer com que a pessoa queira maratonar o seu conteúdo aí dá muito bom
 
 ### Legenda
 

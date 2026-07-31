@@ -8,7 +8,7 @@ tags: []
 duracao: "1min32"
 data_post: 2026-06-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Sempre aceite água, não importa se for na casa de alguém ou numa reunião. A primeira coisa que te oferece é um copo d'água. E o que quase todo mundo responde, não, obrigado, tô bem. Parece educação, que você não quer dar trabalho, só que sem perceber você cria distância. Porque quem aceita não tá sendo inconveniente, tá deixando o outro participar. E isso muda tudo. Benjamin Franklin entendeu isso em 1736. Ele tinha um desafeto na Assembleia da Persilvânia. Um homem rico, culto, influente, que mal falava com ele. Franklin não mandou um presente, não tentou agradar e nem forçou a simpatia. Ele pediu emprestado um livro raro da biblioteca dele. O homem emprestou. Franklin devolveu dias depois com um bilhete de agradecimento. E dali nasceu uma amizade que durou anos. Franklin não deu nada. Ele deixou o outro dar. E esse é o ponto que muita gente não entende. Tem gente que acha que ser magnético é entregar demais, ajudar demais, se esforçar demais, provar o valor o tempo todo. Só que as pessoas mais marcantes não fazem só isso. Elas sabem receber, porque quando alguém te oferece algo pequeno, uma água, um café, um favor, uma indicação, ela não está te dando só aquilo, ela está criando um vínculo. E quando você recusa tudo, talvez ache que está sendo elegante, Elegante, mas às vezes está só impedindo o outro de gostar de você. Aceitar a água não é fraqueza, é deixar a relação começar. E você, costuma aceitar ou recusar?
 
 ### Legenda
 

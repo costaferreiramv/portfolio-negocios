@@ -8,7 +8,7 @@ tags: []
 duracao: "1min09"
 data_post: 2026-02-05
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+A regra dos três elogios, como fazer o seu cliente se apaixonar e comprar de você. Você apresenta o produto perfeito, o cliente ama e compra do teu concorrente. Sabe por quê? Ele não se conectou com você. Harvard fez um estudo com 10 mil vendas, descobriu que 68% dos clientes compram pela conexão com o vendedor, não pelo produto. E sabe qual o seu problema na venda? Você tenta criar a conexão falando do produto. Você pode se conectar mais com o seu cliente através da técnica dos três elogios estratégicos. Nos 30 primeiros segundos, você no lugar de falar Nossa, que lindo o teu cabelo Diga, eu adorei a tua objetividade Dá pra ver que você valoriza seu tempo Você deve elogiar o caráter, não físico da pessoa No meio da conversa, em vez de falar Você é muito simpática, diga Eu percebi que você pesquisou bastante e isso é raro Mostra que você leva a sério as decisões que toma Elogie o comportamento específico do seu cliente E antes de fechar, no lugar de falar Nossa, você vai amar Diga, você fez perguntas que 90% dos clientes não faz vai usar isso muito bem. Elogia a decisão que ele está tomando. Cliente, não esquece quem faz ele se sentir especial. E cliente que não esquece, volta e indica. Três elogios estratégicos é igual um cliente para a vida toda. Já salva esse vídeo.
 
 ### Legenda
 

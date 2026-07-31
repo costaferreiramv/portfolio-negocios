@@ -8,7 +8,7 @@ tags: []
 duracao: "52s"
 data_post: 2026-03-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Como eu vendi um imóvel de 800 mil, fazendo apenas 3 perguntas nos stories, sem colocar 1 real de tráfego e sem ter milhares de seguidores. No primeiro stories de um sábado, eu fiz uma pergunta com uma enquete. A pergunta foi, me conte aqui o que falta para você comprar seu imóvel em 2025. Eu tive 4 pessoas que marcaram encontrar o imóvel ideal, 1 pessoa que marcou aprovação de crédito e 7 pessoas que marcaram vender o meu imóvel antes. Para cada um eu formatei uma pergunta e iniciei uma conversa no direct. A partir daí, iniciou uma conversa, encaminhei apartamentos, fizemos visitas e o resultado. Assinamos a comprimento do apartamento. E mais, lembra as 7 pessoas que ainda precisavam vender o apartamento? Eu fiz 4 captações. Quer aprender as ações que eu faço na minha própria rotina para vender todos os meses, sem correr atrás de cliente, fazendo com que eles venham até mim? Clique no link da bio e se prepare para se tornar um profissional de excelência no mercado imobiliário.
 
 ### Legenda
 

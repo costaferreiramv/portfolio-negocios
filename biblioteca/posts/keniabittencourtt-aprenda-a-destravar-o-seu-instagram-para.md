@@ -8,7 +8,7 @@ tags: []
 duracao: "49s"
 data_post: 2026-04-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O segredo dos perfis que crescem rápido, aqui no Instagram, não é o conteúdo, é a configuração do algoritmo. Você pode ter o melhor Reels do mundo. Se o teu algoritmo tá configurado errado, ele morre ali em 200 visualizações. Agora, se você configurar o algoritmo do jeito certo, os teus Reels, até que eles mais ou menos, batem 50 mil visualizações. E é por isso que tem gente crescendo 10 mil seguidores em dois dias, enquanto você leva meses tentando e sem gastar nada com tráfego pago. Dá pra fazer essa configuração em até 48 horas, com ajustes muito simples pra você copiar e colar aí no teu perfil. Depois dessa configuração, vários perfis começaram a viralizar do dia pra noite. Mesma pessoa, mesmo conteúdo, só mudou a configuração. E eu gravei um mini treinamento te mostrando exatamente como que você faz aí dentro do teu perfil. Clica aqui pra você usar o algoritmo, forçar do jeito certo e começar a chegar a mais de 100 seguidores novos todos os dias. Espero lá.
 
 ### Legenda
 

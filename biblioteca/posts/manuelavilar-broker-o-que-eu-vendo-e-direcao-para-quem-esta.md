@@ -8,7 +8,7 @@ tags: []
 duracao: "44s"
 data_post: 2026-06-18
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Que tipo de imóveis eu vendo? Gente, deixa eu explicar uma coisa. Eu não vendo imóveis. Eu vendo serviço. Eu vendo atendimento. Os imóveis que eu tenho aqui no meu Instagram são meramente ilustrativos. Porque eu acesso todo e qualquer imóvel do mercado. Quando o cliente me escolhe, ele não vem aqui no meu Instagram olhar qual é o imóvel que eu tenho para vender. Ele vem aqui para entender quem eu sou. Para ver se faz sentido para ele ser atendido por mim. Então, eu trabalho com todos os imóveis do mercado. Em bairros específicos de Porto Alegre. E para clientes especiais que desejam um atendimento personalizado, discreto, assertivo e sem pressão no tempo dele. Então, esses são os tipos de imóveis que eu trabalho, basicamente todos nos bairros que eu atuo.
 
 ### Legenda
 

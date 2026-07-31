@@ -8,7 +8,7 @@ tags: []
 duracao: "6s"
 data_post: 2026-02-23
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+You can't make up your mind, mind, mind, mind, mind Please don't waste my time, time, time
 
 ### Legenda
 

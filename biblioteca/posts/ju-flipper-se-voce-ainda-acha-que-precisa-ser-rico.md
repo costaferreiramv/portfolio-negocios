@@ -8,7 +8,7 @@ tags: []
 duracao: "43s"
 data_post: 2026-04-18
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você acha que precisa ser rico para investir em imóveis e é isso que está te fazendo perder oportunidade e dinheiro. A verdade é que a maioria das pessoas quando compra imóvel, escolhe mal, paga caro. E aí, obviamente, demora anos para obter retorno. Quando tem retorno? Enquanto isso, existe uma estratégia de investidores que compram, reformam e revendem esses imóveis com lucro. Tudo isso em pouquíssimos meses. Isso se chama house flipping. E não, não é só para milionários. Mesmo que você esteja do zero, se você quer aprender a gerar renda com imóveis de oportunidade, Você precisa estar nessa live Clica aí no link e reserva sua vaga agora Porque vai ser ao vivo E com conteúdo que normalmente eu cobraria E caro pra entregar Então não perde, espero lá
 
 ### Legenda
 

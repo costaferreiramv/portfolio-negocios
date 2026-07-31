@@ -8,7 +8,7 @@ tags: []
 duracao: "30s"
 data_post: 2026-05-07
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Se o cliente parou de te responder, você vai mandar essa mensagem aqui, é a mensagem cachorrinho. Você vai falar, olha, houve alguma falha no meu atendimento que porventura eu tenha feito e que por esse motivo você parou de me responder? Faz isso hoje que você vai ver a quantidade de respostas que você vai ter. Existe um padrão de conversa que puxa o cliente até a visita. É o que eu chamo de conversa validada. Custa menos que um Big Mac. Agora, se você está confortável sendo ignorado, então isso aqui não é para você. Clica aqui.
 
 ### Legenda
 

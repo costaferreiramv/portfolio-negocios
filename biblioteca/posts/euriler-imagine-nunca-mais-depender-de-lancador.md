@@ -8,7 +8,7 @@ tags: []
 duracao: "53s"
 data_post: 2026-04-27
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Imagina tocar um negócio digital inteiro sozinho. Sem funcionário, sócio ou lançador e com pouco investimento. Com total controle sobre a mensagem que você entrega e a qualidade do seu marketing. Sem precisar sacrificar sua vida ou sua família pelo trabalho. Isso em 2025 era a utopia. Até a IA dar um salto em 2026. Hoje com uma boa mensagem e inteligência artificial do lado. Você faz sozinho o que antes só fazia quem tinha muito dinheiro, fama ou estrutura. E mesmo assim há um custo mental e emocional altíssimo. O workshop Negócio Digital do Futuro, eu vou mostrar como você vai montar esse sistema inteiro pra você e nunca mais depender de ninguém pra dar certo no digital. Clica no botão que custa menos de uma pizza. Na pior das hipóteses, é menos uma pizza mês que vem. Mas na melhor, é você finalmente livre realizado no marketing digital. Clica no botão e vem comigo.
 
 ### Legenda
 

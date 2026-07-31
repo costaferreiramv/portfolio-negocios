@@ -4,15 +4,15 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 36
+**Analisados (resumo, pontos-chave e aplicação escritos):** 44
 
 ### Status
 
 | status | o que significa | posts |
 |---|---|---|
-| `completo` | íntegra capturada e analisada | 33 |
-| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 189 |
-| `pendente` | legenda capturada; falta transcrever slides ou analisar | 1045 |
+| `completo` | íntegra capturada e analisada | 37 |
+| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 394 |
+| `pendente` | legenda capturada; falta transcrever slides ou analisar | 836 |
 
 ### Tipo
 
@@ -33,6 +33,7 @@ automaticamente.
 ### vendas
 
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz
+- [Nos EUA o corretor só abre a casa com carta de pré-aprovação — e isso não é grosseria](posts/eduardovgvendas-pre-aprovacao-eua-x-brasil.md) — @eduardovgvendas
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula
 - [Vocabulário do luxo: cinco trocas de frase para remarcar um compromisso](posts/malu-albertotti-remarcar-com-elegancia.md) — @malu_albertotti
 - [Cliente que não atende não é cliente sem interesse — é horário errado](posts/marcele-corretora-cliente-nao-atende-horario.md) — @marcele_corretora
@@ -40,6 +41,8 @@ automaticamente.
 - [Duas ligações, mesmo imóvel: o que muda é a energia de quem liga](posts/marcele-corretora-energia-do-vendedor.md) — @marcele_corretora
 - [Lista fria funciona — o que não funciona é abrir a conversa vendendo](posts/marcele-corretora-lista-fria-diagnostico.md) — @marcele_corretora
 - [Qualificar não é pressionar: as perguntas antes de mandar qualquer imóvel](posts/marcele-corretora-qualificacao-antes-de-mandar-imovel.md) — @marcele_corretora
+- [A primeira mensagem não foi feita para vender — foi feita para gerar resposta](posts/paidoslead-primeira-mensagem-nao-vende.md) — @paidoslead
+- [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
 
 ### trafego-pago
 
@@ -53,11 +56,13 @@ automaticamente.
 
 - [Tela dividida no CapCut em 5 passos](posts/andressapenna-tela-dividida-capcut.md) — @andressapenna.oficial
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr
+- [Model Sheet: o mapa do corpo que impede a IA de trocar as proporções do personagem](posts/bruno-ia1-model-sheet-corpo-inteiro.md) — @bruno.ia1
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
 - [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker
 - [Speed ramp x câmera lenta: o ritmo do vídeo imobiliário depende do que o imóvel é](posts/dentrodoimovel-ritmo-video-imobiliario.md) — @dentrodoimovel
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
+- [Character Sheet: por que a IA troca o rosto do personagem a cada geração](posts/leoromano-character-sheet-consistencia-ia.md) — @leoromano.oficial
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira
 
 ### conteudo-organico
@@ -78,12 +83,14 @@ automaticamente.
 ### copywriting
 
 - [Marketing Silencioso: anúncio + carrossel que qualifica + WhatsApp que filtra](posts/acaroldutraa-marketing-silencioso.md) — @acaroldutraa
+- [Você não compra só uma casa — compra o bairro, o acesso e a rotina dos próximos anos](posts/amandaresendy-localizacao-e-inteligencia-financeira.md) — @amandaresendy
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli
 - [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni
 - [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
 - [Vocabulário do luxo: cinco trocas de frase para remarcar um compromisso](posts/malu-albertotti-remarcar-com-elegancia.md) — @malu_albertotti
+- [A primeira mensagem não foi feita para vender — foi feita para gerar resposta](posts/paidoslead-primeira-mensagem-nao-vende.md) — @paidoslead
 
 ### posicionamento
 
@@ -96,6 +103,7 @@ automaticamente.
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
+- [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
 
 ### captacao
 
@@ -103,10 +111,15 @@ automaticamente.
 
 ### mercado-imobiliario
 
+- [Você não compra só uma casa — compra o bairro, o acesso e a rotina dos próximos anos](posts/amandaresendy-localizacao-e-inteligencia-financeira.md) — @amandaresendy
+- [Nos EUA o corretor só abre a casa com carta de pré-aprovação — e isso não é grosseria](posts/eduardovgvendas-pre-aprovacao-eua-x-brasil.md) — @eduardovgvendas
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo
+- [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
+- [ChatGPT como analista imobiliário: score, cap rate e faixa de proposta](posts/thaysfreire-chatgpt-analista-imobiliario.md) — @thaysfreire.ia
 
 ### gestao
 
+- [Opus 5: cinco ajustes que fazem a cota durar o dia inteiro](posts/99hud-5-ajustes-para-rodar-opus-5-o-dia-inteiro.md) — @99hud
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
 - [6 sacadas do criador do Claude Code sobre como ele usa IA](posts/manualdedonos-6-sacadas-claude-code.md) — @manualdedonos
@@ -116,13 +129,17 @@ automaticamente.
 
 ### ia-automacao
 
+- [Opus 5: cinco ajustes que fazem a cota durar o dia inteiro](posts/99hud-5-ajustes-para-rodar-opus-5-o-dia-inteiro.md) — @99hud
 - [ChatGPT Ads chega ao Brasil: anúncio na hora da decisão, só para quem usa o plano gratuito](posts/allesinisgalli-chatgpt-ads-brasil.md) — @allesinisgalli
+- [Model Sheet: o mapa do corpo que impede a IA de trocar as proporções do personagem](posts/bruno-ia1-model-sheet-corpo-inteiro.md) — @bruno.ia1
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
+- [Character Sheet: por que a IA troca o rosto do personagem a cada geração](posts/leoromano-character-sheet-consistencia-ia.md) — @leoromano.oficial
 - [6 sacadas do criador do Claude Code sobre como ele usa IA](posts/manualdedonos-6-sacadas-claude-code.md) — @manualdedonos
 - [6 skills que tiram o Claude do modo chatbot](posts/nicksoncarvalho-6-skills-claude.md) — @nicksoncarvalho
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi
 - [24 coisas pra instalar no Claude: skills, plug-ins e MCP servers](posts/rtercas-24-coisas-instalar-claude.md) — @rtercas
 - [Modelo caro planeja, modelo barato executa: como cortar 54% do custo de IA](posts/thaleslaray-cortar-custos-claude-modelo-hibrido.md) — @thaleslaray
+- [ChatGPT como analista imobiliário: score, cap rate e faixa de proposta](posts/thaysfreire-chatgpt-analista-imobiliario.md) — @thaysfreire.ia
 
 ### mentalidade
 
@@ -133,14 +150,17 @@ automaticamente.
 
 ## Analisados, em ordem alfabética de arquivo
 
+- [Opus 5: cinco ajustes que fazem a cota durar o dia inteiro](posts/99hud-5-ajustes-para-rodar-opus-5-o-dia-inteiro.md) — @99hud · carrossel · 2026-07-24
 - [Marketing Silencioso: anúncio + carrossel que qualifica + WhatsApp que filtra](posts/acaroldutraa-marketing-silencioso.md) — @acaroldutraa · carrossel · 2026-03-31
 - [ChatGPT Ads chega ao Brasil: anúncio na hora da decisão, só para quem usa o plano gratuito](posts/allesinisgalli-chatgpt-ads-brasil.md) — @allesinisgalli · reel · 2026-05-13
+- [Você não compra só uma casa — compra o bairro, o acesso e a rotina dos próximos anos](posts/amandaresendy-localizacao-e-inteligencia-financeira.md) — @amandaresendy · carrossel · 2026-05-03
 - [O caso Ricardo Martins: 7 vídeos por dia com função definida, e o corretor virando a marca](posts/andersonbarbosast-ricardo-martins-marca-pessoal.md) — @andersonbarbosast · carrossel · 2026-07-25
 - [Tela dividida no CapCut em 5 passos](posts/andressapenna-tela-dividida-capcut.md) — @andressapenna.oficial · reel · 2026-07-16
 - [Silvio Santos, Pelé e Flávio Augusto: quem virou referência apareceu antes de estar pronto](posts/brokersbr-aparecer-antes-de-estar-pronto.md) — @brokersbr · carrossel · 2026-07-22
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr · video · 2026-05-22
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr · carrossel · 2026-07-29
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli · carrossel · 2026-07-18
+- [Model Sheet: o mapa do corpo que impede a IA de trocar as proporções do personagem](posts/bruno-ia1-model-sheet-corpo-inteiro.md) — @bruno.ia1 · carrossel · 2026-07-21
 - [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni · carrossel · 2026-07-17
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator · carrossel · 2026-07-26
 - [Três mudanças que o Instagram está testando: etiqueta de IA, seguidores ocultos e séries pagas](posts/catiacreator-mudancas-instagram-agosto.md) — @catiacreator · carrossel · 2026-07-22
@@ -148,11 +168,13 @@ automaticamente.
 - [Foto de check-in não é conteúdo: como transformar um evento em material para a audiência](posts/clubedaborboleta-como-postar-evento.md) — @clubedaborboleta · reel · 2026-07-21
 - [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker · carrossel · 2026-07-22
 - [Speed ramp x câmera lenta: o ritmo do vídeo imobiliário depende do que o imóvel é](posts/dentrodoimovel-ritmo-video-imobiliario.md) — @dentrodoimovel · reel · 2026-07-23
+- [Nos EUA o corretor só abre a casa com carta de pré-aprovação — e isso não é grosseria](posts/eduardovgvendas-pre-aprovacao-eua-x-brasil.md) — @eduardovgvendas · reel · 2026-07-26
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric · carrossel · 2026-07-22
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive · video · 2026-06-29
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula · reel · 2026-07-15
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo · carrossel · 2026-07-27
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura · reel · 2026-07-28
+- [Character Sheet: por que a IA troca o rosto do personagem a cada geração](posts/leoromano-character-sheet-consistencia-ia.md) — @leoromano.oficial · carrossel · 2026-07-22
 - [Vocabulário do luxo: cinco trocas de frase para remarcar um compromisso](posts/malu-albertotti-remarcar-com-elegancia.md) — @malu_albertotti · carrossel · 2026-07-15
 - [6 sacadas do criador do Claude Code sobre como ele usa IA](posts/manualdedonos-6-sacadas-claude-code.md) — @manualdedonos · carrossel · 2026-07-23
 - [Cliente que não atende não é cliente sem interesse — é horário errado](posts/marcele-corretora-cliente-nao-atende-horario.md) — @marcele_corretora · reel · 2026-07-23
@@ -164,11 +186,14 @@ automaticamente.
 - [15 atitudes para quem está se reconstruindo aos 45](posts/modoprodutivo-reconstrucao-aos-45.md) — @modoprodutivo_ · carrossel · 2026-07-21
 - [6 skills que tiram o Claude do modo chatbot](posts/nicksoncarvalho-6-skills-claude.md) — @nicksoncarvalho · carrossel · 2026-07-23
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira · video · 2026-07-23
+- [A primeira mensagem não foi feita para vender — foi feita para gerar resposta](posts/paidoslead-primeira-mensagem-nao-vende.md) — @paidoslead · video · 2026-07-26
 - [Pare de mandar o anúncio direto pro WhatsApp: filtre com uma conversão mais avançada](posts/pedromoro93-funil-0405-conversao-avancada.md) — @pedromoro93 · video · 2026-07-08
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi · reel · 2026-05-04
 - [24 coisas pra instalar no Claude: skills, plug-ins e MCP servers](posts/rtercas-24-coisas-instalar-claude.md) — @rtercas · carrossel · 2026-07-03
 - [O formato sem edição pesada que o Instagram está privilegiando](posts/segueadi-formato-simplificado-alcance.md) — @segueadi · video · 2026-07-21
+- [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes · reel · 2026-07-27
 - [Modelo caro planeja, modelo barato executa: como cortar 54% do custo de IA](posts/thaleslaray-cortar-custos-claude-modelo-hibrido.md) — @thaleslaray · carrossel · 2026-07-13
+- [ChatGPT como analista imobiliário: score, cap rate e faixa de proposta](posts/thaysfreire-chatgpt-analista-imobiliario.md) — @thaysfreire.ia · reel · 2026-07-25
 
 ---
 

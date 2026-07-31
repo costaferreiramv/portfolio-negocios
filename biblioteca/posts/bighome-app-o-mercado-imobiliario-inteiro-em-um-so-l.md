@@ -8,7 +8,7 @@ tags: []
 duracao: "32s"
 data_post: 2026-06-02
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Não é porque você é corretor de imóveis autônomo que precisa parecer amador ou desorganizado. Vem cá. Aqui você gerencia todos os seus clientes em um único lugar. Pode subir imóveis, ganha site, tem gestão financeira, tem suporte, conexão com MetaEdge, pode subir lista, pode subir cliente individual, conecta o WhatsApp e ainda tem o suporte da Eloisa. Te notifica, faz um pré-atendimento e te ajuda na sua venda. Se você gostou, clica no botão abaixo, faça sua conta de forma gratuita. Vem, vem para a Big Home. E aí
 
 ### Legenda
 

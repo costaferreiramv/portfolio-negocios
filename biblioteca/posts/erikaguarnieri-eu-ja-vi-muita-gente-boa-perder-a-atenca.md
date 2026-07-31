@@ -8,7 +8,7 @@ tags: []
 duracao: "1min39"
 data_post: 2026-04-29
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Troque isso. Bom dia! Como vocês estão? Por três sequências. Sejam todos muito bem-vindos. É um prazer estar com vocês. Tenho certeza que vocês estão aqui por um bom motivo. Não comece a sua palestra com perguntas abertas que não gera impacto, conexão e identificação. Comece com uma afirmação. Troque isso. Hoje eu vim compartilhar um pouco com vocês sobre a minha história. Por. O que eu aprendi vivendo isso pode te poupar tempo, energia e frustração. Sempre comece com o interesse de quem te escuta. A conexão, ela começa no outro, não em você. Troque isso. Alguém tem alguma dúvida? Então era isso que eu vim falar. Por. Isso não termina aqui. Começa quando você sai daqui. Honre a sua história com ação. E se você quiser continuar essa conversa comigo, me chame nas minhas redes sociais que eu faço questão de te ajudar a dar o próximo passo. Nunca termine a sua fala de forma fria, seca ou apenas técnica. Termine abrindo um caminho, porque consciência é apenas o começo. Mas a transformação só acontece quando há continuidade. Comente aqui, se você quiser, a parte 2.
 
 ### Legenda
 

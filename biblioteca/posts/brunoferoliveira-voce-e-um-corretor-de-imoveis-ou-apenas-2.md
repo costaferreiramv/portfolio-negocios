@@ -8,7 +8,7 @@ tags: []
 duracao: "35s"
 data_post: 2026-05-05
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+corretor de imóvel, se eu trocar a tua foto pela de outro corretor, a tua conversa no WhatsApp muda em alguma coisa? você manda a mesma tabela, as mesmas fotos e o mesmo estou à disposição que todo mundo é por isso que você é ignorado você é substituível agora, o único jeito de você se diferenciar é na condução da conversa com os teus clientes é o que eu chamo de conversa validada se você quer saber mais, clica aqui custa menos que um almoço Agora, se você prefere continuar sendo só mais um, então nem clica.
 
 ### Legenda
 

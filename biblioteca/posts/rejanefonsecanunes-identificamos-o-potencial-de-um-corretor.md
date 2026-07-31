@@ -8,7 +8,7 @@ tags: []
 duracao: "30s"
 data_post: 2026-06-04
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu não identifico potencial pelos resultados. Eu identifico pelos comportamentos. Ao longo da minha carreira, eu vi corretores extremamente talentosos demorarem para vender. E vi outros começarem rápido, desaparecerem muito pouco tempo depois. Hoje eu observo outra coisa. O nível do seu foco e a coragem de ser autêntico. Resultado mostra quem vendeu. Mas comportamento mostra quem vai permanecer.
 
 ### Legenda
 

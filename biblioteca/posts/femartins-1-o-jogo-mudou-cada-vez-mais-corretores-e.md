@@ -8,7 +8,7 @@ tags: []
 duracao: "1min00"
 data_post: 2025-05-23
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+como fazer de três e sete vendas a mais na minha imobiliária essa pessoa deve ter visto a minha bio se não está entendendo clica lá em cima no meu perfil e confere dá uma olhadinha para ver se faz sentido e se não fizer você pode sair e não me segue mas acho que você vai ficar isso eu tenho certeza vamos para a resposta cada vez vai ser mais comum você ver imobiliária de três, dois corretores que fazem VGVs estratosféricos e porque que isso está acontecendo porque as pessoas estão aprendendo o novo tráfego pago, estão aprendendo a montar funil de venda para vender imóveis, e estão aprendendo a usar a inteligência artificial para fazer o primeiro contato com o cliente e o follow-up de uma forma sustentável. Então, digamos que com a inteligência artificial, uma imobiliária com duas pessoas consegue atender mil leads por mês. E gera mil leads por mês. Então, se tem curiosidade, clica na minha bio
 
 ### Legenda
 

@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Slides
 
-[não capturado — 18 slides]
+[não transcrito — contact sheet dos slides já gerado]
 
 ### Legenda
 

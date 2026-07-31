@@ -8,7 +8,7 @@ tags: []
 duracao: "1min28"
 data_post: 2026-05-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu também fui corretor muito antes de pensar em criar algo no digital, e isso faz total diferença. Fui o cara que batia no plantão todos os dias, esperava cliente aparecer e rezava para alguma indicação. Passei por meses ruins, que eu não sabia como reverter, como mudar, e por muito tempo carreguei essa instabilidade como se fosse parte natural de ser corretor de imóveis. Eu vim do chão da fábrica, comecei como corretor de imóveis e fui trilhando como gestor, como diretor, até me tornar sócio de uma imobiliária. E só quando eu estava do outro lado, olhando a minha operação inteira, eu entendia o que estava travando cada corretor que eu conhecia. E nenhum deles tinha uma estrutura que trouxesse contatos qualificados todos os dias e visitas recorrentes. Todos dependiam de algo que não controlavam. A sorte. Foi para resolver isso que eu criei a minha agência. Em 12 anos de mercado imobiliário, a gente já participou de mais de 1.3 bi em VGV e colocamos mais de 65 milhões de reais em comissão no bolso de corretores reais, com nome, sobrenome e cresce. O que eu construí foi exatamente o que eu queria que alguém tivesse me dado lá atrás. Por isso que eu te faço um convite. Toque em Saiba Mais e veja como a gente pode fazer isso na sua carreira.
 
 ### Legenda
 

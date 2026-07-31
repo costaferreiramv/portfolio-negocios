@@ -8,7 +8,7 @@ tags: []
 duracao: "1min07"
 data_post: 2026-05-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O vendedor parcelou o imóvel, agora quer parcelar a tua comissão? Avisa ele lá que corretor não é banco. Você prospectou o cliente, você qualificou, fez o atendimento, conduziu a visita, negociou, ajudou a fechar o negócio, o teu serviço foi entregue. Agora, se o vendedor aceitou receber o imóvel parcelado, essa foi uma decisão comercial dele. Ele avaliou o risco, ele aceitou o prazo, ele escolheu a forma de pagamento. Mas olha a mágica do mercado imobiliário. Na hora de vender, o imóvel é dele. Já na hora de assumir o risco, de repente, querem que o corretor vire sócio. Olha, vamos pagar a tua comissão conforme o comprador for pagando. Não, meu amigo. Você não participou da decisão de parcelar. Você não emprestou o dinheiro. Você não financiou o comprador. Você não entrou na matrícula do imóvel. Então, por que a tua comissão tem que virar financiamento? Comissão não é prêmio de boa vontade. Comissão é pagamento por um serviço prestado. E serviço prestado se paga. O vendedor pode parcelar o imóvel, mas não deveria parcelar o respeito pelo trabalho do corretor. Me segue aqui porque todo dia eu falo o que ninguém tem coragem de falar.
 
 ### Legenda
 

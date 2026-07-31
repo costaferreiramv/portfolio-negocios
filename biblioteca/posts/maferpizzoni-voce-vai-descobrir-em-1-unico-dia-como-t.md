@@ -8,7 +8,7 @@ tags: []
 duracao: "57s"
 data_post: 2026-03-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você acha que vender imóveis através do Instagram é só pra quem tem seguidor? Você tá muito enganado. Tem corretores aqui com a gente que são nossos alunos, nossos assessorados, que começaram do zero com menos de 500 seguidores e fazem muito mais do que 30 mil reais em comissões todos os meses, somente vendendo através do Instagram. Então o seguidor não é métrica que você vai olhar agora no começo, entendeu? Ele é importante, sim, mas não é necessário pra vender. Essa estratégia que eu vou te ensinar na aula secreta, que eu vou entregar a estratégia, um método validado que faz com que corretores consigam vender imóveis todos os meses através da internet. Não é sorte, é método. Eu vou revelar quais são os três pilares necessários para que isso aconteça. Somente essa estratégia em 2024 gerou mais de meio bilhão em vendas para o mercado imobiliário. Os depoimentos aí no meu perfil estão aí para não mentir. É gratuita, mas não vai ter gravação. Então clica aqui no link e se inscreve. Não perca essa aula porque é realmente uma oportunidade. Eu não brinco em entregar conteúdo
 
 ### Legenda
 

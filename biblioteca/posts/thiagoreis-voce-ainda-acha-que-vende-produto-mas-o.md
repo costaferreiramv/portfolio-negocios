@@ -8,7 +8,7 @@ tags: []
 duracao: "40s"
 data_post: 2026-05-14
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+As pessoas não compram o produto primeiro. Elas compram o vendedor. E se você não entendeu isso, você vai continuar tirando pedido. Antes de qualquer decisão de compra, o cliente já está te julgando. Sua roupa, sua postura, seu carro, sua energia. Tudo isso comunica antes de você abrir a boca. Você não vende um produto. Você vende confiança, autoridade e credibilidade. Esses três elementos não estiverem presentes. Desde o primeiro segundo, você perdeu a venda. E sabe o que é mais impressionante? Uma postura alinhada consegue salvar até falta de técnico. Porque venda não começa pela lógica. Ela começa pela crença. As pessoas compram de quem representa elas. de quem transmite que pertence ao mesmo mundo que ela. Se você não consegue transmitir autoridade antes de falar uma palavra, você não é um vendedor. Você é um tirador de pedido. E tirador de pedido só fecha com quem já decidiu comprar.
 
 ### Legenda
 

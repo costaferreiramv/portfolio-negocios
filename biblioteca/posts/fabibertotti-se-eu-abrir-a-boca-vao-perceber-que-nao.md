@@ -8,7 +8,7 @@ tags: []
 duracao: "45s"
 data_post: 2026-01-18
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ninguém respeita a sua inteligência, se a sua fala não sustenta quem você é. Esse é o problema de milhares de pessoas brilhantes. Tem conhecimento, mas a forma como falam esconde isso. Esse é meu novo livro, Sem Medo de Falar, que ensina você a alinhar a sua fala com o seu valor. Você aprende a posicionar sua voz, construir frases de impacto, controlar a ansiedade, organizar ideias e se apresentar como alguém que merece ser ouvido. Ele veio acompanhado de materiais digitais únicos que tornam o seu desenvolvimento ainda mais rápido. Se você quer ter a sua fala reflita a sua competência, clique agora aqui e garanta o seu porque o estoque é limitado.
 
 ### Legenda
 

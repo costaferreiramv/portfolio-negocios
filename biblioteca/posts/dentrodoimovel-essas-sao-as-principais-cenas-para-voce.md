@@ -8,7 +8,7 @@ tags: []
 duracao: "38s"
 data_post: 2026-03-12
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+E é assim que você grava um imóvel vazio com cenas expandidas. Primeiro você vai gravar na lente 0.5 e depois se posicionar atrás de uma parede. Aí você vai fazer o movimento lateral revelando o cômodo. Depois você vai apostar nas cenas retas e alinhadas ou cenas em orbital, indo pra frente ou pra trás. Depois você vai apostar nas cenas em deslocamento, caminhando pra frente ou pra trás e combinando com o orbital. Com essas cenas fica muito mais fácil depois você imobiliar pela IA. Se gostou da dica, escreve aqui embaixo imóvel vazio e não esquece de me seguir.
 
 ### Legenda
 

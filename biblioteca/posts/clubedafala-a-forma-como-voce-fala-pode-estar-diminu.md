@@ -8,7 +8,7 @@ tags: []
 duracao: "34s"
 data_post: 2026-05-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Eu acho, acredito que, minha recomendação é... Não vai dar, é difícil, existe outra forma de resolver. Não sei, vou verificar, vou validar essa informação. Deu ruim, tivemos um imprevisto, já tô resolvendo. É que o motivo foi... O que aconteceu foi o seguinte. Como eu faço? Qual é o processo? Qual é o resultado esperado? Se a sua comunicação ainda não acompanha a carreira que você quer construir, siga o Clube da Fala.
 
 ### Legenda
 

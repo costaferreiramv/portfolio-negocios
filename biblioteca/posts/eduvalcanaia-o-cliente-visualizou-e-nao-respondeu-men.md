@@ -8,7 +8,7 @@ tags: []
 duracao: "37s"
 data_post: 2026-04-18
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ué, não vai responder não? Oi Fernando, conseguiu ver minha última mensagem? Se tiver qualquer dúvida, eu tô aqui à disposição. João, normalmente quando os meus clientes param de responder, é porque não é o momento ideal deles. Faz sentido encerrar o atendimento ou tu quer resolver aquele problema mesmo? Poxa, não custa nada responder, né? Nem que seja um não. Ainda tá por aí? Deixa eu te ajudar aí com a tua próxima escolha. Oi Luana, eu vi que tu visualizou e não respondeu. Acredito que seja por conta da correria do dia a dia Tu quer que eu retorne teu contato na semana que vem? Ou vamos fechar agora? E onde é que eu aprendo a vender assim? Segue o Edu Valcanaia
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "2min27"
 data_post: 2026-04-07
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+É bonito, mas não funciona. Versal. Instagram profissional. O tema de hoje é base de seguidor errada. Essa é a parte 2 desse tema, hein? Se essa base de seguidor tá errada, né? Tudo que você posta, eles não se interessam. E tem um jeitinho de você remover uma galera que tá pesando nessa base, que é papum assim, ó. São fantasmas que tão ali, o algoritmo faz a entrega ali e eles simplesmente vão interagir. porque essa conta está desativada. E nós vamos te ensinar como é que faz isso agora. A gente deu uma olhada uma época no nosso, tinha mais de 600 perfis desativados seguindo o nosso perfil. Isso atrapalha demais a entrega. Então, para achar essas contas desativadas, esses fantasminhas aí, você vai tocar, vai abrir teu perfil. Vai tocar lá no seu número de seguidores e vai abrir aquela lista de seguidores. Antes delas, se tiver perfil desativado, vai ter uma notificação ali. tantos perfis desativados aí você vai abrir outra lista essa outra lista tem na frente do nome do fantasma o botão para remover vai com calma nada de pânico nossa sugestão remove de 10 no máximo uns 20 por dia não tem necessidade de você ir com tanta sede ao pote existem relatos de quem fez isso muito rápido, apareceu aquela mensagem opa, parece que você está usando essa função rápido demais, e aí dá uma seguradinha em você ali por uns minutos, e isso não é legal pro seu algoritmo, você já está apagando aquilo ali, pra ver se ele distribui um golinho, um cadinzinho melhor, aquilo que você está fazendo, aí você vai lá e força o algoritmo a te dar uma brecada, então vai devagar você descobrir isso agora pra que a pressa faz devagar que vai dar bom e aí prepara o psicológico porque vai diminuir o número de seguidores Então, conforme você vai removendo, vai caindo o número de seguidores. Mas aposta nisso. Se você tem uma base de seguidor real, que está mais engajada, mais alinhada com o que você está postando, a tua entrega vai ser maior e logo o teu conteúdo passa a aparecer para pessoas que não são seguidores ainda. Então você vai ter chances de ganhar seguidores novos se o seu conteúdo está sendo entregue. Diferente de quando você está com essa base de seguidor errada ou fantasma, que é muito pior.
 
 ### Legenda
 

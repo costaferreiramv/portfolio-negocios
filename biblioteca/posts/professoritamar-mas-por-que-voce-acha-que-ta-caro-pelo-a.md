@@ -8,7 +8,7 @@ tags: []
 duracao: "1min03"
 data_post: 2026-04-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você quer ver como é que superava a objeção na década de 80? Fala pra mim que tá puxado o preço. Baseado em que você acha que tá caro? Sabe assim? Você acha que tá caro por quê? Ó, a gente arrumava treta. Arrumava confusão com o cliente. Você quer ver o que mudou? Eu vou aplicar o método agora. Derruba o muro, traz pra perto, faz a pergunta e resolve. Tudo que eu vou falar agora, você pode decorar. Esse país tá sempre uma bosta. Esse é o cenário, ele é eterno. Eduardo, eu entendo e compreendo você, meu irmão. Ninguém quer pagar mais do que 10. A situação econômica, política do país não engatilhou ainda. Não sei se é culpa do governo. O produtor rural tá reclamando. O senhor não é diferente. Tem muita gente partindo pro Genere, comprando produto diferente. O mercado tá diferente. Mas eu preciso fazer uma pergunta pro senhor. Vamos tirar preço e prazo? Que mais nós precisamos conversar que se eu acertar isso aí nós fechamos. Tô cutucando ele pra ver se tem mais coisa. Então não descobri a objeção oculta, eu não vendo. Eu descobri porque eu fiz o quê? Pergunta! Diante de uma objeção faz o quê? Acabou.
 
 ### Legenda
 

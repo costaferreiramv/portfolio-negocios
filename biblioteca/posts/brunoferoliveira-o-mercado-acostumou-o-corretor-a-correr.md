@@ -8,7 +8,7 @@ tags: []
 duracao: "1min33"
 data_post: 2026-04-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O corretor não está cansado de trabalhar, está cansado de servir gente que não respeita o tempo dele. Tem gente que age como se o corretor estivesse de plantão emocional 24 horas por dia. Pede informação, pede vídeo, pede simulação, pede atendimento, pede visita e depois some. Como se fosse normal ocupar o tempo de um profissional e desaparecer sem dar um retorno. Só que o erro de muito corretor está aqui. Atender rápido demais, investir demais e filtrar de menos. Quer uma técnica simples para parar de virar refém disso? Use um microcompromisso antes de entregar esforço. Como assim microcompromisso? Funciona assim. Antes de você mandar material, correr atrás de opção ou agendar visita, faz o cliente dar um passo pequeno. Vou dar um exemplo aqui. Você vai falar para o cliente assim. Perfeito, cliente. Para eu te mandar algo certeiro e não perder teu tempo, me responde três pontos. É para morar ou investir? Qual região que faz mais sentido? E qual faixa de valor você quer analisar? É simples, porque cliente realmente interessado, ele responde. E o curioso enrola. E quem enrola cedo, normalmente, vai sumir depois. Ou seja, você para de tratar todo o clique como oportunidade e começa a tratar atendimento como processo. Isso não só protege o teu tempo, isso protege a tua energia. porque uma das coisas que mais desgasta o corretor não é trabalhar muito, é trabalhar sério para quem não está levando aquilo a sério. E se você quiser, eu posso te mandar uma mensagem pronta para usar esse filtro no atendimento. É só comentar aqui, filtro.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min02"
 data_post: 2026-04-15
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Sabe aquele corretor que começou tem 6 meses, mas já tá vendendo mais do que você? E o pior, ele não tem metade da sua experiência. Isso acontece porque tem uma coisa que você ainda não tem. Autoridade digital. Hoje, o cliente não escolhe o mais experiente. Ele escolhe quem aparece como autoridade no feed dele. Você pode ser o melhor vendedor presencial do mundo. Mas se o seu Instagram não transparecer isso, você vai continuar invisível. Eu sou a Isabel Impolo, da Brokers Brasil, e para acabar com esse problema que você tem, nós vamos fazer uma aula gratuita para mostrar o exato sistema que já gerou 1.5 bilhões de reais em VGV somente nos últimos dois anos, com o cônquio dos orgânicos e um posicionamento estratégico nas redes sociais. Vai ser na próxima quarta-feira, dia 22 às 20 horas, e nós temos um limite de pessoas para participar. Então clique agora no Saiba Mais, garanta já a sua vaga, antes que esse vídeo saia do ar.
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "21s"
 data_post: 2026-04-16
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você que está quase desistindo de fazer conteúdo para o Instagram, não desiste. Dá mais uma chance, a última. De graça, eu quero que você assista agora um vídeo aqui, esse vídeo aqui de uma solução que eu criei, eu testei, funcionou. Então, testa aí e depois me agradeça. Se você já consome o meu conteúdo, você sabe que eu sempre estou ajudando a galera a crescer no Instagram. Então, toca aqui agora e assiste. Depois, manda um direct para mim me dizendo o que você achou. Tamo junto.
 
 ### Legenda
 

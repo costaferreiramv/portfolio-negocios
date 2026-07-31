@@ -8,7 +8,7 @@ tags: []
 duracao: "7s"
 data_post: 2026-05-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Ele disse que um dia você vai deixar esse mundo em um descanso. Então, você vai se lembrar que você vai se lembrar.
 
 ### Legenda
 

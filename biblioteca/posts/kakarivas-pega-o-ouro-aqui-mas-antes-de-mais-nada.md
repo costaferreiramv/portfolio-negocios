@@ -8,7 +8,7 @@ tags: []
 duracao: "7s"
 data_post: 2026-06-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+A la cor da Since it is cold and empty No one's a road to judge me
 
 ### Legenda
 

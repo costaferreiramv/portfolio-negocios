@@ -8,7 +8,7 @@ tags: []
 duracao: "1min18"
 data_post: 2026-04-09
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você venderia um imóvel com certidão da União no status positiva com efeito de negativa? Muitos corretores acham que isso é risco e ficam inseguros. Por isso hoje, vou explicar certinho como isso funciona. A certidão positiva com efeito de negativa está prevista no artigo 206 do Código Tributário Nacional. E ela tem os mesmos efeitos jurídicos da certidão negativa, quando estiver válida. Você pode sim vender o imóvel com tranquilidade. Porém, informe o comprador que a escritura deve ser lavrada no período da validade da certidão. Se o negócio for em parcelas, faz a cláusula exolutiva e lavra a escritura. O ponto que quase ninguém explica é que a positiva com efeito de negativa não é segurança eterna. Ela se tornará um problema se o vendedor rompe o parcelamento depois da venda, se a dívida volta a ser exigível, se a execução acontece antes do registro da escritura. Porque se o comprador demora para registrar o imóvel, continua em nome do vendedor. e se a união executa nesse intervalo, o risco existe e é eminente. Agora a pergunta que sempre surge. O corretor responde por isso? Em regra, não. Se a certidão estava válida no momento da venda e houve transparência sobre a situação fiscal, o corretor não responde por fato superveniente. Se você quer dominar esses detalhes que realmente protegem seu cliente e a sua atuação profissional, me segue aqui.
 
 ### Legenda
 

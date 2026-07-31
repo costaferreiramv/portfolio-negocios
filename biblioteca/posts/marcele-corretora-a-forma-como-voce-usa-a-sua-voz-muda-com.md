@@ -8,7 +8,7 @@ tags: []
 duracao: "42s"
 data_post: 2026-06-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Antes de aprender mais técnicas de vendas, aprenda a transmitir autoridade quando fala. Sentir autoridade quando fala. Antes de melhorar o seu argumento de venda, melhore o seu tom de voz. Afinal de contas, o seu cliente não compra nada de você, além da confiança que você transmite.
 
 ### Legenda
 

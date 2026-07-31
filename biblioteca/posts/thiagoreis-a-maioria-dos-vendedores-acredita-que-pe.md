@@ -8,7 +8,7 @@ tags: []
 duracao: "1min14"
 data_post: 2026-06-18
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Rapor é quatro vezes mais importante do que o produto E você tá vendendo produto, por isso vende muito menos do que poderia Compramos de quem confiamos Compramos de quem a gente olha e acha parecido com a gente Não importa se o seu produto é o melhor do mercado Se o cliente não confia em você, ele vai pro concorrente Você quer entender? Quatro passos bem simples pro cliente confiar em você automaticamente Primeiro de tudo, os primeiros cinco minutos Não fala sobre o produto, não fala sobre a empresa Joga a conversa fora Fala sobre a seleção brasileira Fala sobre qualquer assunto, sobre a novela, sobre a série, sobre qualquer coisa O meu objetivo, nesse momento, é fazer o cliente desarmar Muito importante, postura corporal Preste atenção no teu cliente Ele tá de braço cruzado Não adianta você começar a vender Enquanto ele não se abrir Não tem venda Segundo ponto Espelhamento Reproduz as mesmas palavras Fala da mesma velocidade Repete aquilo que ele fala E sempre se direciona pro teu cliente Pelo nome dele Terceiro ponto Giscicula de maneira parecida Se o cliente com a sua sobrancelha Ele coça devagarzinho Se o cliente colocou a mão sobre a mesa Coloca a mão sobre a mesa Isso manda uma mensagem inconsciente Que vocês são muito parecidos No final faz um teste Faz um movimento e vê se ele reproduz O nome disso é calibrage Eu tô testando pra saber Se o cliente está no meu rapó ou não Gasta tempo em ficar muito bom nisso Se você não quer usar isso dentro da reunião de vendas Testa na recepção, testa com motorista, testa no Uber Testa com os amigos, fica bom em se conectar com as pessoas Se o teu time dominar esse método Eu te garanto que você dobra o seu faturamento Sem aumentar a quantidade de leads Isso tem poder para transformar um vendedor mais ou menos em um cara extraordinário E se você quer aprender técnicas como essa E dominar definitivamente vendas, comenta desafio e me segue Eu estou te esperando dentro do desafio de 5 a 50 clientes
 
 ### Legenda
 

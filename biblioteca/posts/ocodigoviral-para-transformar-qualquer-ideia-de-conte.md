@@ -8,7 +8,7 @@ tags: []
 duracao: "26s"
 data_post: 2026-04-29
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Galera, não sei se vocês estão sabendo, mas o Instagram abriu uma janela de oportunidade para perfis com menos de 10 mil seguidores. Perfis esse que você pode agora fazer um vídeo e esse vídeo ter, tipo, milhares de visualizações. 100 mil, 1 milhão. Ele está fazendo isso por quê? Para não perder a guerra com a rede vizinha. Então, se você quiser saber como é que você destrava isso dentro do seu perfil, faz o seguinte, eu gravei um vídeo de 24 minutos. Não repara, mas vai te ajudar muito a você entender toda essa mecânica. Toca agora aqui e assiste.
 
 ### Legenda
 

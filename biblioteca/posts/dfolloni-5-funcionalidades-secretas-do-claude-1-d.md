@@ -8,7 +8,7 @@ tags: []
 duracao: "50s"
 data_post: 2026-04-26
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Cinco funcionalidades do Cloud que você com certeza não conhece. Número um é o dispatch. Você consegue fazer o Cloud controlar o seu computador pelo seu celular. Número dois é o routines. Você consegue agendar prompts e automações que rodam sempre no mesmo horário para que você não tenha que ficar lembrando de fazer isso toda vez. Número três é o by the way. Você consegue enviar informações adicionais para o Cloud enquanto ele está no meio de uma tarefa sem precisar interromper o que ele está fazendo. Número quatro é a extensão do Chrome. Ela permite que o Cloud opere o seu navegador por você e faça literalmente tudo que você faria na internet, inclusive emitir uma nota fiscal. E número 5 são os hooks. Você consegue programar automações. Sempre que isso acontecer, faça aquilo outro. Assim, você não precisa ficar lembrando dessas coisas toda vez. E se você quer mais dicas como essa, já aproveita pra me seguir e comenta a Cloddy aqui embaixo pra receber uma aula completa com outras 15 funcionalidades que o Cloddy esconde de você. Tchauzinho!
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "1min13"
 data_post: 2026-05-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Sabe o que eu faria se eu fosse pegar um perfil com zero seguidores e quisesse levar pra 100 mil seguidores? Exatamente o que eu fiz com a minha esposa médica. Foi isso que aconteceu. A gente criou pra ela um perfil com zero seguidores e eu gravei todo o processo de como a gente levou ela pra 100 mil seguidores em 32 dias. E o melhor, de forma 100% orgânica, sem investir um único centavo em posicionamento, em tráfego pago, porque o algoritmo do Instagram foi feito para entregar os seus conteúdos de forma orgânica, desde que você aplique o método audience no seu perfil. Porque não funcionou só para a Lili, funcionou para todos eles aqui que estão aplicando o meu método. Mas o que foi legal dessa experiência é que eu gravei todos os bastidores como eu nunca fiz antes. Eu tenho certeza que você vai pegar muito ouro de como foi feita a construção do projeto dela, você vai entender como a gente empacotou o posicionamento dela, criou todas as narrativas, criou todas as ideias de conteúdo de uma forma superintencional e eu tenho certeza que você vai sair cheio de ideia para aplicar no seu perfil também. Como eu falei, eu gravei todos os bastidores e está disponível para você assistir aqui. Só clicar em Saiba Mais para você acompanhar como esse case foi construído.
 
 ### Legenda
 

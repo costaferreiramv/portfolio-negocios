@@ -8,7 +8,7 @@ tags: []
 duracao: "1min19"
 data_post: 2026-05-18
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Como fazer o Clodd responder todos os leads do seu WhatsApp em um minuto? Não é bot, não é automação completa. Eu vou te ensinar da forma mais simples agora. Vem comigo. Você vai abrir o Google Chrome Store, vai procurar pelo Clodd e vai baixar a extension pro Chrome. No meu caso aqui eu já bati direto pro Chrome, que é o browser do Perplex que eu utilizo. Aí você vai abrir o WhatsApp na web, vai clicar no botão da extension do Clodd e vai mandar o seguinte prompt. No meu caso, eu pedi pra ele checar todas as conversas nos últimos 30 dias e responder todos os meus leads que não foram respondidos são interessados nos produtos ou serviços. No meu caso, eu não apitio para ele mandar uma resposta personalizada para cada um deles, já pensado em todas as informações que ele sabe sobre mim. E aí, a inteligência do Claude acionou. Ele simplesmente leu todas as minhas conversas nos últimos 30 dias, identificou alguns leads não respondidos e entrou em contato com cada um. Mas calma, porque ele sempre apitia a sua aprovação antes de enviar qualquer resposta. Obviamente em formas muito mais complexas e avançadas De você fazer isso de forma automatizada Mas isso aqui já funciona pra qualquer Pessoa iniciante e nada técnica Acabou aquela desculpa de não responder Mais os seus potenciais clientes E o melhor, já tudo isso no seu tom de voz Com as suas informações já treinado Com a inteligência do Claude Comenta o WhatsApp que eu te mando um guia completo Com todo o material pra você implementar isso agora Gostou? Compartilha e me segue pra mais dicas De marketing digital e inteligência artificial
 
 ### Legenda
 

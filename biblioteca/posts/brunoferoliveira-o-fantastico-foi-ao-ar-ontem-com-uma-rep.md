@@ -8,7 +8,7 @@ tags: []
 duracao: "1min27"
 data_post: 2026-06-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+O Fantástico mostrou ontem a guerra do Airbnb nos condomínios. O cliente que comprou imóvel sem corretor está descobrindo isso agora. O corretor teria avisado antes dele assinar. Tem gente que achou que corretor era custo, que pesquisar sozinho no portal era o mesmo que ter assessoria, que a comissão era o problema, não a falta de quem entendesse o que estava sendo comprado. Comprar apartamento com a promessa de que o Airbnb pagaria o financiamento. Foi lá, assinou o contrato, fechou o negócio. Aí o Fantástico fez uma reportagem. O STJ tomou uma decisão e o condomínio convocou a Assembleia. Qual que foi o resultado? O imóvel existe, o financiamento existe e a renda que pagaria tudo isso não existe mais. E isso, meu amigo, não foi azar. Foi a ausência de assessoria. Um corretor profissional, antes de apresentar qualquer imóvel para investimento com renda de temporada, ele faz três perguntas. A convenção de condomínio permite locação por curta temporada? A demanda turística da região é real ou é só uma aposta? Se o condomínio proibir amanhã, o investimento ainda fecha a conta? Essas perguntas não estão no portal, elas não aparecem no anúncio e elas não vêm no contrato. Elas vêm com o profissional que você escolheu ter do teu lado. Comissão é o que você paga pelo profissional. Acessoria é o que te protege do prejuízo. Já salva esse vídeo aqui e manda para quem ainda acha que corretor é opcional. E aí
 
 ### Legenda
 

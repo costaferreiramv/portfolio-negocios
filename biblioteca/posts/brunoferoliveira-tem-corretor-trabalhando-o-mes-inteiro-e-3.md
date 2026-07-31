@@ -8,7 +8,7 @@ tags: []
 duracao: "2min05"
 data_post: 2026-05-28
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Por fora, tá tudo bem. Por dentro, o boleto atrasado, a pressão em casa e a vontade de largar tudo e arranjar um emprego fixo. Esse é o ciclo que ninguém fala no mercado imobiliário. Fecha uma venda, dá aquela respirada, comemora, relaxa. Aí vem o mês seguinte e o outro e mais um sem resultado. A ansiedade bate devagar. Primeiro é só uma inquietação. Depois vira pressão, vira caos interno. Mas por fora, o corretor não pode demonstrar isso. Tem que aparecer confiante para o cliente. Tem que parecer que está bem para o mercado. Tem que sorrir na visita, enquanto por dentro está calculando se o boleto vai fechar. Em casa, a conversa pesa. O cônjuge pergunta, cobra, preocupa e a sensação de fracasso. Mesmo sendo um profissional capaz, começa a corroer. É nesse momento que aparece um pensamento. Talvez o emprego fixo seja melhor. Pelo menos eu sei que vai entrar grana no final do mês. Mas não precisa ser assim. O corretor que fecha todo mês não tem sorte diferente, tem método, tem processo, tem disciplina de prospectar mesmo quando está vendendo. Tem hábito de estudar o mercado, o produto, o cliente. Não espera a venda acontecer, constrói as condições para ela acontecer todo mês. A instabilidade não é característica dessa profissão, é sistema de trabalhar sem estrutura. Essa profissão é difícil, mas difícil não é o mesmo que instável. E a diferença está no método. E durante 7 dias, 30 minutinhos pela manhã, eu vou aplicar esse método com você, ao vivo, do zero ao próximo passo. Você vai saber o que dizer para reativar contato parado, como qualificar sem desperdiçar visita, como fazer follow-up sem parecer desesperado e como conduzir o cliente depois da visita, em vez de só esperar ele decidir sozinho. 5 aulas, 5 micro tarefas que trazem resultados ainda essa semana. com os teus clientes reais durante 7 dias. O ingresso está num lote promocional com vagas limitadas, então você precisa clicar aqui em Saiba Mais para aproveitar enquanto está disponível.
 
 ### Legenda
 

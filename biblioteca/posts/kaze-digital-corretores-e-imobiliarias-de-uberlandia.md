@@ -8,7 +8,7 @@ tags: []
 duracao: "36s"
 data_post: 2026-06-08
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Você é corretor de imóveis aqui em Uberlândia? E ainda não inovou na sua forma de mostrar um imóvel? Você ainda insiste em mostrar um imóvel dessa forma, mas sabe que o comprador muitas vezes não consegue visualizar todo o potencial que existe. Agora preste atenção, se você está vendo esse vídeo em 2026, saiba que aqui está o que seus concorrentes ainda não estão fazendo. Você tem a chance, junto com a Case Digital, de produzir vídeos que realmente vendem. Nós roteirizamos, gravamos com equipamentos profissionais e editamos com toda a tecnologia que você merece. Quer saber mais? Entre em contato com a gente.
 
 ### Legenda
 

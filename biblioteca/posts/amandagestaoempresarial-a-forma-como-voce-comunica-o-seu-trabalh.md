@@ -8,7 +8,7 @@ tags: []
 duracao: "37s"
 data_post: 2026-04-22
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Nunca diga caro, diga premium. Cara é reclamação, premium é posicionamento. Nunca diga proposta, diga plano de ação. Proposta gera resposta, plano gera movimento. Nunca diga preço, diga valor. Preço é o número, valor é o que ele ganha. Nunca diga barato, diga acessível. Barato é pobre, acessível é inteligente. Nunca diga vender, diga ajudar a decidir. Vender é empurrar, ajudar a decidir é servir. Nunca diga desconto, diga condição especial. Desconto desvaloriza, condição especial privilegia Nunca diga pagar, diga investir Pagar é perda, investir é retorno
 
 ### Legenda
 

@@ -8,7 +8,7 @@ tags: []
 duracao: "28s"
 data_post: 2026-03-19
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+Alerta de vídeo viral. Olha o vídeo dessa corretora aqui, ó. Eu deveria ter comprado minha casa ano passado. Eu deveria ter comprado minha casa. É o mesmo take várias vezes, só muda o texto. Ela pegou um assunto que dava pra explicar uns 10 minutos. Valorização, juros, mercado imobiliário, impostos. Transformou em um vídeo que entretém e que deixa a mensagem clara. Cada ano que você espera, mais caro fica o imóvel. Essa é a dificuldade de muita gente aqui no Instagram. Quer explicar demais? Só que aqui no Instagram não é aula. A maioria das vezes você vai crescer quando você souber simplificar, viu? Esse vídeo bateu mais de um milhão e meio de visualizações. Adapta pro seu nicho aí. Segue aqui o Teor todo dia. Tchau, obrigada
 
 ### Legenda
 

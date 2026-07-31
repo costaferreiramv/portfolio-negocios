@@ -8,7 +8,7 @@ tags: []
 duracao: "1min43"
 data_post: 2026-03-11
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
@@ -22,7 +22,7 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ### Transcrição do vídeo
 
-[não capturado]
+E a China mais uma vez surpreendeu o mundo e criou o Arranha-Céu Torcido, conhecido como Shanghai Tower. E ele foi projetado para bater de frente com o Burj Khalifa. Não só em altura, mas em engenharia. A Shanghai Tower tem 632 metros. É o prédio mais alto da China e abriga um dos elevadores mais rápidos do mundo. Cerca de 74 quilômetros por hora. Só para você ter uma ideia, do té ao topo, a subida leva apenas 55 segundos. Mas o grande diferencial não é a altura, é a tecnologia. A torre possui duas peles de vidro, como se fosse um casulo. Esse espaço interno funciona como isolamento térmico e acústico. Reduz o consumo de energia, estabiliza a temperatura e diminui o impacto do vento. Lá dentro, o prédio é praticamente uma cidade vertical. São nove zonas empilhadas com lojas, terraços internos, escritórios e até espaços residenciais. O peso da estrutura é colossal. São inacreditáveis 850 mil toneladas. E como o Xangai sofre com ventos fortes, o prédio foi projetado para balançar de forma controlada, usando amortecedores gigantes que reduzem vibrações e os esforços estruturais. A forma em espiral não é estética. Ela foi 100% calculada para reduzir em 24% a pressão do vento, o que economizou milhões em aço durante a construção. O custo total da obra foi de 2,4 bilhões de dólares, 60% mais caro do que o Burj Khalifa. Mas isso se explica pela quantidade de tecnologias de sustentabilidade, conforto e eficiência que ele incorpora.
 
 ### Legenda
 

@@ -1,0 +1,62 @@
+---
+titulo: "APRENDA O QUE ELE FEZ EM 7 DIAS. mas antes... ...FAÇA UM AUTO-DIAGNÓST"
+autor: "@brunoferoliveira"
+url: https://www.instagram.com/p/DYPt1_tALTZ/
+tipo: video
+temas: []
+tags: []
+duracao: "1min18"
+data_post: 2026-05-12
+processado_em: 2026-07-30
+status: pendente
+---
+## Resumo
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Pontos-chave
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Conteúdo integral
+
+### Transcrição do vídeo
+
+[não capturado]
+
+### Legenda
+
+APRENDA O QUE ELE FEZ EM 7 DIAS.
+mas antes...
+...FAÇA UM AUTO-DIAGNÓSTICO: 
+
+Se você,
+Prospecta sem critério.
+Faz follow-up sem contexto.
+Vai para visita sem condução.
+E espera o cliente decidir sozinho.
+
+Isso não é operação comercial.
+É sobrevivência.
+
+Durante 7 dias, eu vou te mostrar o sistema que ajudou este corretor a sair da lona para R$81 milhões em VGV.
+
+Você vai aprender:
+→ como organizar sua base
+→ como identificar quem está pronto para comprar
+→ como conduzir depois da visita
+→ como fazer follow-up com motivo
+
+Tudo aplicado nos seus clientes reais.
+
+📍Ao vivo • Online
+⏰ sessões de 30-40 minutos por manhã
+🎟️ Vagas promocionais abertas
+
+## Aplicação
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Conexões
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._

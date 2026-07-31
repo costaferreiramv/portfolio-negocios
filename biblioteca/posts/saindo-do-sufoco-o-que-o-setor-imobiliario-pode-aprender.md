@@ -1,0 +1,54 @@
+---
+titulo: "O que o setor imobiliário pode aprender com o maior cestinha da histór"
+autor: "@saindo.do.sufoco"
+url: https://www.instagram.com/reel/DXUEjxIDulA/
+tipo: reel
+temas: []
+tags: []
+duracao: "1min10"
+data_post: 2026-04-19
+processado_em: 2026-07-30
+status: pendente
+---
+## Resumo
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Pontos-chave
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Conteúdo integral
+
+### Transcrição do vídeo
+
+[não capturado]
+
+### Legenda
+
+O que o setor imobiliário pode aprender com o maior cestinha da história? 📊
+
+A trajetória de Oscar Schmidt (1958-2026) é uma aula de estruturação de capital. Em um tempo de contratos menores que os atuais, ele entendeu cedo a lógica que muitos investidores demoram a aprender:
+
+Gerar no risco (quadras) para preservar no sólido (imóveis).
+
+Oscar foi um mestre em transformar fluxo de caixa em patrimônio imobiliário. Ele via no setor a segurança e a valorização a longo prazo que o esporte, por natureza finito, não podia dar.
+Para nós, fica a lição da “Mão Treinada”:
+
+• Sem Milagres: No imobiliário, assim como no basquete, o sucesso vem da análise de dados e métricas sólidas;
+
+• Dívida Inteligente: A estruturação correta é o que separa um passivo de um ativo gerador de riqueza;
+
+• Visão de Futuro: Imóveis são a base da blindagem patrimonial contra ciclos econômicos.
+
+Oscar Schmidt não foi apenas um atleta; foi um estrategista do próprio destino.
+
+#imoveis #viral #mercadoimobiliario #imobiliaria #investimentoimobiliario
+
+## Aplicação
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Conexões
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._

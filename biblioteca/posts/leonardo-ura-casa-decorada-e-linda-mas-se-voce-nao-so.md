@@ -3,20 +3,21 @@ titulo: "Casa decorada é linda, mas se você não souber filmar do jeito certo 
 autor: "@leonardo_ura"
 url: https://www.instagram.com/reel/DLKmk0ZMZ-S/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos]
+tags: [video-imobiliario, casa-mobiliada, tecnica-de-filmagem]
 duracao: "34s"
 data_post: 2025-06-21
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Técnica para filmar casa mobiliada sem virar 'bagunça visual': começar com plano aberto (2-3 tomadas por ambiente, mostrando profundidade, sem exagerar) e depois lente mais fechada para capturar detalhes de decoração (lustre, quadro, material). Repetir o processo cômodo a cômodo.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Sequência por cômodo: plano aberto (2-3 tomadas) → plano fechado de detalhes de decoração.
+- Regra: não exagerar no número de planos abertos por ambiente.
 
 ## Conteúdo integral
 
@@ -34,8 +35,8 @@ Casa decorada é linda, mas se você não souber filmar do jeito certo… vira b
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Estrutura de filmagem diretamente aplicável aos tours de imóvel mobiliado do Portfólio Negócios — plano aberto (contexto) seguido de plano fechado (detalhe de acabamento) por cômodo é sequência simples e replicável.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

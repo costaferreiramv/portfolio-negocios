@@ -3,20 +3,20 @@ titulo: "Quer valorizar de verdade esse ambiente? Anota essas ideias. E ja apli"
 autor: "@leonardo_ura"
 url: https://www.instagram.com/reel/DLFvQCosBNE/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos]
+tags: [cozinha, takes-essenciais, isca]
 duracao: "35s"
 data_post: 2025-06-19
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Promete takes essenciais para valorizar a cozinha em vídeo de imóvel, sem detalhamento explícito no texto disponível além do título.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Foco específico em cozinha como ambiente que precisa de tratamento visual próprio.
 
 ## Conteúdo integral
 
@@ -35,8 +35,8 @@ Quer valorizar de verdade esse ambiente? Anota essas ideias. E ja aplica na prox
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça a lógica de takes por cômodo (como no post da casa mobiliada) — cozinha merece atenção específica de enquadramento, coerente com a régua já estabelecida.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

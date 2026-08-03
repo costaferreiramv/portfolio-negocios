@@ -3,8 +3,8 @@ titulo: "Quantas visitas você já fez esse mês? E quantas viraram silêncio no
 autor: "@chaiene.luz"
 url: https://www.instagram.com/p/DLLbGxsBuVL/
 tipo: carrossel
-temas: []
-tags: []
+temas: [vendas]
+tags: [passividade, fechamento, isca]
 slides: 6
 data_post: 2025-06-21
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Questiona quantas visitas viraram silêncio no WhatsApp — o padrão de passividade (mostrar o imóvel, torcer, perguntar 'o que achou?' e esperar o cliente fechar sozinho) é apontado como a causa mais comum de venda perdida, não a qualidade do imóvel.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'A venda não morre por falta de imóvel bom. Morre por excesso de passividade.'
+- Padrão de falha citado: mostrar, torcer, perguntar 'o que achou?', esperar o cliente decidir sozinho.
 
 ## Conteúdo integral
 
@@ -54,8 +55,8 @@ Photo by Chaiene Luz | Negociação Imobiliária Operacional on June 21, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Confirma, de forma direta, que a passividade pós-visita (não a qualidade do imóvel de alto padrão) é o gargalo mais provável de perda de venda — reforça a necessidade de um roteiro ativo de fechamento em visita, já sugerido por outros posts (@carol.iasmim sobre condução).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

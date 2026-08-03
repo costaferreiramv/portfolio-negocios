@@ -3,8 +3,8 @@ titulo: "A maioria das imobiliárias não perde negócios porque faltam leads. P
 autor: "@chaiene.luz"
 url: https://www.instagram.com/p/DZhkmJylWTY/
 tipo: carrossel
-temas: []
-tags: []
+temas: [gestao, vendas]
+tags: [condução, proximo-passo, frase-perigosa]
 slides: 13
 data_post: 2026-06-13
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Identifica 'qualquer coisa me chama' como uma das frases mais caras do mercado imobiliário — parece educada, mas transfere ao cliente a responsabilidade de continuar a negociação, e cliente raramente conduz a própria compra. Terminar conversa sem próximo passo definido não é encerrar, é abandonar oportunidade.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Qualquer coisa me chama' transfere ao cliente a responsabilidade de conduzir — e cliente raramente conduz a própria compra.
+- Toda conversa deve terminar com próximo passo definido pelo corretor, nunca em aberto.
+- Gestão comercial não é 'controlar CRM', é construir processo que faça a equipe conduzir decisões.
 
 ## Conteúdo integral
 
@@ -62,8 +64,8 @@ Photo by Chaiene Luz | Negociação Imobiliária Operacional on June 13, 2026. M
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Regra simples e de aplicação imediata: banir 'qualquer coisa me chama' e frases equivalentes de qualquer encerramento de conversa do Portfólio Negócios — substituir sempre por próximo passo com data/hora definida pelo corretor.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

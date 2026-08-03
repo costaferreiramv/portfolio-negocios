@@ -3,8 +3,8 @@ titulo: "Se o seu corretor leva qualquer lead para visita... Você não tem proc
 autor: "@chaiene.luz"
 url: https://www.instagram.com/p/DYAtqU7FRmM/
 tipo: carrossel
-temas: []
-tags: []
+temas: [gestao]
+tags: [qualificacao-antes-da-visita, processo]
 slides: 10
 data_post: 2026-05-06
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Levar qualquer lead para visita sem processo de qualificação prévia não é característica do negócio, é desperdício de recurso. Post de venda de consultoria de gestão comercial para imobiliária.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Levar todo lead para visita sem filtro é desperdício de recurso, não 'atendimento completo'.
 
 ## Conteúdo integral
 
@@ -39,8 +39,8 @@ Photo by Chaiene Luz | Negociação Imobiliária Operacional on May 06, 2026.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça a necessidade de qualificação antes da visita (não só antes de mandar material) — coerente com o roteiro de qualificação já formalizado nesta biblioteca.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

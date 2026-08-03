@@ -4,7 +4,7 @@ autor: "@leonardo_ura"
 url: https://www.instagram.com/p/Da5sZOlDiYd/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca]
 slides: 8
 data_post: 2026-07-17
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA de humor/identificação para produzir conteúdo estratégico. Conteúdo do carrossel não lido.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Post de engajamento, sem substância técnica no texto disponível.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Photo by Leonardo Ura on July 17, 2026. May be an image of poster and text that 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação sem ler o carrossel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

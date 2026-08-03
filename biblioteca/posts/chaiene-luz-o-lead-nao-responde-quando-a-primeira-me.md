@@ -3,8 +3,8 @@ titulo: "O lead não responde quando a primeira mensagem exige esforço demais. 
 autor: "@chaiene.luz"
 url: https://www.instagram.com/p/Da0GT6MlQWe/
 tipo: carrossel
-temas: []
-tags: []
+temas: [vendas]
+tags: [primeira-mensagem, whatsapp, contexto]
 slides: 8
 data_post: 2026-07-15
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Primeira mensagem que exige esforço do cliente ('Olá, tudo bem? Em que posso ajudar?') falha porque devolve a responsabilidade de iniciar ao cliente, que acabou de demonstrar interesse e esperava condução. A primeira mensagem precisa ter contexto (referência ao que o lead clicou), clareza e pergunta fácil de responder.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Primeira mensagem genérica ('em que posso ajudar?') devolve a responsabilidade de conduzir ao cliente que já demonstrou interesse.
+- Primeira mensagem certa precisa de: contexto específico + clareza + pergunta fácil de responder.
+- 'Antes de chamar o lead de ruim, olhe para a abordagem que sua equipe usa no WhatsApp' — reformula a causa do problema.
 
 ## Conteúdo integral
 
@@ -52,8 +54,8 @@ Photo by Chaiene Luz | Negociação Imobiliária Operacional on July 15, 2026. M
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça, com formulação mais precisa, a mesma lição do @guilhermemachadooficial sobre não reenviar o link do imóvel — a primeira resposta ao lead deve citar o imóvel específico clicado e fazer pergunta fechada, nunca abertura genérica.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

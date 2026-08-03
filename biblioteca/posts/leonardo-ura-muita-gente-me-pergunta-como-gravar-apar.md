@@ -3,20 +3,21 @@ titulo: "Muita gente me pergunta como gravar apartamentos , que geralmente tem "
 autor: "@leonardo_ura"
 url: https://www.instagram.com/reel/DGBkhc5Pgi3/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos]
+tags: [apartamento-compacto, travelling, tecnica-de-filmagem]
 duracao: "29s"
 data_post: 2025-02-13
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Takes essenciais para filmar apartamento (espaço reduzido): aproveitar luz natural mostrando a vista, movimento de travelling para efeito cinematográfico, e um pan geral para mostrar a amplitude do espaço.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Três takes essenciais para apartamento compacto: luz natural + vista, travelling, pan geral.
+- Foco em fazer o espaço parecer maior através do movimento de câmera, não só do enquadramento estático.
 
 ## Conteúdo integral
 
@@ -38,8 +39,8 @@ Muita gente me pergunta como gravar apartamentos , que geralmente tem espaços m
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Lista prática de takes para apartamento de alto padrão com metragem menor — movimento de câmera (travelling, pan) compensa espaço reduzido, técnica direta para os vídeos do Portfólio Negócios.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

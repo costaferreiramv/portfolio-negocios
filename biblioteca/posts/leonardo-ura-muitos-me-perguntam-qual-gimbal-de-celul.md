@@ -3,20 +3,21 @@ titulo: "Muitos me perguntam qual gimbal de celular eu uso pra gravar imóveis, 
 autor: "@leonardo_ura"
 url: https://www.instagram.com/reel/DMcym3Tuvqj/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos]
+tags: [gimbal, equipamento, gravar-sozinho]
 duracao: "36s"
 data_post: 2025-07-23
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Recomenda gimbal de celular com IA de rastreamento automático (segue a pessoa em quadro por gesto) para quem grava vídeo de imóvel sozinho, sem equipe de filmagem.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Gimbal com rastreamento por IA permite gravar sozinho sem precisar de segunda pessoa segurando a câmera.
+- Recurso relevante para operação solo (sem equipe de vídeo dedicada).
 
 ## Conteúdo integral
 
@@ -32,8 +33,8 @@ Caso queira receber o link comenta “ GIMBAL” que te envio!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Equipamento útil para a produção solo de vídeo do Marcus — elimina a necessidade de segunda pessoa para gravar aparições em vídeo/tour.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

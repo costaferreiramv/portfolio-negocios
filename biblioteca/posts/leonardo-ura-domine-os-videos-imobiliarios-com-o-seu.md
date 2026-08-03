@@ -3,20 +3,21 @@ titulo: "Domine os vídeos imobiliários com o seu celular e transforme suas ven
 autor: "@leonardo_ura"
 url: https://www.instagram.com/p/DPyjOcvgLLC/
 tipo: video
-temas: []
-tags: []
+temas: [conteudo-organico]
+tags: [celular, autonomia, isca-curso]
 duracao: "30s"
 data_post: 2025-10-14
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Case de aluno corretor que passou a gravar e editar os próprios vídeos sem terceirizar — vídeo virou vantagem competitiva. Anúncio de curso (Lumimobile) para corretor que quer fazer o próprio marketing com celular.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Argumento: não terceirizar a gravação/edição mantém a conexão direta entre corretor e cliente.
+- Vídeo próprio (feito com celular) é posicionado como vantagem competitiva, não como recurso inferior ao profissional terceirizado.
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ Domine os vídeos imobiliários com o seu celular e transforme suas vendas!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça a viabilidade de produção própria de vídeo com celular — coerente com a operação atual do Portfólio Negócios, que já produz conteúdo internamente.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

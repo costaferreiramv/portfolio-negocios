@@ -3,8 +3,8 @@ titulo: "Corretor que improvisa atendimento sempre depende de sorte. Uma hora e"
 autor: "@chaiene.luz"
 url: https://www.instagram.com/p/DaNuP8RFbE0/
 tipo: carrossel
-temas: []
-tags: []
+temas: [gestao, vendas]
+tags: [etapas-do-atendimento, script-por-fase, isca]
 slides: 7
 data_post: 2026-06-30
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que atendimento imobiliário não combina com improviso — cada fase (primeiro contato, qualificação, apresentação, pós-visita, reengajamento) precisa de mensagem própria, porque o lead precisa ser conduzido, não só informado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Cinco fases distintas de atendimento, cada uma com mensagem própria: primeiro contato, qualificação, apresentação, pós-visita, reengajamento.
+- 'Fico à disposição' no fim da conversa é sintoma de achar que cumpriu a parte sem realmente conduzir.
 
 ## Conteúdo integral
 
@@ -48,8 +49,8 @@ Photo by Chaiene Luz | Negociação Imobiliária Operacional on June 30, 2026. M
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mapa de cinco fases é útil para auditar se o Portfólio Negócios tem mensagem estruturada para cada etapa — hoje o pós-visita e reengajamento são os elos mais fracos já identificados nesta biblioteca.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

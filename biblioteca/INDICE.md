@@ -4,14 +4,14 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 255
+**Analisados (resumo, pontos-chave e aplicação escritos):** 273
 
 ### Status
 
 | status | o que significa | posts |
 |---|---|---|
-| `completo` | íntegra capturada e analisada | 221 |
-| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 826 |
+| `completo` | íntegra capturada e analisada | 229 |
+| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 818 |
 | `pendente` | legenda capturada; falta transcrever slides ou analisar | 220 |
 
 ### Tipo
@@ -55,7 +55,14 @@ automaticamente.
 - [Pergunta certa abre o que discurso pronto não abre. Esse material é re](posts/carol-iasmim-pergunta-certa-abre-o-que-discurso-pront.md) — @carol.iasmim
 - [Salve para consultar sempre que for vender para cliente alto padrão!](posts/carol-iasmim-salve-para-consultar-sempre-que-for-vend.md) — @carol.iasmim
 - [Só aplica e depois me conta](posts/carol-iasmim-so-aplica-e-depois-me-conta.md) — @carol.iasmim
+- [A maioria das imobiliárias não perde negócios porque faltam leads. Per](posts/chaiene-luz-a-maioria-das-imobiliarias-nao-perde-neg.md) — @chaiene.luz
+- [Corretor que improvisa atendimento sempre depende de sorte. Uma hora e](posts/chaiene-luz-corretor-que-improvisa-atendimento-sempr.md) — @chaiene.luz
+- [Existe uma diferença enorme entre insistir e conduzir. Insistir é mand](posts/chaiene-luz-existe-uma-diferenca-enorme-entre-insist.md) — @chaiene.luz
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz
+- [O lead não responde quando a primeira mensagem exige esforço demais. E](posts/chaiene-luz-o-lead-nao-responde-quando-a-primeira-me.md) — @chaiene.luz
+- [Quantas visitas você já fez esse mês? E quantas viraram silêncio no Wh](posts/chaiene-luz-quantas-visitas-voce-ja-fez-esse-mes-e-q.md) — @chaiene.luz
+- [Todo corretor já perdeu horas com lead que nunca ia comprar. Essas 5 p](posts/chaiene-luz-todo-corretor-ja-perdeu-horas-com-lead-q.md) — @chaiene.luz
+- [Uma visita não encerra uma negociação. Ela inaugura uma nova fase dela](posts/chaiene-luz-uma-visita-nao-encerra-uma-negociacao-el.md) — @chaiene.luz
 - [Nos EUA o corretor só abre a casa com carta de pré-aprovação — e isso não é grosseria](posts/eduardovgvendas-pre-aprovacao-eua-x-brasil.md) — @eduardovgvendas
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula
@@ -142,6 +149,12 @@ automaticamente.
 - [Ao invés de tentar se filmar falando sobre os imóveis faça isso 1. Gra](posts/kakarivas-ao-inves-de-tentar-se-filmar-falando-sob.md) — @kakarivas
 - [O erro que quase todo mundo comete em vídeos de imóveis Começar mostra](posts/kakarivas-o-erro-que-quase-todo-mundo-comete-em-vi.md) — @kakarivas
 - [Os 3 primeiros segundos do seu vídeo são os mais importantes para pren](posts/kakarivas-os-3-primeiros-segundos-do-seu-video-sao.md) — @kakarivas
+- [Casa decorada é linda, mas se você não souber filmar do jeito certo vi](posts/leonardo-ura-casa-decorada-e-linda-mas-se-voce-nao-so.md) — @leonardo_ura
+- [Hook ou gancho é a melhor forma de prender a atenção da sua audiência ](posts/leonardo-ura-hook-ou-gancho-e-a-melhor-forma-de-prend.md) — @leonardo_ura
+- [Muita gente me pergunta como gravar apartamentos , que geralmente tem ](posts/leonardo-ura-muita-gente-me-pergunta-como-gravar-apar.md) — @leonardo_ura
+- [Muitos me perguntam qual gimbal de celular eu uso pra gravar imóveis, ](posts/leonardo-ura-muitos-me-perguntam-qual-gimbal-de-celul.md) — @leonardo_ura
+- [Quer valorizar de verdade esse ambiente? Anota essas ideias. E ja apli](posts/leonardo-ura-quer-valorizar-de-verdade-esse-ambiente.md) — @leonardo_ura
+- [Você leva tudo com acesso vitalício! Domine os vídeos imobiliários com](posts/leonardo-ura-voce-leva-tudo-com-acesso-vitalicio-domi.md) — @leonardo_ura
 - [Character Sheet: por que a IA troca o rosto do personagem a cada geração](posts/leoromano-character-sheet-consistencia-ia.md) — @leoromano.oficial
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira
 
@@ -162,6 +175,7 @@ automaticamente.
 - [Já SALVA pra deixar guardado!!! Pega o ouro 1 Tours Virtuais 2 Depoime](posts/kakarivas-ja-salva-pra-deixar-guardado-pega-o-ouro.md) — @kakarivas
 - [Tem corretor produzindo conteúdo todo dia. E só atraindo outros corret](posts/kakarivas-tem-corretor-produzindo-conteudo-todo-di.md) — @kakarivas
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
+- [Domine os vídeos imobiliários com o seu celular e transforme suas vend](posts/leonardo-ura-domine-os-videos-imobiliarios-com-o-seu.md) — @leonardo_ura
 - [Hack para você conseguir ser constante na produção de conteúdo!](posts/lucasmarrques-hack-para-voce-conseguir-ser-constante-n.md) — @lucasmarrques
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi
@@ -212,7 +226,9 @@ automaticamente.
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-2.md) — @kakarivas
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-4.md) — @kakarivas
 - [Tem corretor produzindo conteúdo todo dia. E só atraindo outros corret](posts/kakarivas-tem-corretor-produzindo-conteudo-todo-di.md) — @kakarivas
+- [Corretor que não trabalha a própria marca trabalha de graça pra concor](posts/leonardo-ura-corretor-que-nao-trabalha-a-propria-marc.md) — @leonardo_ura
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
+- [Você leva tudo com acesso vitalício! Domine os vídeos imobiliários com](posts/leonardo-ura-voce-leva-tudo-com-acesso-vitalicio-domi.md) — @leonardo_ura
 - [Como passar autoridade](posts/lucasmarrques-como-passar-autoridade.md) — @lucasmarrques
 - [Esse dia](posts/lucasmarrques-esse-dia.md) — @lucasmarrques
 - [Faz e depois me agradece](posts/lucasmarrques-faz-e-depois-me-agradece.md) — @lucasmarrques
@@ -300,7 +316,11 @@ automaticamente.
 - [Pega essa dica. São 4 coisas.](posts/brunoferoliveira-pega-essa-dica-sao-4-coisas.md) — @brunoferoliveira
 - [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-2.md) — @brunoferoliveira
 - [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-3.md) — @brunoferoliveira
+- [A maioria das imobiliárias não perde negócios porque faltam leads. Per](posts/chaiene-luz-a-maioria-das-imobiliarias-nao-perde-neg.md) — @chaiene.luz
+- [Corretor que improvisa atendimento sempre depende de sorte. Uma hora e](posts/chaiene-luz-corretor-que-improvisa-atendimento-sempr.md) — @chaiene.luz
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz
+- [Se o seu corretor leva qualquer lead para visita... Você não tem proce](posts/chaiene-luz-se-o-seu-corretor-leva-qualquer-lead-par.md) — @chaiene.luz
+- [Todo gestor já ouviu essa frase Cada corretor tem seu jeito. Durante m](posts/chaiene-luz-todo-gestor-ja-ouviu-essa-frase-cada-cor.md) — @chaiene.luz
 - [Context rot: por que o Claude fica lento e confuso depois de meia hora](posts/ericluciano-context-rot-e-compactacao.md) — @ericluciano
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
 - [Dono de imobiliária, antes de culpar a falta de leads, responda uma pe](posts/guilhermemachadooficial-dono-de-imobiliaria-antes-de-culpar-a-fa.md) — @guilhermemachadooficial
@@ -438,7 +458,16 @@ automaticamente.
 - [Só aplica e depois me conta](posts/carol-iasmim-so-aplica-e-depois-me-conta.md) — @carol.iasmim · reel · 2026-03-18
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator · carrossel · 2026-07-26
 - [Três mudanças que o Instagram está testando: etiqueta de IA, seguidores ocultos e séries pagas](posts/catiacreator-mudancas-instagram-agosto.md) — @catiacreator · carrossel · 2026-07-22
+- [A maioria das imobiliárias não perde negócios porque faltam leads. Per](posts/chaiene-luz-a-maioria-das-imobiliarias-nao-perde-neg.md) — @chaiene.luz · carrossel · 2026-06-13
+- [Corretor que improvisa atendimento sempre depende de sorte. Uma hora e](posts/chaiene-luz-corretor-que-improvisa-atendimento-sempr.md) — @chaiene.luz · carrossel · 2026-06-30
+- [Existe uma diferença enorme entre insistir e conduzir. Insistir é mand](posts/chaiene-luz-existe-uma-diferenca-enorme-entre-insist.md) — @chaiene.luz · carrossel · 2026-06-16
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz · carrossel · 2026-07-09
+- [O lead não responde quando a primeira mensagem exige esforço demais. E](posts/chaiene-luz-o-lead-nao-responde-quando-a-primeira-me.md) — @chaiene.luz · carrossel · 2026-07-15
+- [Quantas visitas você já fez esse mês? E quantas viraram silêncio no Wh](posts/chaiene-luz-quantas-visitas-voce-ja-fez-esse-mes-e-q.md) — @chaiene.luz · carrossel · 2025-06-21
+- [Se o seu corretor leva qualquer lead para visita... Você não tem proce](posts/chaiene-luz-se-o-seu-corretor-leva-qualquer-lead-par.md) — @chaiene.luz · carrossel · 2026-05-06
+- [Todo corretor já perdeu horas com lead que nunca ia comprar. Essas 5 p](posts/chaiene-luz-todo-corretor-ja-perdeu-horas-com-lead-q.md) — @chaiene.luz · carrossel · 2026-07-16
+- [Todo gestor já ouviu essa frase Cada corretor tem seu jeito. Durante m](posts/chaiene-luz-todo-gestor-ja-ouviu-essa-frase-cada-cor.md) — @chaiene.luz · carrossel · 2026-07-17
+- [Uma visita não encerra uma negociação. Ela inaugura uma nova fase dela](posts/chaiene-luz-uma-visita-nao-encerra-uma-negociacao-el.md) — @chaiene.luz · carrossel · 2026-06-17
 - [Foto de check-in não é conteúdo: como transformar um evento em material para a audiência](posts/clubedaborboleta-como-postar-evento.md) — @clubedaborboleta · reel · 2026-07-21
 - [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker · carrossel · 2026-07-22
 - [Speed ramp x câmera lenta: o ritmo do vídeo imobiliário depende do que o imóvel é](posts/dentrodoimovel-ritmo-video-imobiliario.md) — @dentrodoimovel · reel · 2026-07-23
@@ -518,7 +547,16 @@ automaticamente.
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-6.md) — @kakarivas · reel · 2026-05-20
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada.md) — @kakarivas · reel · 2026-06-13
 - [Tem corretor produzindo conteúdo todo dia. E só atraindo outros corret](posts/kakarivas-tem-corretor-produzindo-conteudo-todo-di.md) — @kakarivas · carrossel · 2026-05-17
+- [Casa decorada é linda, mas se você não souber filmar do jeito certo vi](posts/leonardo-ura-casa-decorada-e-linda-mas-se-voce-nao-so.md) — @leonardo_ura · reel · 2025-06-21
+- [Corretor que não trabalha a própria marca trabalha de graça pra concor](posts/leonardo-ura-corretor-que-nao-trabalha-a-propria-marc.md) — @leonardo_ura · video · 2026-06-20
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura · reel · 2026-07-28
+- [Domine os vídeos imobiliários com o seu celular e transforme suas vend](posts/leonardo-ura-domine-os-videos-imobiliarios-com-o-seu.md) — @leonardo_ura · video · 2025-10-14
+- [Hook ou gancho é a melhor forma de prender a atenção da sua audiência ](posts/leonardo-ura-hook-ou-gancho-e-a-melhor-forma-de-prend.md) — @leonardo_ura · carrossel · 2026-06-25
+- [Muita gente me pergunta como gravar apartamentos , que geralmente tem ](posts/leonardo-ura-muita-gente-me-pergunta-como-gravar-apar.md) — @leonardo_ura · reel · 2025-02-13
+- [Muitos cursos de vídeo são genéricos, mas o Lume Mobile é 100 focado n](posts/leonardo-ura-muitos-cursos-de-video-sao-genericos-mas.md) — @leonardo_ura · video · 2025-06-11
+- [Muitos me perguntam qual gimbal de celular eu uso pra gravar imóveis, ](posts/leonardo-ura-muitos-me-perguntam-qual-gimbal-de-celul.md) — @leonardo_ura · reel · 2025-07-23
+- [Quer valorizar de verdade esse ambiente? Anota essas ideias. E ja apli](posts/leonardo-ura-quer-valorizar-de-verdade-esse-ambiente.md) — @leonardo_ura · reel · 2025-06-19
+- [Você leva tudo com acesso vitalício! Domine os vídeos imobiliários com](posts/leonardo-ura-voce-leva-tudo-com-acesso-vitalicio-domi.md) — @leonardo_ura · video · 2025-10-30
 - [Character Sheet: por que a IA troca o rosto do personagem a cada geração](posts/leoromano-character-sheet-consistencia-ia.md) — @leoromano.oficial · carrossel · 2026-07-22
 - [A agenda das próximas turmas da Imersão UNA está aberta. Dois dias de ](posts/lucasmarrques-a-agenda-das-proximas-turmas-da-imersao.md) — @lucasmarrques · reel · 2026-06-17
 - [Aprenda a captar imóveis exclusivos e domine o mercado com o MÉTODO UN](posts/lucasmarrques-aprenda-a-captar-imoveis-exclusivos-e-do.md) — @lucasmarrques · video · 2025-01-18

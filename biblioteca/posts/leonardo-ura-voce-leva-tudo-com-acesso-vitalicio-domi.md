@@ -3,20 +3,21 @@ titulo: "Você leva tudo com acesso vitalício! Domine os vídeos imobiliários 
 autor: "@leonardo_ura"
 url: https://www.instagram.com/p/DQb9DK8AM79/
 tipo: video
-temas: []
-tags: []
+temas: [criativos, posicionamento]
+tags: [intencao, viral, isca-curso]
 duracao: "52s"
 data_post: 2025-10-30
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que imagem bonita é obrigação, mas o vídeo precisa ter intenção e gerar desejo — cita casos de vídeos virais próprios ('casa passarela', 'casa de boliche', 'casa de R$85 milhões'). Anuncia curso com acesso vitalício incluindo roteiro pronto para copiar e colar.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Imagem bonita é obrigação. O vídeo tem que ter intenção e gerar desejo' — distinção central.
+- Casos de vídeo viral citados como prova, sem detalhamento de método replicável no texto disponível.
 
 ## Conteúdo integral
 
@@ -31,8 +32,8 @@ Domine os vídeos imobiliários com o seu celular e transforme suas vendas!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça a tese (já bem coberta nesta biblioteca) de que estética sozinha não basta — o vídeo precisa de intenção narrativa, não só qualidade de imagem.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

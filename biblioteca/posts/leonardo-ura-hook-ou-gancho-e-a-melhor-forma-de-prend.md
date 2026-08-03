@@ -3,8 +3,8 @@ titulo: "Hook ou gancho é a melhor forma de prender a atenção da sua audiênc
 autor: "@leonardo_ura"
 url: https://www.instagram.com/p/DaBJCuCjnFk/
 tipo: carrossel
-temas: []
-tags: []
+temas: [criativos]
+tags: [gancho, isca]
 slides: 7
 data_post: 2026-06-25
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça a importância do gancho para prender atenção, com promessa de 30 exemplos no carrossel (não lido).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mesma tese de gancho já coberta com rigor pela skill `gancho-psicologico`.
 
 ## Conteúdo integral
 
@@ -35,8 +35,8 @@ Photo by Leonardo Ura on June 25, 2026. May be an image of one or more people, b
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem conteúdo novo sem ler o carrossel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

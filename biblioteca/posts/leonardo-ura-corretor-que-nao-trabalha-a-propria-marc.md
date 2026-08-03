@@ -3,20 +3,22 @@ titulo: "Corretor que não trabalha a própria marca trabalha de graça pra conc
 autor: "@leonardo_ura"
 url: https://www.instagram.com/p/DZzgxtvATXI/
 tipo: video
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [marca-pessoal, analogia-pepsi-coca, top-of-mind]
 duracao: "1min38"
 data_post: 2026-06-20
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Analogia Pepsi/Coca: a Pepsi investe em campanha que desperta desejo por refrigerante de cola, mas quem primeiro vem à mente (Coca) é quem recebe a venda. O corretor que produz bom conteúdo sem se posicionar claramente também 'aquece o desejo' de compra para o concorrente que já ocupa um lugar definido na mente do público — ex.: 'imóvel de alto padrão nessa região, é o Fulano'. Quem se posiciona melhor não é necessariamente o melhor corretor, só foi mais claro sobre quem é e que espaço ocupa.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Analogia Pepsi/Coca: aquecer desejo de categoria sem ocupar posição própria beneficia quem já é 'top of mind'.
+- 'A mente das pessoas é preguiçosa, quer um nome pra cada coisa' — ex.: 'imóvel de alto padrão nessa região, é o Fulano'.
+- Quem se posiciona melhor não é necessariamente o melhor profissional — só foi mais claro sobre o espaço que ocupa.
 
 ## Conteúdo integral
 
@@ -33,8 +35,8 @@ Ocupa o seu. Clica em saiba mais.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça de forma memorável (com analogia fácil de reutilizar em conteúdo próprio) a necessidade de ocupar um nome específico associado à Zona Sul de Uberlândia e alto padrão — se o Marcus não reivindica esse espaço com clareza, qualquer conteúdo que gere desejo de compra na região beneficia quem já ocupa esse lugar na mente do público local.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,7 +4,7 @@ autor: "@leonardo_ura"
 url: https://www.instagram.com/p/DW_c7unjnkn/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, marca-pessoal]
 slides: 10
 data_post: 2026-04-11
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA sobre criar marca forte e duradoura no mercado. Conteúdo do carrossel não lido.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Post de captura, sem conteúdo técnico no texto disponível.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Photo by Leonardo Ura on April 11, 2026.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação sem ler o carrossel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

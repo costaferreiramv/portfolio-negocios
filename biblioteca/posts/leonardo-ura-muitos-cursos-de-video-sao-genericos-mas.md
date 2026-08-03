@@ -4,19 +4,19 @@ autor: "@leonardo_ura"
 url: https://www.instagram.com/p/DKwvWwDgrJB/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso]
 duracao: "30s"
 data_post: 2025-06-11
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de curso de vídeo 100% focado em mercado imobiliário, com celular, sem enrolação.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de curso, posicionado contra cursos genéricos de vídeo.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ Muitos cursos de vídeo são genéricos, mas o Lume Mobile é 100% focado no mer
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — anúncio sem conteúdo técnico detalhado além do já coberto por outros posts do mesmo autor.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

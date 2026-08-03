@@ -3,8 +3,8 @@ titulo: "Todo gestor já ouviu essa frase Cada corretor tem seu jeito. Durante m
 autor: "@chaiene.luz"
 url: https://www.instagram.com/p/Da6AYSCFfxU/
 tipo: carrossel
-temas: []
-tags: []
+temas: [gestao]
+tags: [padronizacao, script, escala]
 slides: 13
 data_post: 2026-07-17
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Contesta a frase comum 'cada corretor tem seu jeito' — se cada um atende diferente, a imobiliária não tem processo, tem várias operações paralelas, o que explica por que um cliente é bem atendido e outro é perdido. A primeira mudança ao assumir uma operação é padronizar a comunicação, não porque script vende, mas porque operação previsível precisa falar a mesma língua.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Cada corretor tem seu jeito' esconde múltiplas operações paralelas em vez de um processo único.
+- Padronização de comunicação não é sobre script 'vender melhor' — é sobre tornar o atendimento mensurável e treinável.
+- Padrão de comunicação é pré-requisito para escalar a operação.
 
 ## Conteúdo integral
 
@@ -52,8 +54,8 @@ Photo by Chaiene Luz | Negociação Imobiliária Operacional on July 17, 2026. M
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Relevante se a operação do Marcus crescer para incluir mais de uma pessoa no atendimento — hoje, com operação individual, o princípio vale como autoconsistência: usar o mesmo roteiro de qualificação e follow-up em toda interação, não variar por humor ou pressa.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

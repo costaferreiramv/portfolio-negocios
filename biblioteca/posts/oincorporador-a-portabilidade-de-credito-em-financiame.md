@@ -4,7 +4,7 @@ autor: "@oincorporador"
 url: https://www.instagram.com/reel/DLxKuctuswX/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, portabilidade-de-credito]
 duracao: "1min54"
 data_post: 2025-07-06
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Explica portabilidade de crédito imobiliário (transferir dívida entre bancos buscando taxa melhor) e argumenta que o preço do imóvel importa mais que a taxa de juros do momento da compra.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo técnico correto sobre financiamento — regulado pelo Banco Central.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ A portabilidade de crédito em financiamentos imobiliários é o direito do mutu
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — conteúdo inteiramente sobre financiamento, proibição absoluta do negócio.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

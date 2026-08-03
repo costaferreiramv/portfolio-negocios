@@ -4,7 +4,7 @@ autor: "@natanpimentels"
 url: https://www.instagram.com/p/DMPQrRUsn2e/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, duplicata]
 slides: 10
 data_post: 2025-07-18
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duplicata exata do post anterior (mesmo funil, mesma oferta).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo idêntico ao post irmão.
 
 ## Conteúdo integral
 
@@ -45,8 +45,8 @@ Photo by Natan Pimentel on July 17, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `natanpimentels-voce-ainda-troca-likes-por-esperanca-de-2.md`.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

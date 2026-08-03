@@ -3,8 +3,8 @@ titulo: "49 dos brasileiros têm intenção de compra no mercado imobiliário. E
 autor: "@mpercussor"
 url: https://www.instagram.com/reel/DT_O3FRAaB5/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario, copywriting]
+tags: [piramide-de-maslow, segmentacao-de-mensagem, dado-de-pesquisa]
 duracao: "2min22"
 data_post: 2026-01-26
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Cita dado (verificar fonte) de que 49% dos brasileiros têm intenção de compra de imóvel, e usa a pirâmide de Maslow para diferenciar comunicação por segmento: primeiro imóvel (necessidade fisiológica/segurança — argumento de herança/quitação em caso de morte), geração Z (social) e investidor (autorrealização) exigem mensagens completamente diferentes.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Dado citado (49% de intenção de compra) — verificar fonte antes de usar.
+- Framework: comunicação deve variar conforme o nível de Maslow do público (fisiológico/segurança, social, autorrealização), não ser genérica.
+- Exemplo de argumento para primeiro imóvel (quitação por seguro em caso de morte) envolve financiamento — não aplicável ao Portfólio Negócios.
 
 ## Conteúdo integral
 
@@ -41,8 +43,8 @@ E quem se posiciona antes, lidera resultados.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O framework de segmentar mensagem por necessidade (não por dado demográfico) é útil e generalizável — mas os exemplos de argumento dados (seguro de quitação, comparação com aluguel) tocam financiamento e não podem ser usados. Aproveitar só a estrutura: para alto padrão, a mensagem deve mirar autorrealização/identidade, não segurança básica.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

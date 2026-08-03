@@ -4,7 +4,7 @@ autor: "@mpercussor"
 url: https://www.instagram.com/reel/DQUTj-HjrwK/
 tipo: reel
 temas: []
-tags: []
+tags: [renda-passiva, promessa-de-retorno, isca]
 duracao: "31s"
 data_post: 2025-10-27
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de studio mobiliado com gestão completa, prometendo rentabilidade de 1,5% ao mês para investidor.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Promessa de retorno percentual específico (1,5%/mês) — proibido em qualquer peça do Portfólio Negócios.
 
 ## Conteúdo integral
 
@@ -39,8 +39,8 @@ O investimento certo pra quem busca renda passiva real, segura e sem dor de cabe
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — promessa de rentabilidade específica é vedada por CDC art. 37/CONAR Anexo D e pela regra própria do negócio.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

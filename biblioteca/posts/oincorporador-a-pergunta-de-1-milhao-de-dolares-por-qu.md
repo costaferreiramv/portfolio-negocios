@@ -4,7 +4,7 @@ autor: "@oincorporador"
 url: https://www.instagram.com/reel/DLoFz5AsJ-h/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, especulacao]
 duracao: "1min02"
 data_post: 2025-07-03
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que imóvel protege patrimônio tanto em cenário otimista (Selic baixa, preço sobe) quanto pessimista (inflação alta, imóvel como reserva de valor).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Argumento de 'imóvel como proteção nos dois cenários' — especulativo, sem garantia.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Por quê comprar imóvel hoje?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — envolve financiamento e promessa implícita de proteção patrimonial sem fato verificável (CDC art. 37).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

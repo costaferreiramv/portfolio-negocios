@@ -4,7 +4,7 @@ autor: "@oincorporador"
 url: https://www.instagram.com/p/DMIVEq4uwAQ/
 tipo: carrossel
 temas: []
-tags: []
+tags: [dados-de-mercado, isca]
 slides: 4
 data_post: 2025-07-15
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Menciona dados que geram otimismo para o mercado imobiliário nos próximos anos, sem detalhamento (carrossel não lido).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo do carrossel com dados específicos não capturado.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Photo by Caio Lobo on July 15, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação sem ler o carrossel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

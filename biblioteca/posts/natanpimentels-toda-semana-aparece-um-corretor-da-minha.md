@@ -3,8 +3,8 @@ titulo: "Toda semana aparece um corretor da minha rede mostrando print de um an"
 autor: "@natanpimentels"
 url: https://www.instagram.com/p/DYiiKB9GGek/
 tipo: carrossel
-temas: []
-tags: []
+temas: [mercado-imobiliario, vendas]
+tags: [oferta-enganosa, usufruto, due-diligence, filtro-de-visita]
 slides: 10
 data_post: 2026-05-20
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Caso real de alerta**: anúncio de casa por R$715 mil com 'promessa' de valer R$1 milhão (30% de desconto aparente) escondia uma reserva de usufruto temporário de 20 anos — o comprador pagaria agora, mas a vendedora continuaria morando no imóvel até o prazo expirar. Lead perdeu sábado e 40 minutos de deslocamento para descobrir isso na visita. Tese: oferta complexa vendida como pechincha é desenhada de propósito — o preço baixo filtra curioso disposto a “pagar” com o próprio tempo de visita, funcionando como teste A/B gratuito para o vendedor.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Caso real: 'desconto' de 30% escondia usufruto de 20 anos — comprador não teria posse imediata do imóvel.
+- Tese: oferta complexa disfarçada de pechincha é desenhada deliberadamente — preço baixo filtra quem topa 'pagar' com o próprio tempo de visita.
+- Visita mal qualificada (sem checar a documentação/condição antes de agendar) custa o horário mais valioso da semana do corretor.
+- 'Viés do já-fui-agora-preciso-fechar' é citado como armadilha psicológica adicional após visita perdida.
 
 ## Conteúdo integral
 
@@ -54,8 +57,8 @@ Photo by Natan Pimentel on May 19, 2026. May be a meme.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Regra de due diligence pré-visita, não só pré-fechamento**: antes de agendar visita para lead atraído por preço muito abaixo do esperado, checar a matrícula e condições de venda (usufruto, cláusula especial, disputa) — não deixar essa checagem só para a etapa de proposta. Reforça e antecipa a régua já registrada nesta biblioteca sobre exigir documentação completa (@sousasolucoes), agora como filtro antes mesmo de marcar a visita.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

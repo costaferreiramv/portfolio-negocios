@@ -3,8 +3,8 @@ titulo: "Ou você começa a conseguir, ou continua tentando. Porque é nas peque
 autor: "@mpercussor"
 url: https://www.instagram.com/reel/DQCP4IijA-x/
 tipo: reel
-temas: []
-tags: []
+temas: [mentalidade]
+tags: [consistencia, rotina-diaria, metafora]
 duracao: "1min47"
 data_post: 2025-10-20
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Usa diálogo de O Senhor dos Anéis (por que os hobbits foram escolhidos, não os fortes) para argumentar que consistência em pequenas ações diárias tem mais poder de transformação que grandes feitos pontuais.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Metáfora: pequenas ações diárias com constância superam grandes feitos pontuais em impacto de longo prazo.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Como diria Gandalf, até o menor dos hobbits pode mudar o rumo da história.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conteúdo motivacional genérico, sem especificidade imobiliária — utilizável como post de 'inspirar', baixo esforço.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

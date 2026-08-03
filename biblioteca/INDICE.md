@@ -4,7 +4,7 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 197
+**Analisados (resumo, pontos-chave e aplicação escritos):** 210
 
 ### Status
 
@@ -90,6 +90,9 @@ automaticamente.
 - [Lista fria funciona — o que não funciona é abrir a conversa vendendo](posts/marcele-corretora-lista-fria-diagnostico.md) — @marcele_corretora
 - [Qualificar não é pressionar: as perguntas antes de mandar qualquer imóvel](posts/marcele-corretora-qualificacao-antes-de-mandar-imovel.md) — @marcele_corretora
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado
+- [PARE DE SE AUTO-SABOTAR A verdade é que seu cliente não está incomodad](posts/mpercussor-pare-de-se-auto-sabotar-a-verdade-e-que.md) — @mpercussor
+- [A vergonha invisível do corretor é uma sensação real que ninguém artic](posts/natanpimentels-a-vergonha-invisivel-do-corretor-e-uma-s.md) — @natanpimentels
+- [Toda semana aparece um corretor da minha rede mostrando print de um an](posts/natanpimentels-toda-semana-aparece-um-corretor-da-minha.md) — @natanpimentels
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-10.md) — @nicole.forziati
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-11.md) — @nicole.forziati
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-2.md) — @nicole.forziati
@@ -177,6 +180,8 @@ automaticamente.
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino
 - [Vocabulário do luxo: cinco trocas de frase para remarcar um compromisso](posts/malu-albertotti-remarcar-com-elegancia.md) — @malu_albertotti
+- [49 dos brasileiros têm intenção de compra no mercado imobiliário. Esse](posts/mpercussor-49-dos-brasileiros-tem-intencao-de-compr.md) — @mpercussor
+- [Por que o cliente compra? Porque a decisão junta novidade, emoção e ne](posts/mpercussor-por-que-o-cliente-compra-porque-a-decisa.md) — @mpercussor
 - [A primeira mensagem não foi feita para vender — foi feita para gerar resposta](posts/paidoslead-primeira-mensagem-nao-vende.md) — @paidoslead
 
 ### posicionamento
@@ -222,6 +227,9 @@ automaticamente.
 - [Ser simpático pode te ajudar. Mas em excesso, pode te prejudicar. Em a](posts/marthaleonardis-ser-simpatico-pode-te-ajudar-mas-em-exce.md) — @marthaleonardis
 - [Você já assistiu um desses filmes e percebeu essas nuances sobre poder](posts/marthaleonardis-voce-ja-assistiu-um-desses-filmes-e-perc.md) — @marthaleonardis
 - [Você já percebeu que pessoas que forçam simpatia em excesso são deixad](posts/marthaleonardis-voce-ja-percebeu-que-pessoas-que-forcam.md) — @marthaleonardis
+- [Não nos vestimos para falar, nos vestimos para ser ouvidos. Em vendas,](posts/mpercussor-nao-nos-vestimos-para-falar-nos-vestimos.md) — @mpercussor
+- [Você persegue clientes ou atrai negócios? Existe uma grande diferença ](posts/mpercussor-voce-persegue-clientes-ou-atrai-negocios.md) — @mpercussor
+- [Por isso sou contra essa ideia de que tanto na corretagem quanto nas i](posts/oincorporador-por-isso-sou-contra-essa-ideia-de-que-ta.md) — @oincorporador
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
 
 ### captacao
@@ -258,6 +266,12 @@ automaticamente.
 - [Imóvel de valor maior nao é mais difícil de vender](posts/lucasmarrques-imovel-de-valor-maior-nao-e-mais-dificil.md) — @lucasmarrques
 - [Imóvel fora de preço não é vendido](posts/lucasmarrques-imovel-fora-de-preco-nao-e-vendido.md) — @lucasmarrques
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado
+- [49 dos brasileiros têm intenção de compra no mercado imobiliário. Esse](posts/mpercussor-49-dos-brasileiros-tem-intencao-de-compr.md) — @mpercussor
+- [Por que o cliente compra? Porque a decisão junta novidade, emoção e ne](posts/mpercussor-por-que-o-cliente-compra-porque-a-decisa.md) — @mpercussor
+- [A morte do corretor intermediário chegou mais rápido do que o mercado ](posts/natanpimentels-a-morte-do-corretor-intermediario-chegou.md) — @natanpimentels
+- [Toda semana aparece um corretor da minha rede mostrando print de um an](posts/natanpimentels-toda-semana-aparece-um-corretor-da-minha.md) — @natanpimentels
+- [Mesmo depois de mais de 15 anos de existência do Programa Minha Casa, ](posts/oincorporador-mesmo-depois-de-mais-de-15-anos-de-exist.md) — @oincorporador
+- [Para quem, ainda, acha que ganha-se mal nas obras no Brasil, escuta is](posts/oincorporador-para-quem-ainda-acha-que-ganha-se-mal-na.md) — @oincorporador
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
 - [Antes de assinar o maior investimento da sua vida, entenda o que realm](posts/sousasolucoes-antes-de-assinar-o-maior-investimento-da.md) — @sousasolucoes
 - [Apartamentos proximo ao Parque Una construídos pela Mrv. O que vc acha](posts/sousasolucoes-apartamentos-proximo-ao-parque-una-const.md) — @sousasolucoes
@@ -309,6 +323,7 @@ automaticamente.
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-4.md) — @nicole.forziati
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-5.md) — @nicole.forziati
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-7.md) — @nicole.forziati
+- [Por isso sou contra essa ideia de que tanto na corretagem quanto nas i](posts/oincorporador-por-isso-sou-contra-essa-ideia-de-que-ta.md) — @oincorporador
 - [24 coisas pra instalar no Claude: skills, plug-ins e MCP servers](posts/rtercas-24-coisas-instalar-claude.md) — @rtercas
 - [Imobiliária pode cobrar 6 do valor do imóvel? Essa é uma dúvida muito ](posts/sousasolucoes-imobiliaria-pode-cobrar-6-do-valor-do-im.md) — @sousasolucoes
 - [Modelo caro planeja, modelo barato executa: como cortar 54% do custo de IA](posts/thaleslaray-cortar-custos-claude-modelo-hibrido.md) — @thaleslaray
@@ -334,6 +349,8 @@ automaticamente.
 - [Faz e depois me agradece](posts/lucasmarrques-faz-e-depois-me-agradece.md) — @lucasmarrques
 - [Hack para você conseguir ser constante na produção de conteúdo!](posts/lucasmarrques-hack-para-voce-conseguir-ser-constante-n.md) — @lucasmarrques
 - [6 sacadas do criador do Claude Code sobre como ele usa IA](posts/manualdedonos-6-sacadas-claude-code.md) — @manualdedonos
+- [A morte do corretor intermediário chegou mais rápido do que o mercado ](posts/natanpimentels-a-morte-do-corretor-intermediario-chegou.md) — @natanpimentels
+- [Faz uns meses que tudo que entrego na consultoria individual passou a ](posts/natanpimentels-faz-uns-meses-que-tudo-que-entrego-na-co.md) — @natanpimentels
 - [6 skills que tiram o Claude do modo chatbot](posts/nicksoncarvalho-6-skills-claude.md) — @nicksoncarvalho
 - [A inteligência artificial que te faz vender mais trabalhando menos. Te](posts/nicole-forziati-a-inteligencia-artificial-que-te-faz-ven.md) — @nicole.forziati
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi
@@ -350,6 +367,8 @@ automaticamente.
 - [Qual foi a sua maior dificuldade?](posts/lucasmarrques-qual-foi-a-sua-maior-dificuldade.md) — @lucasmarrques
 - [Renda variável não sustenta despesa fixa: o erro que faz o corretor virar refém da próxima venda](posts/marcele-corretora-renda-variavel-despesa-fixa.md) — @marcele_corretora
 - [15 atitudes para quem está se reconstruindo aos 45](posts/modoprodutivo-reconstrucao-aos-45.md) — @modoprodutivo_
+- [Ou você começa a conseguir, ou continua tentando. Porque é nas pequena](posts/mpercussor-ou-voce-comeca-a-conseguir-ou-continua-t.md) — @mpercussor
+- [Você persegue clientes ou atrai negócios? Existe uma grande diferença ](posts/mpercussor-voce-persegue-clientes-ou-atrai-negocios.md) — @mpercussor
 - [A história do corvo e da águia nos ensina sobre foco e resiliência. Em](posts/thiagoconceroficial-a-historia-do-corvo-e-da-aguia-nos-ensin.md) — @thiagoconceroficial
 
 ---
@@ -515,6 +534,16 @@ automaticamente.
 - [Você já percebeu que pessoas que forçam simpatia em excesso são deixad](posts/marthaleonardis-voce-ja-percebeu-que-pessoas-que-forcam.md) — @marthaleonardis · reel · 2026-02-18
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado · reel · 2026-07-21
 - [15 atitudes para quem está se reconstruindo aos 45](posts/modoprodutivo-reconstrucao-aos-45.md) — @modoprodutivo_ · carrossel · 2026-07-21
+- [49 dos brasileiros têm intenção de compra no mercado imobiliário. Esse](posts/mpercussor-49-dos-brasileiros-tem-intencao-de-compr.md) — @mpercussor · reel · 2026-01-26
+- [Não nos vestimos para falar, nos vestimos para ser ouvidos. Em vendas,](posts/mpercussor-nao-nos-vestimos-para-falar-nos-vestimos.md) — @mpercussor · reel · 2025-03-03
+- [Ou você começa a conseguir, ou continua tentando. Porque é nas pequena](posts/mpercussor-ou-voce-comeca-a-conseguir-ou-continua-t.md) — @mpercussor · reel · 2025-10-20
+- [PARE DE SE AUTO-SABOTAR A verdade é que seu cliente não está incomodad](posts/mpercussor-pare-de-se-auto-sabotar-a-verdade-e-que.md) — @mpercussor · reel · 2025-10-21
+- [Por que o cliente compra? Porque a decisão junta novidade, emoção e ne](posts/mpercussor-por-que-o-cliente-compra-porque-a-decisa.md) — @mpercussor · reel · 2025-10-06
+- [Você persegue clientes ou atrai negócios? Existe uma grande diferença ](posts/mpercussor-voce-persegue-clientes-ou-atrai-negocios.md) — @mpercussor · reel · 2025-12-03
+- [A morte do corretor intermediário chegou mais rápido do que o mercado ](posts/natanpimentels-a-morte-do-corretor-intermediario-chegou.md) — @natanpimentels · carrossel · 2026-04-24
+- [A vergonha invisível do corretor é uma sensação real que ninguém artic](posts/natanpimentels-a-vergonha-invisivel-do-corretor-e-uma-s.md) — @natanpimentels · carrossel · 2026-05-06
+- [Faz uns meses que tudo que entrego na consultoria individual passou a ](posts/natanpimentels-faz-uns-meses-que-tudo-que-entrego-na-co.md) — @natanpimentels · carrossel · 2026-05-20
+- [Toda semana aparece um corretor da minha rede mostrando print de um an](posts/natanpimentels-toda-semana-aparece-um-corretor-da-minha.md) — @natanpimentels · carrossel · 2026-05-20
 - [6 skills que tiram o Claude do modo chatbot](posts/nicksoncarvalho-6-skills-claude.md) — @nicksoncarvalho · carrossel · 2026-07-23
 - [A inteligência artificial que te faz vender mais trabalhando menos. Te](posts/nicole-forziati-a-inteligencia-artificial-que-te-faz-ven.md) — @nicole.forziati · video · 2025-05-15
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-10.md) — @nicole.forziati · video · 2026-04-13
@@ -529,6 +558,9 @@ automaticamente.
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-9.md) — @nicole.forziati · video · 2026-04-30
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde.md) — @nicole.forziati · video · 2026-07-10
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira · video · 2026-07-23
+- [Mesmo depois de mais de 15 anos de existência do Programa Minha Casa, ](posts/oincorporador-mesmo-depois-de-mais-de-15-anos-de-exist.md) — @oincorporador · imagem · 2025-09-10
+- [Para quem, ainda, acha que ganha-se mal nas obras no Brasil, escuta is](posts/oincorporador-para-quem-ainda-acha-que-ganha-se-mal-na.md) — @oincorporador · reel · 2025-07-09
+- [Por isso sou contra essa ideia de que tanto na corretagem quanto nas i](posts/oincorporador-por-isso-sou-contra-essa-ideia-de-que-ta.md) — @oincorporador · imagem · 2025-09-03
 - [A primeira mensagem não foi feita para vender — foi feita para gerar resposta](posts/paidoslead-primeira-mensagem-nao-vende.md) — @paidoslead · video · 2026-07-26
 - [Pare de mandar o anúncio direto pro WhatsApp: filtre com uma conversão mais avançada](posts/pedromoro93-funil-0405-conversao-avancada.md) — @pedromoro93 · video · 2026-07-08
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi · reel · 2026-05-04

@@ -3,8 +3,8 @@ titulo: "Não nos vestimos para falar, nos vestimos para ser ouvidos. Em vendas,
 autor: "@mpercussor"
 url: https://www.instagram.com/reel/DGvPQdUt_Rg/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [imagem-pessoal, apresentacao, alta-performance]
 duracao: "1min51"
 data_post: 2025-03-03
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que a apresentação pessoal (roupa, carro, música, organização da casa) comunica antes de qualquer palavra ser dita — 'nos vestimos para ser ouvidos'. Recomenda roupa de trabalho apropriada (camisa social, calça jeans/sarja), cuidado com aparência (barba, unha, cabelo) e ambiente (carro, celular/rede social) coerentes com o profissional que se quer parecer.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Apresentação pessoal comunica antes da primeira palavra — roupa, carro, música ouvida, estado do celular.
+- Recomendação prática: roupa de trabalho (social) diferente de roupa de lazer/academia.
+- Coerência entre imagem pessoal e nível do cliente que se quer atender.
 
 ## Conteúdo integral
 
@@ -36,8 +38,8 @@ Vista-se para o sucesso! Pequenos detalhes na sua aparência podem gerar grandes
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça, de forma direta, o argumento já presente em vários posts desta biblioteca sobre alinhar imagem pessoal ao nível do cliente de alto padrão — vale como checklist de autoavaliação de apresentação antes de reunião/visita.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

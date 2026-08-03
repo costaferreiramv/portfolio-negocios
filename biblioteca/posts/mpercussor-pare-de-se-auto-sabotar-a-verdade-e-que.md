@@ -3,8 +3,8 @@ titulo: "PARE DE SE AUTO-SABOTAR A verdade é que seu cliente não está incomod
 autor: "@mpercussor"
 url: https://www.instagram.com/reel/DQEufVwjuCo/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [persistencia, autossabotagem, case]
 duracao: "1min16"
 data_post: 2025-10-21
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Crítica ao corretor que evita contatar o cliente por achar que está incomodando ('não vou ligar de manhã, não vou ligar no almoço...'). Argumenta que comprar imóvel é decisão anti-intuitiva (como ir à academia) e que insistência bem feita muda vidas — com case (Zilmar) de financiamento que resultou em ganho patrimonial expressivo por ter sido convencido a comprar em vez de trocar de carro.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Evitar contato por medo de incomodar é auto-sabotagem, não respeito ao cliente.
+- Comprar imóvel é decisão anti-intuitiva (exige empurrão), como decidir ir à academia.
+- 'A corretagem nunca inviabilizou negócio nenhum' — o problema geralmente é ego/hesitação, não comissão.
 
 ## Conteúdo integral
 
@@ -38,8 +40,8 @@ Lembre-se: Você tem a solução. O medo é o único obstáculo entre você e a 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça, com case pessoal (envolvendo financiamento, não citável), a mesma tese de persistência x covardia já registrada por vários autores desta biblioteca (@carol.iasmim, @brunoferoliveira). O case específico não é utilizável por mencionar financiamento.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

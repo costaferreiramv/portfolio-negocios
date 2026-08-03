@@ -3,8 +3,8 @@ titulo: "A morte do corretor intermediário chegou mais rápido do que o mercado
 autor: "@natanpimentels"
 url: https://www.instagram.com/p/DXg32bplF_5/
 tipo: carrossel
-temas: []
-tags: []
+temas: [mercado-imobiliario, ia-automacao]
+tags: [ia-conversacional, portais, zap, vivareal, tendencia]
 slides: 10
 data_post: 2026-04-24
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Relata que o maior portal imobiliário do mundo abriu (25/03) um modo conversacional dentro do app: cliente pergunta para comparar bairros e recebe estimativa de preço, análise de escola e estratégia de negociação — a própria empresa admite que a IA cobre educação de financiamento, comparação de bairro e leitura inicial do imóvel, deixando ao corretor só precificação e fechamento. Prevê que ZAP e VivaReal copiem o movimento em 8-14 meses.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- IA de portal cobre três camadas que eram do corretor: educação de financiamento, comparação de bairro, leitura inicial do imóvel.
+- O que sobra explicitamente ao corretor: fechamento, visita presencial, assinatura.
+- Previsão de que ZAP/VivaReal repliquem o recurso em 8-14 meses — checar se já aconteceu.
+- O post promete listar 'três ferramentas fora do alcance do algoritmo' — não capturado (carrossel sem sheet lido).
 
 ## Conteúdo integral
 
@@ -60,8 +63,8 @@ Photo by Natan Pimentel on April 24, 2026.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sinal de tendência real e relevante: se portais passam a responder comparação de bairro automaticamente, o valor do corretor se desloca ainda mais para condução presencial, negociação e fechamento — reforça a necessidade de investir em relacionamento e presença física (visita, negociação), não em informação que a IA do portal já entrega de graça.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

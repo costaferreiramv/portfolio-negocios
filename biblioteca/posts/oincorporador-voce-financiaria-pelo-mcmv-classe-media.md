@@ -4,7 +4,7 @@ autor: "@oincorporador"
 url: https://www.instagram.com/reel/DMQn9OfOpFB/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, mcmv, sbpe]
 duracao: "21s"
 data_post: 2025-07-18
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Pergunta de engajamento comparando financiamento pelo MCMV Classe Média versus SBPE.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo comparativo de linhas de financiamento.
 
 ## Conteúdo integral
 
@@ -32,8 +32,8 @@ Além da diferença nos juros, a cota de financiamento no MCMV acaba sendo bem m
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — conteúdo de financiamento, e fora do nicho de alto padrão do Marcus.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

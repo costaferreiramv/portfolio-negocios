@@ -4,18 +4,18 @@ autor: "@oincorporador"
 url: https://www.instagram.com/p/DSHkYLCjqn0/
 tipo: imagem
 temas: []
-tags: []
+tags: [financiamento, noticia]
 data_post: 2025-12-11
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Compilação de dados sobre expectativa de queda de taxas de financiamento em 2026 (fonte: @move_financiamento).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo curatorial sobre financiamento, com fonte creditada.
 
 ## Conteúdo integral
 
@@ -33,8 +33,8 @@ Photo shared by Caio Lobo on December 11, 2025 tagging @move_financiamento.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — conteúdo de financiamento.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

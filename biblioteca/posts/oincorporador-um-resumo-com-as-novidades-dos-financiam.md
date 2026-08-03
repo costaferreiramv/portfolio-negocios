@@ -4,7 +4,7 @@ autor: "@oincorporador"
 url: https://www.instagram.com/p/DPwg39Ojt_P/
 tipo: carrossel
 temas: []
-tags: []
+tags: [financiamento, sbpe, noticia]
 slides: 5
 data_post: 2025-10-13
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Resumo de novidades sobre financiamento pelo SBPE anunciadas em data específica.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo de política de crédito, desatualiza rapidamente.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Photo by Caio Lobo on October 13, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — conteúdo de financiamento.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

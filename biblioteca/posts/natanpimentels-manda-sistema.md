@@ -4,7 +4,7 @@ autor: "@natanpimentels"
 url: https://www.instagram.com/p/DVi4QlBgNM_/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca]
 slides: 10
 data_post: 2026-03-06
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA puro sem conteúdo revelado no texto disponível.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de captura de contato.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Photo by Natan Pimentel on March 06, 2026.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

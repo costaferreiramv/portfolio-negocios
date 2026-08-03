@@ -4,18 +4,18 @@ autor: "@oincorporador"
 url: https://www.instagram.com/p/DLj7nM4OPLw/
 tipo: imagem
 temas: []
-tags: []
+tags: [generico]
 data_post: 2025-07-01
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Post de 'bom dia' com dica genérica para jornada de compra, sem conteúdo específico capturado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Post de baixo conteúdo, formato 'bom dia' genérico.
 
 ## Conteúdo integral
 
@@ -29,8 +29,8 @@ Photo by Caio Lobo on July 01, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — inclusive é o tipo de post genérico que o @brokersbr recomenda evitar ('pare de postar só bom dia').
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

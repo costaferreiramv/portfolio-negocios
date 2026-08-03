@@ -4,7 +4,7 @@ autor: "@natanpimentels"
 url: https://www.instagram.com/p/DNBgyxQsafT/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, scripts, infoproduto]
 slides: 5
 data_post: 2025-08-06
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de pacote de scripts de venda (R$17 + bônus) para objeções comuns ('vou pensar', 'tá caro').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de baixo ticket com bônus e urgência de 24h.
 
 ## Conteúdo integral
 
@@ -52,8 +52,8 @@ Photo by Natan Pimentel on August 06, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — produto comercial sem conteúdo revelado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

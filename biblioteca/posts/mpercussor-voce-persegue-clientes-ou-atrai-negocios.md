@@ -3,8 +3,8 @@ titulo: "Você persegue clientes ou atrai negócios? Existe uma grande diferenç
 autor: "@mpercussor"
 url: https://www.instagram.com/reel/DSIDBGWATRL/
 tipo: reel
-temas: []
-tags: []
+temas: [mentalidade, posicionamento]
+tags: [atracao-x-perseguicao, estudo-continuo, autoridade]
 duracao: "54s"
 data_post: 2025-12-03
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tese: sucesso não se persegue, se atrai — sendo a pessoa/profissional que gera valor suficiente para se tornar escolha óbvia. Critica quem quer resultado sem estudar (vendas, felicidade, casamento) e reforça que conhecimento técnico + reputação sólida + servir antes de vender é o que atrai negócio, não a perseguição de cliente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'O sucesso não é algo que você persegue, é algo que você atrai pela pessoa que você se torna.'
+- Três pilares citados: conhecimento técnico inquestionável, reputação sólida, servir antes de vender.
 
 ## Conteúdo integral
 
@@ -42,8 +43,8 @@ Vamos elevar a régua? 👊📈
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Alinhado com a tese de posicionamento por resultado real (não por perseguição de lead) já presente em vários posts desta biblioteca — reforça que autoridade genuína (conhecimento + reputação + serviço) é o que atrai cliente de alto padrão, não prospecção agressiva.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

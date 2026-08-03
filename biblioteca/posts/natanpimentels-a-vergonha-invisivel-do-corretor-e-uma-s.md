@@ -3,8 +3,8 @@ titulo: "A vergonha invisível do corretor é uma sensação real que ninguém a
 autor: "@natanpimentels"
 url: https://www.instagram.com/p/DX_4R4uFuEl/
 tipo: carrossel
-temas: []
-tags: []
+temas: [vendas]
+tags: [ninja-selling, pursuer-distancer, follow-up]
 slides: 10
 data_post: 2026-05-06
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Nomeia o fenômeno 'pursuer-distancer dance' (Don Tennyson, instrutor do Ninja Selling): cada passo de pressão do vendedor produz um passo equivalente de recuo do comprador — por isso mensagens como 'tem interesse?' fazem o lead quente sumir. Cita Larry Kendall (Ninja Selling, 1991, 35 anos estudando o top 1% de corretores nos EUA): regra cornerstone nº2 — 'pare de vender, comece a resolver'. Caso Jack: vendedor de rádio por 35 anos sem nunca 'pedir a venda', virou corretor e ficou em 1º lugar do escritório em 30 dias atendendo só quem já pedia.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Pursuer-distancer dance': pressão do vendedor gera recuo proporcional do comprador — mecanismo psicológico nomeado, não intuição isolada.
+- Ninja Selling (Larry Kendall, 1991) é metodologia com base empírica de 35 anos observando os melhores corretores dos EUA.
+- Regra central: 'pare de vender, comece a resolver' — a função do corretor é ajudar a decidir, não fazer alguém comprar.
+- Case Jack: sucesso vindo de nunca pressionar, só atender quem já demonstrou prontidão.
 
 ## Conteúdo integral
 
@@ -46,8 +49,8 @@ Photo by Natan Pimentel on May 06, 2026. May be a meme of poster.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Fundamentação teórica sólida (com nome e origem rastreável) para a mesma tese de 'não implorar pela venda' já registrada nesta biblioteca (@carol.iasmim, @brunoferoliveira) — vale estudar a metodologia Ninja Selling como referência formal para o treinamento de atendimento do Portfólio Negócios.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

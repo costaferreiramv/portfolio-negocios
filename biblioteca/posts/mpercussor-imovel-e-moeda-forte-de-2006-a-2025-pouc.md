@@ -4,7 +4,7 @@ autor: "@mpercussor"
 url: https://www.instagram.com/reel/DMc6zULO246/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, selic, especulacao]
 duracao: "2min31"
 data_post: 2025-07-23
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que o cenário de 2025 (Selic 15%, crise) se parece com 2006, e que os preços de imóvel se multiplicaram desde então — usado para incentivar compra apesar dos juros altos.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Comparação histórica especulativa entre ciclos econômicos — não é garantia de repetição.
+- Menciona diretamente financiamento e Selic.
 
 ## Conteúdo integral
 
@@ -46,8 +47,8 @@ Selic alta assusta alguns, mas abre espaço para oportunidades no setor mais res
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — mistura financiamento (proibição absoluta) com projeção de valorização futura baseada em analogia histórica não garantida (CDC art. 37).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

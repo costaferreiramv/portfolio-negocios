@@ -3,8 +3,8 @@ titulo: "Por que o cliente compra? Porque a decisão junta novidade, emoção e 
 autor: "@mpercussor"
 url: https://www.instagram.com/reel/DPegGbwjpbK/
 tipo: reel
-temas: []
-tags: []
+temas: [copywriting, mercado-imobiliario]
+tags: [lancamento, estoque, pronto, storytelling, gatilho-de-compra]
 duracao: "1min38"
 data_post: 2025-10-06
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Framework de por que o cliente escolhe cada tipo de produto: lançamento vende por Fator Novo (projeto/fachada/localização inédita) + Facilidade de pagamento; estoque (nem lançamento nem pronto) vende por Storytelling (narrativa da construtora, do bairro, do diferencial); imóvel pronto vende por Necessidade (uso imediato, sem esperar entrega).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Lançamento = Fator Novo + Facilidade — novidade atrai atenção, facilidade converte em ação.
+- Estoque = Storytelling — sem ser mais novidade nem tão fácil de pagar, precisa de narrativa para competir.
+- Pronto = Necessidade — metragem, funcionalidade, uso imediato justificam a compra racionalmente.
 
 ## Conteúdo integral
 
@@ -42,8 +44,8 @@ Resultado: Fato novo atrai → Storytelling emociona → Produto valida a decis�
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Framework diretamente aplicável à comunicação por tipo de imóvel do Portfólio Negócios.** Um imóvel pronto de alto padrão na Zona Sul deve ser vendido pela necessidade/uso imediato (mudar já, ver o espaço real); se o Marcus tiver acesso a estoque de lançamento mais antigo, a comunicação deve migrar para storytelling do bairro/projeto, não para 'fator novo' que ele já perdeu.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

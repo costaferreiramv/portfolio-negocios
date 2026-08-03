@@ -4,7 +4,7 @@ autor: "@mpercussor"
 url: https://www.instagram.com/reel/DQW28qhkTm5/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, sac, price]
 duracao: "50s"
 data_post: 2025-10-28
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Explica a diferença técnica entre os sistemas de amortização SAC (parcela decrescente, mais juros pago no início) e PRICE (parcela constante) e por que a exigência de renda muda entre eles.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Explicação técnica correta de SAC x PRICE — conteúdo de financiamento.
 
 ## Conteúdo integral
 
@@ -40,8 +40,8 @@ Se você está pensando em financiar um imóvel, entender isso pode fazer toda d
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — conteúdo inteiramente sobre financiamento, proibição absoluta do negócio, mesmo sendo tecnicamente correto e educativo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,7 +4,7 @@ autor: "@natanpimentels"
 url: https://www.instagram.com/p/DIpwiEiMDmt/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, infoproduto, independencia-de-imobiliaria]
 slides: 8
 data_post: 2025-04-20
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de produto ('BLM - Broker's Leads Machine') prometendo geração automática de lead qualificado via Instagram, sem depender de imobiliária e sem precisar aparecer.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca dirigida à dor de dependência de imobiliária para geração de lead.
 
 ## Conteúdo integral
 
@@ -50,8 +50,8 @@ Photo by Natan Pimentel on April 19, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — o Marcus já opera de forma independente com captação própria; produto genérico sem conteúdo revelado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

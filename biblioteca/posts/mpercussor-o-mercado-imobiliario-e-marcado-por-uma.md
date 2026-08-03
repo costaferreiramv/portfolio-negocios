@@ -4,7 +4,7 @@ autor: "@mpercussor"
 url: https://www.instagram.com/reel/DO6DdCXDm4j/
 tipo: reel
 temas: []
-tags: []
+tags: [valorizacao, promessa-de-retorno]
 duracao: "1min22"
 data_post: 2025-09-20
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que imóveis sempre ficam mais caros por aumento de insumo, escassez de terreno e efeito de balizamento pelo preço do lançamento mais recente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mecanismo descrito (insumo + terreno + balizamento pelo lançamento) é plausível, mas apresentado como garantia absoluta ('sempre vão se valorizar').
 
 ## Conteúdo integral
 
@@ -35,8 +35,8 @@ Independentemente da taxa Selic ou de outros fatores econômicos, a tendência �
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — a legenda afirma 'tendência é clara: imóveis sempre vão se valorizar', que é promessa de rentabilidade proibida (CDC art. 37). O mecanismo em si (insumo, escassez, balizamento) pode ser conhecimento útil de mercado, mas não pode virar afirmação de garantia.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

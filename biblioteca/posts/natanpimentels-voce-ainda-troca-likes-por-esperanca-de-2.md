@@ -4,7 +4,7 @@ autor: "@natanpimentels"
 url: https://www.instagram.com/p/DMHVKASM1ju/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, funil, diagnostico-gratuito]
 slides: 8
 data_post: 2025-07-15
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Isca de 'Diagnóstico de Funil Imobiliário' gratuito, com promessa de agendar 5 visitas com R$7/dia sem portal nem vídeo.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca com prazo curto (some em 24h) e promessa numérica específica sem comprovação.
 
 ## Conteúdo integral
 
@@ -45,8 +45,8 @@ Photo by Natan Pimentel on July 14, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — anúncio comercial sem conteúdo educativo revelado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

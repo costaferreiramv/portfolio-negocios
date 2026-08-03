@@ -4,7 +4,7 @@ autor: "@natanpimentels"
 url: https://www.instagram.com/p/DLhJWrcgnV6/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, ia-automacao, infoproduto]
 slides: 7
 data_post: 2025-06-30
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de 'Equipe ImobiliárIA' — 5 agentes de IA prometendo gerar roteiro, texto, público, simulação e resposta de objeção automaticamente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de produto de automação, sem detalhamento técnico.
 
 ## Conteúdo integral
 
@@ -46,8 +46,8 @@ Photo by Natan Pimentel on June 30, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — anúncio comercial sem conteúdo técnico revelado; menciona simulação de financiamento, que não seria usável de qualquer forma.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

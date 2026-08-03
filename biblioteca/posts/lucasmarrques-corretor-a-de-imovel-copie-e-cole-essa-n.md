@@ -4,7 +4,7 @@ autor: "@lucasmarrques"
 url: https://www.instagram.com/p/DUlMhjkgL5p/
 tipo: video
 temas: []
-tags: []
+tags: [isca, infoproduto]
 duracao: "45s"
 data_post: 2026-02-10
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesmo vídeo/roteiro do post 'copie-e-cole-essa-nova-estrategia', republicado com legenda ligeiramente diferente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Duplicata de conteúdo do mesmo autor, mesmo roteiro de entrevista de rua.
+- Prova social repetida sem fonte (R$700 milhões).
 
 ## Conteúdo integral
 
@@ -34,8 +35,8 @@ Clique em SAIBA MAIS e veja como!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — mesmo conteúdo do post irmão já registrado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

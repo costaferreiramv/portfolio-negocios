@@ -3,8 +3,8 @@ titulo: "Nem sempre o problema está no imóvel, no preço ou no cliente. Às ve
 autor: "@kakarivas"
 url: https://www.instagram.com/p/DaVwuOQnFJt/
 tipo: carrossel
-temas: []
-tags: []
+temas: [vendas]
+tags: [condução-de-conversa, script, isca]
 slides: 10
 data_post: 2026-07-03
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesma tese do post 'as-vezes-o-cliente-nao-desiste-do-imovel' — o problema costuma estar na forma como o corretor conduz a conversa, não no imóvel, preço ou cliente. Isca de guia de scripts.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Reforça que frases inseguras, de pressão ou despreparo afastam o cliente mais que o imóvel ou preço em si.
 
 ## Conteúdo integral
 
@@ -44,8 +44,8 @@ Photo by Karina Rivas | Marketing Imobiliário on July 03, 2026. May be a meme o
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Post duplicado em tese do mesmo autor — mesma aplicação: a condução da conversa é variável controlável e mais decisiva que o produto em si.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

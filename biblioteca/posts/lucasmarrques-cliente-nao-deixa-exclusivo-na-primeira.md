@@ -3,8 +3,8 @@ titulo: "Cliente não deixa exclusivo na primeira visita?"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DaRF3JHuVPH/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, captacao]
+tags: [objecao, exclusividade, primeiro-contato]
 duracao: "43s"
 data_post: 2026-07-01
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Cena encenada de objeção comum na captação: proprietário avisa de cara que não vai dar exclusividade a ninguém. A resposta do corretor não insiste no pedido — declara que veio conhecer, não pegar o imóvel, e propõe conversar 15 minutos sem pressão, saindo 'pela tangente'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Objeção antecipada pelo próprio proprietário, antes de qualquer pedido do corretor.
+- Resposta certa: não discutir a exclusividade, mudar o objetivo da visita para 'te conhecer'.
+- Postura sem desespero ('não vim pra pegar seus imóveis') desarma a defensiva.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Cliente não deixa exclusivo na primeira visita?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Roteiro direto para captação em Uberlândia, onde o proprietário de alto padrão já ouviu a mesma abordagem de vários corretores. Resposta pronta: declarar objetivo de relação, não de captura — casa com o registro de visão (não pressão) que vale para esse público.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

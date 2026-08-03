@@ -3,8 +3,8 @@ titulo: "Criando uma rotina no mercado imobiliário"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DZ_OuTChZhQ/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao, captacao]
+tags: [rotina, nicho, persona, prospeccao]
 duracao: "1min30"
 data_post: 2026-06-25
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Framework de 4 passos para criar rotina no mercado imobiliário: modelo de negócio claro (lançamento/revenda/híbrido), nicho (localização/tipo/valor), público-alvo e persona. Com isso definido, decide-se as fontes de prospecção certas (ligação, e-mail, abordagem direta) e a rotina semanal se organiza sozinha.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Ordem: modelo de negócio → nicho → público-alvo → persona → fontes de prospecção → rotina.
+- Nicho definido por localização, tipo de imóvel ou faixa de valor — escolher um eixo, não os três.
+- A rotina é a execução recorrente das fontes de prospecção certas para cada tipo de cliente.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Criando uma rotina no mercado imobiliário @lucasmarrques
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O Marcus já tem nicho definido (Zona Sul de Uberlândia, alto padrão) — o framework serve como checklist de coerência: toda fonte de prospecção deveria estar filtrada por esse nicho e essa persona, não espalhada. Útil para auditar se as ações atuais (Canal Pro, Meta Ads, orgânico) realmente miram o mesmo público.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

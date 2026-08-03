@@ -3,8 +3,8 @@ titulo: "Aprenda a captar imóveis exclusivos e domine o mercado com o MÉTODO U
 autor: "@lucasmarrques"
 url: https://www.instagram.com/p/DE8uzz_Afjj/
 tipo: video
-temas: []
-tags: []
+temas: [gestao]
+tags: [metodo-una, ticket-medio, depoimento]
 duracao: "1min00"
 data_post: 2025-01-18
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Depoimento de aluno (Matheus, 3 anos de mercado) sobre o Método UNA: saiu de vendas irregulares (uma a cada 2-3 meses, ticket R$300-350 mil) para venda mensal recorrente com ticket médio acima de R$1 milhão, 12+ imóveis vendidos no ano.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Depoimento estruturado como entrevista, com números antes/depois específicos.
+- Métrica central: recorrência mensal + aumento de ticket médio, não volume bruto.
+- Fecho pergunta emocional ('mais feliz agora ou antes') antes do CTA.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ Matheus, tem quanto tempo de mercado? Três anos. Como é que foram os seus dois
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Formato de depoimento em entrevista (perguntas curtas, números concretos, sem produção) é replicável com cliente satisfeito do Marcus — comprador ou proprietário — como prova social real, mais crível que estatística sem fonte.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

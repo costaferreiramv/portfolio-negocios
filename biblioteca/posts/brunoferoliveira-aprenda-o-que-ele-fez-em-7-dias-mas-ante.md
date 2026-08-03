@@ -3,8 +3,8 @@ titulo: "APRENDA O QUE ELE FEZ EM 7 DIAS. mas antes... ...FAÇA UM AUTO-DIAGNÓS
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/p/DYPt1_tALTZ/
 tipo: video
-temas: []
-tags: []
+temas: [gestao]
+tags: [isca, curso, follow-up, auto-diagnostico]
 duracao: "1min18"
 data_post: 2026-05-12
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de curso ao vivo de 7 dias com auto-diagnóstico de entrada: prospecta sem critério, follow-up sem contexto, visita sem condução, espera o cliente decidir sozinho — 'isso não é operação comercial, é sobrevivência'. Caso usado como prova: corretor endividado que fez R$81 milhões em VGV num mês.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Auto-diagnóstico de 4 perguntas identifica corretor sem processo comercial.
+- Prova social de virada radical (7 meses sem vender → R$81mi em VGV em um mês) sem verificação possível.
+- Estrutura do curso: reativar contato parado, qualificar sem desperdiçar visita, follow-up sem parecer desesperado, conduzir pós-visita.
 
 ## Conteúdo integral
 
@@ -55,8 +57,8 @@ Tudo aplicado nos seus clientes reais.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O auto-diagnóstico de 4 perguntas é útil como checklist de autoavaliação, independente da oferta paga: prospecção com critério, follow-up com contexto, visita com condução e não deixar o cliente decidir sozinho são os quatro pontos que mais aparecem como gargalo em toda esta biblioteca.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

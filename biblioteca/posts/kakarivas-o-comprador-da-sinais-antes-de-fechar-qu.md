@@ -3,8 +3,8 @@ titulo: "O comprador dá sinais antes de fechar. Quase ninguém percebe. Ele par
 autor: "@kakarivas"
 url: https://www.instagram.com/p/DY9tiuzlCO8/
 tipo: carrossel
-temas: []
-tags: []
+temas: [vendas]
+tags: [sinais-de-compra, fechamento, isca]
 slides: 9
 data_post: 2026-05-30
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Lista sinais de que o comprador está perto de fechar: parar de discutir preço, perguntar sobre prazo, perguntar sobre o processo. Quem lê esses sinais conduz ao fechamento; quem não lê, perde a venda para o concorrente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Sinal 1: comprador para de discutir preço.
+- Sinal 2: pergunta sobre prazo (de mudança, de entrega).
+- Sinal 3: pergunta sobre o processo (documentação, próximos passos).
+- Ler os sinais certos encurta o ciclo de venda.
 
 ## Conteúdo integral
 
@@ -38,8 +41,8 @@ Photo by Karina Rivas | Marketing Imobiliário on May 30, 2026. May be a meme of
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Checklist simples e reaproveitável para o atendimento do Marcus: quando o comprador de alto padrão em Uberlândia começa a perguntar sobre prazo e processo em vez de preço, é o momento de conduzir para agendamento, não de continuar apresentando opções.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

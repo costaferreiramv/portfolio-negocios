@@ -3,8 +3,8 @@ titulo: "Imóvel fora de preço não é vendido"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DZVmhCWBKKK/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario, captacao]
+tags: [precificacao, desconto, tempo-de-mercado]
 duracao: "1min25"
 data_post: 2026-06-08
 processado_em: 2026-07-30
@@ -12,11 +12,15 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Dado citado: mais de 46% dos imóveis anunciados no Brasil estão com preço acima do valor real de fechamento — cultura de 'dar desconto' e embutir permuta no valor de anúncio. Imóvel fora de preço não vende com nenhuma foto ou investimento, e quanto mais tempo parado, mais perde valor percebido ('produto de prateleira').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Dado (sem fonte primária confirmada): 46%+ dos imóveis anunciados no Brasil estão acima do valor real de fechamento.
+- Cultura de desconto/permuta embutida no valor de anúncio distorce a precificação.
+- Imóvel parado por muito tempo perde valor de venda — 'produto de prateleira'.
+- Recomendação ao dono: apego emocional e reformas pessoais não aumentam o valor de mercado.
+- Recomendação ao corretor: a prioridade número um é trazer o valor real ao dono na captação.
 
 ## Conteúdo integral
 
@@ -30,8 +34,8 @@ Imóvel fora de preço não é vendido @lucasmarrques
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumento de autoridade para a conversa mais difícil da captação — convencer o proprietário do preço correto. O dado dos 46% (checar fonte antes de citar publicamente) e a frase 'produto de prateleira' são reaproveitáveis em conteúdo educativo para proprietário, reforçando por que preço certo desde o início vale mais que desconto depois.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

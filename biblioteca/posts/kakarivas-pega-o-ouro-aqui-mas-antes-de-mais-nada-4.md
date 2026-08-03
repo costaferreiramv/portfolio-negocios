@@ -3,8 +3,8 @@ titulo: "PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender
 autor: "@kakarivas"
 url: https://www.instagram.com/reel/DYmZUTghom_/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao, posicionamento, ia-automacao]
+tags: [atualizacao, crm, instagram, ia]
 duracao: "6s"
 data_post: 2026-05-21
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+7 hábitos que funcionavam em 2014 e hoje atrapalham: depender só da fila da imobiliária; ficar 12h no plantão; ignorar Instagram (cliente de alto padrão pesquisa Instagram antes da imobiliária); achar que IA é 'coisa de jovem'; misturar perfil pessoal e profissional; postar imóvel sem método (foto+preço+'ligue agora' não converte mais); não ter CRM.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Cliente de alto padrão pesquisa Instagram ANTES de procurar a imobiliária — dado relevante para o público do Marcus.
+- Perfil pessoal e profissional misturados hoje soa 'vizinho', não profissional.
+- Ausência de CRM = lead esquecido = comissão perdida — mesmo diagnóstico do @chaiene.luz e do @paidoslead sobre follow-up.
 
 ## Conteúdo integral
 
@@ -77,8 +79,8 @@ Comenta “Hábito” aqui que eu te envio meu Checklist do Corretor que Vende T
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Confirma, de fonte independente, dois pontos já registrados nesta biblioteca: (1) Instagram pesquisado antes do contato — reforça o valor do perfil como vitrine de confiança; (2) falta de CRM/follow-up estruturado é o gargalo mais citado em toda a coleção para esse tipo de negócio.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

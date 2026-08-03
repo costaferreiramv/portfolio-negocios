@@ -4,7 +4,7 @@ autor: "@lucasmarrques"
 url: https://www.instagram.com/p/Da3Zd_ogCrL/
 tipo: video
 temas: []
-tags: []
+tags: [isca, infoproduto]
 duracao: "33s"
 data_post: 2026-07-16
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesma oferta de R$37, ângulo diferente: compara o valor a gastos triviais (cerveja, pão) para minimizar a objeção de preço.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tática de ancoragem: comparar preço da oferta a consumo trivial do dia a dia.
+- Promessa de posicionamento em 'nicho com pouca gente olhando' sem nomear qual.
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ _sem legenda_
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+A tática de ancoragem de preço (comparar a algo trivial) é mecanismo válido em copywriting, mas não se aplica a imóvel de alto padrão — ali a ancoragem correta é contra outro imóvel do mesmo eixo, não contra cerveja.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

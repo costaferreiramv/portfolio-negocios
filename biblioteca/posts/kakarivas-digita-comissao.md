@@ -4,7 +4,7 @@ autor: "@kakarivas"
 url: https://www.instagram.com/reel/DanCNzTxqGr/
 tipo: reel
 temas: []
-tags: []
+tags: [isca]
 duracao: "5s"
 data_post: 2026-07-10
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reel só com trilha sonora e legenda 'Digita COMISSÃO' — sem conteúdo verbal.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de captura sem conteúdo educativo.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ Digita "COMISSÃO"
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

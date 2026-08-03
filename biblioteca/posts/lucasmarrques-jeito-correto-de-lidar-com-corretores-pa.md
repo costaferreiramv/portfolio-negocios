@@ -3,8 +3,8 @@ titulo: "Jeito correto de lidar com corretores parceiros"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DZ-zOQ2hGHC/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao, vendas]
+tags: [parceria, proposta-formal, documentacao]
 duracao: "43s"
 data_post: 2026-06-24
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Crítica à informalidade entre corretores parceiros: exige documentos completos do cliente do parceiro e proposta formal e assinada, em vez de aceitar print de WhatsApp como proposta. Reação comum do mercado é resistência, por falta de processo formalizado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Exigir documentação completa do cliente antes de seguir com proposta de corretor parceiro.
+- Proposta precisa ser formalizada e assinada — print de WhatsApp não é proposta.
+- O padrão informal do mercado é apontado como falha, não como norma aceitável.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Jeito correto de lidar com corretores parceiros @lucasmarrques
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Prática de governança útil para o Marcus ao intermediar com outros corretores em imóvel de alto padrão: exigir formalização protege ambas as partes e é coerente com o rigor documental já registrado (matrícula, certidões) na operação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

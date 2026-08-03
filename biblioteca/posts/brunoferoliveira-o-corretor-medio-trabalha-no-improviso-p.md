@@ -3,8 +3,8 @@ titulo: "O corretor médio trabalha no improviso. Prospecta sem critério. Faz f
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/p/DYJ-MtdDCWr/
 tipo: video
-temas: []
-tags: []
+temas: [gestao]
+tags: [isca, curso, follow-up, reativacao]
 duracao: "59s"
 data_post: 2026-05-10
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio do mesmo curso de 7 dias, com prova social de equipe que foi de R$90 milhões para R$240 milhões em VGV em 12 meses. Mesma estrutura de auto-diagnóstico do post irmão.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mesma oferta e estrutura do post 'aprenda-o-que-ele-fez-em-7-dias', prova social diferente.
 
 ## Conteúdo integral
 
@@ -52,8 +52,8 @@ Tudo aplicado nos seus clientes reais.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `brunoferoliveira-aprenda-o-que-ele-fez-em-7-dias-mas-ante.md` (mesmo conteúdo educativo, oferta diferente de prova).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

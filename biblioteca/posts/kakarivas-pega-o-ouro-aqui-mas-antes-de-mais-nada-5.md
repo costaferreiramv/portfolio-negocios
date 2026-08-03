@@ -3,8 +3,8 @@ titulo: "PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender
 autor: "@kakarivas"
 url: https://www.instagram.com/reel/DYsgvzPRReT/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [qualificacao, perguntas, filtro-de-lead]
 duracao: "6s"
 data_post: 2026-05-23
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+9 perguntas para qualificar lead antes de investir tempo: tempo de busca, se já visitou algo, se é para morar ou investir, se tem financiamento aprovado, prazo para se mudar, quem mais decide, faixa de valor, motivação de busca, e se está pronto para avançar ao encontrar o ideal.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 9 perguntas cobrindo tempo de busca, histórico de visita, finalidade, prazo, decisor, faixa de valor, motivação e prontidão.
+- Pergunta sobre financiamento aprovado é a única que não se aplica ao Portfólio Negócios (regra de nunca mencionar financiamento).
+- Pergunta sobre 'quem mais decide' evita falar só com intermediário — relevante em compra familiar de alto padrão.
 
 ## Conteúdo integral
 
@@ -50,8 +52,8 @@ Tempo gasto com curioso é comissão perdida. A pergunta certa filtra em segundo
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conjunto útil para compor o roteiro de qualificação, mas **remover a pergunta de financiamento aprovado**, que fere a proibição absoluta do negócio — substituir por pergunta neutra de faixa de investimento, como já formalizado no roteiro do @marcele_corretora.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

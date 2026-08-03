@@ -3,8 +3,8 @@ titulo: "O DeepSeek tá dando o que falar, e não é à toa! Essa ferramenta pod
 autor: "@kakarivas"
 url: https://www.instagram.com/reel/DFbf5_8xvS-/
 tipo: reel
-temas: []
-tags: []
+temas: [ia-automacao, trafego-pago]
+tags: [deepseek, segmentacao, prompt]
 duracao: "1min19"
 data_post: 2025-01-30
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tutorial de uso do DeepSeek para gerar segmentação de anúncio: prompt pede avatar (idade, renda, localização, interesses) para um imóvel de investimento em São Paulo. Menciona que a técnica serve tanto para alto padrão quanto para programa habitacional popular.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Prompt: pedir ao modelo idade, renda, localização e interesses do avatar, com base no perfil do imóvel.
+- Aplicação citada como válida para qualquer faixa de imóvel, incluindo alto padrão.
+- DeepSeek é ferramenta concorrente ao ChatGPT/Claude para essa tarefa.
 
 ## Conteúdo integral
 
@@ -44,8 +46,8 @@ No vídeo, eu te mostrei um prompt que pode ajudar a segmentar anúncios para in
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+A tarefa (gerar avatar demográfico) já é coberta com mais rigor pela skill `definir-icp-imovel`, que exige motivação real de compra e capacidade real de pagamento — não só demografia solta. Confirma a demanda do mercado por essa etapa, sem acrescentar técnica que a skill já não cubra melhor.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

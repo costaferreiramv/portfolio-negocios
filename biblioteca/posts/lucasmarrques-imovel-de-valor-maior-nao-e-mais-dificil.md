@@ -3,8 +3,8 @@ titulo: "Imóvel de valor maior nao é mais difícil de vender"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DYibN8UBRNU/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario, captacao]
+tags: [alto-padrao, precificacao, percepcao-de-valor]
 duracao: "1min35"
 data_post: 2026-05-19
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Contesta a crença de que imóvel de valor muito alto é mais difícil de vender. Exemplos citados: casa de R$12 milhões vendida em 15 dias, prédio de R$40 milhões em 2-3 meses. A dificuldade real não é o valor, é a percepção de valor do dono/corretor estar acima do valor real de mercado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Imóvel de altíssimo valor dentro do preço correto vende rápido — não é o valor que trava.
+- O problema é sempre percepção de valor inflada, não o público comprador (que tem dinheiro e reconhece bom negócio).
+- Avaliação não pode ser feita com base em valor de anúncio de terceiros — só com o que foi efetivamente executado (vendido).
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Imóvel de valor maior nao é mais difícil de vender @lucasmarrques
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumento direto para a conversa de precificação com proprietário de alto padrão em Uberlândia: relembra que o obstáculo real nunca é 'o mercado não tem comprador para esse valor' — é preço acima do correto. Reforça a régua de avaliar por venda efetivada, nunca por anúncio de concorrente.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

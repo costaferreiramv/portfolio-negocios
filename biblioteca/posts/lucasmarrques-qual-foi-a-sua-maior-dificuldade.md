@@ -3,8 +3,8 @@ titulo: "Qual foi a sua maior dificuldade?"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/Dav1MllhmX_/
 tipo: reel
-temas: []
-tags: []
+temas: [mentalidade]
+tags: [persistencia, dificuldade-financeira, carreira]
 duracao: "56s"
 data_post: 2026-07-13
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Relato pessoal de dificuldade no início de carreira: falta de dinheiro para almoço e gasolina, nome sujo, atrasos, empréstimos — e a decisão recorrente de nunca cogitar desistir da profissão.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Dificuldade financeira concreta e recorrente no início de carreira, não um único momento de crise.
+- Persistência como escolha repetida, não decisão única.
+- Tom de vulnerabilidade genuína, sem embelezamento.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Qual foi a sua maior dificuldade? @lucasmarrques
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Formato de conteúdo de bastidor/vulnerabilidade que humaniza o corretor — não é o registro do Marcus hoje (17+ milhões em negócios, posicionamento estabelecido), mas confirma que histórico de dificuldade é ativo de conteúdo válido quando genuíno, não fabricado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "O Fantástico foi ao ar ontem com uma reportagem sobre a guerra do Airb
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DZV-oFBJ7aF/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario, posicionamento]
+tags: [aluguel-por-temporada, assessoria, noticia-do-mercado]
 duracao: "1min27"
 data_post: 2026-06-08
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Usa reportagem real (Fantástico) sobre problemas de Airbnb em condomínio para argumentar o valor da assessoria de corretor: quem comprou sem corretor não perguntou se a convenção do condomínio permite locação por temporada, se a demanda turística é real, ou se o investimento fecha conta sem a renda de aluguel. 'Comissão é o que você paga pelo profissional. Assessoria é o que te protege do prejuízo.'
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Ancoragem em notícia real e verificável (reportagem de TV), não em estatística sem fonte.
+- Três perguntas técnicas que só um corretor preparado faz antes de vender imóvel para renda de temporada.
+- Reposicionamento de comissão como custo de assessoria, não taxa de intermediação.
 
 ## Conteúdo integral
 
@@ -43,8 +45,8 @@ Se você é corretor e já viveu isso na pele ou já tentou alertar um cliente q
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Formato reaproveitável: ancorar conteúdo educativo em notícia real e verificável dá credibilidade que estatística sem fonte não tem. Para Uberlândia, vale usar notícia local ou nacional relevante (mudança de legislação, decisão do STJ, dado do FipeZAP) em vez de criar afirmação própria sem lastro.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

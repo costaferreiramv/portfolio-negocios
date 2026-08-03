@@ -3,8 +3,8 @@ titulo: "Já SALVA pra deixar guardado!!! Pega o ouro 1 Tours Virtuais 2 Depoime
 autor: "@kakarivas"
 url: https://www.instagram.com/reel/C-QJMIUPcoL/
 tipo: reel
-temas: []
-tags: []
+temas: [conteudo-organico]
+tags: [ideias-de-conteudo, pauta, lista]
 duracao: "6s"
 data_post: 2024-08-04
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Lista de 30 ideias de formato de conteúdo para corretor: tour virtual, depoimento, decoração, bastidor, novo imóvel, dica de financiamento, antes/depois, live Q&A, estatística de mercado, guia de bairro, parceria com influenciador, evento local, reconhecimento de equipe, dica de manutenção, post educativo, data comemorativa, oferta exclusiva, FAQ, história de sucesso, post motivacional, comparação de imóveis, projeto em andamento, dica de segurança, webinar, imóvel de luxo, imóvel acessível, feedback de cliente, engajamento, visita guiada, dica de investimento.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 30 formatos de conteúdo listados, cobrindo educativo, bastidor, prova social e vitrine.
+- Serve como banco de pauta para não repetir sempre o mesmo formato de post.
+- Alguns itens não se aplicam ao Portfólio Negócios (dica de financiamento — proibido; imóvel acessível — fora do nicho).
 
 ## Conteúdo integral
 
@@ -67,8 +69,8 @@ Comente ‘CONTEÚDO’ para receber meu guia gratuito de marketing digital para
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Banco de pauta útil para a régua 4/1/2 do @andersonbarbosast: 'guia de bairro' e 'estatística de mercado' encaixam em 'alcançar'; 'depoimento de cliente' e 'bastidor' em 'inspirar'; 'novos imóveis' e 'antes e depois' em 'vender'. Remover da lista: dica de financiamento (proibição absoluta do negócio).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

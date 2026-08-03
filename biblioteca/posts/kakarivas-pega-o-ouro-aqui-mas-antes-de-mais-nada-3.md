@@ -3,8 +3,8 @@ titulo: "PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender
 autor: "@kakarivas"
 url: https://www.instagram.com/reel/DZDr1ScxMV6/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao, vendas]
+tags: [qualificacao, foco, descanso, precificacao-pessoal]
 duracao: "7s"
 data_post: 2026-06-01
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+6 mudanças de rotina para sair de 'travado' (atende muito, fecha pouco) para 'magnético' (atende pouco, fecha proporcionalmente mais): qualificar mais em vez de atender mais; falar de um nicho só; ter horário para parar (descanso como estratégia); cobrar o próprio valor sem medo; investir em captar (tráfego) em vez de só esperar indicação; acompanhar números toda semana.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Contraste citado: 'travado' atende 200 e fecha 2; 'magnético' atende 20 certos e fecha 8.
+- Foco em um nicho só converte em autoridade, que converte em venda.
+- Trabalhar menos horas focado supera trabalhar mais horas cansado.
+- Medir número semanalmente (leads, visitas, vendas) é o que permite melhorar.
 
 ## Conteúdo integral
 
@@ -46,8 +49,8 @@ Não é sorte. Não é talento nato. É rotina trocada de lugar. E começa com e
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O contraste 200-atende-2 vs 20-atende-8 é o argumento mais forte contra dispersão de esforço — reforça que a especialização do Marcus em um nicho estreito (Zona Sul, alto padrão) já é a decisão estruturalmente certa segundo este framework.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "A pergunta não é quantas pessoas entram no seu Instagram. A pergunta 
 autor: "@kakarivas"
 url: https://www.instagram.com/p/DanySHGHAnz/
 tipo: carrossel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [confianca, perfil, isca]
 slides: 8
 data_post: 2026-07-10
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reformula a métrica de sucesso do Instagram: não é alcance, é quantas pessoas sentem confiança para chamar no direct. O comprador pesquisa o perfil antes de contatar e decide em segundos se o corretor parece confiável. Isca de desafio de 7 dias sobre uso de IA no Instagram.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Métrica proposta: confiança gerada, não número de seguidores ou visualização.
+- O comprador decide em segundos, olhando perfil/bio/conteúdo, se confia no corretor.
+- Isca: 'Desafio Corretor com I.A.' de 7 dias.
 
 ## Conteúdo integral
 
@@ -50,8 +52,8 @@ Photo by Karina Rivas | Marketing Imobiliário on July 10, 2026. May be an image
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+A pergunta certa para auditar o perfil @marcus.imoveis: um visitante que chega pelo anúncio, ao abrir o perfil, sente confiança em segundos? Vale checklist rápido — bio, destaque, primeiros posts — pela lente de quem nunca ouviu falar do Marcus antes.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

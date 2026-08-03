@@ -3,8 +3,8 @@ titulo: "Família reunida, churrasco na brasa. E o cliente perguntando se tem co
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DYdHWTIBMB6/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [qualificacao, fim-de-semana, microcompromisso]
 duracao: "1min17"
 data_post: 2026-05-17
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Relato de humor sobre visita de domingo sem qualificação prévia — cliente marca, atrasa, olha 6 minutos e diz 'vou pensar'. A solução proposta: antes de abrir mão do descanso, perguntar 'caso o imóvel esteja dentro das suas expectativas, avançamos ainda essa semana?' — se a resposta travar, a visita provavelmente não valia a pena.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Pergunta de microcompromisso antes de confirmar visita de fim de semana revela se o cliente está pronto para decidir.
+- Se a resposta trava, é sinal de que a visita não é prioritária.
+- Formato de humor/identificação com forte potencial de compartilhamento entre corretores.
 
 ## Conteúdo integral
 
@@ -38,8 +40,8 @@ Você já perdeu um domingo assim? Me conta qual foi a desculpa mais criativa qu
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+A pergunta de microcompromisso antes da visita é ferramenta prática e de baixo custo para proteger a agenda do Marcus, especialmente em visita de fim de semana a imóvel de alto padrão, onde o tempo do proprietário também é ativo caro.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

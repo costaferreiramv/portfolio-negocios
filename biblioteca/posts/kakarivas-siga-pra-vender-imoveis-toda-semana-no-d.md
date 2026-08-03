@@ -4,7 +4,7 @@ autor: "@kakarivas"
 url: https://www.instagram.com/p/Da4TvNWHPAV/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca]
 slides: 8
 data_post: 2026-07-17
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA puro de seguir o perfil, sem conteúdo substantivo.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de seguidor, sem conteúdo educativo.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Photo by Karina Rivas | Marketing Imobiliário on July 17, 2026. May be an image
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

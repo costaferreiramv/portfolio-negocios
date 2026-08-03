@@ -4,7 +4,7 @@ autor: "@lucasmarrques"
 url: https://www.instagram.com/p/Da5dvUAg27F/
 tipo: video
 temas: []
-tags: []
+tags: [isca, infoproduto]
 duracao: "34s"
 data_post: 2026-07-17
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Terceira variação da oferta de R$37, reforçando prova social (corretores que geraram R$3 milhões em comissão) e fechando com urgência de decisão ('separa o joio do trigo').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Repetição de oferta com pequena variação de prova social a cada peça — teste de criativo.
+- Uso de linguagem de julgamento moral ('joio do trigo') como pressão de decisão.
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ _sem legenda_
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — mesma oferta reciclada. Serve de exemplo do que não fazer: pressão moral no fecho é tom incompatível com o posicionamento de alto padrão.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

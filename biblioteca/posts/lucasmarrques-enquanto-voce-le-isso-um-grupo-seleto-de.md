@@ -3,8 +3,8 @@ titulo: "Enquanto você lê isso, um grupo seleto de donos e gestores de imobili
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DY3EiDKu2kb/
 tipo: reel
-temas: []
-tags: []
+temas: [captacao, vendas]
+tags: [precificacao, ancoragem, oportunidade]
 duracao: "1min50"
 data_post: 2026-05-27
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Explica a lógica de precificação de anúncio: o mercado costuma anunciar um imóvel que vai fechar por R$1mi a R$1,2-1,3mi (permuta, desconto, comissão embutidos). A orientação do autor é anunciar próximo do valor real de fechamento (R$1,09mi para fechamento de R$1,1mi) — isso sinaliza 'oportunidade' para o pequeno grupo de compradores que já está pesquisando aquele tipo de imóvel há meses.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Prática comum do mercado: anunciar 10-30% acima do valor real de fechamento.
+- Orientação alternativa: anunciar próximo ao valor real de fechamento sinaliza oportunidade.
+- Todo imóvel tem um grupo pequeno de compradores já pesquisando aquele perfil há meses, esperando o momento certo.
+- Preço de anúncio parecido com o de fechamento é o que faz esse grupo perceber oportunidade e agir.
 
 ## Conteúdo integral
 
@@ -36,8 +39,8 @@ Se você quer transformar a forma como sua imobiliária opera, esse é o momento
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tensão direta com a prática comum e útil para revisar a precificação de anúncio no site e no Canal Pro: um imóvel anunciado muito acima do valor real de fechamento perde o efeito de 'oportunidade' para o comprador que já pesquisa a região há meses — que é exatamente o perfil de comprador de alto padrão em Uberlândia, paciente e bem informado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

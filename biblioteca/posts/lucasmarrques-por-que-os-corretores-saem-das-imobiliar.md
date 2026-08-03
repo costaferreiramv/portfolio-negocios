@@ -3,8 +3,8 @@ titulo: "Por que os corretores saem das imobiliárias?"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DPKRSC6kfEL/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao]
+tags: [remuneracao, carreira, corretor-como-empresa]
 duracao: "5min46"
 data_post: 2025-09-28
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reflexão de dono de imobiliária (ex-corretor por quase 10 anos) sobre por que corretores bons saem: quando ficam experientes e praticamente independentes, sentem que a remuneração proporcional não reflete mais a diferença entre eles e um corretor iniciante. A resposta foi desenhar remuneração que trate o corretor como 'empresa', reconhecendo que virar gerente/diretor não é a única forma de crescer — muitos corretores ganham mais que donos de imobiliária.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Corretor experiente sente injustiça quando ganha proporcionalmente igual ao iniciante.
+- Tratar o corretor como 'empresa dentro da empresa', não como funcionário em ascensão hierárquica.
+- Falsa ilusão: virar gerente/diretor/dono não é promoção automática — muitos corretores só-corretores ganham mais.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Por que os corretores saem das imobiliárias?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Não se aplica diretamente ao Marcus (autônomo, sem equipe de corretores hoje) — relevante caso a operação cresça a ponto de incorporar outros corretores: a lição fica registrada para esse cenário futuro.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

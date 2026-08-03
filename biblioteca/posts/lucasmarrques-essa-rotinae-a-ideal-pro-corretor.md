@@ -3,8 +3,8 @@ titulo: "Essa rotinaé a ideal pro corretor."
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DY7bKVXB8gP/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao]
+tags: [rotina, prospeccao, execucao]
 duracao: "52s"
 data_post: 2026-05-29
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Regra 70-20-10 de distribuição de tempo: 70% execução, 20% treinamento prático, 10% aprendizado teórico. Crítica ao vício de estudar demais e executar de menos — defende que 100% do tempo de execução deveria ser prospecção, porque é a única variável que o corretor controla.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Distribuição 70-20-10: execução, treinamento prático, teoria.
+- Erro comum apontado: estudar demais, trabalhar de menos.
+- Dentro da execução, o foco deveria ser 100% prospecção — é a única coisa controlável.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Essa rotinaé a ideal pro corretor. @lucasmarrques
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Régua simples para auditar a própria rotina: quanto do tempo dedicado a estudar posts/skills (como esta biblioteca) versus prospectar e captar de fato. Vale como lembrete prático — a biblioteca serve à execução, não a substitui.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

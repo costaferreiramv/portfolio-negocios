@@ -3,8 +3,8 @@ titulo: "Digite CLONE nos comentários que eu te mando o guia prático para cria
 autor: "@kakarivas"
 url: https://www.instagram.com/p/DaYEPwinKkG/
 tipo: carrossel
-temas: []
-tags: []
+temas: [ia-automacao]
+tags: [avatar-ia, clone-digital, isca]
 slides: 11
 data_post: 2026-07-04
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Isca para guia de criação de 'clones' de IA (avatar digital) para produzir conteúdo diário. Conteúdo do carrossel não lido.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Promete guia prático para criar avatar de IA e produzir conteúdo todo dia.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Photo by Karina Rivas | Marketing Imobiliário on July 04, 2026. May be an image
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tema relacionado ao avatar do Marcus já em desenvolvimento (Character Sheet + Model Sheet) — sem ver o conteúdo do carrossel não há técnica nova a extrair, só confirma que o tema é tendência no nicho.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

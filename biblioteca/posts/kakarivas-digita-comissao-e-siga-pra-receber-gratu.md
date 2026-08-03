@@ -4,7 +4,7 @@ autor: "@kakarivas"
 url: https://www.instagram.com/p/DaxjILOHGa2/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca]
 slides: 7
 data_post: 2026-07-14
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA puro sem conteúdo — pede para digitar 'COMISSÃO' e seguir para receber e-book gratuito sobre vender imóveis no digital.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca pura de captura de contato, sem substância no post.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Photo by Karina Rivas | Marketing Imobiliário on July 14, 2026. May be an image
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — formato a não copiar em anúncio pago (engagement bait).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

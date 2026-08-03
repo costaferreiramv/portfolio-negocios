@@ -3,8 +3,8 @@ titulo: "PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender
 autor: "@kakarivas"
 url: https://www.instagram.com/reel/DZilbqdRPl_/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [qualificacao, perguntas, filtro-de-lead, duplicata]
 duracao: "7s"
 data_post: 2026-06-13
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duplicata (mesmo conteúdo, republicação) do post 'pega-o-ouro-aqui-mas-antes-de-mais-nada-5' — as mesmas 9 perguntas de qualificação de lead.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo idêntico ao post irmão já registrado — mesmas 9 perguntas de qualificação.
 
 ## Conteúdo integral
 
@@ -49,8 +49,8 @@ Tempo gasto com curioso é comissão perdida. A pergunta certa filtra em segundo
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-5.md` (mesmo conteúdo) — inclui a mesma ressalva de remover a pergunta de financiamento.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

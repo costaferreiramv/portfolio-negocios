@@ -3,8 +3,8 @@ titulo: "O cliente achava que não conseguiria comprar porque não tinha entrada
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DZOBpn6p7LG/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [credito-associativo, financiamento-caixa, imovel-na-planta]
 duracao: "1min53"
 data_post: 2026-06-05
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Explica o crédito associativo: modalidade exclusiva de imóvel na planta via Caixa/Banco do Brasil, contrato assinado com o banco desde o início, saldo sem correção durante a obra, seguro de entrega da construtora garantido pelo banco, e possibilidade de financiar 100% se a avaliação do banco for maior que o preço de venda (0% de entrada).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Crédito associativo é exclusivo de imóvel na planta, via banco público (Caixa/BB).
+- Saldo travado sem correção durante a obra — diferencial de segurança.
+- Banco garante conclusão da obra por seguro, mesmo se a construtora parar.
+- Se a avaliação do banco for maior que o preço, cliente pode financiar 100%, sem entrada.
 
 ## Conteúdo integral
 
@@ -53,8 +56,8 @@ Compartilha esse vídeo com um corretor que ainda perde venda por falta de infor
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Conteúdo técnico bem construído, mas inutilizável aqui por inteiro** — é sobre modalidade de financiamento, e o Portfólio Negócios nunca menciona financiamento em nenhuma peça, regra absoluta. Vale só como registro de conhecimento técnico do mercado, não como fonte de conteúdo publicável.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

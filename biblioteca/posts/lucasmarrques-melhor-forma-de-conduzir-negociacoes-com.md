@@ -3,8 +3,8 @@ titulo: "Melhor forma de conduzir negociações com permuta."
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DXhuzOshSIE/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, captacao]
+tags: [permuta, precificacao, negociacao]
 duracao: "6min03"
 data_post: 2026-04-24
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Como conduzir negociação com permuta sem criar atrito de vaidade entre vendedor e comprador. Em vez de discutir o valor declarado da permuta, o autor recomenda 'transformar a permuta em dinheiro': avaliar de forma independente quanto o imóvel ofertado em permuta realmente vale, e trabalhar com esse valor real na negociação — não com o que qualquer das partes declara.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Discutir valor de permuta em público (vendedor x comprador) gera briga de vaidade desnecessária.
+- Solução: avaliar a permuta de forma independente e converter para valor em dinheiro na negociação.
+- O que importa para o vendedor é por quanto está efetivamente vendendo, não o valor nominal declarado.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Melhor forma de conduzir negociações com permuta.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Técnica de negociação diretamente aplicável quando envolver permuta em Uberlândia — evita o desgaste de comparação de valores declarados entre as partes ao ancorar a conversa na avaliação profissional, não na vaidade de cada lado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

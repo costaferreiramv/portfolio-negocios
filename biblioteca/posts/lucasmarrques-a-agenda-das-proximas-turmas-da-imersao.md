@@ -3,8 +3,8 @@ titulo: "A agenda das próximas turmas da Imersão UNA está aberta. Dois dias d
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DZqooj8u_kX/
 tipo: reel
-temas: []
-tags: []
+temas: [captacao, vendas]
+tags: [exclusividade, precificacao, proposta]
 duracao: "55s"
 data_post: 2026-06-17
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de imersão presencial (Goiânia/São Paulo) sobre captação exclusiva, precificação e venda em até 60 dias. O trecho de valor: como conduzir proposta sem ida-e-volta — anunciar redondo (R$2,90mi) sabendo que fecha por R$2mi, e já negociar a proposta perto do valor real combinado com o vendedor na captação.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Alinhar faixa de fechamento com o vendedor já na captação evita desgaste na proposta.
+- Evitar 'vai e volta' de proposta: buscar ir direto para a definitiva.
+- Anunciar em valor redondo acima do fechamento é tática deliberada, não erro de precificação.
 
 ## Conteúdo integral
 
@@ -35,8 +37,8 @@ As vagas são limitadas. Me chame no direct e garanta sua vaga.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O alinhamento prévio de faixa de fechamento com o proprietário é prática direta e replicável: na captação em Uberlândia, combinar verbalmente a faixa aceitável evita a etapa de 'desanimar o vendedor' quando a proposta real chega. É o mesmo princípio do post do @sousasolucoes sobre certidões — profissionalizar a etapa anterior ao problema.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

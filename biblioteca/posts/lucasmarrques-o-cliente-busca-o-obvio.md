@@ -3,8 +3,8 @@ titulo: "O cliente busca o óbvio"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DZYZEVaM60w/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, posicionamento]
+tags: [atendimento, pesquisa-zap, basico-bem-feito]
 duracao: "2min10"
 data_post: 2026-06-09
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumento contra a 'casa dos artistas' do mercado imobiliário (competição por carro, relógio, terno) citando pesquisa do ZAP Imóveis (mais de 1 milhão de entrevistados): o cliente não liga para VGV na bio nem para prêmios do corretor — quer resposta rápida, opções dentro do que pediu, domínio de informação e honestidade, inclusive sobre problemas que ele nem sabe que existem.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Pesquisa citada (verificar fonte/ano antes de reusar): cliente só quer o básico bem feito.
+- Cliente não valoriza VGV, prêmios ou estética de sucesso do corretor.
+- O que o cliente valoriza: resposta rápida, opções alinhadas ao pedido, domínio técnico, honestidade proativa.
+- Crítica direta à 'casa dos artistas' — competição de aparência no mercado imobiliário.
 
 ## Conteúdo integral
 
@@ -30,8 +33,8 @@ O cliente busca o óbvio @lucasmarrques
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça com dado de pesquisa (checar fonte) o que várias outras fontes da biblioteca já mostram por outro ângulo: prova social real (CRECI, +17 milhões em negócios) supera qualquer estética de sucesso. Vale como contra-argumento a qualquer tentação de investir em imagem de luxo pessoal do corretor em vez de atendimento técnico rápido e honesto.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

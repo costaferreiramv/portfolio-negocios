@@ -3,8 +3,8 @@ titulo: "Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A v
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/p/DYBt8QyDE-C/
 tipo: video
-temas: []
-tags: []
+temas: [vendas]
+tags: [follow-up, duplicata]
 duracao: "30s"
 data_post: 2026-05-07
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duplicata/variação do post anterior do mesmo autor, mesma tese de 'Conversa Validada' e mesma prova social.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo repetido do post irmão, com pequena variação de fala.
 
 ## Conteúdo integral
 
@@ -51,8 +51,8 @@ Se você quer parar de ser ignorado e começar a lotar a sua agenda de visitas r
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas-2.md` (mesmo conteúdo).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

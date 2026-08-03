@@ -3,8 +3,8 @@ titulo: "Como passar autoridade"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DajAd2DuxEZ/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [autoridade, autenticidade, volume-de-trabalho]
 duracao: "54s"
 data_post: 2026-07-08
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Resposta à pergunta 'como passar autoridade sendo novo no mercado': não fingir. O erro comum é vestir a máscara de quem já é autoridade (roupa, argumento, jeito de falar). Autoridade vem de volume de trabalho e resultado prévio — não pode ser encurtada.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Autoconhecimento do que já se domina, mesmo sendo iniciante.
+- Autoridade é função de conhecimento de negócio + resultado, não de performance.
+- 'Dá tempo ao tempo' — não sofrer por algo fora de controle no início.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Como passar autoridade @lucasmarrques
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Confirma por outra via a tese do @brokersbr ('quem decidiu aparecer antes de estar pronto') e do @leonardo_ura (presença é treino). Para o Marcus, já com anos de mercado, o ponto inverso importa mais: não construir posicionamento em cima de encenação, e sim mostrar volume de trabalho real.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

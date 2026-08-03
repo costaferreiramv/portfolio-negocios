@@ -3,8 +3,8 @@ titulo: "Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber 
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/p/DY4vygSjOxh/
 tipo: video
-temas: []
-tags: []
+temas: [mentalidade, gestao]
+tags: [ansiedade, instabilidade-financeira, metodo, isca]
 duracao: "2min05"
 data_post: 2026-05-28
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Relato sobre o desgaste emocional da renda variável do corretor — aparência de confiança por fora, ansiedade financeira por dentro conforme os meses passam sem venda. Argumenta que instabilidade não é característica da profissão, é sintoma de trabalhar sem estrutura (prospecção, estudo, disciplina).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Nomeia o desgaste emocional real de quem vive de comissão, sem embelezar.
+- Tese: 'difícil não é o mesmo que instável' — a diferença está no método, não na profissão em si.
 
 ## Conteúdo integral
 
@@ -54,8 +55,8 @@ Clique em Saiba Mais e garanta sua vaga no lote promocional.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Complementa diretamente o post do @marcele_corretora sobre renda variável e despesa fixa — aqui pelo lado emocional, lá pelo lado financeiro. Os dois juntos formam um argumento completo sobre por que estruturar processo é questão de saúde mental, não só de resultado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

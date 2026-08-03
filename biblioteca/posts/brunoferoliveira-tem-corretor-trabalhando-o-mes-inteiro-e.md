@@ -3,8 +3,8 @@ titulo: "Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber 
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/p/DZxoF1HMNJs/
 tipo: video
-temas: []
-tags: []
+temas: [vendas]
+tags: [follow-up, mensagem-pronta, isca]
 duracao: "58s"
 data_post: 2026-06-19
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mensagem de reativação alternativa, mais direta: 'a gente conversou um tempo atrás sobre imóvel... essa busca ainda faz sentido pra você ou você deixou esse plano mais pra frente?'. Segue com anúncio do curso de 7 dias.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mensagem de reativação que dá saída honrosa ao cliente (pode dizer que adiou, sem constrangimento).
+- Enquadramento: dá contexto, respeita o tempo do cliente, tira o corretor da dúvida.
 
 ## Conteúdo integral
 
@@ -54,8 +55,8 @@ Clique em Saiba Mais e garanta sua vaga no lote promocional.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Terceira variação de mensagem de reativação do mesmo autor — junto com as outras duas, formam um pequeno banco de opções de abordagem para carteira fria, a depender do tom desejado (mais direto ou mais suave).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

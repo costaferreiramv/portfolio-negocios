@@ -3,8 +3,8 @@ titulo: "Isso aqui resgata venda."
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DZIMGBBxwoE/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [follow-up, reativacao, carteira-fria]
 duracao: "39s"
 data_post: 2026-06-03
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Instrução de reativação: pegar 3 contatos sem conversa há mais de 60 dias e mandar mensagem sem pressão ('lembrei de você, o mercado mudou, talvez tenha opção que faça sentido'). Frase-chave: 'cliente frio não esqueceu de você — você que esqueceu dele'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Reativação de carteira fria: contato sem pressão, contextualizado em mudança de mercado.
+- Regra: sem pressão, sem cobrança, só reaparecer antes que outro corretor apareça.
+- 'Cliente frio não esqueceu de você, você que esqueceu dele' — frase de virada de mentalidade.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Isso aqui resgata venda. @brunoferoliveira
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesmo padrão do post 'cliente-que-sumiu' do mesmo autor — reforça a régua de reativação de carteira fria como rotina periódica (ex.: mensal), não só reativa quando surge imóvel novo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

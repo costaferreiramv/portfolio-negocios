@@ -4,7 +4,7 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 50
+**Analisados (resumo, pontos-chave e aplicação escritos):** 111
 
 ### Status
 
@@ -32,10 +32,38 @@ automaticamente.
 
 ### vendas
 
+- [5 tipos de cliente que todo corretor conhece. Tem mais algum? Comenta ](posts/brunoferoliveira-5-tipos-de-cliente-que-todo-corretor-con.md) — @brunoferoliveira
+- [Cliente que sumiu não precisa de cobrança. Precisa de uma mensagem que](posts/brunoferoliveira-cliente-que-sumiu-nao-precisa-de-cobranc.md) — @brunoferoliveira
+- [Essa é quente!](posts/brunoferoliveira-essa-e-quente.md) — @brunoferoliveira
+- [Família reunida, churrasco na brasa. E o cliente perguntando se tem co](posts/brunoferoliveira-familia-reunida-churrasco-na-brasa-e-o-c.md) — @brunoferoliveira
+- [Isso aqui resgata venda.](posts/brunoferoliveira-isso-aqui-resgata-venda.md) — @brunoferoliveira
+- [O mercado acostumou o corretor a correr para atender todo mundo. Mas q](posts/brunoferoliveira-o-mercado-acostumou-o-corretor-a-correr.md) — @brunoferoliveira
+- [O mercado te vendeu a ideia errada sobre lead. 54 dos corretores que p](posts/brunoferoliveira-o-mercado-te-vendeu-a-ideia-errada-sobre.md) — @brunoferoliveira
+- [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-2.md) — @brunoferoliveira
+- [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e.md) — @brunoferoliveira
+- [Usa essa mensagem com quem parou de te responder!](posts/brunoferoliveira-usa-essa-mensagem-com-quem-parou-de-te-r.md) — @brunoferoliveira
+- [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas-2.md) — @brunoferoliveira
+- [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas.md) — @brunoferoliveira
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz
 - [Nos EUA o corretor só abre a casa com carta de pré-aprovação — e isso não é grosseria](posts/eduardovgvendas-pre-aprovacao-eua-x-brasil.md) — @eduardovgvendas
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula
+- [Às vezes o cliente não desiste do imóvel. Ele desiste da forma como o ](posts/kakarivas-as-vezes-o-cliente-nao-desiste-do-imovel.md) — @kakarivas
+- [Corretor quer que o cliente diga quero visitar na hora? Então anota es](posts/kakarivas-corretor-quer-que-o-cliente-diga-quero-v.md) — @kakarivas
+- [Nem sempre o problema está no imóvel, no preço ou no cliente. Às vezes](posts/kakarivas-nem-sempre-o-problema-esta-no-imovel-no.md) — @kakarivas
+- [O comprador dá sinais antes de fechar. Quase ninguém percebe. Ele para](posts/kakarivas-o-comprador-da-sinais-antes-de-fechar-qu.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-2.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-3.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-5.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada.md) — @kakarivas
+- [A agenda das próximas turmas da Imersão UNA está aberta. Dois dias de ](posts/lucasmarrques-a-agenda-das-proximas-turmas-da-imersao.md) — @lucasmarrques
+- [Cliente não deixa exclusivo na primeira visita?](posts/lucasmarrques-cliente-nao-deixa-exclusivo-na-primeira.md) — @lucasmarrques
+- [DaQ6d7ruH2G](posts/lucasmarrques-daq6d7ruh2g.md) — @lucasmarrques
+- [Enquanto você lê isso, um grupo seleto de donos e gestores de imobiliá](posts/lucasmarrques-enquanto-voce-le-isso-um-grupo-seleto-de.md) — @lucasmarrques
+- [Esse dia](posts/lucasmarrques-esse-dia.md) — @lucasmarrques
+- [Jeito correto de lidar com corretores parceiros](posts/lucasmarrques-jeito-correto-de-lidar-com-corretores-pa.md) — @lucasmarrques
+- [Melhor forma de conduzir negociações com permuta.](posts/lucasmarrques-melhor-forma-de-conduzir-negociacoes-com.md) — @lucasmarrques
+- [O cliente busca o óbvio](posts/lucasmarrques-o-cliente-busca-o-obvio.md) — @lucasmarrques
 - [Vocabulário do luxo: cinco trocas de frase para remarcar um compromisso](posts/malu-albertotti-remarcar-com-elegancia.md) — @malu_albertotti
 - [Cliente que não atende não é cliente sem interesse — é horário errado](posts/marcele-corretora-cliente-nao-atende-horario.md) — @marcele_corretora
 - [Se o cliente perguntou o preço, responda — e devolva uma pergunta](posts/marcele-corretora-cliente-pergunta-preco.md) — @marcele_corretora
@@ -54,6 +82,8 @@ automaticamente.
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr
 - [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker
 - [Google testa exibir imóveis direto nos resultados de busca](posts/ibrep-google-imoveis-na-busca.md) — @ibrep
+- [O DeepSeek tá dando o que falar, e não é à toa! Essa ferramenta pode s](posts/kakarivas-o-deepseek-ta-dando-o-que-falar-e-nao-e.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-2.md) — @kakarivas
 - [Pare de mandar o anúncio direto pro WhatsApp: filtre com uma conversão mais avançada](posts/pedromoro93-funil-0405-conversao-avancada.md) — @pedromoro93
 
 ### criativos
@@ -66,6 +96,10 @@ automaticamente.
 - [Speed ramp x câmera lenta: o ritmo do vídeo imobiliário depende do que o imóvel é](posts/dentrodoimovel-ritmo-video-imobiliario.md) — @dentrodoimovel
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
+- [A primeira frase do vídeo decide se a pessoa vai continuar assistindo ](posts/kakarivas-a-primeira-frase-do-video-decide-se-a-pe.md) — @kakarivas
+- [Ao invés de tentar se filmar falando sobre os imóveis faça isso 1. Gra](posts/kakarivas-ao-inves-de-tentar-se-filmar-falando-sob.md) — @kakarivas
+- [O erro que quase todo mundo comete em vídeos de imóveis Começar mostra](posts/kakarivas-o-erro-que-quase-todo-mundo-comete-em-vi.md) — @kakarivas
+- [Os 3 primeiros segundos do seu vídeo são os mais importantes para pren](posts/kakarivas-os-3-primeiros-segundos-do-seu-video-sao.md) — @kakarivas
 - [Character Sheet: por que a IA troca o rosto do personagem a cada geração](posts/leoromano-character-sheet-consistencia-ia.md) — @leoromano.oficial
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira
 
@@ -79,7 +113,11 @@ automaticamente.
 - [Três mudanças que o Instagram está testando: etiqueta de IA, seguidores ocultos e séries pagas](posts/catiacreator-mudancas-instagram-agosto.md) — @catiacreator
 - [Foto de check-in não é conteúdo: como transformar um evento em material para a audiência](posts/clubedaborboleta-como-postar-evento.md) — @clubedaborboleta
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
+- [Ao invés de tentar se filmar falando sobre os imóveis faça isso 1. Gra](posts/kakarivas-ao-inves-de-tentar-se-filmar-falando-sob.md) — @kakarivas
+- [Já SALVA pra deixar guardado!!! Pega o ouro 1 Tours Virtuais 2 Depoime](posts/kakarivas-ja-salva-pra-deixar-guardado-pega-o-ouro.md) — @kakarivas
+- [Tem corretor produzindo conteúdo todo dia. E só atraindo outros corret](posts/kakarivas-tem-corretor-produzindo-conteudo-todo-di.md) — @kakarivas
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
+- [Hack para você conseguir ser constante na produção de conteúdo!](posts/lucasmarrques-hack-para-voce-conseguir-ser-constante-n.md) — @lucasmarrques
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi
 - [O formato sem edição pesada que o Instagram está privilegiando](posts/segueadi-formato-simplificado-alcance.md) — @segueadi
@@ -104,23 +142,49 @@ automaticamente.
 - [Silvio Santos, Pelé e Flávio Augusto: quem virou referência apareceu antes de estar pronto](posts/brokersbr-aparecer-antes-de-estar-pronto.md) — @brokersbr
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli
+- [O Fantástico foi ao ar ontem com uma reportagem sobre a guerra do Airb](posts/brunoferoliveira-o-fantastico-foi-ao-ar-ontem-com-uma-rep.md) — @brunoferoliveira
+- [Para com isso! Comenta empresário que vou te mandar um conteúdo de com](posts/brunoferoliveira-para-com-isso-comenta-empresario-que-vou.md) — @brunoferoliveira
+- [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas-2.md) — @brunoferoliveira
 - [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo
+- [A pergunta não é quantas pessoas entram no seu Instagram. A pergunta é](posts/kakarivas-a-pergunta-nao-e-quantas-pessoas-entram.md) — @kakarivas
+- [Corretor, depois dos 50 você não precisa competir com quem faz dancinh](posts/kakarivas-corretor-depois-dos-50-voce-nao-precisa.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-2.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-4.md) — @kakarivas
+- [Tem corretor produzindo conteúdo todo dia. E só atraindo outros corret](posts/kakarivas-tem-corretor-produzindo-conteudo-todo-di.md) — @kakarivas
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
+- [Como passar autoridade](posts/lucasmarrques-como-passar-autoridade.md) — @lucasmarrques
+- [Esse dia](posts/lucasmarrques-esse-dia.md) — @lucasmarrques
+- [Faz e depois me agradece](posts/lucasmarrques-faz-e-depois-me-agradece.md) — @lucasmarrques
+- [O cliente busca o óbvio](posts/lucasmarrques-o-cliente-busca-o-obvio.md) — @lucasmarrques
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
 
 ### captacao
 
+- [O vendedor aceitou receber o imóvel parcelado. Ótimo. Decisão dele. Ma](posts/brunoferoliveira-o-vendedor-aceitou-receber-o-imovel-parc.md) — @brunoferoliveira
+- [A agenda das próximas turmas da Imersão UNA está aberta. Dois dias de ](posts/lucasmarrques-a-agenda-das-proximas-turmas-da-imersao.md) — @lucasmarrques
+- [Cliente não deixa exclusivo na primeira visita?](posts/lucasmarrques-cliente-nao-deixa-exclusivo-na-primeira.md) — @lucasmarrques
+- [Criando uma rotina no mercado imobiliário](posts/lucasmarrques-criando-uma-rotina-no-mercado-imobiliari.md) — @lucasmarrques
+- [DaQ6d7ruH2G](posts/lucasmarrques-daq6d7ruh2g.md) — @lucasmarrques
+- [Enquanto você lê isso, um grupo seleto de donos e gestores de imobiliá](posts/lucasmarrques-enquanto-voce-le-isso-um-grupo-seleto-de.md) — @lucasmarrques
+- [Imóvel de valor maior nao é mais difícil de vender](posts/lucasmarrques-imovel-de-valor-maior-nao-e-mais-dificil.md) — @lucasmarrques
+- [Imóvel fora de preço não é vendido](posts/lucasmarrques-imovel-fora-de-preco-nao-e-vendido.md) — @lucasmarrques
+- [Melhor forma de conduzir negociações com permuta.](posts/lucasmarrques-melhor-forma-de-conduzir-negociacoes-com.md) — @lucasmarrques
 - [Lista fria funciona — o que não funciona é abrir a conversa vendendo](posts/marcele-corretora-lista-fria-diagnostico.md) — @marcele_corretora
 
 ### mercado-imobiliario
 
+- [Como você imagina o mercado imobiliário em 2029? Essa região do Itaim ](posts/3i-digital-como-voce-imagina-o-mercado-imobiliario.md) — @3i_digital
 - [Você não compra só uma casa — compra o bairro, o acesso e a rotina dos próximos anos](posts/amandaresendy-localizacao-e-inteligencia-financeira.md) — @amandaresendy
+- [O cliente achava que não conseguiria comprar porque não tinha entrada.](posts/brunoferoliveira-o-cliente-achava-que-nao-conseguiria-com.md) — @brunoferoliveira
+- [O Fantástico foi ao ar ontem com uma reportagem sobre a guerra do Airb](posts/brunoferoliveira-o-fantastico-foi-ao-ar-ontem-com-uma-rep.md) — @brunoferoliveira
 - [Nos EUA o corretor só abre a casa com carta de pré-aprovação — e isso não é grosseria](posts/eduardovgvendas-pre-aprovacao-eua-x-brasil.md) — @eduardovgvendas
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo
 - [Google testa exibir imóveis direto nos resultados de busca](posts/ibrep-google-imoveis-na-busca.md) — @ibrep
+- [Imóvel de valor maior nao é mais difícil de vender](posts/lucasmarrques-imovel-de-valor-maior-nao-e-mais-dificil.md) — @lucasmarrques
+- [Imóvel fora de preço não é vendido](posts/lucasmarrques-imovel-fora-de-preco-nao-e-vendido.md) — @lucasmarrques
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
 - [Taxa de transferência abusiva: em Uberlândia o despachante gira em torno de R$ 700-800](posts/sousasolucoes-taxa-de-transferencia-abusiva.md) — @sousasolucoes
@@ -130,9 +194,27 @@ automaticamente.
 
 - [Opus 5: cinco ajustes que fazem a cota durar o dia inteiro](posts/99hud-5-ajustes-para-rodar-opus-5-o-dia-inteiro.md) — @99hud
 - [Record a Skill: grava a tela fazendo a tarefa uma vez e ela vira skill](posts/allesinisgalli-record-a-skill.md) — @allesinisgalli
+- [300 mil de comissão em 12 meses não é sonho . É conta. E a maioria fog](posts/brunoferoliveira-300-mil-de-comissao-em-12-meses-nao-e-so.md) — @brunoferoliveira
+- [APRENDA O QUE ELE FEZ EM 7 DIAS. mas antes... ...FAÇA UM AUTO-DIAGNÓST](posts/brunoferoliveira-aprenda-o-que-ele-fez-em-7-dias-mas-ante.md) — @brunoferoliveira
+- [O corretor médio trabalha no improviso. Prospecta sem critério. Faz fo](posts/brunoferoliveira-o-corretor-medio-trabalha-no-improviso-p.md) — @brunoferoliveira
+- [O mercado te vendeu a ideia errada sobre lead. 54 dos corretores que p](posts/brunoferoliveira-o-mercado-te-vendeu-a-ideia-errada-sobre.md) — @brunoferoliveira
+- [O vendedor aceitou receber o imóvel parcelado. Ótimo. Decisão dele. Ma](posts/brunoferoliveira-o-vendedor-aceitou-receber-o-imovel-parc.md) — @brunoferoliveira
+- [Para com isso! Comenta empresário que vou te mandar um conteúdo de com](posts/brunoferoliveira-para-com-isso-comenta-empresario-que-vou.md) — @brunoferoliveira
+- [Pega essa dica. São 4 coisas.](posts/brunoferoliveira-pega-essa-dica-sao-4-coisas.md) — @brunoferoliveira
+- [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-2.md) — @brunoferoliveira
+- [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-3.md) — @brunoferoliveira
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz
 - [Context rot: por que o Claude fica lento e confuso depois de meia hora](posts/ericluciano-context-rot-e-compactacao.md) — @ericluciano
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-3.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-4.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-6.md) — @kakarivas
+- [Aprenda a captar imóveis exclusivos e domine o mercado com o MÉTODO UN](posts/lucasmarrques-aprenda-a-captar-imoveis-exclusivos-e-do.md) — @lucasmarrques
+- [Criando uma rotina no mercado imobiliário](posts/lucasmarrques-criando-uma-rotina-no-mercado-imobiliari.md) — @lucasmarrques
+- [É o melhor caminho para o corretor?](posts/lucasmarrques-e-o-melhor-caminho-para-o-corretor.md) — @lucasmarrques
+- [Essa rotinaé a ideal pro corretor.](posts/lucasmarrques-essa-rotinae-a-ideal-pro-corretor.md) — @lucasmarrques
+- [Jeito correto de lidar com corretores parceiros](posts/lucasmarrques-jeito-correto-de-lidar-com-corretores-pa.md) — @lucasmarrques
+- [Por que os corretores saem das imobiliárias?](posts/lucasmarrques-por-que-os-corretores-saem-das-imobiliar.md) — @lucasmarrques
 - [6 sacadas do criador do Claude Code sobre como ele usa IA](posts/manualdedonos-6-sacadas-claude-code.md) — @manualdedonos
 - [Renda variável não sustenta despesa fixa: o erro que faz o corretor virar refém da próxima venda](posts/marcele-corretora-renda-variavel-despesa-fixa.md) — @marcele_corretora
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado
@@ -147,7 +229,12 @@ automaticamente.
 - [Model Sheet: o mapa do corpo que impede a IA de trocar as proporções do personagem](posts/bruno-ia1-model-sheet-corpo-inteiro.md) — @bruno.ia1
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
 - [Context rot: por que o Claude fica lento e confuso depois de meia hora](posts/ericluciano-context-rot-e-compactacao.md) — @ericluciano
+- [Digite CLONE nos comentários que eu te mando o guia prático para criar](posts/kakarivas-digite-clone-nos-comentarios-que-eu-te-m.md) — @kakarivas
+- [O DeepSeek tá dando o que falar, e não é à toa! Essa ferramenta pode s](posts/kakarivas-o-deepseek-ta-dando-o-que-falar-e-nao-e.md) — @kakarivas
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-4.md) — @kakarivas
 - [Character Sheet: por que a IA troca o rosto do personagem a cada geração](posts/leoromano-character-sheet-consistencia-ia.md) — @leoromano.oficial
+- [Faz e depois me agradece](posts/lucasmarrques-faz-e-depois-me-agradece.md) — @lucasmarrques
+- [Hack para você conseguir ser constante na produção de conteúdo!](posts/lucasmarrques-hack-para-voce-conseguir-ser-constante-n.md) — @lucasmarrques
 - [6 sacadas do criador do Claude Code sobre como ele usa IA](posts/manualdedonos-6-sacadas-claude-code.md) — @manualdedonos
 - [6 skills que tiram o Claude do modo chatbot](posts/nicksoncarvalho-6-skills-claude.md) — @nicksoncarvalho
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi
@@ -157,6 +244,9 @@ automaticamente.
 
 ### mentalidade
 
+- [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-3.md) — @brunoferoliveira
+- [Corretor, depois dos 50 você não precisa competir com quem faz dancinh](posts/kakarivas-corretor-depois-dos-50-voce-nao-precisa.md) — @kakarivas
+- [Qual foi a sua maior dificuldade?](posts/lucasmarrques-qual-foi-a-sua-maior-dificuldade.md) — @lucasmarrques
 - [Renda variável não sustenta despesa fixa: o erro que faz o corretor virar refém da próxima venda](posts/marcele-corretora-renda-variavel-despesa-fixa.md) — @marcele_corretora
 - [15 atitudes para quem está se reconstruindo aos 45](posts/modoprodutivo-reconstrucao-aos-45.md) — @modoprodutivo_
 
@@ -164,6 +254,7 @@ automaticamente.
 
 ## Analisados, em ordem alfabética de arquivo
 
+- [Como você imagina o mercado imobiliário em 2029? Essa região do Itaim ](posts/3i-digital-como-voce-imagina-o-mercado-imobiliario.md) — @3i_digital · reel · 2025-02-01
 - [Opus 5: cinco ajustes que fazem a cota durar o dia inteiro](posts/99hud-5-ajustes-para-rodar-opus-5-o-dia-inteiro.md) — @99hud · carrossel · 2026-07-24
 - [Marketing Silencioso: anúncio + carrossel que qualifica + WhatsApp que filtra](posts/acaroldutraa-marketing-silencioso.md) — @acaroldutraa · carrossel · 2026-03-31
 - [ChatGPT Ads chega ao Brasil: anúncio na hora da decisão, só para quem usa o plano gratuito](posts/allesinisgalli-chatgpt-ads-brasil.md) — @allesinisgalli · reel · 2026-05-13
@@ -176,6 +267,27 @@ automaticamente.
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr · carrossel · 2026-07-29
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli · carrossel · 2026-07-18
 - [Model Sheet: o mapa do corpo que impede a IA de trocar as proporções do personagem](posts/bruno-ia1-model-sheet-corpo-inteiro.md) — @bruno.ia1 · carrossel · 2026-07-21
+- [300 mil de comissão em 12 meses não é sonho . É conta. E a maioria fog](posts/brunoferoliveira-300-mil-de-comissao-em-12-meses-nao-e-so.md) — @brunoferoliveira · reel · 2026-04-29
+- [5 tipos de cliente que todo corretor conhece. Tem mais algum? Comenta ](posts/brunoferoliveira-5-tipos-de-cliente-que-todo-corretor-con.md) — @brunoferoliveira · reel · 2026-06-13
+- [APRENDA O QUE ELE FEZ EM 7 DIAS. mas antes... ...FAÇA UM AUTO-DIAGNÓST](posts/brunoferoliveira-aprenda-o-que-ele-fez-em-7-dias-mas-ante.md) — @brunoferoliveira · video · 2026-05-12
+- [Cliente que sumiu não precisa de cobrança. Precisa de uma mensagem que](posts/brunoferoliveira-cliente-que-sumiu-nao-precisa-de-cobranc.md) — @brunoferoliveira · reel · 2026-05-10
+- [Essa é quente!](posts/brunoferoliveira-essa-e-quente.md) — @brunoferoliveira · reel · 2026-06-26
+- [Família reunida, churrasco na brasa. E o cliente perguntando se tem co](posts/brunoferoliveira-familia-reunida-churrasco-na-brasa-e-o-c.md) — @brunoferoliveira · reel · 2026-05-17
+- [Isso aqui resgata venda.](posts/brunoferoliveira-isso-aqui-resgata-venda.md) — @brunoferoliveira · reel · 2026-06-03
+- [O cliente achava que não conseguiria comprar porque não tinha entrada.](posts/brunoferoliveira-o-cliente-achava-que-nao-conseguiria-com.md) — @brunoferoliveira · reel · 2026-06-05
+- [O corretor médio trabalha no improviso. Prospecta sem critério. Faz fo](posts/brunoferoliveira-o-corretor-medio-trabalha-no-improviso-p.md) — @brunoferoliveira · video · 2026-05-10
+- [O Fantástico foi ao ar ontem com uma reportagem sobre a guerra do Airb](posts/brunoferoliveira-o-fantastico-foi-ao-ar-ontem-com-uma-rep.md) — @brunoferoliveira · reel · 2026-06-08
+- [O mercado acostumou o corretor a correr para atender todo mundo. Mas q](posts/brunoferoliveira-o-mercado-acostumou-o-corretor-a-correr.md) — @brunoferoliveira · reel · 2026-04-09
+- [O mercado te vendeu a ideia errada sobre lead. 54 dos corretores que p](posts/brunoferoliveira-o-mercado-te-vendeu-a-ideia-errada-sobre.md) — @brunoferoliveira · reel · 2026-06-21
+- [O vendedor aceitou receber o imóvel parcelado. Ótimo. Decisão dele. Ma](posts/brunoferoliveira-o-vendedor-aceitou-receber-o-imovel-parc.md) — @brunoferoliveira · reel · 2026-05-26
+- [Para com isso! Comenta empresário que vou te mandar um conteúdo de com](posts/brunoferoliveira-para-com-isso-comenta-empresario-que-vou.md) — @brunoferoliveira · reel · 2026-05-31
+- [Pega essa dica. São 4 coisas.](posts/brunoferoliveira-pega-essa-dica-sao-4-coisas.md) — @brunoferoliveira · reel · 2026-07-06
+- [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-2.md) — @brunoferoliveira · video · 2026-06-14
+- [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-3.md) — @brunoferoliveira · video · 2026-05-28
+- [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e.md) — @brunoferoliveira · video · 2026-06-19
+- [Usa essa mensagem com quem parou de te responder!](posts/brunoferoliveira-usa-essa-mensagem-com-quem-parou-de-te-r.md) — @brunoferoliveira · reel · 2026-06-09
+- [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas-2.md) — @brunoferoliveira · video · 2026-05-05
+- [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas.md) — @brunoferoliveira · video · 2026-05-07
 - [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni · carrossel · 2026-07-17
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator · carrossel · 2026-07-26
 - [Três mudanças que o Instagram está testando: etiqueta de IA, seguidores ocultos e séries pagas](posts/catiacreator-mudancas-instagram-agosto.md) — @catiacreator · carrossel · 2026-07-22
@@ -191,8 +303,47 @@ automaticamente.
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula · reel · 2026-07-15
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo · carrossel · 2026-07-27
 - [Google testa exibir imóveis direto nos resultados de busca](posts/ibrep-google-imoveis-na-busca.md) — @ibrep · carrossel · 2026-07-21
+- [A pergunta não é quantas pessoas entram no seu Instagram. A pergunta é](posts/kakarivas-a-pergunta-nao-e-quantas-pessoas-entram.md) — @kakarivas · carrossel · 2026-07-10
+- [A primeira frase do vídeo decide se a pessoa vai continuar assistindo ](posts/kakarivas-a-primeira-frase-do-video-decide-se-a-pe.md) — @kakarivas · carrossel · 2026-06-17
+- [Ao invés de tentar se filmar falando sobre os imóveis faça isso 1. Gra](posts/kakarivas-ao-inves-de-tentar-se-filmar-falando-sob.md) — @kakarivas · reel · 2026-06-23
+- [Às vezes o cliente não desiste do imóvel. Ele desiste da forma como o ](posts/kakarivas-as-vezes-o-cliente-nao-desiste-do-imovel.md) — @kakarivas · carrossel · 2026-06-25
+- [Corretor, depois dos 50 você não precisa competir com quem faz dancinh](posts/kakarivas-corretor-depois-dos-50-voce-nao-precisa.md) — @kakarivas · carrossel · 2026-06-24
+- [Corretor quer que o cliente diga quero visitar na hora? Então anota es](posts/kakarivas-corretor-quer-que-o-cliente-diga-quero-v.md) — @kakarivas · reel · 2025-04-22
+- [Digite CLONE nos comentários que eu te mando o guia prático para criar](posts/kakarivas-digite-clone-nos-comentarios-que-eu-te-m.md) — @kakarivas · carrossel · 2026-07-04
+- [Já SALVA pra deixar guardado!!! Pega o ouro 1 Tours Virtuais 2 Depoime](posts/kakarivas-ja-salva-pra-deixar-guardado-pega-o-ouro.md) — @kakarivas · reel · 2024-08-04
+- [Nem sempre o problema está no imóvel, no preço ou no cliente. Às vezes](posts/kakarivas-nem-sempre-o-problema-esta-no-imovel-no.md) — @kakarivas · carrossel · 2026-07-03
+- [O comprador dá sinais antes de fechar. Quase ninguém percebe. Ele para](posts/kakarivas-o-comprador-da-sinais-antes-de-fechar-qu.md) — @kakarivas · carrossel · 2026-05-30
+- [O DeepSeek tá dando o que falar, e não é à toa! Essa ferramenta pode s](posts/kakarivas-o-deepseek-ta-dando-o-que-falar-e-nao-e.md) — @kakarivas · reel · 2025-01-30
+- [O erro que quase todo mundo comete em vídeos de imóveis Começar mostra](posts/kakarivas-o-erro-que-quase-todo-mundo-comete-em-vi.md) — @kakarivas · reel · 2026-07-02
+- [Os 3 primeiros segundos do seu vídeo são os mais importantes para pren](posts/kakarivas-os-3-primeiros-segundos-do-seu-video-sao.md) — @kakarivas · carrossel · 2026-05-25
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-2.md) — @kakarivas · reel · 2026-06-03
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-3.md) — @kakarivas · reel · 2026-06-01
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-4.md) — @kakarivas · reel · 2026-05-21
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-5.md) — @kakarivas · reel · 2026-05-23
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-6.md) — @kakarivas · reel · 2026-05-20
+- [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada.md) — @kakarivas · reel · 2026-06-13
+- [Tem corretor produzindo conteúdo todo dia. E só atraindo outros corret](posts/kakarivas-tem-corretor-produzindo-conteudo-todo-di.md) — @kakarivas · carrossel · 2026-05-17
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura · reel · 2026-07-28
 - [Character Sheet: por que a IA troca o rosto do personagem a cada geração](posts/leoromano-character-sheet-consistencia-ia.md) — @leoromano.oficial · carrossel · 2026-07-22
+- [A agenda das próximas turmas da Imersão UNA está aberta. Dois dias de ](posts/lucasmarrques-a-agenda-das-proximas-turmas-da-imersao.md) — @lucasmarrques · reel · 2026-06-17
+- [Aprenda a captar imóveis exclusivos e domine o mercado com o MÉTODO UN](posts/lucasmarrques-aprenda-a-captar-imoveis-exclusivos-e-do.md) — @lucasmarrques · video · 2025-01-18
+- [Cliente não deixa exclusivo na primeira visita?](posts/lucasmarrques-cliente-nao-deixa-exclusivo-na-primeira.md) — @lucasmarrques · reel · 2026-07-01
+- [Como passar autoridade](posts/lucasmarrques-como-passar-autoridade.md) — @lucasmarrques · reel · 2026-07-08
+- [Criando uma rotina no mercado imobiliário](posts/lucasmarrques-criando-uma-rotina-no-mercado-imobiliari.md) — @lucasmarrques · reel · 2026-06-25
+- [DaQ6d7ruH2G](posts/lucasmarrques-daq6d7ruh2g.md) — @lucasmarrques · reel · 2026-07-01
+- [É o melhor caminho para o corretor?](posts/lucasmarrques-e-o-melhor-caminho-para-o-corretor.md) — @lucasmarrques · reel · 2026-05-29
+- [Enquanto você lê isso, um grupo seleto de donos e gestores de imobiliá](posts/lucasmarrques-enquanto-voce-le-isso-um-grupo-seleto-de.md) — @lucasmarrques · reel · 2026-05-27
+- [Essa rotinaé a ideal pro corretor.](posts/lucasmarrques-essa-rotinae-a-ideal-pro-corretor.md) — @lucasmarrques · reel · 2026-05-29
+- [Esse dia](posts/lucasmarrques-esse-dia.md) — @lucasmarrques · reel · 2026-02-26
+- [Faz e depois me agradece](posts/lucasmarrques-faz-e-depois-me-agradece.md) — @lucasmarrques · reel · 2026-06-11
+- [Hack para você conseguir ser constante na produção de conteúdo!](posts/lucasmarrques-hack-para-voce-conseguir-ser-constante-n.md) — @lucasmarrques · reel · 2026-06-12
+- [Imóvel de valor maior nao é mais difícil de vender](posts/lucasmarrques-imovel-de-valor-maior-nao-e-mais-dificil.md) — @lucasmarrques · reel · 2026-05-19
+- [Imóvel fora de preço não é vendido](posts/lucasmarrques-imovel-fora-de-preco-nao-e-vendido.md) — @lucasmarrques · reel · 2026-06-08
+- [Jeito correto de lidar com corretores parceiros](posts/lucasmarrques-jeito-correto-de-lidar-com-corretores-pa.md) — @lucasmarrques · reel · 2026-06-24
+- [Melhor forma de conduzir negociações com permuta.](posts/lucasmarrques-melhor-forma-de-conduzir-negociacoes-com.md) — @lucasmarrques · reel · 2026-04-24
+- [O cliente busca o óbvio](posts/lucasmarrques-o-cliente-busca-o-obvio.md) — @lucasmarrques · reel · 2026-06-09
+- [Por que os corretores saem das imobiliárias?](posts/lucasmarrques-por-que-os-corretores-saem-das-imobiliar.md) — @lucasmarrques · reel · 2025-09-28
+- [Qual foi a sua maior dificuldade?](posts/lucasmarrques-qual-foi-a-sua-maior-dificuldade.md) — @lucasmarrques · reel · 2026-07-13
 - [Vocabulário do luxo: cinco trocas de frase para remarcar um compromisso](posts/malu-albertotti-remarcar-com-elegancia.md) — @malu_albertotti · carrossel · 2026-07-15
 - [6 sacadas do criador do Claude Code sobre como ele usa IA](posts/manualdedonos-6-sacadas-claude-code.md) — @manualdedonos · carrossel · 2026-07-23
 - [Cliente que não atende não é cliente sem interesse — é horário errado](posts/marcele-corretora-cliente-nao-atende-horario.md) — @marcele_corretora · reel · 2026-07-23

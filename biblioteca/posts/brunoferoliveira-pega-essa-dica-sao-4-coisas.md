@@ -3,8 +3,8 @@ titulo: "Pega essa dica. São 4 coisas."
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DadrzT3xMRO/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao]
+tags: [rotina, prospeccao, follow-up, repertorio-de-produto]
 duracao: "1min00"
 data_post: 2026-07-06
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Quatro pilares da rotina do corretor consistente: prospecção diária (50% do tempo, por qualquer canal), follow-up dos clientes já prospectados (30%), estudo de técnica de vendas/fechamento/objeção, e estudo de mercado/produto (nome de empreendimentos, tipologias da região).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Distribuição de tempo: 50% prospecção, 30% follow-up, resto entre técnica e produto.
+- 'Repertório de produto' — saber tipologias e empreendimentos da região de atuação — é pilar próprio, distinto de técnica de venda.
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ Pega essa dica. São 4 coisas. @brunoferoliveira
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Complementa a régua 70-20-10 do @lucasmarrques com uma distribuição mais granular. O pilar de 'repertório de produto' reforça a especialização já existente do Marcus em Zona Sul de Uberlândia — conhecer cada empreendimento do eixo é vantagem competitiva concreta.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

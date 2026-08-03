@@ -3,8 +3,8 @@ titulo: "O vendedor aceitou receber o imóvel parcelado. Ótimo. Decisão dele. 
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DY0b0WTpNJa/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao, captacao]
+tags: [comissao, negociacao, limite-profissional]
 duracao: "1min07"
 data_post: 2026-05-26
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumento sobre comissão parcelada: se o vendedor aceita receber o imóvel parcelado, essa é decisão comercial dele — não transforma o corretor em sócio ou financiador do risco. O corretor entregou o serviço (prospecção, qualificação, visita, negociação, fechamento); comissão é pagamento por serviço prestado, não deveria virar financiamento também.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Distinção clara: risco de venda parcelada é do vendedor, não do corretor.
+- Comissão remunera serviço prestado, entregue integralmente independente da forma de pagamento acordada.
+- Postura de limite profissional, sem tom agressivo com o cliente — dirigida a colegas de profissão.
 
 ## Conteúdo integral
 
@@ -53,8 +55,8 @@ Me segue, porque aqui eu falo o que ninguem tem coragem de falar.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Não é conteúdo de vitrine para cliente — é orientação de gestão de negócio para o próprio corretor. Relevante como princípio de negociação de honorários em qualquer venda que envolva parcelamento entre as partes.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

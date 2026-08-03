@@ -3,8 +3,8 @@ titulo: "Como você imagina o mercado imobiliário em 2029? Essa região do Itai
 autor: "@3i_digital"
 url: https://www.instagram.com/reel/DFi0mlHO_Am/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [escassez, valorizacao, faria-lima, operacao-urbana, cepac]
 duracao: "4min06"
 data_post: 2025-02-01
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conversa entre corretores de São Paulo sobre a escalada de preço do eixo Itaim/Faria Lima. O argumento central: quando não há mais terreno nem opção de construção, o preço sobe por escassez estrutural, não por especulação. Usa o CEPAC (Certificado de Potencial Adicional de Construção) da Operação Urbana Faria Lima como prova concreta — em 2019 previsto para vender a R$ 6.900 e vendido a R$ 19.000, comprado por grandes bancos que revendem o potencial construtivo.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Escassez de terreno e de potencial construtivo é o motor citado da alta de preço, não especulação.
+- Reação repetida do mercado a cada patamar de preço (R$ 10 mil, 15 mil, 20 mil, 25 mil/m²): sempre 'um absurdo', e nunca parou de subir.
+- CEPAC da Faria Lima: previsto a R$ 6.900/m² em 2019, vendido a R$ 19.000 — comprado por bancos que revendem o potencial construtivo a incorporadoras.
+- Projetos aprovados em plano diretor anterior (mais permissivo) hoje seriam inviáveis para construir do zero.
 
 ## Conteúdo integral
 
@@ -34,8 +37,8 @@ Essa região do Itaim tem potencial para valorizar ainda mais. O que você acha?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Não se aplica ao mercado de Uberlândia — Faria Lima é o extremo oposto de escassez de terreno urbano do país, sem comparação com a Zona Sul de Uberlândia, que ainda tem expansão horizontal disponível. **Não usar este raciocínio para justificar valorização em anúncio** — projetar valorização futura é promessa de rentabilidade (CDC art. 37, CONAR Anexo D), e o mecanismo de escassez de terreno não existe da mesma forma aqui. Utilidade real é só de repertório: entender como potencial construtivo (outorga onerosa, CEPAC) afeta preço em mercados adensados, caso surja pauta de educação sobre o tema.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

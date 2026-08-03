@@ -3,8 +3,8 @@ titulo: "Os 3 primeiros segundos do seu vídeo são os mais importantes para pre
 autor: "@kakarivas"
 url: https://www.instagram.com/p/DYw9qErEQ9z/
 tipo: carrossel
-temas: []
-tags: []
+temas: [criativos]
+tags: [gancho, hook, isca]
 slides: 9
 data_post: 2026-05-25
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça a importância dos 3 primeiros segundos do vídeo e promete 21 ganchos prontos no carrossel (não lido) para uso em vídeo imobiliário.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 3 primeiros segundos decidem se a pessoa continua assistindo ou passa direto.
+- Isca: 21 ganchos prontos + oferta de IA geradora de gancho personalizado.
 
 ## Conteúdo integral
 
@@ -44,8 +45,8 @@ Photo by Karina Rivas | Marketing Imobiliário on May 25, 2026. May be an image 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesmo princípio já formalizado na skill `gancho-psicologico`. Sem acrescentar técnica nova sem ler os 21 exemplos do carrossel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

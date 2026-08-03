@@ -4,7 +4,7 @@ autor: "@lucasmarrques"
 url: https://www.instagram.com/p/DLjEtoQg8zw/
 tipo: video
 temas: []
-tags: []
+tags: [isca, infoproduto]
 duracao: "45s"
 data_post: 2025-07-01
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de infoproduto em formato de entrevista de rua: corretor revela ganhar R$70 mil/mês com 'processo que ninguém mais usa', direcionando para link. Sem substância revelada no vídeo.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Formato gancho: pergunta de renda com escalada (10 mil? 40? 70 mil?) para gerar curiosidade.
+- Prova social sem verificação (R$700 milhões vendidos).
+- CTA de clique, sem conteúdo educativo real no vídeo.
 
 ## Conteúdo integral
 
@@ -34,8 +36,8 @@ Clique em SAIBA MAIS e veja como!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — isca pura de infoproduto, sem substância verificável. Serve só como registro de formato de gancho por escalada numérica a não copiar sem dado real.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

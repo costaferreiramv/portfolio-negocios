@@ -3,8 +3,8 @@ titulo: "É o melhor caminho para o corretor?"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DY7USwrhbMQ/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao]
+tags: [autonomo, coworking, entregaveis, carteira-exclusiva]
 duracao: "1min30"
 data_post: 2026-05-29
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Defesa do modelo de corretor autônomo com carteira de gestão exclusiva. Recomendações práticas: coworking em vez de home office (R$500-600/mês) para manter ambiência de troca, parcerias por demanda (não contrato fixo) com fotógrafo e videomaker, e estruturar os entregáveis da captação antes de precisar deles.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Carteira de gestão exclusiva é apontada como o melhor modelo para corretor autônomo.
+- Coworking recomendado sobre home office, por manter contato e troca com pares.
+- Parceria por demanda (não contrato fixo) com fornecedores de conteúdo (foto/vídeo) no início.
+- Estruturar entregáveis (portal, gestora de anúncio) antes de captar, não depois.
 
 ## Conteúdo integral
 
@@ -30,8 +33,8 @@ cada vez mais de corretor autônomo, porque eu tô acreditando muito nesse camin
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O Marcus já opera como autônomo com estrutura própria — o ponto mais transferível é 'estruturar entregáveis antes de captar': ter o fluxo de publicação no site e anúncio no Canal Pro pronto para qualquer captação nova, sem montar do zero a cada imóvel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

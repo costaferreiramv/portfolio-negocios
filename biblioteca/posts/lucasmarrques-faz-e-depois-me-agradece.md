@@ -3,8 +3,8 @@ titulo: "Faz e depois me agradece"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DZdR1V2O0PK/
 tipo: reel
-temas: []
-tags: []
+temas: [ia-automacao, posicionamento]
+tags: [chatgpt, persona, prompt]
 duracao: "1min23"
 data_post: 2026-06-11
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Instrução prática para usar o ChatGPT como 'mentor': o corretor se apresenta (nome, cidade, tempo de mercado, nicho de atuação) e pede para o modelo, com base nessas informações, descrever o cliente que compraria aquele tipo de imóvel — idade, características, região, carro, hábitos de consumo.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Roteiro de prompt: apresentação pessoal + modelo de negócio + pedido de descrição do cliente ideal.
+- O ChatGPT é tratado como mentor de bolso, não como ferramenta de texto.
+- Resultado esperado: persona detalhada do comprador, pronta para orientar prospecção e conteúdo.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Faz e depois me agradece 😉
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Prompt simples e replicável para gerar ou revisar o ICP de um imóvel específico — mas a operação do Marcus já tem uma skill dedicada e mais rigorosa para isso (`definir-icp-imovel`), que evita ICP genérico ao exigir motivação real de compra e capacidade real de pagamento, não só demografia solta como este prompt produz.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

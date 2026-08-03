@@ -4,7 +4,7 @@ autor: "@lucasmarrques"
 url: https://www.instagram.com/p/Da-gOMSgi4q/
 tipo: video
 temas: []
-tags: []
+tags: [isca, infoproduto]
 duracao: "47s"
 data_post: 2026-07-19
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Oferta de infoproduto de R$37 ('Plano Primo') prometendo acesso ao processo que gera R$100 milhões/ano em vendas ao autor. Sem legenda, apenas vídeo de venda.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Preço de entrada baixo (R$37) como tática de conversão de audiência já engajada ('você que é meu aluno').
+- Prova social sem fonte (R$100 milhões/ano, mais de mil alunos).
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ _sem legenda_
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação direta — infoproduto genérico sem conteúdo educativo revelado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

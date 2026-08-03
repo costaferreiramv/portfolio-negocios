@@ -3,8 +3,8 @@ titulo: "O mercado acostumou o corretor a correr para atender todo mundo. Mas q"
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DW7UiMGCc5i/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [microcompromisso, filtro, qualificacao]
 duracao: "1min33"
 data_post: 2026-04-09
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Técnica do microcompromisso: antes de mandar material, buscar opção ou agendar visita, pedir ao cliente três respostas rápidas (para morar ou investir, região, faixa de valor). Quem está interessado responde; quem enrola cedo tende a sumir depois. Transforma atendimento de reação em processo.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Microcompromisso = pedir resposta pequena antes de entregar esforço grande.
+- Três perguntas mínimas: finalidade (morar/investir), região, faixa de valor.
+- O que desgasta o corretor não é trabalhar muito, é trabalhar sério para quem não leva a sério.
 
 ## Conteúdo integral
 
@@ -49,8 +51,8 @@ Comenta FILTRO que eu te mando uma mensagem pronta.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesmo princípio do MRPC e do roteiro de qualificação do @marcele_corretora, com frase de enquadramento pronta ('para eu te mandar algo certeiro e não perder teu tempo, me responde três pontos'). Reforça que qualificar antes de mandar qualquer material é padrão consistente em toda a biblioteca, não só uma opinião isolada.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

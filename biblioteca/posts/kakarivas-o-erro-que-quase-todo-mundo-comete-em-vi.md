@@ -3,8 +3,8 @@ titulo: "O erro que quase todo mundo comete em vídeos de imóveis Começar most
 autor: "@kakarivas"
 url: https://www.instagram.com/reel/DaTnVz7hfwB/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos]
+tags: [video-catalogo, dor-desejo, copywriting, gancho]
 duracao: "6s"
 data_post: 2026-07-02
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Nomeia o erro mais comum de vídeo de imóvel: 'Vídeo Catálogo' — mostra tudo (sala, cozinha, quartos) sem antes gerar interesse, então informa mas não desperta desejo. Sequência corrigida: (1) abrir com dor ou desejo do cliente ('para quem quer sair do aluguel...'), (2) fazer promessa específica de por que vale continuar assistindo, (3) só então mostrar o imóvel como solução — traduzindo cada característica em benefício ('varanda para respirar no fim do dia', não só 'varanda').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Vídeo Catálogo': mostra tudo, não cria interesse, recebe view mas não abre conversa.
+- Sequência certa: dor/desejo → promessa específica → imóvel como solução (traduzido em benefício).
+- Regra de tradução: nunca nomear o cômodo sozinho — sempre acoplar o benefício ('varanda para respirar', 'quarto extra para quem trabalha em casa').
 
 ## Conteúdo integral
 
@@ -116,8 +118,8 @@ Mas o significado dele é o que vende.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Diagnóstico direto e acionável para os vídeos de tour do Portfólio Negócios: checar se o roteiro atual é 'Vídeo Catálogo' (lista de cômodos) ou segue a sequência dor→promessa→solução. A regra de tradução de característica em benefício é aplicável frase a frase nos roteiros já produzidos pela skill de anúncios.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

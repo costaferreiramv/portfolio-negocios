@@ -3,8 +3,8 @@ titulo: "5 tipos de cliente que todo corretor conhece. Tem mais algum? Comenta "
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DZiPMpsxLwY/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [tipos-de-cliente, humor, engajamento]
 duracao: "1min06"
 data_post: 2026-06-13
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Lista humorística de 5 tipos de cliente recorrentes: o 'arquiteto mental' (opina sobre tudo sem orçamento), o 'cliente fantasma' (adora e some), o 'negociador profissional' (pede desconto antes do endereço), o 'pesquisador eterno' (pesquisa há anos sem decidir) e 'o primo' (compra por indicação familiar no fim).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Cinco arquétipos reconhecíveis de cliente difícil, em tom de humor.
+- Formato de engajamento: pede para marcar outro corretor nos comentários.
 
 ## Conteúdo integral
 
@@ -32,8 +33,8 @@ Tem mais algum?😂 Comenta aqui
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conteúdo de identificação/humor, útil como post de 'inspirar' na régua 4/1/2 — humaniza o corretor sem vender nada. Baixo esforço de produção, alto potencial de comentário genuíno (não isca).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

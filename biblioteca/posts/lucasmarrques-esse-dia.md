@@ -3,8 +3,8 @@ titulo: "Esse dia"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DVPF9X8kbJq/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, posicionamento]
+tags: [cafe-com-cliente, processo-de-venda, conexao]
 duracao: "3min59"
 data_post: 2026-02-26
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Relato de origem do lema 'café é seu negócio': depois de ser repreendido por opinar sobre algo que não dominava numa visita a imóvel de alto padrão, um mentor explicou que o erro foi não conectar com o cliente antes de vender. Desde então, o autor nunca mais atende sem tomar café com o cliente antes — recusando o papel de 'mostrador de imóveis'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Erro de origem: vender/opinar sem antes conectar com quem está na frente.
+- Processo de venda convencional começa pela conexão, não pela oferta.
+- 'Não sou mostrador de imóveis' virou princípio operacional: sempre café antes da visita.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Esse dia…
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+É a origem e o argumento mais forte para o roteiro de qualificação do @marcele_corretora ('antes de te mandar as informações, eu queria entender o que você está buscando') — aqui aplicado à visita presencial de alto padrão: o corretor de imóvel caro não é atendente de porta, é quem conduz uma relação antes de mostrar o produto.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

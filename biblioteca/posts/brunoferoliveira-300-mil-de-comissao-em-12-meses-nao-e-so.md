@@ -3,8 +3,8 @@ titulo: "300 mil de comissão em 12 meses não é sonho . É conta. E a maioria 
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DXuRHNXkfki/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao]
+tags: [meta, vgv, funil-de-vendas, matematica]
 duracao: "2min28"
 data_post: 2026-04-29
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Método para transformar meta de comissão anual em meta diária de ação, de trás para frente: meta de comissão → VGV necessário (meta ÷ taxa de comissão) → nº de vendas (VGV ÷ ticket médio) → nº de visitas (vendas × taxa venda/visita) → nº de conversas qualificadas (visitas × taxa visita/conversa) → conversas por dia. Exemplo: R$300 mil a 2% exige R$15 mi de VGV, 15 vendas (ticket R$1mi), 150 visitas, 750 conversas qualificadas/ano, ~3/dia.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Cadeia de cálculo: meta de comissão → VGV → nº de vendas → nº de visitas → nº de conversas qualificadas → meta diária.
+- Cada etapa depende de uma taxa de conversão própria (visita/venda, conversa/visita) que o corretor precisa conhecer sobre si mesmo.
+- Conclusão prática: não é 'trabalhar mais', é bater um número diário de conversas qualificadas, por vários canais em paralelo.
 
 ## Conteúdo integral
 
@@ -47,8 +49,8 @@ Comenta PLANILHA que eu te mando.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ferramenta de planejamento direta e replicável para o Marcus: rodar essa conta com os números reais do Portfólio Negócios (ticket médio alto padrão, taxa de conversão histórica) dá a meta diária de conversas qualificadas necessária para bater uma meta anual — e revela se o volume atual de prospecção é suficiente ou insuficiente para a meta desejada.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

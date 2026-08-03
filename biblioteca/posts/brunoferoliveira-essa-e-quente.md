@@ -3,8 +3,8 @@ titulo: "Essa é quente!"
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DaDKefgR2Oy/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [qualificacao, framework, mrpc]
 duracao: "50s"
 data_post: 2026-06-26
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Framework MRPC para separar curioso de comprador real: quatro perguntas — Motivo da compra, Região, Prazo para resolver, Capacidade financeira. Quem responde às quatro está no momento de compra; quem não engaja ou demora não está, e não merece o mesmo esforço.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- MRPC: Motivo, Região, Prazo, Capacidade — quatro perguntas de qualificação.
+- Responder = sinal de momento de compra; não responder/enrolar = sinal de que não está pronto.
+- Energia deve ser direcionada por cadência, não gasto igual em todo lead.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Essa é quente! @brunoferoliveira
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Framework compacto e memorável, equivalente ao roteiro do @marcele_corretora com nome mnemônico mais fácil de lembrar e ensinar. 'Capacidade financeira' deve ser perguntado como faixa de investimento, nunca como pergunta sobre financiamento bancário (proibição do negócio).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "Ao invés de tentar se filmar falando sobre os imóveis faça isso 1. G
 autor: "@kakarivas"
 url: https://www.instagram.com/reel/DZ8VHstP_XU/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos, conteudo-organico]
+tags: [video-imobiliario, teleprompter, narracao, texto-na-tela]
 duracao: "7s"
 data_post: 2026-06-23
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Alternativa para quem trava na câmera: gravar o imóvel em vídeos curtos (entrada, sala, cozinha, quartos, varanda, fachada, vista, lazer), falar só o gancho olhando pra câmera e narrar o resto por cima — ou gravar sem aparecer e narrar depois. Recomenda texto na tela com benefício, não rótulo ('varanda ideal para relaxar', não só 'varanda'), e uso de IA para transformar dado do imóvel em roteiro.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Fala só o gancho na câmera; o resto é narração por cima do vídeo do imóvel — reduz a barreira de travar.
+- Alternativa sem aparecer: narração de voz sobre o vídeo do imóvel, mais leve de produzir.
+- Texto na tela deve nomear benefício, não o cômodo ('sala ampla para receber a família', não 'sala').
+- 'Mostrar com intenção', não decorar texto longo.
 
 ## Conteúdo integral
 
@@ -51,8 +54,8 @@ Ao invés de tentar se filmar falando sobre os imóveis… faça isso👇🏻
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Resolve exatamente o obstáculo prático apontado pelo @leonardo_ura (travar na câmera) com uma saída sem exigir presença constante: falar só o gancho é muito mais fácil de sustentar que o vídeo inteiro. O texto na tela por benefício, não rótulo, é ajuste imediato para os Reels de imóvel do Portfólio Negócios.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

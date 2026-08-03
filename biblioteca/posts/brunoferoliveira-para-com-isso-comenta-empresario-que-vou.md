@@ -3,8 +3,8 @@ titulo: "Para com isso! Comenta empresário que vou te mandar um conteúdo de co
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DZA_QElpjLH/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento, gestao]
+tags: [book-fotografico, alocacao-de-verba, resultado]
 duracao: "1min12"
 data_post: 2026-05-31
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Crítica direta a corretor que gasta R$3-4 mil em book fotográfico de posicionamento (fotos em terno, preto e branco) sem gerar resultado, em vez de investir em tráfego pago, curso, especialização. 'Nada fala mais alto que o teu resultado.'
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Crítica a gasto em estética de posicionamento (book fotográfico) sem geração de resultado correspondente.
+- Alocação de verba recomendada: tráfego pago, curso, especialização, networking em ambiente de alto padrão (ex.: academia frequentada por esse público).
+- Tese: resultado é o único posicionamento que realmente fala no mercado imobiliário.
 
 ## Conteúdo integral
 
@@ -34,8 +36,8 @@ Me segue, porque todo dia eu falo o que ninguém tem coragem de falar.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Contraponto útil ao investimento em imagem: para o Marcus, que já tem prova real (+17 milhões, CRECI 42766/MG), o argumento reforça priorizar verba em tráfego e conteúdo de resultado em vez de produção estética que não converte. Não descarta fotografia profissional de perfil — descarta gasto desproporcional sem geração de lead.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

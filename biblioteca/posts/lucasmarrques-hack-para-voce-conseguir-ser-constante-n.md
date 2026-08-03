@@ -3,8 +3,8 @@ titulo: "Hack para você conseguir ser constante na produção de conteúdo!"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DZfwYqSujEh/
 tipo: reel
-temas: []
-tags: []
+temas: [ia-automacao, conteudo-organico]
+tags: [chatgpt, persona, producao-de-conteudo]
 duracao: "2min33"
 data_post: 2026-06-12
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Extensão do prompt anterior: depois de configurar o ChatGPT com modelo de negócio, nicho e persona, o corretor pede que ele gere roteiros de conteúdo alinhados a essa persona — inclusive para quem não gosta de aparecer/dançar, como alternativa a formatos de dança que dominam o nicho.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Sequência: configurar persona no chat → pedir roteiro de conteúdo com base nela.
+- Reconhece que nem todo corretor quer/deve fazer conteúdo de dança/tendência — a persona local decide o formato certo.
+- 'Armazenar' a configuração no chat para reaproveitar em conversas futuras.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Hack para você conseguir ser constante na produção de conteúdo!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O princípio (persona configurada como contexto fixo do modelo) é o mesmo do `CLAUDE.md` do projeto — regras de negócio persistentes evitam reconfigurar contexto a cada pedido. Aqui aplicado à camada de conteúdo: manter a persona do comprador de alto padrão como contexto fixo ao pedir roteiro de Reels.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

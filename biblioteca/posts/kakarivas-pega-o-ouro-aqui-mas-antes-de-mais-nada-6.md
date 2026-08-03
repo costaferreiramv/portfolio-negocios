@@ -3,8 +3,8 @@ titulo: "PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender
 autor: "@kakarivas"
 url: https://www.instagram.com/reel/DYj0iivhgc6/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao]
+tags: [rotina, prospeccao, constancia]
 duracao: "6s"
 data_post: 2026-05-20
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+6 'proibições' para tirar a venda de imóvel da sazonalidade: nunca pular prospecção ativa diária (30 min), nunca pular story diário, nunca pular revisão semanal de números, nunca pular meta mensal escrita, nunca pular networking semanal (1 ligação, 1 café, 1 mensagem), nunca pular 1h de estudo semanal.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tese: sazonalidade é castigo de quem improvisa, não característica do mercado.
+- Seis hábitos fixos e pequenos (30 min/dia de prospecção, 20 min/semana de revisão) substituem grandes esforços esporádicos.
+- Meta escrita, não mental, é o que a torna compromisso.
 
 ## Conteúdo integral
 
@@ -73,8 +75,8 @@ Comenta “Hábito” aqui que eu te envio meu Checklist do Corretor que Vende T
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Checklist simples de rotina semanal, compatível com a régua 70-20-10 do @lucasmarrques já registrada nesta biblioteca. O item 'revisão semanal de números' é o que falta formalizar na operação — hoje o acompanhamento de leads é por memória, não por revisão programada.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

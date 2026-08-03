@@ -3,8 +3,8 @@ titulo: "Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber 
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/p/DZkRRaWjJBP/
 tipo: video
-temas: []
-tags: []
+temas: [vendas, gestao]
+tags: [follow-up, abandono, reativacao, isca]
 duracao: "1min52"
 data_post: 2026-06-14
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumento contundente: 'você não perdeu o cliente para outro corretor, perdeu para o próprio abandono' — lead frio não é lead morto, é dinheiro parado esperando alguém ter iniciativa de voltar a contatar. Mesma mensagem de reativação dos posts irmãos + anúncio do curso de 7 dias.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Reformulação dura: a perda do cliente é abandono próprio, não concorrência.
+- 'Lead frio não é lead morto' — reforça o tema central do autor sobre gestão de carteira.
 
 ## Conteúdo integral
 
@@ -54,8 +55,8 @@ Clique em Saiba Mais e garanta sua vaga no lote promocional.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesmo conteúdo educativo dos posts irmãos deste autor sobre reativação — reforça pela repetição que é o ponto mais insistido por ele, o que sinaliza ser o gargalo mais comum do setor.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "Cliente que sumiu não precisa de cobrança. Precisa de uma mensagem qu
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DYLEmvPBkXA/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [follow-up, whatsapp, reenquadramento]
 duracao: "53s"
 data_post: 2026-05-10
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mensagem de reativação testada: em vez de 'oi, viu minha mensagem?' (soa cobrança e não gera resposta), perguntar 'houve alguma falha no meu atendimento para que você não me retornasse? Gostaria de entender para não repetir com outros clientes'. Funciona porque ninguém quer parecer que maltratou alguém por omissão — desloca a posição de quem implora atenção para quem busca melhorar.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mensagem padrão de reativação ('viu minha mensagem?') soa cobrança e não gera resposta.
+- Mensagem alternativa: pergunta se houve falha no atendimento — desloca a culpa social para quem não respondeu.
+- Mecanismo: ninguém quer deixar a impressão de ter maltratado alguém por omissão.
 
 ## Conteúdo integral
 
@@ -63,8 +65,8 @@ E se você quer aprender a conduzir melhor suas conversas no WhatsApp, comenta C
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mensagem pronta e testável para a régua de follow-up que falta na operação (o mesmo buraco identificado pelo @chaiene.luz e pelo @paidoslead). Usar em qualquer lead que parou de responder após 48h-30 dias sem contato, adaptando o tom ao registro de alto padrão (mais formal que o exemplo original).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

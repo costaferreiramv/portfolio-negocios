@@ -3,8 +3,8 @@ titulo: "DaQ6d7ruH2G"
 autor: "@lucasmarrques"
 url: https://www.instagram.com/reel/DaQ6d7ruH2G/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, captacao]
+tags: [cafe-com-cliente, foco-no-vendedor, conexao]
 duracao: "36s"
 data_post: 2026-07-01
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Cena de atendimento: no café com o cliente, o corretor não vende — conversa como pessoa. Quando perguntado sobre o mercado, aproveita para comunicar seu posicionamento diferente: foco total no vendedor, e pede indicação de quem quer vender.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- O café serve para conectar antes de vender — não é etapa de venda, é etapa de vínculo.
+- Pergunta padrão do cliente ('como tá o mercado?') é oportunidade de comunicar posicionamento, não resposta genérica.
+- Fechamento com pedido de indicação incorporado à conversa natural.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ _sem legenda_
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça a mesma tese do post 'esse-dia' do mesmo autor: o café/conversa social é onde a relação de confiança se constrói antes da venda. Aplica-se direto ao atendimento de proprietário de alto padrão em Uberlândia, onde a venda é de relacionamento de longo prazo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

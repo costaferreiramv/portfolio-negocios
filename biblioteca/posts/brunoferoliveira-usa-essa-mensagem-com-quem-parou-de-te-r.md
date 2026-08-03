@@ -3,8 +3,8 @@ titulo: "Usa essa mensagem com quem parou de te responder!"
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/reel/DZYhUsPRIms/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [follow-up, whatsapp, duplicata]
 duracao: "53s"
 data_post: 2026-06-09
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duplicata da mensagem 'houve alguma falha no meu atendimento' já registrada no post 'cliente-que-sumiu' do mesmo autor.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo idêntico ao post irmão já registrado nesta biblioteca.
 
 ## Conteúdo integral
 
@@ -31,8 +31,8 @@ Usa essa mensagem com quem parou de te responder!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `brunoferoliveira-cliente-que-sumiu-nao-precisa-de-cobranc.md` (mesmo conteúdo).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

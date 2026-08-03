@@ -3,8 +3,8 @@ titulo: "Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A v
 autor: "@brunoferoliveira"
 url: https://www.instagram.com/p/DX8cGqljKiX/
 tipo: video
-temas: []
-tags: []
+temas: [vendas, posicionamento]
+tags: [condução-de-conversa, diferenciacao, isca]
 duracao: "35s"
 data_post: 2026-05-05
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumento sobre substituibilidade: se trocar a foto do perfil por outro corretor e nada muda na conversa (mesma tabela, mesmas fotos, mesmo 'estou à disposição'), o corretor é substituível — cliente some porque está recebendo informação genérica, não sendo conduzido. Vende método próprio chamado 'Conversa Validada', com prova social de equipe de R$90mi para R$240mi de VGV em 12 meses.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Teste de substituibilidade: trocar a foto do corretor não muda nada na conversa = corretor genérico.
+- Distinção proposta: 'atendente com CRECI' (informa) x corretor de verdade (conduz).
+- A condução da conversa, não o lead em si, é o que decide se o cliente avança ou some.
 
 ## Conteúdo integral
 
@@ -51,8 +53,8 @@ Se você quer parar de ser ignorado e começar a lotar a sua agenda de visitas r
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O teste de substituibilidade é uma boa autoavaliação: será que a conversa de WhatsApp do Marcus com um lead é distinguível da de qualquer outro corretor da região, ou é só tabela + foto + 'à disposição'? A resposta a essa pergunta orienta se o roteiro de qualificação (já formalizado nesta biblioteca) está sendo de fato aplicado na prática.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

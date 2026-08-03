@@ -4,7 +4,7 @@ codigo: CA5635
 tipo: casa
 bairro: Morada da Colina
 eixo: colina
-preco: 1690000
+preco: 1490000
 areaUtil: 284.56
 areaTerreno: 592.77
 dormitorios: 4

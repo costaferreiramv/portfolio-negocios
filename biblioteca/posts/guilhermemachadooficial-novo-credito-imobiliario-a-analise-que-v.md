@@ -4,7 +4,7 @@ autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/reel/DPpJzOBDnhM/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, noticia, analise-macro]
 duracao: "1min26"
 data_post: 2025-10-10
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Análise macro sobre mudança no crédito habitacional (teto de R$2,25mi, direcionamento de poupança para LCI/LIG), com previsão de alta de preço por estoque baixo (8,2 meses, o menor da história) — aponta possível 'bolha localizada' na faixa de R$1,5-2,25mi se a Selic não cair.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Notícia de política de crédito com análise própria — desatualiza rapidamente, checar validade antes de qualquer uso.
+- Menciona possibilidade de 'bolha localizada' no segmento de R$1,5-2,25mi — informação especulativa, não fato.
 
 ## Conteúdo integral
 
@@ -63,8 +64,8 @@ E você? Já está se preparando para essa mudança ou vai esperar todo mundo de
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — conteúdo de financiamento (proibição absoluta) e previsão especulativa de mercado (risco de promessa de valorização). Serve só como registro de contexto macro, não como fonte de conteúdo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

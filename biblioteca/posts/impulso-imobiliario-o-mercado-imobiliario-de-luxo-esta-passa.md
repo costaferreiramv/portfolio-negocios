@@ -3,19 +3,20 @@ titulo: "O mercado imobiliário de luxo está passando por transformações para
 autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DFaX6-pxl8K/
 tipo: imagem
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [geracao-x, layout, home-office, alto-padrao]
 data_post: 2025-01-29
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Perfil da Geração X (24% dos compradores segundo NAR) no mercado de luxo americano: valoriza escritório separado de área social/dormitório, prioriza cozinha e sala sobre quarto, busca área externa (terraço/varanda). Menos sensível a juros altos que a classe média; prefere imóvel novo a reforma.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Geração X no alto padrão: prioriza escritório separado, área social, área externa — não tamanho de quarto.
+- Alto padrão pouco sensível a alta de juros, prefere novo a reformado (dado dos EUA).
 
 ## Conteúdo integral
 
@@ -33,8 +34,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on January 29, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Dado americano de perfil de comprador — sinaliza tendência que pode orientar o que destacar na descrição de imóvel de alto padrão localmente (escritório, área externa, acabamento pronto), mas sem citar a estatística NAR como dado brasileiro.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

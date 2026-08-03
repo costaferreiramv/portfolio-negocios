@@ -3,8 +3,8 @@ titulo: "O cliente sumiu depois da visita? Na maioria das vezes, o corretor pio"
 autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/reel/Da8QkcouseA/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [follow-up-pos-visita, mensagem-pronta, conducao]
 duracao: "1min43"
 data_post: 2026-07-18
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O que fazer quando o cliente some após a visita: não mandar 'e aí, conseguiu pensar?' (não cria urgência nem valor). Três passos: (1) retomar com contexto específico da visita, não cobrar resposta ('fiquei pensando num ponto que você comentou sobre a localização, encontrei uma informação que pode ajudar'); (2) fazer pergunta fácil de responder, não aberta demais ('o que mais pesou pra você — valor, imóvel ou momento de compra?'); (3) propor próximo passo concreto com opção de horário ('prefere que eu te envie hoje ou amanhã?').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mensagem genérica pós-visita ('e aí, conseguiu pensar?') facilita o silêncio, não quebra ele.
+- Passo 1: retomar com contexto específico do que foi dito na visita, não cobrança.
+- Passo 2: pergunta fechada e fácil de responder, nunca 'o que achou?' (aberta demais, gera preguiça).
+- Passo 3: propor próxima ação com opção de horário — conduz, não implora.
 
 ## Conteúdo integral
 
@@ -44,8 +47,8 @@ Escreve aqui nos comentários. Vou analisar algumas respostas.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Script de follow-up pós-visita pronto e específico — complementa a régua de reativação de carteira (que cobre lead frio) com o momento mais imediato: logo após a visita, quando o silêncio ainda é recente. Diretamente utilizável no WhatsApp do Marcus.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,7 +4,7 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 131
+**Analisados (resumo, pontos-chave e aplicação escritos):** 151
 
 ### Status
 
@@ -49,6 +49,14 @@ automaticamente.
 - [Nos EUA o corretor só abre a casa com carta de pré-aprovação — e isso não é grosseria](posts/eduardovgvendas-pre-aprovacao-eua-x-brasil.md) — @eduardovgvendas
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula
+- [Agora me responde corretor perde mais venda por técnica ou postura?](posts/guilhermemachadooficial-agora-me-responde-corretor-perde-mais-ve.md) — @guilhermemachadooficial
+- [Dono de imobiliária, antes de culpar a falta de leads, responda uma pe](posts/guilhermemachadooficial-dono-de-imobiliaria-antes-de-culpar-a-fa.md) — @guilhermemachadooficial
+- [O cliente entrou no site, viu o imóvel e pediu atendimento. Aí você re](posts/guilhermemachadooficial-o-cliente-entrou-no-site-viu-o-imovel-e.md) — @guilhermemachadooficial
+- [O cliente sumiu depois da visita? Na maioria das vezes, o corretor pio](posts/guilhermemachadooficial-o-cliente-sumiu-depois-da-visita-na-maio.md) — @guilhermemachadooficial
+- [Quem tenta convencer perde força. Quem ajuda o cliente a enxergar o qu](posts/guilhermemachadooficial-quem-tenta-convencer-perde-forca-quem-aj.md) — @guilhermemachadooficial
+- [Quer saber a renda do cliente? Na metodologia QR, entendemos para aten](posts/guilhermemachadooficial-quer-saber-a-renda-do-cliente-na-metodol.md) — @guilhermemachadooficial
+- [Se enviar imóvel resolvesse, todo corretor seria MILIONÁRIO! Será que ](posts/guilhermemachadooficial-se-enviar-imovel-resolvesse-todo-correto.md) — @guilhermemachadooficial
+- [Tem corretor que acha que o cliente não comprou porque faltou condição](posts/guilhermemachadooficial-tem-corretor-que-acha-que-o-cliente-nao.md) — @guilhermemachadooficial
 - [Às vezes o cliente não desiste do imóvel. Ele desiste da forma como o ](posts/kakarivas-as-vezes-o-cliente-nao-desiste-do-imovel.md) — @kakarivas
 - [Corretor quer que o cliente diga quero visitar na hora? Então anota es](posts/kakarivas-corretor-quer-que-o-cliente-diga-quero-v.md) — @kakarivas
 - [Nem sempre o problema está no imóvel, no preço ou no cliente. Às vezes](posts/kakarivas-nem-sempre-o-problema-esta-no-imovel-no.md) — @kakarivas
@@ -159,6 +167,11 @@ automaticamente.
 - [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas-2.md) — @brunoferoliveira
 - [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula
+- [Agora me responde corretor perde mais venda por técnica ou postura?](posts/guilhermemachadooficial-agora-me-responde-corretor-perde-mais-ve.md) — @guilhermemachadooficial
+- [O que Fernanda Torres pode ensinar sobre vendas? Venda não é só técnic](posts/guilhermemachadooficial-o-que-fernanda-torres-pode-ensinar-sobre.md) — @guilhermemachadooficial
+- [Se o cliente ainda não vê valor no corretor, a culpa é do mercado ou d](posts/guilhermemachadooficial-se-o-cliente-ainda-nao-ve-valor-no-corre.md) — @guilhermemachadooficial
+- [Tem coisa mais pobre do que tirar foto de prato caro pra provar que po](posts/guilhermemachadooficial-tem-coisa-mais-pobre-do-que-tirar-foto-d.md) — @guilhermemachadooficial
+- [Tem corretor que acha que o cliente não comprou porque faltou condição](posts/guilhermemachadooficial-tem-corretor-que-acha-que-o-cliente-nao.md) — @guilhermemachadooficial
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo
 - [A pergunta não é quantas pessoas entram no seu Instagram. A pergunta é](posts/kakarivas-a-pergunta-nao-e-quantas-pessoas-entram.md) — @kakarivas
 - [Corretor, depois dos 50 você não precisa competir com quem faz dancinh](posts/kakarivas-corretor-depois-dos-50-voce-nao-precisa.md) — @kakarivas
@@ -195,6 +208,13 @@ automaticamente.
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo
 - [Google testa exibir imóveis direto nos resultados de busca](posts/ibrep-google-imoveis-na-busca.md) — @ibrep
+- [A Geração Z, composta por indivíduos nascidos entre 1997 e 2012, enfre](posts/impulso-imobiliario-a-geracao-z-composta-por-individuos-nasc.md) — @impulso.imobiliario
+- [Comprar e vender imóveis nem sempre exige dinheiro vivo. Em vez de des](posts/impulso-imobiliario-comprar-e-vender-imoveis-nem-sempre-exig.md) — @impulso.imobiliario
+- [O envelhecimento de edifícios em bairros nobres de São Paulo tem gerad](posts/impulso-imobiliario-o-envelhecimento-de-edificios-em-bairros.md) — @impulso.imobiliario
+- [O mercado imobiliário brasileiro tem se tornado cada vez mais inacessí](posts/impulso-imobiliario-o-mercado-imobiliario-brasileiro-tem-se.md) — @impulso.imobiliario
+- [O mercado imobiliário de luxo está passando por uma transformação no p](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa-2.md) — @impulso.imobiliario
+- [O mercado imobiliário de luxo está passando por transformações para at](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa.md) — @impulso.imobiliario
+- [Top 5 cidades para investir em Airbnb no Brasil em 2025 m Reparou algo](posts/impulso-imobiliario-top-5-cidades-para-investir-em-airbnb-no.md) — @impulso.imobiliario
 - [Imóvel de valor maior nao é mais difícil de vender](posts/lucasmarrques-imovel-de-valor-maior-nao-e-mais-dificil.md) — @lucasmarrques
 - [Imóvel fora de preço não é vendido](posts/lucasmarrques-imovel-fora-de-preco-nao-e-vendido.md) — @lucasmarrques
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado
@@ -229,6 +249,9 @@ automaticamente.
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz
 - [Context rot: por que o Claude fica lento e confuso depois de meia hora](posts/ericluciano-context-rot-e-compactacao.md) — @ericluciano
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
+- [Dono de imobiliária, antes de culpar a falta de leads, responda uma pe](posts/guilhermemachadooficial-dono-de-imobiliaria-antes-de-culpar-a-fa.md) — @guilhermemachadooficial
+- [Não é sobre ter patrão ou ser livre . É sobre time que potencializa. F](posts/guilhermemachadooficial-nao-e-sobre-ter-patrao-ou-ser-livre-e-so.md) — @guilhermemachadooficial
+- [Corretores de Imóveis tem até o dia 31 de janeiro de 2025 para fazer s](posts/impulso-imobiliario-corretores-de-imoveis-tem-ate-o-dia-31-d.md) — @impulso.imobiliario
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-3.md) — @kakarivas
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-4.md) — @kakarivas
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-6.md) — @kakarivas
@@ -269,6 +292,7 @@ automaticamente.
 ### mentalidade
 
 - [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-3.md) — @brunoferoliveira
+- [Tem coisa mais pobre do que tirar foto de prato caro pra provar que po](posts/guilhermemachadooficial-tem-coisa-mais-pobre-do-que-tirar-foto-d.md) — @guilhermemachadooficial
 - [Corretor, depois dos 50 você não precisa competir com quem faz dancinh](posts/kakarivas-corretor-depois-dos-50-voce-nao-precisa.md) — @kakarivas
 - [Qual foi a sua maior dificuldade?](posts/lucasmarrques-qual-foi-a-sua-maior-dificuldade.md) — @lucasmarrques
 - [Renda variável não sustenta despesa fixa: o erro que faz o corretor virar refém da próxima venda](posts/marcele-corretora-renda-variavel-despesa-fixa.md) — @marcele_corretora
@@ -334,8 +358,28 @@ automaticamente.
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive · video · 2026-06-29
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino · reel · 2026-07-21
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula · reel · 2026-07-15
+- [Agora me responde corretor perde mais venda por técnica ou postura?](posts/guilhermemachadooficial-agora-me-responde-corretor-perde-mais-ve.md) — @guilhermemachadooficial · reel · 2026-06-02
+- [Dono de imobiliária, antes de culpar a falta de leads, responda uma pe](posts/guilhermemachadooficial-dono-de-imobiliaria-antes-de-culpar-a-fa.md) — @guilhermemachadooficial · carrossel · 2026-07-03
+- [Não é sobre ter patrão ou ser livre . É sobre time que potencializa. F](posts/guilhermemachadooficial-nao-e-sobre-ter-patrao-ou-ser-livre-e-so.md) — @guilhermemachadooficial · reel · 2025-10-28
+- [O cliente entrou no site, viu o imóvel e pediu atendimento. Aí você re](posts/guilhermemachadooficial-o-cliente-entrou-no-site-viu-o-imovel-e.md) — @guilhermemachadooficial · reel · 2026-06-16
+- [O cliente sumiu depois da visita? Na maioria das vezes, o corretor pio](posts/guilhermemachadooficial-o-cliente-sumiu-depois-da-visita-na-maio.md) — @guilhermemachadooficial · reel · 2026-07-18
+- [O que Fernanda Torres pode ensinar sobre vendas? Venda não é só técnic](posts/guilhermemachadooficial-o-que-fernanda-torres-pode-ensinar-sobre.md) — @guilhermemachadooficial · carrossel · 2025-03-04
+- [Quem tenta convencer perde força. Quem ajuda o cliente a enxergar o qu](posts/guilhermemachadooficial-quem-tenta-convencer-perde-forca-quem-aj.md) — @guilhermemachadooficial · reel · 2026-05-26
+- [Quer saber a renda do cliente? Na metodologia QR, entendemos para aten](posts/guilhermemachadooficial-quer-saber-a-renda-do-cliente-na-metodol.md) — @guilhermemachadooficial · reel · 2024-11-06
+- [Se enviar imóvel resolvesse, todo corretor seria MILIONÁRIO! Será que ](posts/guilhermemachadooficial-se-enviar-imovel-resolvesse-todo-correto.md) — @guilhermemachadooficial · reel · 2024-09-17
+- [Se o cliente ainda não vê valor no corretor, a culpa é do mercado ou d](posts/guilhermemachadooficial-se-o-cliente-ainda-nao-ve-valor-no-corre.md) — @guilhermemachadooficial · reel · 2025-02-04
+- [Tem coisa mais pobre do que tirar foto de prato caro pra provar que po](posts/guilhermemachadooficial-tem-coisa-mais-pobre-do-que-tirar-foto-d.md) — @guilhermemachadooficial · reel · 2026-03-25
+- [Tem corretor que acha que o cliente não comprou porque faltou condição](posts/guilhermemachadooficial-tem-corretor-que-acha-que-o-cliente-nao.md) — @guilhermemachadooficial · reel · 2026-06-15
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo · carrossel · 2026-07-27
 - [Google testa exibir imóveis direto nos resultados de busca](posts/ibrep-google-imoveis-na-busca.md) — @ibrep · carrossel · 2026-07-21
+- [A Geração Z, composta por indivíduos nascidos entre 1997 e 2012, enfre](posts/impulso-imobiliario-a-geracao-z-composta-por-individuos-nasc.md) — @impulso.imobiliario · imagem · 2025-04-08
+- [Comprar e vender imóveis nem sempre exige dinheiro vivo. Em vez de des](posts/impulso-imobiliario-comprar-e-vender-imoveis-nem-sempre-exig.md) — @impulso.imobiliario · imagem · 2025-11-21
+- [Corretores de Imóveis tem até o dia 31 de janeiro de 2025 para fazer s](posts/impulso-imobiliario-corretores-de-imoveis-tem-ate-o-dia-31-d.md) — @impulso.imobiliario · imagem · 2025-01-23
+- [O envelhecimento de edifícios em bairros nobres de São Paulo tem gerad](posts/impulso-imobiliario-o-envelhecimento-de-edificios-em-bairros.md) — @impulso.imobiliario · imagem · 2025-09-14
+- [O mercado imobiliário brasileiro tem se tornado cada vez mais inacessí](posts/impulso-imobiliario-o-mercado-imobiliario-brasileiro-tem-se.md) — @impulso.imobiliario · imagem · 2025-02-09
+- [O mercado imobiliário de luxo está passando por uma transformação no p](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa-2.md) — @impulso.imobiliario · imagem · 2025-01-27
+- [O mercado imobiliário de luxo está passando por transformações para at](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa.md) — @impulso.imobiliario · imagem · 2025-01-29
+- [Top 5 cidades para investir em Airbnb no Brasil em 2025 m Reparou algo](posts/impulso-imobiliario-top-5-cidades-para-investir-em-airbnb-no.md) — @impulso.imobiliario · reel · 2025-10-21
 - [A pergunta não é quantas pessoas entram no seu Instagram. A pergunta é](posts/kakarivas-a-pergunta-nao-e-quantas-pessoas-entram.md) — @kakarivas · carrossel · 2026-07-10
 - [A primeira frase do vídeo decide se a pessoa vai continuar assistindo ](posts/kakarivas-a-primeira-frase-do-video-decide-se-a-pe.md) — @kakarivas · carrossel · 2026-06-17
 - [Ao invés de tentar se filmar falando sobre os imóveis faça isso 1. Gra](posts/kakarivas-ao-inves-de-tentar-se-filmar-falando-sob.md) — @kakarivas · reel · 2026-06-23

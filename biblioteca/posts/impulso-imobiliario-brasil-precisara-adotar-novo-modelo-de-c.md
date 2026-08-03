@@ -4,18 +4,18 @@ autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DIzau3QRzcc/
 tipo: imagem
 temas: []
-tags: []
+tags: [financiamento, noticia, banco-central]
 data_post: 2025-04-23
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Declaração do presidente do BC sobre esgotamento do modelo de funding via poupança para crédito imobiliário, e necessidade de migrar para captação via mercado de capitais (securitização, LCI).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Notícia de política macro de crédito — desatualiza rápido.
 
 ## Conteúdo integral
 
@@ -41,8 +41,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on April 23, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — conteúdo de financiamento, proibição absoluta.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

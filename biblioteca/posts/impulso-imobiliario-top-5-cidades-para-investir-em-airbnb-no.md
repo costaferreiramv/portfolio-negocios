@@ -3,8 +3,8 @@ titulo: "Top 5 cidades para investir em Airbnb no Brasil em 2025 m Reparou algo"
 autor: "@impulso.imobiliario"
 url: https://www.instagram.com/reel/DQC50rcjs4o/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [airbnb, litoral, rentabilidade, fora-do-nicho]
 duracao: "1min48"
 data_post: 2025-10-21
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ranking (fonte: MySide 2025) das 5 cidades litorâneas mais rentáveis para investir em imóvel de aluguel por temporada no Brasil: Itapema, Vila Velha, Balneário Camboriú, Itajaí, Florianópolis — todas com retorno anual entre 14-16%.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Ranking com fonte e metodologia declaradas — dado mais confiável que a média da conta.
+- Todas as cidades do ranking são litorâneas — Uberlândia (interior) está fora desse mercado por definição.
 
 ## Conteúdo integral
 
@@ -44,8 +45,8 @@ MySide 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Fora do nicho geográfico e de produto do Marcus (interior, não litoral; residencial de alto padrão, não short-stay). Sem aplicação direta, mas o formato (ranking com fonte e metodologia) é modelo de como apresentar dado com credibilidade.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

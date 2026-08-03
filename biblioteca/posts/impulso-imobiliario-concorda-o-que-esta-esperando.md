@@ -4,7 +4,7 @@ autor: "@impulso.imobiliario"
 url: https://www.instagram.com/reel/DPpJ4JpDi9G/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, urgencia, taxa-de-juros]
 duracao: "55s"
 data_post: 2025-10-10
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que esperar a taxa de juros cair para comprar é decisão ruim, porque a queda será lenta (previsão: 15% até fim do ano, 14% no ano seguinte) enquanto o preço dos imóveis continua subindo — 'quanto mais você demorar, mais caro vai pagar e menor o imóvel vai ser'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mesmo argumento do viés do status quo já registrado (@gilson-tangerino) — adiar decisão não é neutro, tem custo.
+- Mistura taxa de juros/financiamento explicitamente.
 
 ## Conteúdo integral
 
@@ -32,8 +33,8 @@ O que está esperando?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+A tese comportamental (adiar tem custo) já está registrada em post melhor fundamentado nesta biblioteca. Não usar esta versão porque mistura financiamento e projeção de preço futuro — dois problemas de compliance (proibição de financiamento + promessa de valorização).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

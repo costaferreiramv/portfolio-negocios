@@ -3,19 +3,19 @@ titulo: "Comprar e vender imóveis nem sempre exige dinheiro vivo. Em vez de des
 autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DRS4ujMjnzQ/
 tipo: imagem
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [permuta, torna]
 data_post: 2025-11-21
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Explica permuta imobiliária (troca de propriedades) e o conceito de 'torna' — pagamento que compensa a diferença de valor entre os bens trocados.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Definição técnica: permuta com torna quando há diferença de valor entre os imóveis trocados.
 
 ## Conteúdo integral
 
@@ -29,8 +29,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on November 21, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Termo técnico relevante para negociação de permuta, já coberto com mais profundidade no post do @lucasmarrques sobre 'transformar a permuta em dinheiro'.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

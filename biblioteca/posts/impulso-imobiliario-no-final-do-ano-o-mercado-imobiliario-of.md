@@ -4,18 +4,18 @@ autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DDaXCaNRSJX/
 tipo: imagem
 temas: []
-tags: []
+tags: [financiamento, sazonalidade]
 data_post: 2024-12-10
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que final de ano é bom momento para financiamento por promoções de taxa dos bancos buscando bater meta anual.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tese de sazonalidade de crédito no fim do ano — sobre financiamento.
 
 ## Conteúdo integral
 
@@ -31,8 +31,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on December 10, 2024.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — financiamento, proibição absoluta.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

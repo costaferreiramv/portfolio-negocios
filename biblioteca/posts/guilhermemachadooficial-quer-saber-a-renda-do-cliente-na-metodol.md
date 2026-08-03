@@ -3,8 +3,8 @@ titulo: "Quer saber a renda do cliente? Na metodologia QR, entendemos para aten"
 autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/reel/DCEVQA0vfRi/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [qualificacao, metodologia-qr, escuta-ativa]
 duracao: "1min29"
 data_post: 2024-11-06
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Defende nunca perguntar a renda do cliente diretamente — é invasivo e desnecessário. A 'Metodologia QR' propõe entender para atender (não atender para vender): apresentar imóvel de interesse e deixar a marcação de interesse vir organicamente do cliente (perguntas sobre dormitórios, localização, lazer). 'Seja diferente, corretor. Seja interessante e não interesseiro.'
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Nunca perguntar renda diretamente — invasivo e desnecessário.
+- 'Entender para atender, não atender para vender' — princípio central da Metodologia QR.
+- A marcação de interesse (características desejadas) surge organicamente durante a conversa, sem interrogatório.
 
 ## Conteúdo integral
 
@@ -34,8 +36,8 @@ Você já experimentou esse tipo de abordagem?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Contraponto útil aos scripts de qualificação mais diretos (MRPC, roteiro do @marcele_corretora): para cliente de alto padrão, que costuma ser mais reservado, uma abordagem mais orgânica pode funcionar melhor que uma bateria de perguntas — vale como estilo alternativo a testar conforme o perfil do cliente.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

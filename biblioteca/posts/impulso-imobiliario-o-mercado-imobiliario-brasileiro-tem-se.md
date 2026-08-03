@@ -3,19 +3,20 @@ titulo: "O mercado imobiliário brasileiro tem se tornado cada vez mais inacess�
 autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DF3hMw6RCHA/
 tipo: imagem
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [classe-media, exclusao, especulacao]
 data_post: 2025-02-09
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Análise sobre classe média sendo 'despejada' do mercado imobiliário em grandes centros (SP, RJ) pela valorização puxada por investimento estrangeiro e especulação, com incorporadoras concentrando lançamento em alto padrão e deixando a classe média sem opção.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tendência (grandes centros): incorporadoras migrando para alto padrão, reduzindo oferta para classe média.
+- Fenômeno específico de metrópole (SP/RJ) — não necessariamente replicável em Uberlândia.
 
 ## Conteúdo integral
 
@@ -35,8 +36,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on February 09, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Contexto macro de mercado, sem aplicação local direta — Uberlândia não tem a mesma pressão de investimento estrangeiro que SP/RJ. Útil só como pano de fundo se for discutir por que o segmento de alto padrão cresce nacionalmente.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

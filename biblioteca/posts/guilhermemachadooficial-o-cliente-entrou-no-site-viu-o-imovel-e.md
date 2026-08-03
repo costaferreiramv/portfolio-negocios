@@ -3,8 +3,8 @@ titulo: "O cliente entrou no site, viu o imóvel e pediu atendimento. Aí você 
 autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/reel/DZpavPJu0hU/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [primeiro-contato, conducao, perguntas]
 duracao: "2min21"
 data_post: 2026-06-16
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Erro comum: cliente vê imóvel no site/portal, pede mais informação, e o corretor responde mandando o link do mesmo imóvel que ele acabou de ver — desperdiçando o momento. O cliente está comprando tempo e orientação, não um link. Correção: fazer perguntas que conduzem a conversa ('o que chamou sua atenção nesse imóvel?', 'qual informação você não encontrou no anúncio?').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Erro clássico: responder ao primeiro contato reenviando o link do imóvel que o cliente já viu.
+- O cliente está comprando tempo, orientação e direção — não informação que ele já tem.
+- Perguntas de condução recomendadas: 'o que chamou sua atenção?', 'qual informação você não encontrou no anúncio?'
+- 'Corretor que converte conduz. Corretor que não converte encaminha link.'
 
 ## Conteúdo integral
 
@@ -41,8 +44,8 @@ Você ainda manda o link do imóvel na primeira mensagem?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Correção imediatamente aplicável ao primeiro atendimento de lead vindo do site/Canal Pro do Portfólio Negócios — checar se a resposta automática ou manual reenvia o link (erro) em vez de abrir com pergunta de condução. Complementa o roteiro de qualificação do @marcele_corretora com a razão exata de por que reenviar o link falha.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

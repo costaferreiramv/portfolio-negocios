@@ -3,19 +3,21 @@ titulo: "Corretores de Imóveis tem até o dia 31 de janeiro de 2025 para fazer 
 autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DFLrNf6Rlb9/
 tipo: imagem
-temas: []
-tags: []
+temas: [gestao]
+tags: [coaf, compliance, legal, cofeci]
 data_post: 2025-01-23
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Obrigação legal (Resolução COFECI 1.336/2014, baseada na Lei 9.613/1998, prevenção à lavagem de dinheiro) do corretor de fazer 'Comunicação de Não Ocorrência' ao COAF até 31/01, informando se houve ou não transação suspeita no ano anterior (pagamento em dinheiro vivo, moeda estrangeira, joia, obra de arte, com dúvida sobre procedência).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Obrigação legal anual do corretor: comunicar ao COAF, via COFECI, ocorrência ou não-ocorrência de transação suspeita.
+- Prazo: 31 de janeiro, referente ao ano anterior.
+- Descumprimento sujeita a multa.
 
 ## Conteúdo integral
 
@@ -46,8 +48,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on January 23, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Obrigação legal real e verificável (Lei 9.613/1998) — não é conteúdo de marketing, é lembrete de compliance profissional. Vale conferir o cumprimento anual dessa obrigação na operação do Marcus, independente de qualquer estratégia de conteúdo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

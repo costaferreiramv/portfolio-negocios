@@ -3,8 +3,8 @@ titulo: "Não é sobre ter patrão ou ser livre . É sobre time que potencializa
 autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/reel/DQWbeHajkA6/
 tipo: reel
-temas: []
-tags: []
+temas: [gestao]
+tags: [autonomo-x-imobiliaria, time, criterios-de-escolha]
 duracao: "1min24"
 data_post: 2025-10-28
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumento contra a dicotomia 'imobiliária escraviza x autônomo é livre': o que importa não é o modelo, é o time. Três perguntas para escolher onde trabalhar: como medem performance por etapa do funil, que treinamentos/rituais semanais existem, quais cases do time nos últimos 90 dias.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Falso dilema: não é imobiliária x autônomo, é time certo x time errado.
+- Três perguntas de diagnóstico para escolher onde trabalhar: métrica por etapa de funil, rituais de treinamento, cases recentes.
+- 'Autonomia não é trabalhar sozinho, é decidir com base em dados e ter time que potencializa'.
 
 ## Conteúdo integral
 
@@ -48,8 +50,8 @@ Qual imobiliária te faz performar melhor? Comenta aqui.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O Marcus já opera como autônomo — as três perguntas servem de checklist inverso: se ele viesse a montar equipe, são os pilares que precisaria oferecer (métrica de funil, ritual de treino, cases recentes) para atrair bons corretores.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

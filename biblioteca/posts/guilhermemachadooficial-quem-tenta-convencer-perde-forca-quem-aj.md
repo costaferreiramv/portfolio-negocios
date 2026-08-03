@@ -3,8 +3,8 @@ titulo: "Quem tenta convencer perde força. Quem ajuda o cliente a enxergar o qu
 autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/reel/DYzPADIO_90/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [persuasao, frases-prontas, condução-de-conversa]
 duracao: "1min51"
 data_post: 2026-05-26
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Três frases que trocam persuasão por condução: (1) 'me ajude a entender melhor' — quando o cliente faz afirmação genérica ('está caro', 'já vi melhor'), perguntar em vez de defender o imóvel, transferindo o ônus da explicação para o cliente; (2) 'eu vejo isso de forma diferente' — opinião sem confronto, sinaliza leitura própria de especialista; (3) 'depende do que é mais importante para você' — tira a conversa do campo da opinião e leva ao campo da prioridade (preço, localização, liquidez, condição).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Frase 1: 'me ajude a entender melhor' — quem pergunta assume o controle do diagnóstico.
+- Frase 2: 'eu vejo isso de forma diferente' — opinião sem confronto, sinal de especialista.
+- Frase 3: 'depende do que é mais importante para você' — desloca a conversa de opinião para prioridade.
+- Tese: autoridade não é falar mais alto, é fazer a pergunta certa no momento certo.
 
 ## Conteúdo integral
 
@@ -40,8 +43,8 @@ Comenta aqui embaixo 👇
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Três frases prontas e testáveis para objeção de preço/comparação em atendimento de alto padrão — encaixam diretamente no roteiro de qualificação e quebra de objeção já em construção nesta biblioteca. Mais sofisticadas que responder com defesa do imóvel ou desconto.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

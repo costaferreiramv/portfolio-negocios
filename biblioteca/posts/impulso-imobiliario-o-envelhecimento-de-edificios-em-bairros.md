@@ -3,19 +3,21 @@ titulo: "O envelhecimento de edifícios em bairros nobres de São Paulo tem gera
 autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DOldJkgjngY/
 tipo: imagem
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [manutencao, desvalorizacao, condominio-antigo]
 data_post: 2025-09-14
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Análise sobre envelhecimento de prédios em bairros nobres de São Paulo: custo de manutenção cresce, taxa de condomínio sobe, imóvel desvaloriza e demora mais para vender — concorrência com empreendimento novo com infraestrutura moderna torna a situação pior.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Prédio antigo em bairro nobre pode desvalorizar por custo crescente de manutenção, não por localização.
+- Concorrência de empreendimento novo acelera a obsolescência do antigo.
+- Gestão eficiente e reforma estratégica são apontadas como resposta necessária.
 
 ## Conteúdo integral
 
@@ -29,8 +31,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on September 14, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Confirma, para outro mercado, a mesma tese do post da @homeluxo sobre manutenção e percepção de valor. Relevante para captação em Uberlândia: condomínio mais antigo na Zona Sul precisa de atenção redobrada a manutenção visível antes de anunciar, para não competir em desvantagem com lançamento novo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

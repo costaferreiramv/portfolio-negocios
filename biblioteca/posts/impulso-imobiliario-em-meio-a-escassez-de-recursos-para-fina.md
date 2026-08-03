@@ -4,18 +4,18 @@ autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DDXJpUwRo9P/
 tipo: imagem
 temas: []
-tags: []
+tags: [financiamento, noticia, caixa]
 data_post: 2024-12-09
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Notícia sobre nova linha de crédito da Caixa para imóveis acima de R$1,5 milhão (Crédito Imobiliário CDI), com juros atrelados ao CDI em vez de poupança.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Notícia específica de produto de crédito — desatualizada e sobre financiamento.
 
 ## Conteúdo integral
 
@@ -40,8 +40,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on December 09, 2024.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — financiamento, proibição absoluta.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

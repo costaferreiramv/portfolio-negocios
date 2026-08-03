@@ -3,19 +3,20 @@ titulo: "A Geração Z, composta por indivíduos nascidos entre 1997 e 2012, enf
 autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DIMCxaeoMHb/
 tipo: imagem
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [geracao-z, transferencia-de-riqueza, dado-macro]
 data_post: 2025-04-08
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Cita projeção do Bank of America: riqueza global da Geração Z (nascidos 1997-2012) de US$9 trilhões em 2023 para US$36 tri em 2030 e US$74 tri em 2040, impulsionada pela 'Grande Transferência de Riqueza' (~US$84 tri de gerações mais velhas até 2045), apesar das dificuldades atuais de aluguel e compra.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Projeção (verificar fonte original antes de citar): Geração Z se tornará a mais rica da história via herança geracional.
+- Contraste: dificuldade atual de acesso a moradia x projeção de riqueza futura.
 
 ## Conteúdo integral
 
@@ -35,8 +36,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on April 08, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Dado macro global, não local — sem aplicação direta ao mercado de Uberlândia. Poderia servir de contexto para conteúdo sobre planejamento patrimonial de longo prazo, se a fonte for confirmada.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

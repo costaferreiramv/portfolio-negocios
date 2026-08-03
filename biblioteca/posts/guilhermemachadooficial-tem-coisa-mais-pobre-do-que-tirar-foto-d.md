@@ -3,8 +3,8 @@ titulo: "Tem coisa mais pobre do que tirar foto de prato caro pra provar que po"
 autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/reel/DWTibAOjtnG/
 tipo: reel
-temas: []
-tags: []
+temas: [mentalidade, posicionamento]
+tags: [ostentacao, autenticidade, validacao-social]
 duracao: "1min13"
 data_post: 2026-03-25
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Crítica à ostentação nas redes (foto de prato caro, relógio, chave de carro) como sinal de necessidade de validação, não de riqueza real: 'quem é, não anuncia'. Contraste entre 'quem vive para mostrar' e 'quem mostra porque vive'. Fecha perguntando se o espectador está construindo patrimônio ou personagem.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Ostentação recorrente nas redes é lida como sinal de necessidade de validação, não de sucesso real.
+- Distinção: 'quem vive para mostrar' x 'quem mostra porque vive' — a segunda é autêntica, a primeira é performance.
+- Pergunta de fechamento forte: 'você está construindo patrimônio ou personagem?'
 
 ## Conteúdo integral
 
@@ -62,8 +64,8 @@ ou personagem?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Alinha-se diretamente com o post da @brunamalucelli sobre luxo vender visão, não ostentação — e com a crítica do @brunoferoliveira ao book fotográfico caro sem resultado. Reforça que o posicionamento de alto padrão do Marcus deve vir de conhecimento e resultado real, nunca de estética de riqueza performada.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "Dono de imobiliária, antes de culpar a falta de leads, responda uma pe
 autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/p/DaViqiBljpQ/
 tipo: carrossel
-temas: []
-tags: []
+temas: [gestao, vendas]
+tags: [diagnostico, processo-de-atendimento, isca]
 slides: 12
 data_post: 2026-07-03
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Pergunta para dono de imobiliária: antes de culpar a falta de lead, o time sabe diagnosticar o cliente? Se não, o problema não é volume de oportunidade, é processo de atendimento — a venda escapa antes mesmo da visita ou proposta.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Reformula o diagnóstico comum ('falta lead') para o real gargalo: falta de diagnóstico no atendimento.
+- A venda começa a escapar antes da visita, não durante a negociação.
 
 ## Conteúdo integral
 
@@ -40,8 +41,8 @@ Photo by Guilherme Machado | Quebre As Regras on July 03, 2026. May be a Twitter
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesma tese repetida em toda a biblioteca sob ângulos diferentes: o gargalo é qualificação/condução, não volume de lead. Reforça a prioridade de revisar o processo de atendimento antes de aumentar verba de anúncio.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

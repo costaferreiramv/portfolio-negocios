@@ -4,18 +4,18 @@ autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DRQJpp_Dine/
 tipo: imagem
 temas: []
-tags: []
+tags: [consorcio, financiamento, isca]
 data_post: 2025-11-19
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Descreve modelo de 'auto quitação' combinando consórcio com aluguel por temporada (Airbnb/Housi) para pagar as parcelas, voltado a brasileiros expatriados. Promete rentabilidade de até 1,4% ao mês.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Modelo combina consórcio (crédito) com renda de aluguel de temporada — mistura financiamento e promessa de retorno específico.
 
 ## Conteúdo integral
 
@@ -33,8 +33,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on November 19, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — envolve financiamento/consórcio (proibição absoluta) e promessa de rentabilidade específica (1,4%/mês), que não pode aparecer em nenhuma peça do Portfólio Negócios.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

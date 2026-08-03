@@ -3,19 +3,20 @@ titulo: "O mercado imobiliário de luxo está passando por uma transformação n
 autor: "@impulso.imobiliario"
 url: https://www.instagram.com/p/DFVOPF3xOfb/
 tipo: imagem
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [perfil-do-comprador, mulheres, millennials, alto-padrao]
 data_post: 2025-01-27
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mudança de perfil do comprador de luxo nos EUA: mulheres solteiras com patrimônio alto e millennials ganham espaço, priorizando localização urbana, sustentabilidade e design moderno sobre metragem tradicional.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Dado dos EUA (National Association of Realtors e outros) — não necessariamente transferível ao Brasil sem adaptação.
+- Millennials no alto padrão valorizam estilo de vida (localização, sustentabilidade, design) mais que tamanho.
 
 ## Conteúdo integral
 
@@ -29,8 +30,8 @@ Photo by Impulso Imobiliário - Mercado Imobiliário on January 27, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sinal de tendência internacional a observar, não dado local. Se comprovado localmente, reforça a tese já usada aqui de vender estilo de vida em vez de ficha técnica — mas não citar estatística americana como se fosse do mercado de Uberlândia.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

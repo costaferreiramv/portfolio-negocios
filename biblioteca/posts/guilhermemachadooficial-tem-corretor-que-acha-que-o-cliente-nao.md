@@ -3,8 +3,8 @@ titulo: "Tem corretor que acha que o cliente não comprou porque faltou condiç�
 autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/reel/DZnYi_RgfQl/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, posicionamento]
+tags: [postura, alto-padrao, cliente-forte, autoridade]
 duracao: "2min45"
 data_post: 2026-06-15
 processado_em: 2026-07-30
@@ -12,11 +12,15 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Dirigido especificamente a atendimento de cliente de alto padrão/investidor/incorporador: excesso de simpatia (sorrir demais, concordar demais, rir de piada sem graça) não gera conexão com esse público, gera desconfiança — o cérebro do cliente lê 'esse cara quer alguma coisa de mim'. Três táticas: entrar devagar e observar antes de falar; sustentar o olhar sem encarar; falar menos e melhor. Cliente de alto padrão não quer bajulação, quer clareza — vinda de diagnóstico, repertório e condução.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Excesso de simpatia com cliente de alto padrão/investidor gera desconfiança, não conexão.
+- Tática 1: entrar devagar, observar o ambiente antes de falar.
+- Tática 2: sustentar o olhar sem desviar, sem se diminuir diante de quem 'parece grande'.
+- Tática 3: falar menos e melhor — corretor ansioso fala demais, rápido demais.
+- Cliente forte não quer bajulação, quer clareza: diagnóstico + repertório + condução.
 
 ## Conteúdo integral
 
@@ -55,8 +59,8 @@ qual é o maior erro de postura que você vê em corretor quando está diante de
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**O post mais diretamente aplicável deste autor ao público exato do Marcus** (empresário, investidor, alto padrão em Uberlândia). As três táticas de postura (entrar devagar, sustentar o olhar, falar menos) são orientação de comportamento em visita e reunião, complementando tudo que já está registrado sobre condução verbal — aqui é sobre condução não-verbal.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

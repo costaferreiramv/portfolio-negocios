@@ -3,8 +3,8 @@ titulo: "Agora me responde corretor perde mais venda por técnica ou postura?"
 autor: "@guilhermemachadooficial"
 url: https://www.instagram.com/reel/DZFVufcOerH/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, posicionamento]
+tags: [postura, linguagem-corporal, autoridade]
 duracao: "3min10"
 data_post: 2026-06-02
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tese: o cliente avalia o corretor antes de ouvir qualquer argumento — pela postura, ritmo, ansiedade, pressa. Corretor que chega acelerado, fala demais e tenta provar valor o tempo todo comunica 'eu preciso muito dessa venda', e quando o cliente sente que o corretor precisa mais da venda do que ele da compra, a autoridade se perde. Também: ouvir para entender, não ouvir esperando a vez de responder.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- A avaliação do cliente começa na postura, antes de qualquer argumento técnico ser dito.
+- Pressa e excesso de fala comunicam necessidade — e necessidade percebida destrói autoridade.
+- Ouvir 'esperando a hora de responder' (preparando o próximo argumento) é diferente de ouvir para entender — o cliente sente a diferença.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ corretor perde mais venda por técnica ou postura?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Princípio de condução para visita presencial de alto padrão: calma, observação do ambiente e escuta genuína pesam tanto quanto o discurso técnico. Reforça o registro de visão (não pressão) já identificado como correto para esse público nesta biblioteca.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

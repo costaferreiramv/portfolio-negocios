@@ -8,7 +8,7 @@ tags: [edicao-de-video, claude, capcut]
 duracao: "2min00"
 data_post: 2026-07-04
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

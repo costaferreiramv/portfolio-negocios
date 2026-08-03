@@ -8,7 +8,7 @@ tags: [interrupcao, controle-de-cena]
 duracao: "1min51"
 data_post: 2026-02-25
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

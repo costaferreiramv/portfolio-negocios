@@ -8,7 +8,7 @@ tags: [objecao, exclusividade, primeiro-contato]
 duracao: "43s"
 data_post: 2026-07-01
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -8,7 +8,7 @@ tags: [airbnb, litoral, rentabilidade, fora-do-nicho]
 duracao: "1min48"
 data_post: 2025-10-21
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

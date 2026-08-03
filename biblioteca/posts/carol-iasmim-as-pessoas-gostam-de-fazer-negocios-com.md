@@ -8,7 +8,7 @@ tags: [persistencia, autoridade, posicionamento]
 duracao: "2min21"
 data_post: 2025-07-24
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -7,7 +7,7 @@ temas: [mercado-imobiliario]
 tags: [deficit-habitacional, minha-casa-minha-vida, dado-macro]
 data_post: 2025-09-10
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

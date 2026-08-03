@@ -8,7 +8,7 @@ tags: [exclusividade, precificacao, proposta]
 duracao: "55s"
 data_post: 2026-06-17
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -7,7 +7,7 @@ temas: [mercado-imobiliario]
 tags: [geracao-z, transferencia-de-riqueza, dado-macro]
 data_post: 2025-04-08
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

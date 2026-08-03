@@ -8,7 +8,7 @@ tags: [objecoes, confianca, isca]
 duracao: "34s"
 data_post: 2025-05-08
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

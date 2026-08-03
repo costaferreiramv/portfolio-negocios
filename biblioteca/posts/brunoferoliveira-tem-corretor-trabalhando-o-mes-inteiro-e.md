@@ -8,7 +8,7 @@ tags: [follow-up, mensagem-pronta, isca]
 duracao: "58s"
 data_post: 2026-06-19
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

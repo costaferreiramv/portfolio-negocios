@@ -8,7 +8,7 @@ tags: [alto-padrao, cliente-rico, autoridade, prova-social-qualificada]
 duracao: "2min24"
 data_post: 2026-01-08
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

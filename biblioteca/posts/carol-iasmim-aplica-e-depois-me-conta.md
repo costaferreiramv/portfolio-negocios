@@ -8,7 +8,7 @@ tags: [pos-venda, ego-do-cliente, fechamento]
 duracao: "1min04"
 data_post: 2026-06-14
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

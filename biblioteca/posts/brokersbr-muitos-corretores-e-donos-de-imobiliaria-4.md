@@ -8,7 +8,7 @@ tags: [isca, curso, duplicata]
 duracao: "49s"
 data_post: 2025-08-09
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

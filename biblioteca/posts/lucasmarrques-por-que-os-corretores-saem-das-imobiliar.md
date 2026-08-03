@@ -8,7 +8,7 @@ tags: [remuneracao, carreira, corretor-como-empresa]
 duracao: "5min46"
 data_post: 2025-09-28
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

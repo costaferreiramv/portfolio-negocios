@@ -8,7 +8,7 @@ tags: [certidao-de-condominio, divida-do-imovel, due-diligence]
 duracao: "2min18"
 data_post: 2026-07-13
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

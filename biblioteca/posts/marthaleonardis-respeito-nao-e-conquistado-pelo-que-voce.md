@@ -8,7 +8,7 @@ tags: [limites, interrupcao, frases-prontas]
 duracao: "2min03"
 data_post: 2026-02-26
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

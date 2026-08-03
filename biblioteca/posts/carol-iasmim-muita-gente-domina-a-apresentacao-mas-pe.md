@@ -8,7 +8,7 @@ tags: [fechamento, conducao, exemplo-imobiliario, urgencia-falsa]
 duracao: "2min12"
 data_post: 2026-04-22
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

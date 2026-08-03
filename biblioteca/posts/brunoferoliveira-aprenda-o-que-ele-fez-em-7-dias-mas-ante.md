@@ -8,7 +8,7 @@ tags: [isca, curso, follow-up, auto-diagnostico]
 duracao: "1min18"
 data_post: 2026-05-12
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

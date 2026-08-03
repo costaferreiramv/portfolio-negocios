@@ -8,7 +8,7 @@ tags: [app, curiosidade]
 duracao: "54s"
 data_post: 2025-02-07
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -8,7 +8,7 @@ tags: [valor-do-corretor, seguranca-na-negociacao, pesquisa]
 duracao: "1min30"
 data_post: 2025-02-04
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

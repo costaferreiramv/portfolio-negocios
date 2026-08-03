@@ -7,7 +7,7 @@ temas: [mercado-imobiliario]
 tags: [classe-media, exclusao, especulacao]
 data_post: 2025-02-09
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

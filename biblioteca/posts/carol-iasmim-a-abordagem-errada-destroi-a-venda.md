@@ -8,7 +8,7 @@ tags: [prospeccao, autoridade, clareza]
 duracao: "2min48"
 data_post: 2026-06-19
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

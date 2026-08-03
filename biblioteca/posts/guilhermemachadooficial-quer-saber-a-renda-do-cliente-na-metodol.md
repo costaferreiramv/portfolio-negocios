@@ -8,7 +8,7 @@ tags: [qualificacao, metodologia-qr, escuta-ativa]
 duracao: "1min29"
 data_post: 2024-11-06
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

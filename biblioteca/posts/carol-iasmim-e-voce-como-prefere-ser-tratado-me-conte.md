@@ -8,7 +8,7 @@ tags: [nome-do-cliente, tratamento, rapport]
 duracao: "1min25"
 data_post: 2026-06-11
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

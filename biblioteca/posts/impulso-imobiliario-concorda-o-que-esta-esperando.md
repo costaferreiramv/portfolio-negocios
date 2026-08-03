@@ -8,7 +8,7 @@ tags: [financiamento, urgencia, taxa-de-juros]
 duracao: "55s"
 data_post: 2025-10-10
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

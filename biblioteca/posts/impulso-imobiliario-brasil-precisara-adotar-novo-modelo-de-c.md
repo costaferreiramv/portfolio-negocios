@@ -7,7 +7,7 @@ temas: []
 tags: [financiamento, noticia, banco-central]
 data_post: 2025-04-23
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

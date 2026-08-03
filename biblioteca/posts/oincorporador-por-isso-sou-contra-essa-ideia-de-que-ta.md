@@ -7,7 +7,7 @@ temas: [posicionamento, gestao]
 tags: [especializacao, alto-padrao-x-popular, analogia-medica]
 data_post: 2025-09-03
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

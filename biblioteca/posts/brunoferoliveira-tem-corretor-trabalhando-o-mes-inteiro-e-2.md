@@ -8,7 +8,7 @@ tags: [follow-up, abandono, reativacao, isca]
 duracao: "1min52"
 data_post: 2026-06-14
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

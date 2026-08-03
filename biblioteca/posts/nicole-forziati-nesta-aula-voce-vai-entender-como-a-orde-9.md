@@ -8,7 +8,7 @@ tags: [janela-de-72-horas, follow-up-pos-visita]
 duracao: "1min21"
 data_post: 2026-04-30
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

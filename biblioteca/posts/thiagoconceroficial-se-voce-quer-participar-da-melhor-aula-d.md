@@ -8,7 +8,7 @@ tags: [primeiro-contato, personalizacao, rapport]
 duracao: "1min26"
 data_post: 2024-07-11
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

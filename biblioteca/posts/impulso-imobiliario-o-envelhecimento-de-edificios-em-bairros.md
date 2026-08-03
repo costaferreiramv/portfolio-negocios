@@ -7,7 +7,7 @@ temas: [mercado-imobiliario]
 tags: [manutencao, desvalorizacao, condominio-antigo]
 data_post: 2025-09-14
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

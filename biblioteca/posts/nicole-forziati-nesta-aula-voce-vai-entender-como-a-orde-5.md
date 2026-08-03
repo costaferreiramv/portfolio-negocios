@@ -8,7 +8,7 @@ tags: [diagnostico, captacao-conexao-fechamento, funil]
 duracao: "1min20"
 data_post: 2026-05-14
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -8,7 +8,7 @@ tags: [rotina, prospeccao, execucao]
 duracao: "52s"
 data_post: 2026-05-29
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

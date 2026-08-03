@@ -8,7 +8,7 @@ tags: [piramide-de-maslow, segmentacao-de-mensagem, dado-de-pesquisa]
 duracao: "2min22"
 data_post: 2026-01-26
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

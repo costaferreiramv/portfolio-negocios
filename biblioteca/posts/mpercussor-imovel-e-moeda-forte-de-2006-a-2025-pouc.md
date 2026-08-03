@@ -8,7 +8,7 @@ tags: [financiamento, selic, especulacao]
 duracao: "2min31"
 data_post: 2025-07-23
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

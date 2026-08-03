@@ -8,7 +8,7 @@ tags: [follow-up, whatsapp, reenquadramento]
 duracao: "53s"
 data_post: 2026-05-10
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -8,7 +8,7 @@ tags: [rotina, nicho, persona, prospeccao]
 duracao: "1min30"
 data_post: 2026-06-25
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

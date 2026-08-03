@@ -8,7 +8,7 @@ tags: [metodo-una, ticket-medio, depoimento]
 duracao: "1min00"
 data_post: 2025-01-18
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

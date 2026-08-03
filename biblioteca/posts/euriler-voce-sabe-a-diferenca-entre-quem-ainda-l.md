@@ -8,7 +8,7 @@ tags: [isca, curso, prova-social]
 duracao: "2min53"
 data_post: 2025-05-15
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

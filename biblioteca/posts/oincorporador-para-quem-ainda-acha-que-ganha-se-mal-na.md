@@ -8,7 +8,7 @@ tags: [mao-de-obra, valorizacao-de-oficio, construcao-civil]
 duracao: "39s"
 data_post: 2025-07-09
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -8,7 +8,7 @@ tags: [ordem-do-sucesso, isca, case]
 duracao: "1min00"
 data_post: 2026-04-13
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

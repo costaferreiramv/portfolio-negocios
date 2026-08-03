@@ -8,7 +8,7 @@ tags: [permuta, precificacao, negociacao]
 duracao: "6min03"
 data_post: 2026-04-24
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

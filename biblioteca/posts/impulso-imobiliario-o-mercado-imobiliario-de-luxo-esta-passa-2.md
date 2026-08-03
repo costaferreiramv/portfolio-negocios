@@ -7,7 +7,7 @@ temas: [mercado-imobiliario]
 tags: [perfil-do-comprador, mulheres, millennials, alto-padrao]
 data_post: 2025-01-27
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

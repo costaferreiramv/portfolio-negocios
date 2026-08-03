@@ -8,7 +8,7 @@ tags: [previsao, infoproduto, especulativo]
 duracao: "3min58"
 data_post: 2025-04-26
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

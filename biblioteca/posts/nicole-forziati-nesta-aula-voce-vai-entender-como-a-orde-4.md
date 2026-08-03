@@ -8,7 +8,7 @@ tags: [proporcao-de-acao, case-pessoal, isca]
 duracao: "1min16"
 data_post: 2026-05-13
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

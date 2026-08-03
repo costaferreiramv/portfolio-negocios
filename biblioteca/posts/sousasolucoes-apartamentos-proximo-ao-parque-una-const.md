@@ -8,7 +8,7 @@ tags: [mrv, parque-una, minha-casa-minha-vida, precificacao-local]
 duracao: "2min41"
 data_post: 2025-11-08
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

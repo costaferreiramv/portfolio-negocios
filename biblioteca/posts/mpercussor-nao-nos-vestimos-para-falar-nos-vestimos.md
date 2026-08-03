@@ -8,7 +8,7 @@ tags: [imagem-pessoal, apresentacao, alta-performance]
 duracao: "1min51"
 data_post: 2025-03-03
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

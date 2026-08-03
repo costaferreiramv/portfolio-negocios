@@ -8,7 +8,7 @@ tags: [financiamento, sac, price]
 duracao: "50s"
 data_post: 2025-10-28
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

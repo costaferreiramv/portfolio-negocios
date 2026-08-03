@@ -8,7 +8,7 @@ tags: [follow-up, duplicata]
 duracao: "30s"
 data_post: 2026-05-07
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

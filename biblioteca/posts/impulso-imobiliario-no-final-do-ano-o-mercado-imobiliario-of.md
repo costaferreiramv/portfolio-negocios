@@ -7,7 +7,7 @@ temas: []
 tags: [financiamento, sazonalidade]
 data_post: 2024-12-10
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

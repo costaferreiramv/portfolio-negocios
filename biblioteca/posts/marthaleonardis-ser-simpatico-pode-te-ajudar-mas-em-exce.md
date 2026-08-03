@@ -8,7 +8,7 @@ tags: [seletividade, simpatia-excessiva, autoridade]
 duracao: "1min59"
 data_post: 2026-05-06
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

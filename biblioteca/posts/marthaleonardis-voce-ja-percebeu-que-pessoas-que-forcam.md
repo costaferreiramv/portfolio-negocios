@@ -8,7 +8,7 @@ tags: [entrada-em-sala, postura, olhar-sustentado]
 duracao: "2min24"
 data_post: 2026-02-18
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

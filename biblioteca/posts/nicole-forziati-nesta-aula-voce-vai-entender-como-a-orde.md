@@ -8,7 +8,7 @@ tags: [lead-fantasma, filtro, nova-regra-de-tres]
 duracao: "1min15"
 data_post: 2026-07-10
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

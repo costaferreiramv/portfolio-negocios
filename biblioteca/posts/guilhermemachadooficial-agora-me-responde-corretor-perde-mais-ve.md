@@ -8,7 +8,7 @@ tags: [postura, linguagem-corporal, autoridade]
 duracao: "3min10"
 data_post: 2026-06-02
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

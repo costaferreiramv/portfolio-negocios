@@ -8,7 +8,7 @@ tags: [terreno, loteadora, due-diligence]
 duracao: "1min00"
 data_post: 2025-07-11
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

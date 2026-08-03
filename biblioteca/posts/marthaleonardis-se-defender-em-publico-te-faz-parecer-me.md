@@ -8,7 +8,7 @@ tags: [tempo-de-resposta, whatsapp, espelhamento]
 duracao: "2min20"
 data_post: 2026-06-04
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

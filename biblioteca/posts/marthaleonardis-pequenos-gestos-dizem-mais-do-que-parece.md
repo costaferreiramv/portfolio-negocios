@@ -8,7 +8,7 @@ tags: [aperto-de-mao, linguagem-corporal, dominancia]
 duracao: "1min50"
 data_post: 2026-05-05
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

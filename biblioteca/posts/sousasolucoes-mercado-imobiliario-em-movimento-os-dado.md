@@ -8,7 +8,7 @@ tags: [dados-de-mercado, migracao-de-faixa, premium]
 duracao: "2min57"
 data_post: 2025-08-29
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

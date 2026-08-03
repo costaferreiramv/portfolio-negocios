@@ -8,7 +8,7 @@ tags: [precificacao, desconto, tempo-de-mercado]
 duracao: "1min25"
 data_post: 2026-06-08
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

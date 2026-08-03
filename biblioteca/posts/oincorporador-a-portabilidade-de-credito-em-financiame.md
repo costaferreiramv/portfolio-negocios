@@ -8,7 +8,7 @@ tags: [financiamento, portabilidade-de-credito]
 duracao: "1min54"
 data_post: 2025-07-06
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

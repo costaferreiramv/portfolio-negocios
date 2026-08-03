@@ -8,7 +8,7 @@ tags: [postura, alto-padrao, cliente-forte, autoridade]
 duracao: "2min45"
 data_post: 2026-06-15
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -7,7 +7,7 @@ temas: []
 tags: [isca, curso]
 data_post: 2025-07-16
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

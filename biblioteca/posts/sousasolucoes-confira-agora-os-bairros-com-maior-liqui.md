@@ -7,7 +7,7 @@ temas: [mercado-imobiliario]
 tags: [liquidez, bairros-uberlandia, lista]
 data_post: 2025-05-29
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

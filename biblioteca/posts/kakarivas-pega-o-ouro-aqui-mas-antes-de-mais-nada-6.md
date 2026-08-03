@@ -8,7 +8,7 @@ tags: [rotina, prospeccao, constancia]
 duracao: "6s"
 data_post: 2026-05-20
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

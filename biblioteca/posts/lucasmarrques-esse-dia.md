@@ -8,7 +8,7 @@ tags: [cafe-com-cliente, processo-de-venda, conexao]
 duracao: "3min59"
 data_post: 2026-02-26
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

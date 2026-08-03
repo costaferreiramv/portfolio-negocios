@@ -8,7 +8,7 @@ tags: [ostentacao, autenticidade, validacao-social]
 duracao: "1min13"
 data_post: 2026-03-25
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

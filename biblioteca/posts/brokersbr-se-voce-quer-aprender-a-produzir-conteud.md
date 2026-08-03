@@ -8,7 +8,7 @@ tags: [roteiro, headline, gancho, estrutura-de-video]
 duracao: "1min44"
 data_post: 2025-06-05
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

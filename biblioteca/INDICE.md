@@ -4,14 +4,14 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 210
+**Analisados (resumo, pontos-chave e aplicação escritos):** 255
 
 ### Status
 
 | status | o que significa | posts |
 |---|---|---|
-| `completo` | íntegra capturada e analisada | 42 |
-| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 1005 |
+| `completo` | íntegra capturada e analisada | 221 |
+| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 826 |
 | `pendente` | legenda capturada; falta transcrever slides ou analisar | 220 |
 
 ### Tipo
@@ -388,9 +388,14 @@ automaticamente.
 - [Classe A ou Classe C, o que define o resultado não é o nicho. É saber ](posts/brokersbr-classe-a-ou-classe-c-o-que-define-o-resu.md) — @brokersbr · carrossel · 2026-06-15
 - [é a prova de que posicionamento não acontece da noite para o dia. Ante](posts/brokersbr-e-a-prova-de-que-posicionamento-nao-acon.md) — @brokersbr · reel · 2026-06-05
 - [Enquanto alguns se agarram ao passado, outros estão construindo um fut](posts/brokersbr-enquanto-alguns-se-agarram-ao-passado-ou.md) — @brokersbr · reel · 2025-07-13
+- [Muitos corretores e donos de imobiliárias vendem bem no offline, mas n](posts/brokersbr-muitos-corretores-e-donos-de-imobiliaria-2.md) — @brokersbr · video · 2025-08-19
+- [Muitos corretores e donos de imobiliárias vendem bem no offline, mas n](posts/brokersbr-muitos-corretores-e-donos-de-imobiliaria-3.md) — @brokersbr · video · 2025-08-14
+- [Muitos corretores e donos de imobiliárias vendem bem no offline, mas n](posts/brokersbr-muitos-corretores-e-donos-de-imobiliaria-4.md) — @brokersbr · video · 2025-08-09
+- [Muitos corretores e donos de imobiliárias vendem bem no offline, mas n](posts/brokersbr-muitos-corretores-e-donos-de-imobiliaria.md) — @brokersbr · video · 2025-08-14
 - [não se tornou referência por acaso Ela construiu conteúdo com a própri](posts/brokersbr-nao-se-tornou-referencia-por-acaso-ela-c.md) — @brokersbr · reel · 2026-04-27
 - [O cliente decide em segundos se continua ou vai embora! Aqui vão algun](posts/brokersbr-o-cliente-decide-em-segundos-se-continua.md) — @brokersbr · carrossel · 2026-04-20
 - [O Corretor que não se posiciona online, vai cada dia mais perder venda](posts/brokersbr-o-corretor-que-nao-se-posiciona-online-v-2.md) — @brokersbr · video · 2026-04-12
+- [O Corretor que não se posiciona online, vai cada dia mais perder venda](posts/brokersbr-o-corretor-que-nao-se-posiciona-online-v.md) — @brokersbr · video · 2026-04-15
 - [Pare de postar só bom dia, fachadas e metragens. Comece a usar os stor](posts/brokersbr-pare-de-postar-so-bom-dia-fachadas-e-met.md) — @brokersbr · carrossel · 2026-06-27
 - [Se você é corretor, pare de gravar vídeos apenas mostrando imóvel. Gra](posts/brokersbr-se-voce-e-corretor-pare-de-gravar-videos.md) — @brokersbr · reel · 2026-06-16
 - [Se você quer aprender a produzir conteúdos que te posicionem como auto](posts/brokersbr-se-voce-quer-aprender-a-produzir-conteud.md) — @brokersbr · reel · 2025-06-05
@@ -429,6 +434,7 @@ automaticamente.
 - [Para mais conteúdos de vendas e negociação, siga](posts/carol-iasmim-para-mais-conteudos-de-vendas-e-negociac.md) — @carol.iasmim · reel · 2026-03-29
 - [Pergunta certa abre o que discurso pronto não abre. Esse material é re](posts/carol-iasmim-pergunta-certa-abre-o-que-discurso-pront.md) — @carol.iasmim · reel · 2026-06-21
 - [Salve para consultar sempre que for vender para cliente alto padrão!](posts/carol-iasmim-salve-para-consultar-sempre-que-for-vend.md) — @carol.iasmim · reel · 2026-01-08
+- [São 3 passos simples pra você aprender a contornar as objeções dos seu](posts/carol-iasmim-sao-3-passos-simples-pra-voce-aprender-a.md) — @carol.iasmim · video · 2026-02-03
 - [Só aplica e depois me conta](posts/carol-iasmim-so-aplica-e-depois-me-conta.md) — @carol.iasmim · reel · 2026-03-18
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator · carrossel · 2026-07-26
 - [Três mudanças que o Instagram está testando: etiqueta de IA, seguidores ocultos e séries pagas](posts/catiacreator-mudancas-instagram-agosto.md) — @catiacreator · carrossel · 2026-07-22
@@ -439,7 +445,14 @@ automaticamente.
 - [Nos EUA o corretor só abre a casa com carta de pré-aprovação — e isso não é grosseria](posts/eduardovgvendas-pre-aprovacao-eua-x-brasil.md) — @eduardovgvendas · reel · 2026-07-26
 - [Context rot: por que o Claude fica lento e confuso depois de meia hora](posts/ericluciano-context-rot-e-compactacao.md) — @ericluciano · reel · 2026-05-30
 - [Alerta mais uma profissão indo pro saco. Gestor de tráfego. Mark Zucke](posts/euriler-alerta-mais-uma-profissao-indo-pro-saco-2.md) — @euriler · video · 2026-05-08
+- [Alerta mais uma profissão indo pro saco. Gestor de tráfego. Mark Zucke](posts/euriler-alerta-mais-uma-profissao-indo-pro-saco.md) — @euriler · video · 2026-05-31
+- [DI6m1ulMrZv](posts/euriler-di6m1ulmrzv.md) — @euriler · video · 2025-04-26
 - [DIqGbj5s8Ai](posts/euriler-diqgbj5s8ai.md) — @euriler · video · 2025-04-20
+- [Imagine nunca mais depender de lançador, sócio ou equipe no marketing ](posts/euriler-imagine-nunca-mais-depender-de-lancador.md) — @euriler · video · 2026-04-27
+- [Me conta o que vc achou nos comentários e envia pra quem também precis](posts/euriler-me-conta-o-que-vc-achou-nos-comentarios.md) — @euriler · reel · 2025-03-26
+- [Tá vendo isso? Uma mão com o celular, a outra mão com nada. Sozinho. I](posts/euriler-ta-vendo-isso-uma-mao-com-o-celular-a-ou.md) — @euriler · video · 2026-06-06
+- [Tô em casa, de pijama, tomando vitamina. A IA tá fazendo 20 anúncios p](posts/euriler-to-em-casa-de-pijama-tomando-vitamina-a.md) — @euriler · video · 2026-05-31
+- [Você sabe a diferença entre quem ainda lava roupa na mão e quem já usa](posts/euriler-voce-sabe-a-diferenca-entre-quem-ainda-l.md) — @euriler · video · 2025-05-15
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric · carrossel · 2026-07-22
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive · video · 2026-06-29
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino · reel · 2026-07-21
@@ -447,6 +460,7 @@ automaticamente.
 - [Agora me responde corretor perde mais venda por técnica ou postura?](posts/guilhermemachadooficial-agora-me-responde-corretor-perde-mais-ve.md) — @guilhermemachadooficial · reel · 2026-06-02
 - [Dono de imobiliária, antes de culpar a falta de leads, responda uma pe](posts/guilhermemachadooficial-dono-de-imobiliaria-antes-de-culpar-a-fa.md) — @guilhermemachadooficial · carrossel · 2026-07-03
 - [Não é sobre ter patrão ou ser livre . É sobre time que potencializa. F](posts/guilhermemachadooficial-nao-e-sobre-ter-patrao-ou-ser-livre-e-so.md) — @guilhermemachadooficial · reel · 2025-10-28
+- [NOVO CRÉDITO IMOBILIÁRIO A ANÁLISE QUE VOCÊ NÃO VIU EM LUGAR NENHUM En](posts/guilhermemachadooficial-novo-credito-imobiliario-a-analise-que-v.md) — @guilhermemachadooficial · reel · 2025-10-10
 - [O cliente entrou no site, viu o imóvel e pediu atendimento. Aí você re](posts/guilhermemachadooficial-o-cliente-entrou-no-site-viu-o-imovel-e.md) — @guilhermemachadooficial · reel · 2026-06-16
 - [O cliente sumiu depois da visita? Na maioria das vezes, o corretor pio](posts/guilhermemachadooficial-o-cliente-sumiu-depois-da-visita-na-maio.md) — @guilhermemachadooficial · reel · 2026-07-18
 - [O que Fernanda Torres pode ensinar sobre vendas? Venda não é só técnic](posts/guilhermemachadooficial-o-que-fernanda-torres-pode-ensinar-sobre.md) — @guilhermemachadooficial · carrossel · 2025-03-04
@@ -459,18 +473,29 @@ automaticamente.
 - [7 falhas que derrubam a percepção de sofisticação em imóveis de milhões](posts/homeluxo-bom-gosto-nao-se-compra.md) — @homeluxo · carrossel · 2026-07-27
 - [Google testa exibir imóveis direto nos resultados de busca](posts/ibrep-google-imoveis-na-busca.md) — @ibrep · carrossel · 2026-07-21
 - [A Geração Z, composta por indivíduos nascidos entre 1997 e 2012, enfre](posts/impulso-imobiliario-a-geracao-z-composta-por-individuos-nasc.md) — @impulso.imobiliario · imagem · 2025-04-08
+- [Brasil precisará adotar novo modelo de captação para o crédito imobili](posts/impulso-imobiliario-brasil-precisara-adotar-novo-modelo-de-c.md) — @impulso.imobiliario · imagem · 2025-04-23
 - [Comprar e vender imóveis nem sempre exige dinheiro vivo. Em vez de des](posts/impulso-imobiliario-comprar-e-vender-imoveis-nem-sempre-exig.md) — @impulso.imobiliario · imagem · 2025-11-21
+- [Concorda?! O que está esperando?](posts/impulso-imobiliario-concorda-o-que-esta-esperando.md) — @impulso.imobiliario · reel · 2025-10-10
 - [Corretores de Imóveis tem até o dia 31 de janeiro de 2025 para fazer s](posts/impulso-imobiliario-corretores-de-imoveis-tem-ate-o-dia-31-d.md) — @impulso.imobiliario · imagem · 2025-01-23
+- [Em meio à escassez de recursos para financiamento imobiliário, a Caixa](posts/impulso-imobiliario-em-meio-a-escassez-de-recursos-para-fina.md) — @impulso.imobiliario · imagem · 2024-12-09
+- [No final do ano, o mercado imobiliário oferece oportunidades estratégi](posts/impulso-imobiliario-no-final-do-ano-o-mercado-imobiliario-of.md) — @impulso.imobiliario · imagem · 2024-12-10
 - [O envelhecimento de edifícios em bairros nobres de São Paulo tem gerad](posts/impulso-imobiliario-o-envelhecimento-de-edificios-em-bairros.md) — @impulso.imobiliario · imagem · 2025-09-14
 - [O mercado imobiliário brasileiro tem se tornado cada vez mais inacessí](posts/impulso-imobiliario-o-mercado-imobiliario-brasileiro-tem-se.md) — @impulso.imobiliario · imagem · 2025-02-09
 - [O mercado imobiliário de luxo está passando por uma transformação no p](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa-2.md) — @impulso.imobiliario · imagem · 2025-01-27
 - [O mercado imobiliário de luxo está passando por transformações para at](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa.md) — @impulso.imobiliario · imagem · 2025-01-29
 - [Top 5 cidades para investir em Airbnb no Brasil em 2025 m Reparou algo](posts/impulso-imobiliario-top-5-cidades-para-investir-em-airbnb-no.md) — @impulso.imobiliario · reel · 2025-10-21
+- [Um novo modelo de aquisição imobiliária tem atraído investidores, espe](posts/impulso-imobiliario-um-novo-modelo-de-aquisicao-imobiliaria.md) — @impulso.imobiliario · imagem · 2025-11-19
 - [A inteligência artificial pra criar vídeos está ficando cada vez mais ](posts/jornadatop-a-inteligencia-artificial-pra-criar-vide.md) — @jornadatop · reel · 2024-07-31
 - [Agora você pode colocar apenas uma foto sua e criar um filme a partir ](posts/jornadatop-agora-voce-pode-colocar-apenas-uma-foto.md) — @jornadatop · reel · 2025-07-12
 - [Agora você pode usar inteligência artificial pra editar os seus vídeos](posts/jornadatop-agora-voce-pode-usar-inteligencia-artifi.md) — @jornadatop · reel · 2026-07-04
+- [Dica de inteligência artificial poderosa para criar logo para sua empr](posts/jornadatop-dica-de-inteligencia-artificial-poderosa.md) — @jornadatop · reel · 2024-08-17
+- [Dica de segurança diferente que você pode fazer no celular. . . . .](posts/jornadatop-dica-de-seguranca-diferente-que-voce-pod.md) — @jornadatop · reel · 2025-02-07
+- [DKXqLg-AED7](posts/jornadatop-dkxqlg-aed7.md) — @jornadatop · video · 2025-06-01
 - [É isso você precisa de usar só capcut e ter qualquer cenário Em casa! ](posts/jornadatop-e-isso-voce-precisa-de-usar-so-capcut-e.md) — @jornadatop · reel · 2024-09-04
+- [Essas são todas as ferramentas que eu coloquei que fazem o efeito do e](posts/jornadatop-essas-sao-todas-as-ferramentas-que-eu-co.md) — @jornadatop · reel · 2025-03-31
+- [Inteligência artificial Anima qualquer coisa e fica perfeito. Você pod](posts/jornadatop-inteligencia-artificial-anima-qualquer-c.md) — @jornadatop · reel · 2024-08-27
 - [Olha que dica legal para fazer videos de timelapse de suas coisas . . ](posts/jornadatop-olha-que-dica-legal-para-fazer-videos-de.md) — @jornadatop · reel · 2026-03-10
+- [Se você quer desativar o meta e fazer com que ele pare de coletar suas](posts/jornadatop-se-voce-quer-desativar-o-meta-e-fazer-co.md) — @jornadatop · reel · 2024-10-27
 - [Usa Google Fotos para editar suas fotos porqye esta demais . . . . .](posts/jornadatop-usa-google-fotos-para-editar-suas-fotos.md) — @jornadatop · reel · 2024-12-18
 - [Você gosta desse conteúdo de casa e construção segue aqui também o meu](posts/jornadatop-voce-gosta-desse-conteudo-de-casa-e-cons.md) — @jornadatop · reel · 2026-02-18
 - [A pergunta não é quantas pessoas entram no seu Instagram. A pergunta é](posts/kakarivas-a-pergunta-nao-e-quantas-pessoas-entram.md) — @kakarivas · carrossel · 2026-07-10
@@ -499,7 +524,12 @@ automaticamente.
 - [Aprenda a captar imóveis exclusivos e domine o mercado com o MÉTODO UN](posts/lucasmarrques-aprenda-a-captar-imoveis-exclusivos-e-do.md) — @lucasmarrques · video · 2025-01-18
 - [Cliente não deixa exclusivo na primeira visita?](posts/lucasmarrques-cliente-nao-deixa-exclusivo-na-primeira.md) — @lucasmarrques · reel · 2026-07-01
 - [Como passar autoridade](posts/lucasmarrques-como-passar-autoridade.md) — @lucasmarrques · reel · 2026-07-08
+- [Copie e cole essa nova estratégia que já fizeram corretores venderem m](posts/lucasmarrques-copie-e-cole-essa-nova-estrategia-que-ja.md) — @lucasmarrques · video · 2025-07-01
+- [Corretor a de Imóvel! Copie e cole essa nova estratégia que já fez cor](posts/lucasmarrques-corretor-a-de-imovel-copie-e-cole-essa-n.md) — @lucasmarrques · video · 2026-02-10
 - [Criando uma rotina no mercado imobiliário](posts/lucasmarrques-criando-uma-rotina-no-mercado-imobiliari.md) — @lucasmarrques · reel · 2026-06-25
+- [Da-gOMSgi4q](posts/lucasmarrques-da-gomsgi4q.md) — @lucasmarrques · video · 2026-07-19
+- [Da3Zd_ogCrL](posts/lucasmarrques-da3zd-ogcrl.md) — @lucasmarrques · video · 2026-07-16
+- [Da5dvUAg27F](posts/lucasmarrques-da5dvuag27f.md) — @lucasmarrques · video · 2026-07-17
 - [DaQ6d7ruH2G](posts/lucasmarrques-daq6d7ruh2g.md) — @lucasmarrques · reel · 2026-07-01
 - [É o melhor caminho para o corretor?](posts/lucasmarrques-e-o-melhor-caminho-para-o-corretor.md) — @lucasmarrques · reel · 2026-05-29
 - [Enquanto você lê isso, um grupo seleto de donos e gestores de imobiliá](posts/lucasmarrques-enquanto-voce-le-isso-um-grupo-seleto-de.md) — @lucasmarrques · reel · 2026-05-27
@@ -535,10 +565,14 @@ automaticamente.
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado · reel · 2026-07-21
 - [15 atitudes para quem está se reconstruindo aos 45](posts/modoprodutivo-reconstrucao-aos-45.md) — @modoprodutivo_ · carrossel · 2026-07-21
 - [49 dos brasileiros têm intenção de compra no mercado imobiliário. Esse](posts/mpercussor-49-dos-brasileiros-tem-intencao-de-compr.md) — @mpercussor · reel · 2026-01-26
+- [IMÓVEL E MOEDA FORTE De 2006 a 2025, pouca coisa mudou juros altos, cr](posts/mpercussor-imovel-e-moeda-forte-de-2006-a-2025-pouc.md) — @mpercussor · reel · 2025-07-23
 - [Não nos vestimos para falar, nos vestimos para ser ouvidos. Em vendas,](posts/mpercussor-nao-nos-vestimos-para-falar-nos-vestimos.md) — @mpercussor · reel · 2025-03-03
+- [O mercado imobiliário é marcado por uma realidade incontestável imóvei](posts/mpercussor-o-mercado-imobiliario-e-marcado-por-uma.md) — @mpercussor · reel · 2025-09-20
 - [Ou você começa a conseguir, ou continua tentando. Porque é nas pequena](posts/mpercussor-ou-voce-comeca-a-conseguir-ou-continua-t.md) — @mpercussor · reel · 2025-10-20
 - [PARE DE SE AUTO-SABOTAR A verdade é que seu cliente não está incomodad](posts/mpercussor-pare-de-se-auto-sabotar-a-verdade-e-que.md) — @mpercussor · reel · 2025-10-21
 - [Por que o cliente compra? Porque a decisão junta novidade, emoção e ne](posts/mpercussor-por-que-o-cliente-compra-porque-a-decisa.md) — @mpercussor · reel · 2025-10-06
+- [Quer 1,5 ao mês sem se preocupar com nada? Aqui, isso já é realidade. ](posts/mpercussor-quer-1-5-ao-mes-sem-se-preocupar-com-nad.md) — @mpercussor · reel · 2025-10-27
+- [SAC vs PRICE Você já se perguntou por que, às vezes, o banco aprova um](posts/mpercussor-sac-vs-price-voce-ja-se-perguntou-por-qu.md) — @mpercussor · reel · 2025-10-28
 - [Você persegue clientes ou atrai negócios? Existe uma grande diferença ](posts/mpercussor-voce-persegue-clientes-ou-atrai-negocios.md) — @mpercussor · reel · 2025-12-03
 - [A morte do corretor intermediário chegou mais rápido do que o mercado ](posts/natanpimentels-a-morte-do-corretor-intermediario-chegou.md) — @natanpimentels · carrossel · 2026-04-24
 - [A vergonha invisível do corretor é uma sensação real que ninguém artic](posts/natanpimentels-a-vergonha-invisivel-do-corretor-e-uma-s.md) — @natanpimentels · carrossel · 2026-05-06
@@ -558,6 +592,10 @@ automaticamente.
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-9.md) — @nicole.forziati · video · 2026-04-30
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde.md) — @nicole.forziati · video · 2026-07-10
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira · video · 2026-07-23
+- [A pergunta de 1 milhão de dólares! Por quê comprar imóvel hoje?](posts/oincorporador-a-pergunta-de-1-milhao-de-dolares-por-qu.md) — @oincorporador · reel · 2025-07-03
+- [A portabilidade de crédito em financiamentos imobiliários é o direito ](posts/oincorporador-a-portabilidade-de-credito-em-financiame.md) — @oincorporador · reel · 2025-07-06
+- [Bom dia com essa dica para uma jornada mais satisfatória na compra do ](posts/oincorporador-bom-dia-com-essa-dica-para-uma-jornada-m.md) — @oincorporador · imagem · 2025-07-01
+- [Já salva aí!! Ficamos na torcida para a queda das taxas em 2026 Crédit](posts/oincorporador-ja-salva-ai-ficamos-na-torcida-para-a-qu.md) — @oincorporador · imagem · 2025-12-11
 - [Mesmo depois de mais de 15 anos de existência do Programa Minha Casa, ](posts/oincorporador-mesmo-depois-de-mais-de-15-anos-de-exist.md) — @oincorporador · imagem · 2025-09-10
 - [Para quem, ainda, acha que ganha-se mal nas obras no Brasil, escuta is](posts/oincorporador-para-quem-ainda-acha-que-ganha-se-mal-na.md) — @oincorporador · reel · 2025-07-09
 - [Por isso sou contra essa ideia de que tanto na corretagem quanto nas i](posts/oincorporador-por-isso-sou-contra-essa-ideia-de-que-ta.md) — @oincorporador · imagem · 2025-09-03
@@ -567,14 +605,20 @@ automaticamente.
 - [24 coisas pra instalar no Claude: skills, plug-ins e MCP servers](posts/rtercas-24-coisas-instalar-claude.md) — @rtercas · carrossel · 2026-07-03
 - [O formato sem edição pesada que o Instagram está privilegiando](posts/segueadi-formato-simplificado-alcance.md) — @segueadi · video · 2026-07-21
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes · reel · 2026-07-27
+- [A Caixa encerrou a restrição agora é possível contratar mais de um fin](posts/sousasolucoes-a-caixa-encerrou-a-restricao-agora-e-pos.md) — @sousasolucoes · reel · 2025-12-08
+- [A Chave7 é uma empresa de tecnologia que ajuda corretores e imobiliári](posts/sousasolucoes-a-chave7-e-uma-empresa-de-tecnologia-que.md) — @sousasolucoes · reel · 2025-01-12
 - [Antes de assinar o maior investimento da sua vida, entenda o que realm](posts/sousasolucoes-antes-de-assinar-o-maior-investimento-da.md) — @sousasolucoes · reel · 2025-10-22
 - [Apartamentos proximo ao Parque Una construídos pela Mrv. O que vc acha](posts/sousasolucoes-apartamentos-proximo-ao-parque-una-const.md) — @sousasolucoes · reel · 2025-11-08
 - [Confira agora os bairros com maior liquidez para investir em Uberlândi](posts/sousasolucoes-confira-agora-os-bairros-com-maior-liqui.md) — @sousasolucoes · imagem · 2025-05-29
+- [Correção faixa 3 imóveis avaliados até 350 mil e não 4. As mudanças da](posts/sousasolucoes-correcao-faixa-3-imoveis-avaliados-ate-3.md) — @sousasolucoes · reel · 2025-10-28
 - [Dica de segurança imobiliária. Quando pagar entrada?](posts/sousasolucoes-dica-de-seguranca-imobiliaria-quando-pag.md) — @sousasolucoes · reel · 2025-11-21
+- [Há uma oportunidade, você pode agregar valor a sua pessoa, mas para is](posts/sousasolucoes-ha-uma-oportunidade-voce-pode-agregar-va.md) — @sousasolucoes · reel · 2024-10-04
 - [Imobiliária pode cobrar 6 do valor do imóvel? Essa é uma dúvida muito ](posts/sousasolucoes-imobiliaria-pode-cobrar-6-do-valor-do-im.md) — @sousasolucoes · reel · 2026-07-18
 - [Levantamento da Sejusp-MG aponta os bairros com maior risco de crimes ](posts/sousasolucoes-levantamento-da-sejusp-mg-aponta-os-bair.md) — @sousasolucoes · reel · 2025-11-14
 - [MERCADO IMOBILIÁRIO EM MOVIMENTO! Os dados do 2º trimestre de 2025 rev](posts/sousasolucoes-mercado-imobiliario-em-movimento-os-dado.md) — @sousasolucoes · reel · 2025-08-29
+- [Novas regras habitacionais a caminho! Agora é possível liberar até 80 ](posts/sousasolucoes-novas-regras-habitacionais-a-caminho-ago.md) — @sousasolucoes · reel · 2025-10-11
 - [O que acha de comprar terreno para investir no lançamento do Buritis C](posts/sousasolucoes-o-que-acha-de-comprar-terreno-para-inves.md) — @sousasolucoes · reel · 2025-07-11
+- [O que mudou com as alterações da caixa para quem tem financiamento ati](posts/sousasolucoes-o-que-mudou-com-as-alteracoes-da-caixa-p.md) — @sousasolucoes · reel · 2025-11-06
 - [Taxa de transferência abusiva: em Uberlândia o despachante gira em torno de R$ 700-800](posts/sousasolucoes-taxa-de-transferencia-abusiva.md) — @sousasolucoes · reel · 2026-07-20
 - [Uma negociação milionária também pode acabar na Justiça. O caso envolv](posts/sousasolucoes-uma-negociacao-milionaria-tambem-pode-ac.md) — @sousasolucoes · reel · 2026-07-14
 - [Uma tendência que já é realidade os imóveis compactos vieram para fica](posts/sousasolucoes-uma-tendencia-que-ja-e-realidade-os-imov.md) — @sousasolucoes · reel · 2025-10-10
@@ -582,6 +626,7 @@ automaticamente.
 - [Modelo caro planeja, modelo barato executa: como cortar 54% do custo de IA](posts/thaleslaray-cortar-custos-claude-modelo-hibrido.md) — @thaleslaray · carrossel · 2026-07-13
 - [ChatGPT como analista imobiliário: score, cap rate e faixa de proposta](posts/thaysfreire-chatgpt-analista-imobiliario.md) — @thaysfreire.ia · reel · 2026-07-25
 - [A história do corvo e da águia nos ensina sobre foco e resiliência. Em](posts/thiagoconceroficial-a-historia-do-corvo-e-da-aguia-nos-ensin.md) — @thiagoconceroficial · reel · 2024-06-22
+- [Acesse as estratégias mais atuais do mercado para se tornar um negocia](posts/thiagoconceroficial-acesse-as-estrategias-mais-atuais-do-mer.md) — @thiagoconceroficial · imagem · 2025-07-16
 - [Dobrar suas vendas em 60 dias? É possível! Descubra as estratégias de ](posts/thiagoconceroficial-dobrar-suas-vendas-em-60-dias-e-possivel.md) — @thiagoconceroficial · video · 2025-05-08
 - [O segredo de uma venda bem-sucedida não está em falar sem parar sobre ](posts/thiagoconceroficial-o-segredo-de-uma-venda-bem-sucedida-nao.md) — @thiagoconceroficial · reel · 2024-07-25
 - [Se você quer participar da melhor aula de vendas do Brasil, comenta OS](posts/thiagoconceroficial-se-voce-quer-participar-da-melhor-aula-d.md) — @thiagoconceroficial · reel · 2024-07-11

@@ -8,7 +8,7 @@ tags: [escuta-ativa, negociacao-de-preco, case-pessoal]
 duracao: "1min00"
 data_post: 2024-07-25
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

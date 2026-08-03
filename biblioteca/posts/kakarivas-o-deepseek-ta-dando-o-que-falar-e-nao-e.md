@@ -8,7 +8,7 @@ tags: [deepseek, segmentacao, prompt]
 duracao: "1min19"
 data_post: 2025-01-30
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

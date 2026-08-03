@@ -8,7 +8,7 @@ tags: [oportunidade-x-necessidade, abordagem, tom]
 duracao: "1min44"
 data_post: 2026-03-18
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

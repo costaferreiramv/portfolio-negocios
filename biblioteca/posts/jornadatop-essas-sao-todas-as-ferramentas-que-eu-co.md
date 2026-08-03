@@ -8,7 +8,7 @@ tags: [efeito-ghibli, ferramenta-datada]
 duracao: "59s"
 data_post: 2025-03-31
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -8,7 +8,7 @@ tags: [metodo-socratico, perguntas, persuasao]
 duracao: "2min31"
 data_post: 2026-04-17
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

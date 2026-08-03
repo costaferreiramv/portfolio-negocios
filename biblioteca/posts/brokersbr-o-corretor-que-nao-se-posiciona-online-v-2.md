@@ -8,7 +8,7 @@ tags: [case, organico, timing-de-postagem]
 duracao: "1min41"
 data_post: 2026-04-12
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

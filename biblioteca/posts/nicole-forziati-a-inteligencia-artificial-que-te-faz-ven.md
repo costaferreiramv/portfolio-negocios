@@ -8,7 +8,7 @@ tags: [isca, agente-de-ia, posicionamento-digital]
 duracao: "56s"
 data_post: 2025-05-15
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -8,7 +8,7 @@ tags: [timelapse, drone-sintetico, gemini, veo]
 duracao: "1min31"
 data_post: 2026-03-10
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

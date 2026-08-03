@@ -8,7 +8,7 @@ tags: [financiamento, noticia]
 duracao: "2min59"
 data_post: 2025-10-11
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

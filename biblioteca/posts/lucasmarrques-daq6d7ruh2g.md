@@ -8,7 +8,7 @@ tags: [cafe-com-cliente, foco-no-vendedor, conexao]
 duracao: "36s"
 data_post: 2026-07-01
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

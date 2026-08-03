@@ -8,7 +8,7 @@ tags: [capcut, expansao-por-ia, cenario]
 duracao: "58s"
 data_post: 2024-09-04
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

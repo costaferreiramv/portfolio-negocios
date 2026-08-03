@@ -8,7 +8,7 @@ tags: [chatgpt, persona, producao-de-conteudo]
 duracao: "2min33"
 data_post: 2026-06-12
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

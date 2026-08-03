@@ -8,7 +8,7 @@ tags: [escassez, valorizacao, faria-lima, operacao-urbana, cepac]
 duracao: "4min06"
 data_post: 2025-02-01
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

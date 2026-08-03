@@ -8,7 +8,7 @@ tags: [isca, curso]
 duracao: "39s"
 data_post: 2025-08-19
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

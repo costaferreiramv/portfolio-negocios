@@ -8,7 +8,7 @@ tags: [persistencia, autossabotagem, case]
 duracao: "1min16"
 data_post: 2025-10-21
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

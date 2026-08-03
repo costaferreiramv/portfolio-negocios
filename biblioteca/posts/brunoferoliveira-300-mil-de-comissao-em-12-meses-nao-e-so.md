@@ -8,7 +8,7 @@ tags: [meta, vgv, funil-de-vendas, matematica]
 duracao: "2min28"
 data_post: 2026-04-29
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

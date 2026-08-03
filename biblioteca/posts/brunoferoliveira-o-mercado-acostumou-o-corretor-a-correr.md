@@ -8,7 +8,7 @@ tags: [microcompromisso, filtro, qualificacao]
 duracao: "1min33"
 data_post: 2026-04-09
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

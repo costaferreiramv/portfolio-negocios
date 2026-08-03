@@ -8,7 +8,7 @@ tags: [autoridade, autenticidade, volume-de-trabalho]
 duracao: "54s"
 data_post: 2026-07-08
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

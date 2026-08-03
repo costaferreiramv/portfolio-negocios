@@ -8,7 +8,7 @@ tags: [canal-de-comunicacao, espelhamento, ligacao]
 duracao: "2min42"
 data_post: 2025-08-20
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

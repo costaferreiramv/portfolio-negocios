@@ -8,7 +8,7 @@ tags: [follow-up, proposta-parada, modo-evitacao]
 duracao: "1min30"
 data_post: 2026-04-30
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

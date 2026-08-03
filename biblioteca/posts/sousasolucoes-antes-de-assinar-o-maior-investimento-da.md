@@ -8,7 +8,7 @@ tags: [planta-inteligente, valor-do-m2, zona-sul-uberlandia, construtora]
 duracao: "1min43"
 data_post: 2025-10-22
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

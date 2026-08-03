@@ -8,7 +8,7 @@ tags: [hierarquia-social, conselho-nao-pedido, resposta]
 duracao: "2min17"
 data_post: 2026-04-30
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

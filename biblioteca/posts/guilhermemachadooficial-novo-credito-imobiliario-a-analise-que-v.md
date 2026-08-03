@@ -8,7 +8,7 @@ tags: [financiamento, noticia, analise-macro]
 duracao: "1min26"
 data_post: 2025-10-10
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

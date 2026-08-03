@@ -8,7 +8,7 @@ tags: [case, storytelling, autenticidade, narrativa]
 duracao: "3min03"
 data_post: 2026-06-05
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

@@ -8,7 +8,7 @@ tags: [isca, infoproduto]
 duracao: "34s"
 data_post: 2026-07-17
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

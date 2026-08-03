@@ -8,7 +8,7 @@ tags: [aluguel-por-temporada, assessoria, noticia-do-mercado]
 duracao: "1min27"
 data_post: 2026-06-08
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

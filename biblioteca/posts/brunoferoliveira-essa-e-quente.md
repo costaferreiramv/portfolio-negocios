@@ -8,7 +8,7 @@ tags: [qualificacao, framework, mrpc]
 duracao: "50s"
 data_post: 2026-06-26
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

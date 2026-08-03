@@ -8,7 +8,7 @@ tags: [ferramenta-datada, logo]
 duracao: "59s"
 data_post: 2024-08-17
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

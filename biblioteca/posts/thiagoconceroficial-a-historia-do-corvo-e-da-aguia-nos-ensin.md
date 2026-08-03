@@ -8,7 +8,7 @@ tags: [metafora, foco, resiliencia]
 duracao: "33s"
 data_post: 2024-06-22
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

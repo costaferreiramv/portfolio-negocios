@@ -8,7 +8,7 @@ tags: [case, autenticidade, storytelling, curadoria]
 duracao: "2min20"
 data_post: 2026-04-27
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

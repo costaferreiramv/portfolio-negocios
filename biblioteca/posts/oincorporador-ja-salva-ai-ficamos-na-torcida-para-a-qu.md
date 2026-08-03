@@ -7,7 +7,7 @@ temas: []
 tags: [financiamento, noticia]
 data_post: 2025-12-11
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

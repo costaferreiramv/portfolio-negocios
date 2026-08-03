@@ -8,7 +8,7 @@ tags: [case, isca, duplicata-de-tese]
 duracao: "1min15"
 data_post: 2026-06-20
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

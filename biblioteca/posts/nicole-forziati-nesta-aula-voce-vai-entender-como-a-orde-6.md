@@ -8,7 +8,7 @@ tags: [lead-fantasma, silencio-pos-visita, follow-up]
 duracao: "52s"
 data_post: 2026-05-13
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

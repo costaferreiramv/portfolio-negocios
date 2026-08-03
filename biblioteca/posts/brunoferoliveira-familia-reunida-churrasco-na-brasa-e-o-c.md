@@ -8,7 +8,7 @@ tags: [qualificacao, fim-de-semana, microcompromisso]
 duracao: "1min17"
 data_post: 2026-05-17
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

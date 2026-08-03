@@ -8,7 +8,7 @@ tags: [rotina, prospeccao, follow-up, repertorio-de-produto]
 duracao: "1min00"
 data_post: 2026-07-06
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

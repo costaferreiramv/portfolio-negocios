@@ -8,7 +8,7 @@ tags: [narrativa, filmes, storytelling]
 duracao: "1min43"
 data_post: 2026-03-29
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 

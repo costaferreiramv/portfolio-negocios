@@ -3,20 +3,21 @@ titulo: "O jogo mudou com o Andrômeda, a nova IA da Meta. Mas enquanto muita ge
 autor: "@obrunonogueira"
 url: https://www.instagram.com/p/DQu9wKdjKTt/
 tipo: video
-temas: []
-tags: []
+temas: [trafego-pago]
+tags: [niveis-de-consciencia, angulos, andromeda]
 duracao: "1min09"
 data_post: 2025-11-06
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que o Andrômeda quer duas coisas dos criativos: níveis de consciência diferentes e ângulos diferentes — os mesmos dois eixos (Schwartz + ângulo de venda) já usados na Matriz de Diversidade Criativa da skill de anúncios do Portfólio Negócios. Cita uso de agente de IA treinado com documentação da Meta como atalho para quem não quer estudar os conceitos diretamente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Confirmação externa: o Andrômeda busca diversidade em níveis de consciência (Schwartz) e ângulo de venda — exatamente os dois eixos já formalizados na skill `anuncios-meta-andromeda`.
+- Alternativa proposta no post (agente de IA treinado na documentação da Meta) é atalho comercial — o princípio de fundo (diversidade nos dois eixos) é o que importa, não a ferramenta específica.
 
 ## Conteúdo integral
 
@@ -36,8 +37,8 @@ Mais de 500 gestores e copywriters já estão usando um agente de IA treinado co
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Validação externa direta da arquitetura já usada na skill `anuncios-meta-andromeda`** — a Matriz de Diversidade Criativa (ângulo × nível de consciência) já implementa exatamente o que este post descreve como preferência do algoritmo. Não requer mudança, apenas confirma que o caminho já adotado está alinhado com o que a Meta prioriza.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

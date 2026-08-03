@@ -4,19 +4,19 @@ autor: "@obrunonogueira"
 url: https://www.instagram.com/p/DWU5KOTADb9/
 tipo: video
 temas: []
-tags: []
+tags: [duplicata, isca]
 duracao: "57s"
 data_post: 2026-03-25
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Variação do mesmo discurso sobre algoritmos ocultos da Meta (Andrômeda + SAM3 + IIN) barrando anúncio sem aviso.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo repetido dos posts irmãos.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Eu liberei uma aula onde explico o que está por trás disso e como ajustar seus
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `obrunonogueira-o-jogo-mudou-com-o-andromeda-a-nova-ia-d.md`.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

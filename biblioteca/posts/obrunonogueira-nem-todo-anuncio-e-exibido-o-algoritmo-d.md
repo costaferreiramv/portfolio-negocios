@@ -3,20 +3,21 @@ titulo: "Nem todo anúncio é exibido o algoritmo do Meta faz uma seleção ante
 autor: "@obrunonogueira"
 url: https://www.instagram.com/p/DQNmCukDAss/
 tipo: video
-temas: []
-tags: []
+temas: [trafego-pago]
+tags: [andromeda, filtro-invisivel]
 duracao: "53s"
 data_post: 2025-10-25
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça que o Andrômeda pode bloquear um anúncio silenciosamente — ele aparece como 'ativo' no gerenciador, mas nunca é de fato exibido, resultando em CPM alto, CPA explosivo e ROI ruim sem causa aparente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Anúncio 'ativo' no gerenciador não garante veiculação real — o Andrômeda pode filtrar sem aviso claro.
+- Sintoma a observar: CPM anormalmente alto e CPA explosivo sem mudança aparente na campanha pode indicar bloqueio silencioso, não erro de configuração.
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ Nem todo anúncio é exibido — o algoritmo do Meta faz uma seleção antes mes
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Vale como diagnóstico a checar quando uma campanha do Portfólio Negócios tiver métrica ruim sem causa óbvia: revisar se o criativo é genuinamente distinto de campanhas anteriores, não assumir que é só questão de orçamento ou segmentação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

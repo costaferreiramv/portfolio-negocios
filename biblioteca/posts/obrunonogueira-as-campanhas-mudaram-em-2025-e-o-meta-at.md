@@ -3,20 +3,22 @@ titulo: "As campanhas mudaram em 2025 e o Meta atualizou totalmente o sistema q"
 autor: "@obrunonogueira"
 url: https://www.instagram.com/p/DQNmBV2DJ3p/
 tipo: video
-temas: []
-tags: []
+temas: [trafego-pago]
+tags: [andromeda, criativo-original, isca]
 duracao: "1min06"
 data_post: 2025-10-25
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Explica que o Andrômeda (ativado por completo em junho/2025) filtra anúncios antes do leilão: quando o anunciante sobe várias variações do mesmo criativo com pequenas mudanças, o algoritmo lê como spam de baixa originalidade e não distribui — a verba se divide em migalhas e o algoritmo nunca aprende com dados suficientes.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Subir múltiplas variações quase idênticas do mesmo criativo é lido como spam pelo Andrômeda, não como teste A/B saudável.
+- Anúncio 'ativo' no gerenciador não significa que está sendo de fato exibido — pode estar filtrado silenciosamente.
+- Criativos precisam ser genuinamente distintos entre si, não variações cosméticas da mesma promessa.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ As campanhas mudaram em 2025 — e o Meta atualizou totalmente o sistema que def
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça diretamente um princípio central já formalizado na skill `anuncios-meta-andromeda`: a Matriz de Diversidade Criativa exige ângulos genuinamente diferentes por kit, não variações de frase do mesmo ângulo — este post confirma, de fonte técnica externa, por que isso importa (evitar ser lido como spam de baixa originalidade).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

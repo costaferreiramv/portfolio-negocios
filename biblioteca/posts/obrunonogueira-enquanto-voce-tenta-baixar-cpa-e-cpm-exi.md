@@ -3,20 +3,20 @@ titulo: "Enquanto você tenta baixar CPA e CPM, existem algoritmos decidindo se 
 autor: "@obrunonogueira"
 url: https://www.instagram.com/p/DWU5KLygKmu/
 tipo: video
-temas: []
-tags: []
+temas: [trafego-pago]
+tags: [sam3, algoritmos-meta, isca]
 duracao: "1min12"
 data_post: 2026-03-25
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Menciona a existência de outros dois algoritmos da Meta além do Andrômeda — citados como 'SAM3' e 'IN' — responsáveis por parte do CPA/CPM ruim, sem detalhar o funcionamento no texto capturado (aula paga/isca).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Cita a existência de mais dois algoritmos de filtro da Meta além do Andrômeda (nomes não verificados de forma independente — checar antes de citar publicamente).
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Clique e assista antes que tirem do ar.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sinal de que vale acompanhar atualizações sobre a arquitetura de algoritmos da Meta além do Andrômeda — sem conteúdo técnico verificável sem acesso à aula paga.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

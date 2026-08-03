@@ -4,14 +4,14 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 303
+**Analisados (resumo, pontos-chave e aplicação escritos):** 309
 
 ### Status
 
 | status | o que significa | posts |
 |---|---|---|
-| `completo` | íntegra capturada e analisada | 258 |
-| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 790 |
+| `completo` | íntegra capturada e analisada | 264 |
+| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 784 |
 | `pendente` | legenda capturada; falta transcrever slides ou analisar | 219 |
 
 ### Tipo
@@ -126,6 +126,10 @@ automaticamente.
 - [O DeepSeek tá dando o que falar, e não é à toa! Essa ferramenta pode s](posts/kakarivas-o-deepseek-ta-dando-o-que-falar-e-nao-e.md) — @kakarivas
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-2.md) — @kakarivas
 - [O que achou?! Me conta aqui](posts/michellymullermkt-o-que-achou-me-conta-aqui.md) — @michellymullermkt
+- [As campanhas mudaram em 2025 e o Meta atualizou totalmente o sistema q](posts/obrunonogueira-as-campanhas-mudaram-em-2025-e-o-meta-at.md) — @obrunonogueira
+- [Enquanto você tenta baixar CPA e CPM, existem algoritmos decidindo se ](posts/obrunonogueira-enquanto-voce-tenta-baixar-cpa-e-cpm-exi.md) — @obrunonogueira
+- [Nem todo anúncio é exibido o algoritmo do Meta faz uma seleção antes m](posts/obrunonogueira-nem-todo-anuncio-e-exibido-o-algoritmo-d.md) — @obrunonogueira
+- [O jogo mudou com o Andrômeda, a nova IA da Meta. Mas enquanto muita ge](posts/obrunonogueira-o-jogo-mudou-com-o-andromeda-a-nova-ia-d.md) — @obrunonogueira
 - [Pare de mandar o anúncio direto pro WhatsApp: filtre com uma conversão mais avançada](posts/pedromoro93-funil-0405-conversao-avancada.md) — @pedromoro93
 
 ### criativos
@@ -665,7 +669,13 @@ automaticamente.
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-8.md) — @nicole.forziati · video · 2026-04-30
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde-9.md) — @nicole.forziati · video · 2026-04-30
 - [Nesta aula você vai entender como a Ordem do Sucesso está ajudando mul](posts/nicole-forziati-nesta-aula-voce-vai-entender-como-a-orde.md) — @nicole.forziati · video · 2026-07-10
+- [As campanhas mudaram em 2025 e o Meta atualizou totalmente o sistema q](posts/obrunonogueira-as-campanhas-mudaram-em-2025-e-o-meta-at.md) — @obrunonogueira · video · 2025-10-25
+- [Enquanto você tenta baixar CPA e CPM, existem algoritmos decidindo se ](posts/obrunonogueira-enquanto-voce-tenta-baixar-cpa-e-cpm-exi.md) — @obrunonogueira · video · 2026-03-25
+- [Nem todo anúncio é exibido o algoritmo do Meta faz uma seleção antes m](posts/obrunonogueira-nem-todo-anuncio-e-exibido-o-algoritmo-d.md) — @obrunonogueira · video · 2025-10-25
+- [O jogo mudou com o Andrômeda, a nova IA da Meta. Mas enquanto muita ge](posts/obrunonogueira-o-jogo-mudou-com-o-andromeda-a-nova-ia-d.md) — @obrunonogueira · video · 2025-11-06
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira · video · 2026-07-23
+- [Seu prejuízo no tráfego pode não ter nada a ver com o que você está aj](posts/obrunonogueira-seu-prejuizo-no-trafego-pode-nao-ter-nad.md) — @obrunonogueira · video · 2026-05-05
+- [Tem anúncio seu sendo barrado e você nem sabe o motivo. A maioria só c](posts/obrunonogueira-tem-anuncio-seu-sendo-barrado-e-voce-nem.md) — @obrunonogueira · video · 2026-03-25
 - [A pergunta de 1 milhão de dólares! Por quê comprar imóvel hoje?](posts/oincorporador-a-pergunta-de-1-milhao-de-dolares-por-qu.md) — @oincorporador · reel · 2025-07-03
 - [A portabilidade de crédito em financiamentos imobiliários é o direito ](posts/oincorporador-a-portabilidade-de-credito-em-financiame.md) — @oincorporador · reel · 2025-07-06
 - [Bom dia com essa dica para uma jornada mais satisfatória na compra do ](posts/oincorporador-bom-dia-com-essa-dica-para-uma-jornada-m.md) — @oincorporador · imagem · 2025-07-01

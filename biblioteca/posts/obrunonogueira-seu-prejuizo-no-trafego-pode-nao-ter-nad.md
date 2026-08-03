@@ -4,19 +4,19 @@ autor: "@obrunonogueira"
 url: https://www.instagram.com/p/DX-WYf9gAwI/
 tipo: video
 temas: []
-tags: []
+tags: [duplicata, isca]
 duracao: "1min38"
 data_post: 2026-05-05
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Variação do mesmo discurso sobre algoritmos ocultos da Meta prejudicando resultado de tráfego.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo repetido dos posts irmãos sobre Andrômeda/SAM3/IN.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ Seu prejuízo no tráfego pode não ter nada a ver com o que você está ajustan
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `obrunonogueira-o-jogo-mudou-com-o-andromeda-a-nova-ia-d.md`.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

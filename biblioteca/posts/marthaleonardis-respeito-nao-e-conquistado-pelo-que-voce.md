@@ -3,8 +3,8 @@ titulo: "Respeito não é conquistado pelo que você entrega. É conquistado pel
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DVPLja9ERyT/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [limites, interrupcao, frases-prontas]
 duracao: "2min03"
 data_post: 2026-02-26
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Três frases para estabelecer limite com respeito, sem confronto: 'deixa eu terminar?' (marca limite sem justificar); 'não é isso que eu disse' (corrige distorção da própria fala sem atacar); 'eu vou pensar e te retorno' (recusa responder no tempo do outro, afirma autonomia de decisão). Tese: respeito é conquistado pelo que você não aceita, não só pelo que entrega.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Frase 1: 'deixa eu terminar?' — limite curto e sem justificativa.
+- Frase 2: 'não é isso que eu disse' — corrige distorção sem confronto agressivo.
+- Frase 3: 'eu vou pensar e te retorno' — recusa responder na pressão do tempo alheio, comunica autonomia.
 
 ## Conteúdo integral
 
@@ -36,8 +38,8 @@ Cada movimento seu é uma leitura diferente aos olhos de quem está na sala, por
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+As três frases são diretamente utilizáveis em negociação de preço/condição com proprietário ou comprador de alto padrão — especialmente 'vou pensar e te retorno' como alternativa a responder sob pressão numa negociação de valor.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,7 +4,7 @@ autor: "@thiagoconceroficial"
 url: https://www.instagram.com/p/DKkf8C2uzxp/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, infoproduto]
 slides: 10
 data_post: 2025-06-06
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA de captura para combo de scripts de venda genérico.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de captura, sem conteúdo detalhado.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Photo by Thiago Concer | VENDAS on June 06, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

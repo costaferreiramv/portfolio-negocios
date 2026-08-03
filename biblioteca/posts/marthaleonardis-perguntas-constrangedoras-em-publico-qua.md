@@ -3,8 +3,8 @@ titulo: "Perguntas constrangedoras em público quase nunca são inocentes Muitas
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DWABUXsERcl/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [pergunta-invasiva, controle-de-informacao]
 duracao: "2min09"
 data_post: 2026-03-17
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Pergunta constrangedora em público ('por que você saiu daquela empresa?', 'quanto você fatura?') costuma ser teste de reação sob pressão, não curiosidade genuína. Três respostas: devolver com pergunta ('o que te fez pensar nisso?'); redirecionar sem responder no nível pedido ('o suficiente pra estar aqui com você'); ou adiar para conversa privada ('boa pergunta, te conto com calma depois').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Pergunta invasiva em público é frequentemente teste de reação sob pressão, observado por quem está ao redor.
+- Gaguejar ou se justificar demais comunica instabilidade sob pressão.
+- Três respostas: devolver com pergunta / redirecionar sem responder no nível pedido / adiar para privado.
 
 ## Conteúdo integral
 
@@ -41,8 +43,8 @@ Quando alguém faz uma pergunta desconfortável na frente de outras pessoas, com
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Aplicável a pergunta invasiva de proprietário ou concorrente sobre comissão, faturamento ou motivo de encerrar uma parceria — ter resposta pronta que não expõe nem gagueja protege a posição do Marcus em negociação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

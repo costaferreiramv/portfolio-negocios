@@ -3,8 +3,8 @@ titulo: "Você já percebeu que pessoas que forçam simpatia em excesso são dei
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DU6fI0yEfmY/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [entrada-em-sala, postura, olhar-sustentado]
 duracao: "2min24"
 data_post: 2026-02-18
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Como entrar numa sala com gente importante sem parecer que 'precisa de algo': entrar devagar e observar antes de falar (pressa comunica ansiedade de aceitação); sustentar o olhar um segundo a mais sem forçar (comunica segurança); falar menos e mais devagar (silêncio entre frases traz peso). Tese: respeito vem antes do afeto — você não precisa ser simpático para ser querido, precisa ser respeitado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Entrar devagar e observar, em vez de cumprimentar todo mundo rápido, comunica segurança em vez de ansiedade.
+- Sustentar o olhar (sem encarar) e falar mais devagar são sinais de segurança que atraem respeito.
+- 'Você precisa ser respeitado antes de ser querido' — ordem de prioridade em ambiente de poder.
 
 ## Conteúdo integral
 
@@ -36,8 +38,8 @@ Mas me diz, como você reage com pessoas que forçam simpatia?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conjunto de comportamentos de entrada em ambiente de alto padrão (evento, reunião com investidor) — complementa diretamente as táticas de postura do @guilhermemachadooficial ('entrar devagar, sustentar o olhar, falar menos').
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

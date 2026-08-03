@@ -4,7 +4,7 @@ autor: "@thiagoconceroficial"
 url: https://www.instagram.com/p/DCKCQylu-Xe/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, curso]
 slides: 9
 data_post: 2024-11-09
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de aula ao vivo sobre 'o segredo das objeções'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de evento, sem conteúdo detalhado no post.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Photo by Thiago Concer | VENDAS on November 09, 2024.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

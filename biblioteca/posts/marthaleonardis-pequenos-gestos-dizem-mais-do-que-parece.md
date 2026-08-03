@@ -3,8 +3,8 @@ titulo: "Pequenos gestos dizem mais do que parecem. Um cumprimento simples já d
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DX-KZncBYUK/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [aperto-de-mao, linguagem-corporal, dominancia]
 duracao: "1min50"
 data_post: 2026-05-05
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Analisa aperto de mão de líderes mundiais (Trump puxa o braço para seu território; Biden coloca a segunda mão por cima) como disputa sutil de dominância. Aperto de mão 'certo': pressão firme proporcional ao do outro, olho no olho sustentado, corpo levemente inclinado à frente (não à espera).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Aperto de mão comunica hierarquia antes de qualquer palavra ser dita — puxar para o próprio território ou colocar mão por cima são sinais de dominância.
+- Aperto de mão equilibrado: pressão proporcional, olho sustentado, leve inclinação à frente.
 
 ## Conteúdo integral
 
@@ -35,8 +36,8 @@ Você já prestou atenção no que seu cumprimento comunica?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Detalhe de postura física relevante em reunião de captação/negociação com proprietário ou investidor de alto padrão — o aperto de mão equilibrado (nem submisso, nem dominante) é o adequado para uma relação de confiança de longo prazo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

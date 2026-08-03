@@ -4,18 +4,18 @@ autor: "@thiagoconceroficial"
 url: https://www.instagram.com/p/DMLw3pCM8VO/
 tipo: imagem
 temas: []
-tags: []
+tags: [isca, curso]
 data_post: 2025-07-16
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de curso de negociação prometendo dobrar vendas em 60 dias.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de curso, sem conteúdo detalhado no post.
 
 ## Conteúdo integral
 
@@ -31,8 +31,8 @@ Photo by Thiago Concer | VENDAS on July 16, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

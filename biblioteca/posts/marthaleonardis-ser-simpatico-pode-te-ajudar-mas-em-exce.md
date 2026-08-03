@@ -3,8 +3,8 @@ titulo: "Ser simpático pode te ajudar. Mas em excesso, pode te prejudicar. Em a
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DYAu9JsRSUX/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [seletividade, simpatia-excessiva, autoridade]
 duracao: "1min59"
 data_post: 2026-05-06
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Simpatia excessiva em ambiente de poder gera descarte, não conexão — quem concorda com tudo e sorri sempre é tratado como 'acessível demais', convidado para o jantar mas não para a sociedade, para opinar mas não para decidir. Distingue grosseria (tratar mal sem motivo) de seletividade (escolher a quem dar atenção e tempo).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Simpatia em excesso em ambiente de poder é lida como falta de critério, não como virtude.
+- Distinção central: grosseria é maltratar sem motivo; seletividade é escolher com critério a quem dar atenção.
+- 'Convidam pro jantar, mas não pra sociedade' — reconhecimento social sem inclusão real nas decisões.
 
 ## Conteúdo integral
 
@@ -35,8 +37,8 @@ Você sente que as pessoas te levam a sério ou só gostam de você?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça o tom que já aparece no post do @guilhermemachadooficial sobre postura com cliente forte — excesso de simpatia com investidor/incorporador de alto padrão pode soar como necessidade, prejudicando a percepção de autoridade do Marcus.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

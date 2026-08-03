@@ -3,8 +3,8 @@ titulo: "A história do corvo e da águia nos ensina sobre foco e resiliência. 
 autor: "@thiagoconceroficial"
 url: https://www.instagram.com/reel/C8f8FotOS7U/
 tipo: reel
-temas: []
-tags: []
+temas: [mentalidade]
+tags: [metafora, foco, resiliencia]
 duracao: "33s"
 data_post: 2024-06-22
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Metáfora motivacional: a águia não briga com o corvo que a ataca, apenas voa mais alto até o corvo não aguentar a altitude e cair. Ensina foco em objetivos maiores em vez de gastar energia com distrações/provocações.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Metáfora de foco: ignorar provocação e 'subir mais alto' em vez de reagir.
 
 ## Conteúdo integral
 
@@ -38,8 +38,8 @@ Mantenha o foco no que realmente importa e siga em frente, deixando as distraç�
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conteúdo motivacional genérico, sem especificidade de mercado imobiliário — utilizável como post de 'inspirar' na régua de pauta, com baixo esforço de produção.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

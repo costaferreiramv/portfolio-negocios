@@ -3,8 +3,8 @@ titulo: "Se defender em público te faz parecer menor. Não é sobre estar certo
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DZLaO_0xJPk/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [tempo-de-resposta, whatsapp, espelhamento]
 duracao: "2min20"
 data_post: 2026-06-04
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Quando alguém demora a responder mensagem e depois age como se nada tivesse acontecido, fingir que está tudo bem ensina que o próprio tempo não tem valor. Recomenda: espelhar o tempo de resposta (não responder rápido demais a quem demorou); trocar o canal ('vamos marcar 15 min essa semana?') para sair do texto onde o outro controla; ou nomear a demora sem acusar ('percebi que está levando muitos dias, prefere resolver de outra forma?').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Responder rápido demais a quem demorou dias comunica que o próprio tempo vale menos.
+- Trocar do texto para ligação/reunião tira o controle de quem demora a responder por escrito.
+- Nomear a demora sem acusação é o recurso mais direto, mas o mais arriscado de soar reclamação.
 
 ## Conteúdo integral
 
@@ -35,8 +37,8 @@ Quando te corrigem, você reage ou conduz?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Padrão de comportamento útil em negociação longa com proprietário/incorporadora que demora a responder — espelhar o tempo ou trocar o canal recupera controle sem parecer ansioso pela resposta.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

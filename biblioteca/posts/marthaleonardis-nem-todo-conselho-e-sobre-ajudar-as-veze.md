@@ -3,8 +3,8 @@ titulo: "Nem todo conselho é sobre ajudar. Às vezes, é sobre se posicionar ac
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DXxSZNeRlUN/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [hierarquia-social, conselho-nao-pedido, resposta]
 duracao: "2min17"
 data_post: 2026-04-30
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conselho não pedido em público muitas vezes comunica hierarquia, não generosidade. Agradecer sem questionar posiciona quem recebe como aprendiz. Respostas recomendadas: devolver com pergunta que nivela ('o que te levou a pensar nisso?'), ou concordar parcialmente e completar com visão própria ('faz sentido em parte, o que vejo na prática é um pouco diferente').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conselho não pedido em público pode ser jogo de posição, não ajuda genuína.
+- Agradecer sem questionar posiciona quem recebe como 'aprendiz' na leitura da sala.
+- Resposta de nivelamento: devolver pergunta ('o que te levou a pensar nisso?') em vez de aceitar passivamente.
 
 ## Conteúdo integral
 
@@ -41,8 +43,8 @@ Você costuma aceitar conselhos facilmente ou filtra antes?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Relevante em negociação com incorporadora, banco ou parceiro que tente 'ensinar' o Marcus sobre o próprio negócio — responder com pergunta que nivela mantém a posição sem criar conflito.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "Você já assistiu um desses filmes e percebeu essas nuances sobre pode
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DUqkbM0jZSA/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [filmes, networking, status]
 duracao: "1min33"
 data_post: 2026-02-12
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Recomenda três filmes como estudo de dinâmica de poder e conexão: O Poderoso Chefão (lealdade construída por favor prestado), Rede Social (sucesso depende de quem está ao lado, não só do produto), O Diabo Veste Prada (presença silenciosa que faz as pessoas prestarem atenção).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Recomendação de estudo cultural (filmes) sobre lealdade, aliança e presença — não script pronto.
+- Tese: quem entende essas dinâmicas 'nunca está sozinho quando precisa'.
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ Você já assistiu um desses filmes e percebeu essas nuances sobre poder, posici
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Referência de estudo próprio sobre construção de rede de relacionamento no alto padrão — relevante para entender a lógica de indicação entre proprietários e investidores do mesmo círculo social em Uberlândia.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

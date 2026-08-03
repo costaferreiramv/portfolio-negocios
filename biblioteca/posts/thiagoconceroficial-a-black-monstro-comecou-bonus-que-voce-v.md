@@ -4,7 +4,7 @@ autor: "@thiagoconceroficial"
 url: https://www.instagram.com/p/DC0OZteOxkH/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, infoproduto]
 slides: 8
 data_post: 2024-11-26
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Oferta de Black Friday com combo de scripts de venda e cursos genéricos, sem relação com imóvel.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca comercial genérica, sem conteúdo educativo detalhado.
 
 ## Conteúdo integral
 
@@ -44,8 +44,8 @@ Photo by Thiago Concer | VENDAS on November 25, 2024.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

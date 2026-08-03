@@ -3,8 +3,8 @@ titulo: "Dobrar suas vendas em 60 dias? É possível! Descubra as estratégias d
 autor: "@thiagoconceroficial"
 url: https://www.instagram.com/p/DJZtPI9MwfK/
 tipo: video
-temas: []
-tags: []
+temas: [vendas]
+tags: [objecoes, confianca, isca]
 duracao: "34s"
 data_post: 2025-05-08
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Menciona as objeções mais comuns em venda ('está caro', 'vou ver com minha esposa', 'vou pensar') e argumenta que responder mal a objeção gera desconfiança, que é a base de qualquer venda. Isca de aula gratuita sobre o tema.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Três objeções citadas como as mais recorrentes: preço, decisão compartilhada, procrastinação ('vou pensar').
+- Tese: responder mal a objeção quebra confiança, que é a base da venda.
 
 ## Conteúdo integral
 
@@ -32,8 +33,8 @@ Descubra as estratégias de negociação mais atualizadas do mercado e se torne 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+As três objeções citadas (preço, decisão compartilhada, procrastinação) são exatamente as mais comuns em venda de imóvel de alto padrão — útil como lista de objeções para as quais preparar resposta específica, mesmo sem o conteúdo completo do curso.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

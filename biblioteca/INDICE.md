@@ -4,7 +4,7 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 183
+**Analisados (resumo, pontos-chave e aplicação escritos):** 197
 
 ### Status
 
@@ -102,6 +102,9 @@ automaticamente.
 - [A primeira mensagem não foi feita para vender — foi feita para gerar resposta](posts/paidoslead-primeira-mensagem-nao-vende.md) — @paidoslead
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
 - [Taxa de transferência abusiva: em Uberlândia o despachante gira em torno de R$ 700-800](posts/sousasolucoes-taxa-de-transferencia-abusiva.md) — @sousasolucoes
+- [Dobrar suas vendas em 60 dias? É possível! Descubra as estratégias de ](posts/thiagoconceroficial-dobrar-suas-vendas-em-60-dias-e-possivel.md) — @thiagoconceroficial
+- [O segredo de uma venda bem-sucedida não está em falar sem parar sobre ](posts/thiagoconceroficial-o-segredo-de-uma-venda-bem-sucedida-nao.md) — @thiagoconceroficial
+- [Se você quer participar da melhor aula de vendas do Brasil, comenta OS](posts/thiagoconceroficial-se-voce-quer-participar-da-melhor-aula-d.md) — @thiagoconceroficial
 
 ### trafego-pago
 
@@ -209,6 +212,16 @@ automaticamente.
 - [Esse dia](posts/lucasmarrques-esse-dia.md) — @lucasmarrques
 - [Faz e depois me agradece](posts/lucasmarrques-faz-e-depois-me-agradece.md) — @lucasmarrques
 - [O cliente busca o óbvio](posts/lucasmarrques-o-cliente-busca-o-obvio.md) — @lucasmarrques
+- [A forma como você recebe um elogio fala muito mais do que o elogio em ](posts/marthaleonardis-a-forma-como-voce-recebe-um-elogio-fala.md) — @marthaleonardis
+- [Nem todo conselho é sobre ajudar. Às vezes, é sobre se posicionar acim](posts/marthaleonardis-nem-todo-conselho-e-sobre-ajudar-as-veze.md) — @marthaleonardis
+- [Pequenos gestos dizem mais do que parecem. Um cumprimento simples já d](posts/marthaleonardis-pequenos-gestos-dizem-mais-do-que-parece.md) — @marthaleonardis
+- [Perguntas constrangedoras em público quase nunca são inocentes Muitas ](posts/marthaleonardis-perguntas-constrangedoras-em-publico-qua.md) — @marthaleonardis
+- [Respeito não é conquistado pelo que você entrega. É conquistado pelo q](posts/marthaleonardis-respeito-nao-e-conquistado-pelo-que-voce.md) — @marthaleonardis
+- [Se alguém te interrompe na frente de outras pessoas, você precisa toma](posts/marthaleonardis-se-alguem-te-interrompe-na-frente-de-out.md) — @marthaleonardis
+- [Se defender em público te faz parecer menor. Não é sobre estar certo. ](posts/marthaleonardis-se-defender-em-publico-te-faz-parecer-me.md) — @marthaleonardis
+- [Ser simpático pode te ajudar. Mas em excesso, pode te prejudicar. Em a](posts/marthaleonardis-ser-simpatico-pode-te-ajudar-mas-em-exce.md) — @marthaleonardis
+- [Você já assistiu um desses filmes e percebeu essas nuances sobre poder](posts/marthaleonardis-voce-ja-assistiu-um-desses-filmes-e-perc.md) — @marthaleonardis
+- [Você já percebeu que pessoas que forçam simpatia em excesso são deixad](posts/marthaleonardis-voce-ja-percebeu-que-pessoas-que-forcam.md) — @marthaleonardis
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
 
 ### captacao
@@ -337,6 +350,7 @@ automaticamente.
 - [Qual foi a sua maior dificuldade?](posts/lucasmarrques-qual-foi-a-sua-maior-dificuldade.md) — @lucasmarrques
 - [Renda variável não sustenta despesa fixa: o erro que faz o corretor virar refém da próxima venda](posts/marcele-corretora-renda-variavel-despesa-fixa.md) — @marcele_corretora
 - [15 atitudes para quem está se reconstruindo aos 45](posts/modoprodutivo-reconstrucao-aos-45.md) — @modoprodutivo_
+- [A história do corvo e da águia nos ensina sobre foco e resiliência. Em](posts/thiagoconceroficial-a-historia-do-corvo-e-da-aguia-nos-ensin.md) — @thiagoconceroficial
 
 ---
 
@@ -489,6 +503,16 @@ automaticamente.
 - [Lista fria funciona — o que não funciona é abrir a conversa vendendo](posts/marcele-corretora-lista-fria-diagnostico.md) — @marcele_corretora · reel · 2026-07-23
 - [Qualificar não é pressionar: as perguntas antes de mandar qualquer imóvel](posts/marcele-corretora-qualificacao-antes-de-mandar-imovel.md) — @marcele_corretora · reel · 2026-07-22
 - [Renda variável não sustenta despesa fixa: o erro que faz o corretor virar refém da próxima venda](posts/marcele-corretora-renda-variavel-despesa-fixa.md) — @marcele_corretora · carrossel · 2026-07-27
+- [A forma como você recebe um elogio fala muito mais do que o elogio em ](posts/marthaleonardis-a-forma-como-voce-recebe-um-elogio-fala.md) — @marthaleonardis · reel · 2026-04-23
+- [Nem todo conselho é sobre ajudar. Às vezes, é sobre se posicionar acim](posts/marthaleonardis-nem-todo-conselho-e-sobre-ajudar-as-veze.md) — @marthaleonardis · reel · 2026-04-30
+- [Pequenos gestos dizem mais do que parecem. Um cumprimento simples já d](posts/marthaleonardis-pequenos-gestos-dizem-mais-do-que-parece.md) — @marthaleonardis · reel · 2026-05-05
+- [Perguntas constrangedoras em público quase nunca são inocentes Muitas ](posts/marthaleonardis-perguntas-constrangedoras-em-publico-qua.md) — @marthaleonardis · reel · 2026-03-17
+- [Respeito não é conquistado pelo que você entrega. É conquistado pelo q](posts/marthaleonardis-respeito-nao-e-conquistado-pelo-que-voce.md) — @marthaleonardis · reel · 2026-02-26
+- [Se alguém te interrompe na frente de outras pessoas, você precisa toma](posts/marthaleonardis-se-alguem-te-interrompe-na-frente-de-out.md) — @marthaleonardis · reel · 2026-02-25
+- [Se defender em público te faz parecer menor. Não é sobre estar certo. ](posts/marthaleonardis-se-defender-em-publico-te-faz-parecer-me.md) — @marthaleonardis · reel · 2026-06-04
+- [Ser simpático pode te ajudar. Mas em excesso, pode te prejudicar. Em a](posts/marthaleonardis-ser-simpatico-pode-te-ajudar-mas-em-exce.md) — @marthaleonardis · reel · 2026-05-06
+- [Você já assistiu um desses filmes e percebeu essas nuances sobre poder](posts/marthaleonardis-voce-ja-assistiu-um-desses-filmes-e-perc.md) — @marthaleonardis · reel · 2026-02-12
+- [Você já percebeu que pessoas que forçam simpatia em excesso são deixad](posts/marthaleonardis-voce-ja-percebeu-que-pessoas-que-forcam.md) — @marthaleonardis · reel · 2026-02-18
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado · reel · 2026-07-21
 - [15 atitudes para quem está se reconstruindo aos 45](posts/modoprodutivo-reconstrucao-aos-45.md) — @modoprodutivo_ · carrossel · 2026-07-21
 - [6 skills que tiram o Claude do modo chatbot](posts/nicksoncarvalho-6-skills-claude.md) — @nicksoncarvalho · carrossel · 2026-07-23
@@ -525,6 +549,10 @@ automaticamente.
 - [Vai comprar um imóvel? Não pule este detalhe! Sempre peça a certidão n](posts/sousasolucoes-vai-comprar-um-imovel-nao-pule-este-deta.md) — @sousasolucoes · reel · 2026-07-13
 - [Modelo caro planeja, modelo barato executa: como cortar 54% do custo de IA](posts/thaleslaray-cortar-custos-claude-modelo-hibrido.md) — @thaleslaray · carrossel · 2026-07-13
 - [ChatGPT como analista imobiliário: score, cap rate e faixa de proposta](posts/thaysfreire-chatgpt-analista-imobiliario.md) — @thaysfreire.ia · reel · 2026-07-25
+- [A história do corvo e da águia nos ensina sobre foco e resiliência. Em](posts/thiagoconceroficial-a-historia-do-corvo-e-da-aguia-nos-ensin.md) — @thiagoconceroficial · reel · 2024-06-22
+- [Dobrar suas vendas em 60 dias? É possível! Descubra as estratégias de ](posts/thiagoconceroficial-dobrar-suas-vendas-em-60-dias-e-possivel.md) — @thiagoconceroficial · video · 2025-05-08
+- [O segredo de uma venda bem-sucedida não está em falar sem parar sobre ](posts/thiagoconceroficial-o-segredo-de-uma-venda-bem-sucedida-nao.md) — @thiagoconceroficial · reel · 2024-07-25
+- [Se você quer participar da melhor aula de vendas do Brasil, comenta OS](posts/thiagoconceroficial-se-voce-quer-participar-da-melhor-aula-d.md) — @thiagoconceroficial · reel · 2024-07-11
 
 ---
 

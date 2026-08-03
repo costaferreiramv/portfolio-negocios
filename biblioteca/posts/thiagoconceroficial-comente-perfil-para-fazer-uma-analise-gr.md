@@ -4,7 +4,7 @@ autor: "@thiagoconceroficial"
 url: https://www.instagram.com/p/C8fTSAVOsYF/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca]
 slides: 9
 data_post: 2024-06-21
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA de análise gratuita de perfil de vendas, sem conteúdo detalhado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de captura de contato.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Photo by Thiago Concer | VENDAS on June 21, 2024.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "Se você quer participar da melhor aula de vendas do Brasil, comenta OS
 autor: "@thiagoconceroficial"
 url: https://www.instagram.com/reel/C9QxbHCuret/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [primeiro-contato, personalizacao, rapport]
 duracao: "1min26"
 data_post: 2024-07-11
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Três regras para primeiro contato com cliente: nunca agir como quem já sabe tudo (perguntar em vez de afirmar); conquistar como amigo, não só como vendedor ('o cliente compra você primeiro, o produto depois'); fazer atendimento personalizado, usando o nome do cliente e perguntas abertas sobre o que motivou a busca.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Regra 1: perguntar em vez de afirmar no primeiro contato — não presumir a dor do cliente.
+- Regra 2: 'o cliente compra você primeiro, o produto depois' — conquistar como pessoa, não só vender.
+- Regra 3: personalização pelo nome + pergunta aberta ('o que motivou você a buscar isso?') aumenta a sensação de valorização.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ Se você quer participar da melhor aula de vendas do Brasil, comenta “OSV” q
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça, com boa formulação, princípios já bem estabelecidos nesta biblioteca sobre primeiro contato (uso do nome — @carol.iasmim; pergunta antes de afirmar — @guilhermemachadooficial). Sem técnica nova, mas boa síntese para treinamento.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

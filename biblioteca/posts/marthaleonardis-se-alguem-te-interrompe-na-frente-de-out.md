@@ -3,8 +3,8 @@ titulo: "Se alguém te interrompe na frente de outras pessoas, você precisa tom
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DVMfgjMkRwS/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [interrupcao, controle-de-cena]
 duracao: "1min51"
 data_post: 2026-02-25
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duas formas de retomar controle quando interrompido em público, sem parecer irritado: esperar pausa e retomar com calma ('deixa eu só concluir o raciocínio, porque acho que faz sentido com o que você trouxe'); ou marcar o momento sem acusar ('peraí, eu não terminei, mas quero ouvir o que vai dizer'). Tese: quem se deixa interromper uma vez será interrompido sempre.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Duas respostas à interrupção: retomar com calma conectando à fala do outro, ou marcar o momento sem acusação direta.
+- 'Quem se deixa interromper uma vez será interrompido sempre' — o padrão se fixa rápido.
 
 ## Conteúdo integral
 
@@ -40,8 +41,8 @@ Como você costuma reagir quando isso acontece?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Útil em reunião com múltiplas partes (proprietário, comprador, outro corretor) onde o Marcus precisa manter espaço de fala sem parecer rude — frase pronta para retomar sem confronto.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

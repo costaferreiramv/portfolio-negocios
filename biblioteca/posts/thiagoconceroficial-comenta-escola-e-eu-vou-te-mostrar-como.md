@@ -4,7 +4,7 @@ autor: "@thiagoconceroficial"
 url: https://www.instagram.com/p/DBhFBlVSxXi/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, curso]
 slides: 8
 data_post: 2024-10-24
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA de captura para curso de vendas genérico ('Nova Escola de Vendas').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca sem conteúdo educativo no post.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Photo by Thiago Concer | VENDAS on October 24, 2024.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

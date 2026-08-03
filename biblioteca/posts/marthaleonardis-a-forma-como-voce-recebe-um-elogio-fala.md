@@ -3,8 +3,8 @@ titulo: "A forma como você recebe um elogio fala muito mais do que o elogio em 
 autor: "@marthaleonardis"
 url: https://www.instagram.com/reel/DXfQ3I-hnYs/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [elogio, autoridade, linguagem-corporal]
 duracao: "2min01"
 data_post: 2026-04-23
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Como responder a elogio em público sem perder autoridade: nunca minimizar ('imagina, foi a equipe toda'), e sim ampliar sem se diminuir ('esse projeto me ensinou muito sobre decidir sob pressão') ou usar o elogio como ponte para se posicionar com opinião própria sobre o assunto.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Minimizar elogio ('imagina', 'ai que isso') comunica surpresa por ser reconhecido — sinal de quem não se sente merecedor.
+- Ampliar o elogio sem se diminuir ('me ensinou muito sobre X') comunica domínio consciente do próprio trabalho.
+- Usar o elogio como ponte para afirmar posição própria no assunto transforma reconhecimento em autoridade.
 
 ## Conteúdo integral
 
@@ -41,8 +43,8 @@ Você costuma sustentar um elogio ou tenta escapar dele?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Aplica-se a qualquer momento em que cliente ou parceiro elogie o trabalho do Marcus (ex.: 'você conhece muito bem esse bairro') — responder ampliando com posição própria em vez de minimizar reforça a autoridade sem soar arrogante.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

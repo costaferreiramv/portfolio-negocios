@@ -4,7 +4,7 @@ autor: "@thiagoconceroficial"
 url: https://www.instagram.com/p/C_MX2fwO4-Y/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, curso]
 slides: 9
 data_post: 2024-08-28
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de comunidade de vendas com oferta por tempo limitado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de infoproduto com urgência de prazo.
 
 ## Conteúdo integral
 
@@ -42,8 +42,8 @@ Photo by Thiago Concer | VENDAS on August 27, 2024.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

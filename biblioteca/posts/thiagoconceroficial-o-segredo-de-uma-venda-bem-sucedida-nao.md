@@ -3,8 +3,8 @@ titulo: "O segredo de uma venda bem-sucedida não está em falar sem parar sobre
 autor: "@thiagoconceroficial"
 url: https://www.instagram.com/reel/C92vnjhuf6M/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [escuta-ativa, negociacao-de-preco, case-pessoal]
 duracao: "1min00"
 data_post: 2024-07-25
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tese: venda bem-sucedida vem de escutar o cliente, não de falar sem parar sobre o produto — comparação do vendedor a um 'curador' que ajuda o cliente a achar a solução certa. Ilustrado com relato pessoal de negociação de cachê de show, onde o autor aprendeu a não aceitar a primeira oferta e negociar com calma.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Vendedor como 'curador', não apresentador — função de escutar e guiar, não de falar sem parar.
+- Case pessoal de negociação (cachê de show): não aceitar a primeira oferta, negociar com calma e sem pressa.
 
 ## Conteúdo integral
 
@@ -36,8 +37,8 @@ Quando escutamos mais, conseguimos captar informações valiosas que nos permite
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça, com exemplo fora do nicho, a mesma tese de escuta ativa já registrada por múltiplos autores desta biblioteca — sem substância nova de método imobiliário.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,19 +4,19 @@ autor: "@leandroladeiran"
 url: https://www.instagram.com/p/CyMQr-8tUQ9/
 tipo: video
 temas: []
-tags: []
+tags: [isca, infoproduto]
 duracao: "59s"
 data_post: 2023-10-09
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio genérico sobre criar produto digital, sem relação com mercado imobiliário.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de curso de criação de produto, fora do nicho.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Clique em “saiba mais” e conheça uma estratégia que vai te ajudar a coloca
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,18 +4,18 @@ autor: "@leandroladeiran"
 url: https://www.instagram.com/p/DaTSCVogy-g/
 tipo: imagem
 temas: []
-tags: []
+tags: [isca, negocio-digital]
 data_post: 2026-07-02
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumento genérico sobre risco baixo e ganho ilimitado de negócio digital, sem relação com imóvel.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de curso genérico, fora do nicho.
 
 ## Conteúdo integral
 
@@ -37,8 +37,8 @@ Photo by Leandro Ladeira Neiva on July 02, 2026.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

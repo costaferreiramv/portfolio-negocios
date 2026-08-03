@@ -4,15 +4,15 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 273
+**Analisados (resumo, pontos-chave e aplicação escritos):** 288
 
 ### Status
 
 | status | o que significa | posts |
 |---|---|---|
-| `completo` | íntegra capturada e analisada | 229 |
-| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 818 |
-| `pendente` | legenda capturada; falta transcrever slides ou analisar | 220 |
+| `completo` | íntegra capturada e analisada | 244 |
+| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 804 |
+| `pendente` | legenda capturada; falta transcrever slides ou analisar | 219 |
 
 ### Tipo
 
@@ -174,11 +174,16 @@ automaticamente.
 - [Ao invés de tentar se filmar falando sobre os imóveis faça isso 1. Gra](posts/kakarivas-ao-inves-de-tentar-se-filmar-falando-sob.md) — @kakarivas
 - [Já SALVA pra deixar guardado!!! Pega o ouro 1 Tours Virtuais 2 Depoime](posts/kakarivas-ja-salva-pra-deixar-guardado-pega-o-ouro.md) — @kakarivas
 - [Tem corretor produzindo conteúdo todo dia. E só atraindo outros corret](posts/kakarivas-tem-corretor-produzindo-conteudo-todo-di.md) — @kakarivas
+- [A insônia do criador é não saber o que postar. Com um acervo de referê](posts/leandroladeiran-a-insonia-do-criador-e-nao-saber-o-que-p.md) — @leandroladeiran
+- [Existe um jeito de fazer stories sem aparecer e ainda assim explodir d](posts/leandroladeiran-existe-um-jeito-de-fazer-stories-sem-apa.md) — @leandroladeiran
+- [O story do Instagram é uma ferramenta excelente para relacionar com qu](posts/leandroladeiran-o-story-do-instagram-e-uma-ferramenta-ex.md) — @leandroladeiran
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
 - [Domine os vídeos imobiliários com o seu celular e transforme suas vend](posts/leonardo-ura-domine-os-videos-imobiliarios-com-o-seu.md) — @leonardo_ura
 - [Hack para você conseguir ser constante na produção de conteúdo!](posts/lucasmarrques-hack-para-voce-conseguir-ser-constante-n.md) — @lucasmarrques
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi
+- [2020 Poste todo dia use hashtags crescimento 2025 Faça isso morte do p](posts/segueadi-2020-poste-todo-dia-use-hashtags-crescim.md) — @segueadi
+- [Eu não acredito que essa é a tendência de conteúdo do Instagram pra 20](posts/segueadi-eu-nao-acredito-que-essa-e-a-tendencia-d.md) — @segueadi
 - [O formato sem edição pesada que o Instagram está privilegiando](posts/segueadi-formato-simplificado-alcance.md) — @segueadi
 
 ### copywriting
@@ -193,6 +198,7 @@ automaticamente.
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino
+- [Um dos segredos de uma boa copy, é a escalada de atenção. Foi assim qu](posts/leandroladeiran-um-dos-segredos-de-uma-boa-copy-e-a-esca.md) — @leandroladeiran
 - [Vocabulário do luxo: cinco trocas de frase para remarcar um compromisso](posts/malu-albertotti-remarcar-com-elegancia.md) — @malu_albertotti
 - [49 dos brasileiros têm intenção de compra no mercado imobiliário. Esse](posts/mpercussor-49-dos-brasileiros-tem-intencao-de-compr.md) — @mpercussor
 - [Por que o cliente compra? Porque a decisão junta novidade, emoção e ne](posts/mpercussor-por-que-o-cliente-compra-porque-a-decisa.md) — @mpercussor
@@ -547,6 +553,12 @@ automaticamente.
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-6.md) — @kakarivas · reel · 2026-05-20
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada.md) — @kakarivas · reel · 2026-06-13
 - [Tem corretor produzindo conteúdo todo dia. E só atraindo outros corret](posts/kakarivas-tem-corretor-produzindo-conteudo-todo-di.md) — @kakarivas · carrossel · 2026-05-17
+- [A insegurança está te impedindo de criar um produto que provavelmente ](posts/leandroladeiran-a-inseguranca-esta-te-impedindo-de-criar.md) — @leandroladeiran · video · 2023-10-09
+- [A insônia do criador é não saber o que postar. Com um acervo de referê](posts/leandroladeiran-a-insonia-do-criador-e-nao-saber-o-que-p.md) — @leandroladeiran · imagem · 2026-06-24
+- [Existe um jeito de fazer stories sem aparecer e ainda assim explodir d](posts/leandroladeiran-existe-um-jeito-de-fazer-stories-sem-apa.md) — @leandroladeiran · video · 2026-06-26
+- [Nada no mundo físico te oferece um ganho tão alto, com um risco tão ba](posts/leandroladeiran-nada-no-mundo-fisico-te-oferece-um-ganho.md) — @leandroladeiran · imagem · 2026-07-02
+- [O story do Instagram é uma ferramenta excelente para relacionar com qu](posts/leandroladeiran-o-story-do-instagram-e-uma-ferramenta-ex.md) — @leandroladeiran · video · 2025-01-31
+- [Um dos segredos de uma boa copy, é a escalada de atenção. Foi assim qu](posts/leandroladeiran-um-dos-segredos-de-uma-boa-copy-e-a-esca.md) — @leandroladeiran · video · 2025-01-19
 - [Casa decorada é linda, mas se você não souber filmar do jeito certo vi](posts/leonardo-ura-casa-decorada-e-linda-mas-se-voce-nao-so.md) — @leonardo_ura · reel · 2025-06-21
 - [Corretor que não trabalha a própria marca trabalha de graça pra concor](posts/leonardo-ura-corretor-que-nao-trabalha-a-propria-marc.md) — @leonardo_ura · video · 2026-06-20
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura · reel · 2026-07-28
@@ -641,7 +653,16 @@ automaticamente.
 - [Pare de mandar o anúncio direto pro WhatsApp: filtre com uma conversão mais avançada](posts/pedromoro93-funil-0405-conversao-avancada.md) — @pedromoro93 · video · 2026-07-08
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi · reel · 2026-05-04
 - [24 coisas pra instalar no Claude: skills, plug-ins e MCP servers](posts/rtercas-24-coisas-instalar-claude.md) — @rtercas · carrossel · 2026-07-03
+- [2020 Poste todo dia use hashtags crescimento 2025 Faça isso morte do p](posts/segueadi-2020-poste-todo-dia-use-hashtags-crescim.md) — @segueadi · video · 2025-06-24
+- [ATENÇÃO Essa aula fica no ar só por 24 HORAS! Sabe por que seus reels ](posts/segueadi-atencao-essa-aula-fica-no-ar-so-por-24-h.md) — @segueadi · video · 2025-06-14
+- [Eu não acredito que essa é a tendência de conteúdo do Instagram pra 20](posts/segueadi-eu-nao-acredito-que-essa-e-a-tendencia-d.md) — @segueadi · video · 2026-01-29
 - [O formato sem edição pesada que o Instagram está privilegiando](posts/segueadi-formato-simplificado-alcance.md) — @segueadi · video · 2026-07-21
+- [O segredo por trás das grandes influencers e grandes contas do Instagr](posts/segueadi-o-segredo-por-tras-das-grandes-influence-2.md) — @segueadi · video · 2025-10-07
+- [O segredo por trás das grandes influencers e grandes contas do Instagr](posts/segueadi-o-segredo-por-tras-das-grandes-influence-3.md) — @segueadi · video · 2025-06-06
+- [O segredo por trás das grandes influencers e grandes contas do Instagr](posts/segueadi-o-segredo-por-tras-das-grandes-influence-4.md) — @segueadi · video · 2025-04-17
+- [O segredo por trás das grandes influencers e grandes contas do Instagr](posts/segueadi-o-segredo-por-tras-das-grandes-influence.md) — @segueadi · video · 2025-11-26
+- [O segredo que transformou meu Instagram em uma máquina de 6 dígitos...](posts/segueadi-o-segredo-que-transformou-meu-instagram.md) — @segueadi · video · 2025-06-24
+- [Tá todo mundo falando desse segredinho sujo de marketing pra crescer n](posts/segueadi-ta-todo-mundo-falando-desse-segredinho-s.md) — @segueadi · video · 2026-06-17
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes · reel · 2026-07-27
 - [A Caixa encerrou a restrição agora é possível contratar mais de um fin](posts/sousasolucoes-a-caixa-encerrou-a-restricao-agora-e-pos.md) — @sousasolucoes · reel · 2025-12-08
 - [A Chave7 é uma empresa de tecnologia que ajuda corretores e imobiliári](posts/sousasolucoes-a-chave7-e-uma-empresa-de-tecnologia-que.md) — @sousasolucoes · reel · 2025-01-12

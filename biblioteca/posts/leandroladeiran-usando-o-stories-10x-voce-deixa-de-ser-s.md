@@ -4,7 +4,7 @@ autor: "@leandroladeiran"
 url: https://www.instagram.com/p/C6MXAajtedU/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, stories]
 slides: 4
 data_post: 2024-04-25
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Isca de curso 'Stories 10X' prometendo mais engajamento e venda, sem conteúdo detalhado no post.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca sem substância detalhada além do já coberto nos outros posts do mesmo autor sobre stories.
 
 ## Conteúdo integral
 
@@ -38,8 +38,8 @@ Photo by Leandro Ladeira Neiva on April 25, 2024.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem conteúdo adicional além do já registrado nos posts irmãos deste autor sobre stories.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

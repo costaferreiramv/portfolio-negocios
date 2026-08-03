@@ -4,19 +4,19 @@ autor: "@segueadi"
 url: https://www.instagram.com/p/DIjk7kGgTQU/
 tipo: video
 temas: []
-tags: []
+tags: [isca, duplicata]
 duracao: "2min26"
 data_post: 2025-04-17
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Outra variação da mesma isca de 'truque de 3 segundos' e crescimento sem postar todo dia.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo repetido, mesma isca de 'Fator Viciante de Conexão'.
 
 ## Conteúdo integral
 
@@ -32,8 +32,8 @@ A única forma de você fazer isso é aplicar o Fator Viciante de Conexão, só 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

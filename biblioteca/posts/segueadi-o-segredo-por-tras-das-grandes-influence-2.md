@@ -4,19 +4,19 @@ autor: "@segueadi"
 url: https://www.instagram.com/p/DPhc80DjHz5/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, duplicata]
 duracao: "1min25"
 data_post: 2025-10-07
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Variação de isca sobre 'Fator Viciante de Conexão', prometendo dominar algoritmo e transformar seguidor em fã.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca repetida sem conteúdo técnico revelado além do nome do conceito.
 
 ## Conteúdo integral
 
@@ -32,8 +32,8 @@ A única forma de você fazer isso é aplicar o Fator Viciante de Conexão, só 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

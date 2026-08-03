@@ -3,20 +3,20 @@ titulo: "Eu não acredito que essa é a tendência de conteúdo do Instagram pra
 autor: "@segueadi"
 url: https://www.instagram.com/p/DUF8BxdDADS/
 tipo: video
-temas: []
-tags: []
+temas: [conteudo-organico]
+tags: [algoritmo, qualidade-x-quantidade, efeito-similaridade]
 duracao: "2min51"
 data_post: 2026-01-29
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que postar com frequência alta e roteiro 'do jeito antigo' está sendo penalizado pelo algoritmo atual — cita 'efeito similaridade' (mesmo cenário/ângulo repetido por vários criadores) como formato que teria funcionado melhor recentemente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tese: qualidade e formato atualizado superam frequência alta de postagem — mas sem prova verificável, tratar como opinião do autor.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ Eu não acredito que essa é a tendência de conteúdo do Instagram pra 2026…�
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem substância verificável para aplicar — é opinião sobre tendência de algoritmo, não dado confirmável. Vale como lembrete de rever formato periodicamente, não como regra fixa.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

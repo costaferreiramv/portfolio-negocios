@@ -3,19 +3,19 @@ titulo: "A insônia do criador é não saber o que postar. Com um acervo de refe
 autor: "@leandroladeiran"
 url: https://www.instagram.com/p/DZ-XZPGgd8r/
 tipo: imagem
-temas: []
-tags: []
+temas: [conteudo-organico]
+tags: [banco-de-referencias, planejamento-de-pauta, isca]
 data_post: 2026-06-24
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que o maior problema do criador de conteúdo é não saber o que postar, resolvido por um acervo próprio de referências virais organizado por nicho — o mês fica planejado antes da semana começar.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Ideia central (independente da isca): manter um banco próprio de referências/formatos por tema, organizado com antecedência, elimina a paralisia de 'o que postar hoje'.
 
 ## Conteúdo integral
 
@@ -33,8 +33,8 @@ Photo by Leandro Ladeira Neiva on June 24, 2026.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Esta biblioteca de posts salvos já cumpre exatamente essa função para o Portfólio Negócios — é o banco de referências por tema que evita a 'insônia do criador'. Vale usar o INDICE.md por tema como ponto de partida de pauta semanal.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

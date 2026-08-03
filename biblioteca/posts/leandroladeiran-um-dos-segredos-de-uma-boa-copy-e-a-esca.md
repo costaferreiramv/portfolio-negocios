@@ -3,20 +3,22 @@ titulo: "Um dos segredos de uma boa copy, é a escalada de atenção. Foi assim 
 autor: "@leandroladeiran"
 url: https://www.instagram.com/p/DFBWd-gsVfX/
 tipo: video
-temas: []
-tags: []
+temas: [copywriting]
+tags: [escalada-de-atencao, storytelling, case-real]
 duracao: "2min15"
 data_post: 2025-01-19
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Case real: para vender um MacBook parado há 30 dias na OLX, o autor sugeriu fotografar o notebook com uma aliança em cima e escrever uma legenda de 'despedida' que soa como fim de relacionamento amoroso — gerando engajamento massivo por elemento de surpresa (todos pensaram que era post de separação) antes de revelar que era sobre o computador. Vendeu em um dia.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Técnica: escalada de atenção via elemento de surpresa/ambiguidade que se resolve só no final do texto.
+- Case real e verificável (o autor conta a própria experiência), não estatística vaga.
+- Formato: criar expectativa de uma coisa (relacionamento) para revelar outra (produto) gera compartilhamento orgânico.
 
 ## Conteúdo integral
 
@@ -37,8 +39,8 @@ Para assistir, é só clicar em “Saiba Mais.”
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Técnica de copy interessante e replicável para post de imóvel específico — ex.: escrever sobre 'uma despedida' ou 'uma história de 20 anos' que na verdade é sobre o proprietário vendendo a casa onde criou a família, revelando o imóvel só ao final. Usar com cuidado: só funciona se a história for verdadeira (evitar fabricar narrativa emocional falsa).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

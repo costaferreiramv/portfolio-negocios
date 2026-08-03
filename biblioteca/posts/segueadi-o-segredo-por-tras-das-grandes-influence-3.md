@@ -4,19 +4,19 @@ autor: "@segueadi"
 url: https://www.instagram.com/p/DKkMGNMsfXK/
 tipo: video
 temas: []
-tags: []
+tags: [isca, duplicata]
 duracao: "1min38"
 data_post: 2025-06-06
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duplicata do formato anterior (repetir formato + polarização + fator viciante).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo repetido do post irmão.
 
 ## Conteúdo integral
 
@@ -32,8 +32,8 @@ A única forma de você fazer isso é aplicar o Fator Viciante de Conexão, só 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `segueadi-2020-poste-todo-dia-use-hashtags-crescim.md`.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

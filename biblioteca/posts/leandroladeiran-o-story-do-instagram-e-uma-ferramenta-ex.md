@@ -3,20 +3,22 @@ titulo: "O story do Instagram é uma ferramenta excelente para relacionar com qu
 autor: "@leandroladeiran"
 url: https://www.instagram.com/p/DFfrdMLsoqV/
 tipo: video
-temas: []
-tags: []
+temas: [conteudo-organico]
+tags: [stories, relacionamento, venda, sequencia]
 duracao: "3min17"
 data_post: 2025-01-31
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tese central sobre stories: servem para relacionar com quem já segue, não para atrair seguidor novo (isso pode acontecer por boca a boca, mas não é a função primária). Depois de construir relacionamento mostrando o dia a dia, usar sticker/CTA de WhatsApp dentro da narrativa ('quem quiser, comenta que eu entro em contato') para converter em venda — vale para qualquer produto, incluindo apartamento. Stories em sequência funcionam melhor que stories soltos.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Stories servem para relacionamento e venda com quem já segue, não para atrair seguidor novo.
+- CTA de venda deve vir embutido na narrativa do dia a dia, não como post isolado de oferta.
+- Sequência de stories supera stories soltos em efetividade — construir um arco, não fragmentos avulsos.
 
 ## Conteúdo integral
 
@@ -34,8 +36,8 @@ Gravei uma aula gratuita para te ensinar o segredo para vender nos stories. Cliq
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Princípio direto para os stories do @marcus.imoveis: usar a sequência de bastidor (visita, negociação, bairro) para depois inserir CTA de contato dentro do fluxo — não como post de venda isolado. Reforça a lógica de infotenimento (@andersonbarbosast) aplicada especificamente ao formato stories.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

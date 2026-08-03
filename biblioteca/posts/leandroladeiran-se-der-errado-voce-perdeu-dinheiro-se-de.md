@@ -4,19 +4,19 @@ autor: "@leandroladeiran"
 url: https://www.instagram.com/p/DExg8eAsXEw/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca, negocio-digital]
 slides: 6
 data_post: 2025-01-13
 processado_em: 2026-07-30
-status: pendente
+status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Estrutura de copy contrastando risco baixo (perder dinheiro/passar vergonha) com ganho alto (mudar a realidade) para vender curso de negócio digital.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Estrutura de contraste risco-baixo x ganho-alto como argumento de venda — genérico, sem especificidade.
 
 ## Conteúdo integral
 
@@ -44,8 +44,8 @@ Photo by Leandro Ladeira Neiva on January 13, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação direta — fora do nicho imobiliário; a estrutura de contraste de risco/ganho é mecanismo já coberto de forma mais aplicável em outros posts desta biblioteca.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

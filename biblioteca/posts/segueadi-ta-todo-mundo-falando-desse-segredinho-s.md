@@ -4,19 +4,19 @@ autor: "@segueadi"
 url: https://www.instagram.com/p/DZsR84EjJPm/
 tipo: video
 temas: []
-tags: []
+tags: [isca, case-nao-verificado]
 duracao: "3min33"
 data_post: 2026-06-17
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conta caso não verificável de vídeo idêntico postado duas vezes com resultado de visualização radicalmente diferente (300 mil vs 65 milhões), atribuído a mudança de algoritmo. Promete 'três trunfos' de outra criadora, não detalhados no texto capturado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Caso citado sem possibilidade de verificação — tratar como anedota de marketing, não dado.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ Tá todo mundo falando desse segredinho sujo de marketing pra crescer no Instagr
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — anedota não verificável usada como gancho de venda.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

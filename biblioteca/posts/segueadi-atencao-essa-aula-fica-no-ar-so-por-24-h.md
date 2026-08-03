@@ -4,19 +4,19 @@ autor: "@segueadi"
 url: https://www.instagram.com/p/DK4xGNNspIB/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, urgencia-artificial]
 duracao: "2min34"
 data_post: 2025-06-14
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Isca de aula com urgência de 24h, prometendo 'fator viciante de conexão' sem detalhamento verificável.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca com urgência artificial de prazo — não é urgência real, é tática de conversão.
 
 ## Conteúdo integral
 
@@ -43,8 +43,8 @@ Não conseguiu clicar? Comenta "EU QUERO" que te mando o link
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — formato de urgência falsa incompatível com CDC art. 37/CONAR Anexo D, a evitar em qualquer peça do negócio.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

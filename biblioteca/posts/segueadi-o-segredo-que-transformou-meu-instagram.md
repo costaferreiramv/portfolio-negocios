@@ -4,19 +4,19 @@ autor: "@segueadi"
 url: https://www.instagram.com/p/DLRD5YOsgtK/
 tipo: video
 temas: []
-tags: []
+tags: [isca, dopamina-ocitocina]
 duracao: "1min54"
 data_post: 2025-06-24
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Isca que nomeia o 'Fator Viciante de Conexão' como combinação de dopamina e ocitocina, sem explicar o mecanismo, prometendo aula gratuita por tempo limitado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Uso de termos neurocientíficos (dopamina, ocitocina) sem explicação real do mecanismo — linguagem de autoridade vazia.
 
 ## Conteúdo integral
 
@@ -44,8 +44,8 @@ Se preferir, comenta "EU QUERO" que garanto seu acesso! ❤️
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — vocabulário pseudocientífico usado como isca, sem substância verificável.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

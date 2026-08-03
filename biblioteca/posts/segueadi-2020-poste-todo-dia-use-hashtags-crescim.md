@@ -3,20 +3,21 @@ titulo: "2020 Poste todo dia use hashtags crescimento 2025 Faça isso morte do p
 autor: "@segueadi"
 url: https://www.instagram.com/p/DLRD2hvM0Ha/
 tipo: video
-temas: []
-tags: []
+temas: [conteudo-organico]
+tags: [formato-repetido, polarizacao, isca]
 duracao: "1min38"
 data_post: 2025-06-24
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Três princípios apresentados para crescer no Instagram: repetir o mesmo formato de vídeo dia após dia (referência a criadores conhecidos); usar polarização de opinião ('quem tenta agradar todo mundo não agrada ninguém'); e um 'fator viciante de conexão' não detalhado no texto capturado (vendido em aula paga/isca).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Repetir o mesmo formato reconhecível é citado como o primeiro passo de tração — reforça o valor de um formato fixo de série.
+- Polarização deliberada de opinião é citada como estratégia, mas incompatível com o tom institucional do Portfólio Negócios.
 
 ## Conteúdo integral
 
@@ -41,8 +42,8 @@ Prefere comentar? Digite "EU QUERO"!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O único ponto reaproveitável é ter um formato reconhecível e repetido (já parcialmente coberto pela régua 4/1/2 e pelo design system social existente). Polarização de opinião não se aplica ao posicionamento de discrição do alto padrão.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,19 +4,19 @@ autor: "@segueadi"
 url: https://www.instagram.com/p/DRgMOq1DBqz/
 tipo: video
 temas: []
-tags: []
+tags: [isca, engenharia-reversa-de-perfil]
 duracao: "3min10"
 data_post: 2025-11-26
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que postar rotina em stories 'suja' o algoritmo, e que perfis grandes seguem um mesmo 'formato de dominação de narrativa' identificado por engenharia reversa.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tese não verificada de que stories de rotina prejudicam alcance — tratar como opinião do autor.
 
 ## Conteúdo integral
 
@@ -32,8 +32,8 @@ A única forma de você fazer isso é aplicar o Fator Viciante de Conexão, só 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem substância verificável para aplicar.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

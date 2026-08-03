@@ -3,8 +3,8 @@ titulo: "DIqGbj5s8Ai"
 autor: "@euriler"
 url: https://www.instagram.com/p/DIqGbj5s8Ai/
 tipo: video
-temas: []
-tags: []
+temas: [ia-automacao]
+tags: [manus, agente-autonomo, noticia]
 duracao: "2min49"
 data_post: 2025-04-20
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Descreve o agente de IA chinês 'Manus' (arquitetura multi-agente) capaz de executar tarefas complexas de forma autônoma (montar negócio, analisar currículos em lote), com exemplos de uso em diagnóstico médico.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Cita caso de uso real (hospital chinês reduzindo tempo de diagnóstico por imagem) — verificar fonte antes de citar.
+- Conceito de arquitetura multi-agente (várias IAs especializadas coordenadas) é o mesmo princípio já coberto por outros posts desta biblioteca (ex.: @thaleslaray, @nicksoncarvalho).
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ _sem legenda_
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação direta nova — o princípio de orquestração multi-agente já está mais bem coberto e aplicado nesta biblioteca por posts específicos do Claude Code.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

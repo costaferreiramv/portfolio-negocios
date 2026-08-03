@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DZavD2-AAXA/
 tipo: video
-temas: []
-tags: []
+temas: [vendas]
+tags: [qualificacao, condicao-de-pagamento, perguntas-antes-de-enviar]
 duracao: "1min49"
 data_post: 2026-06-10
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tese central: mandar a condição/tabela/planta exatamente como o lead pediu, sem perguntar nada antes, é 'o jeito mais educado de matar a venda' — transforma o atendimento em fornecimento de informação, não em condução. A corretora que vende faz três perguntas específicas antes de mandar qualquer material, convertendo o pedido do lead numa janela de qualificação.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Responder ao pedido do lead enviando material de imediato, sem perguntar nada, é erro comum e educado — mas ainda assim mata a venda.
+- O pedido do lead deve virar oportunidade de qualificação, não gatilho automático de envio.
+- O objetivo é ser percebida como quem entende o jogo, não como quem só entrega PDF.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesma tese, aplicada ao envio de material/condição, do post do @guilhermemachadooficial sobre não reenviar o link do imóvel — reforça que qualquer pedido do lead deve ser respondido com pergunta de qualificação antes do material.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

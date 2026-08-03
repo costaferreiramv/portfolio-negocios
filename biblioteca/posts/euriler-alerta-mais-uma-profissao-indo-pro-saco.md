@@ -4,7 +4,7 @@ autor: "@euriler"
 url: https://www.instagram.com/p/DY_OhO_jBze/
 tipo: video
 temas: []
-tags: []
+tags: [duplicata]
 duracao: "3min56"
 data_post: 2026-05-31
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duplicata exata do post irmão sobre conectar IA ao Meta Ads.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo idêntico ao post irmão.
 
 ## Conteúdo integral
 
@@ -42,8 +42,8 @@ Clica em saiba mais.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `euriler-alerta-mais-uma-profissao-indo-pro-saco-2.md`.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

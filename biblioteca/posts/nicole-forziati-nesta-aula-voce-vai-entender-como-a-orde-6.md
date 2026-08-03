@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DYSmOnkgHdo/
 tipo: video
-temas: []
-tags: []
+temas: [vendas]
+tags: [lead-fantasma, silencio-pos-visita, follow-up]
 duracao: "52s"
 data_post: 2026-05-13
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Nomeia o 'Lead Fantasma': cliente que faz visita completa, demonstra interesse genuíno ('adorei'), mas some — não porque desistiu do plano, mas porque comprou com outro corretor. O momento mais perigoso não é o 'não', é o silêncio após o entusiasmo aparente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Lead Fantasma' = cliente que demonstrou interesse real, recebeu atenção, e ainda assim sumiu para comprar com outra pessoa.
+- O silêncio pós-visita entusiasmada é mais perigoso que uma objeção explícita — passa despercebido.
+- Existe um momento específico em que o cliente 'esfria' na jornada; não perceber esse momento é o erro central.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Nomeia com precisão um cenário já descrito por outros posts (visita boa, silêncio depois) — o termo 'Lead Fantasma' é útil como conceito de treinamento interno para reconhecer o padrão rapidamente.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

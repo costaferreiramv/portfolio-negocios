@@ -4,7 +4,7 @@ autor: "@euriler"
 url: https://www.instagram.com/p/DI6m1ulMrZv/
 tipo: video
 temas: []
-tags: []
+tags: [previsao, infoproduto, especulativo]
 duracao: "3min58"
 data_post: 2025-04-26
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Previsão especulativa sobre o fim dos cursos online, substituídos por 'agente de IA personalizado' que resolve o problema diretamente (ex.: IA que roda campanha de tráfego sem o cliente aprender a fazer).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo é opinião/previsão do autor, sem dado verificável.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ _sem legenda_
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação direta ao negócio — é conteúdo sobre o futuro do mercado de infoproduto, não do mercado imobiliário.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,7 +4,7 @@ autor: "@euriler"
 url: https://www.instagram.com/p/DZgTe2lDRCe/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca]
 slides: 18
 data_post: 2026-06-12
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA de engajamento genérico. Conteúdo do carrossel não lido.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Post de engajamento sem substância no texto disponível.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Photo by Euriler Jubé | Marketing com IA on June 12, 2026. May be an image of n
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação sem ler o carrossel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

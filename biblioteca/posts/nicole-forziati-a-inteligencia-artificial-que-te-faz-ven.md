@@ -3,8 +3,8 @@ titulo: "A inteligência artificial que te faz vender mais trabalhando menos. Te
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DJr-NqBAMMR/
 tipo: video
-temas: []
-tags: []
+temas: [ia-automacao]
+tags: [isca, agente-de-ia, posicionamento-digital]
 duracao: "56s"
 data_post: 2025-05-15
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de agente de IA que gera bio, destaque, Reels e carrossel a partir de conversa com o corretor, prometendo transformar o Instagram em máquina de leads. Isca de produto pago.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Promessa de automação total de conteúdo de perfil a partir de conversa/áudio com o corretor.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Toque em Saiba Mais e Adquira!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação verificável — isca de produto sem demonstração real. O princípio (usar IA para gerar conteúdo a partir de contexto do negócio) já está coberto com mais rigor por skills próprias do Marcus.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

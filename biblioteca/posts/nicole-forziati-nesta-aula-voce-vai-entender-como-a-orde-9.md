@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DXveV9GgP1X/
 tipo: video
-temas: []
-tags: []
+temas: [vendas]
+tags: [janela-de-72-horas, follow-up-pos-visita]
 duracao: "1min21"
 data_post: 2026-04-30
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Define uma 'janela de indecisão' de 72 horas após a visita, com prazo de validade — se o corretor não sabe o que dizer nessa janela específica, o cliente esfria e aparece o 'vou pensar'. Propõe sequência específica de contato nas 72h que reativa sem parecer desesperado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Janela de 72h pós-visita é o período crítico de decisão — tem prazo de validade.
+- Sequência de contato estruturada nessas 72h evita que a indecisão vire 'vou pensar' definitivo.
 
 ## Conteúdo integral
 
@@ -32,8 +33,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Acrescenta um prazo concreto (72h) à régua de follow-up pós-visita já registrada (@guilhermemachadooficial cobre o quê dizer; este post enfatiza quando). Vale formalizar: contato programado em até 72h após toda visita de alto padrão.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

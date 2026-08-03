@@ -4,7 +4,7 @@ autor: "@euriler"
 url: https://www.instagram.com/p/DXt_SbZjKS_/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso]
 duracao: "1min38"
 data_post: 2026-04-29
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de workshop dirigido a quem já investiu em mentoria sem resultado, prometendo que IA supera 'estratégia de 2020' das mentorias tradicionais.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca dirigida a quem já gastou em mentoria e não teve resultado — ângulo de objeção antecipada.
 
 ## Conteúdo integral
 
@@ -38,8 +38,8 @@ Clica em comprar agora.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — anúncio genérico sem conteúdo educativo detalhado, fora do nicho imobiliário.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

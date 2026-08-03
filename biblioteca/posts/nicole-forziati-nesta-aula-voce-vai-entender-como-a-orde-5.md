@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DYVhvBEAEjt/
 tipo: video
-temas: []
-tags: []
+temas: [gestao, vendas]
+tags: [diagnostico, captacao-conexao-fechamento, funil]
 duracao: "1min20"
 data_post: 2026-05-14
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Framework de diagnóstico: o processo de venda quebra em um de três pontos — captação, conexão ou fechamento. Corretora 'na seca' geralmente tem só um desses travado, não os três; localizar o ponto exato permite correção cirúrgica em vez de esforço disperso. Case: aluna saiu de 4 meses sem vender para fechar em 3 semanas, com os mesmos leads que já tinha.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Framework de diagnóstico em 3 pontos: captação, conexão, fechamento — geralmente só um está quebrado.
+- Correção 'cirúrgica' no ponto certo é mais eficaz que aumentar esforço geral.
+- Case: mesma carteira de leads, resultado mudou ao corrigir o ponto certo, não ao gerar lead novo.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Framework de diagnóstico simples e útil: antes de investir em mais tráfego, identificar se o gargalo real do Portfólio Negócios está na captação de lead, na conexão/qualificação inicial, ou no fechamento — e atacar só esse ponto.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

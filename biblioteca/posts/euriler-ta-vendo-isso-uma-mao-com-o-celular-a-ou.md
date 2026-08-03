@@ -4,7 +4,7 @@ autor: "@euriler"
 url: https://www.instagram.com/p/DZQkD6XjDEN/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, dramatizacao]
 duracao: "2min42"
 data_post: 2026-06-06
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Vídeo dramatizado mostrando 'IA criando anúncios sozinha durante a noite' como prova de operação sem equipe. Prova social não verificada (R$80 milhões em vendas).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Formato de dramatização ('deixei a IA trabalhando a noite toda') como prova de conceito de anúncio.
+- Prova social sem verificação (R$80 milhões em vendas).
 
 ## Conteúdo integral
 
@@ -40,8 +41,8 @@ Clica em saiba mais.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — isca de infoproduto com prova não verificável.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

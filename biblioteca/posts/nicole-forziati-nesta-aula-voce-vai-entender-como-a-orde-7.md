@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DXipyi_gL6s/
 tipo: video
-temas: []
-tags: []
+temas: [gestao]
+tags: [case-pessoal, isca, duplicata-de-tese]
 duracao: "1min05"
 data_post: 2026-04-25
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Relato pessoal de erro de início de carreira (trabalhar mais horas, atender só curioso) corrigido pela 'ordem do sucesso' de três ações.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mesmo relato de virada pessoal já presente em posts irmãos, sem detalhe de método novo.
 
 ## Conteúdo integral
 
@@ -32,8 +32,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem conteúdo adicional além do já registrado nos posts irmãos deste autor.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

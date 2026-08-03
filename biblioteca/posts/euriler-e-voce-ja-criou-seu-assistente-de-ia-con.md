@@ -4,7 +4,7 @@ autor: "@euriler"
 url: https://www.instagram.com/p/DH4KY9oxHM0/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca]
 slides: 17
 data_post: 2025-03-31
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA de engajamento perguntando se o seguidor já criou assistente de IA. Conteúdo do carrossel não lido.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Post de engajamento, sem conteúdo técnico no texto disponível.
 
 ## Conteúdo integral
 
@@ -34,8 +34,8 @@ Photo by Euriler Jubé | Marketing com IA on March 31, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação sem ler o carrossel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

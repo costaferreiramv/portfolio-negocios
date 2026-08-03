@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DZ0DkYDALGU/
 tipo: video
-temas: []
-tags: []
+temas: [vendas]
+tags: [case, isca, duplicata-de-tese]
 duracao: "1min15"
 data_post: 2026-06-20
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Case de corretora que fechou 6 imóveis em 60 dias após 3 anos parada, aplicando a 'nova regra de três'. Progressão citada: 2 imóveis no mês 1, 4 no mês 2, 6 no mês 3.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Case com progressão numérica específica — sem verificação externa possível.
 
 ## Conteúdo integral
 
@@ -32,8 +32,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem conteúdo de método novo além do já registrado nos posts irmãos — só reforça a prova social da mesma oferta.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

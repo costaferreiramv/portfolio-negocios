@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DW2ep4iDEk-/
 tipo: video
-temas: []
-tags: []
+temas: [vendas, gestao]
+tags: [qualificacao, energia-direcionada, isca]
 duracao: "1min35"
 data_post: 2026-04-08
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumento central: corretora que para de atender todo lead que aparece passa a vender mais, porque para de gastar energia com quem nunca fecharia e direciona atenção a quem já está pronto. 'Não precisa de mais leads, precisa parar de perder os que já tem.'
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Direcionar energia para lead qualificado, não para todo lead que aparece, aumenta conversão sem aumentar esforço.
+- Reforça: o problema mais comum não é volume de lead, é gestão do lead existente.
 
 ## Conteúdo integral
 
@@ -32,8 +33,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesmo diagnóstico já repetido por múltiplos autores nesta biblioteca (@brunoferoliveira, @kakarivas) — confirma que é o gargalo mais citado do setor, não opinião isolada.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

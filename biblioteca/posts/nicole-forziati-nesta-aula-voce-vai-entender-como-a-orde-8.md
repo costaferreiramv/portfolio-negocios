@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DXxfKlagKbo/
 tipo: video
-temas: []
-tags: []
+temas: [vendas]
+tags: [follow-up, proposta-parada, modo-evitacao]
 duracao: "1min30"
 data_post: 2026-04-30
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Diagnóstico para proposta que 'não vai pra frente': o cliente entrou em 'modo evitação' — não porque não quer comprar, mas porque não sabe o que responder, está procrastinando a decisão, ou teve imprevisto temporário. O erro não é a proposta, é a mensagem de follow-up que soa cobrança em vez de abrir nova conversa.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Modo evitação' do cliente após proposta parada não significa desistência — geralmente é indecisão ou procrastinação.
+- O erro está na mensagem de follow-up (cobrança), não na proposta em si.
+- Estrutura de mensagem correta reativa sem constranger — resultado citado: maioria responde em até 48h.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mais um reforço da régua de follow-up já bem coberta nesta biblioteca — reforça que a mensagem de reativação deve abrir conversa nova, nunca cobrar resposta, mesmo quando é a proposta (não a visita) que ficou parada.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

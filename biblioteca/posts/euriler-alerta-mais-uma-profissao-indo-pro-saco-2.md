@@ -3,8 +3,8 @@ titulo: "Alerta mais uma profissão indo pro saco. Gestor de tráfego. Mark Zuck
 autor: "@euriler"
 url: https://www.instagram.com/p/DYEDTtxjF6J/
 tipo: video
-temas: []
-tags: []
+temas: [ia-automacao]
+tags: [meta-ads, conector-ia, isca]
 duracao: "3min56"
 data_post: 2026-05-08
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tutorial de conectar Claude/ChatGPT diretamente ao gerenciador de anúncios Meta via conector personalizado, para gerar/otimizar campanha sem gestor de tráfego humano. Termina em isca de workshop.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Passo prático: Configurações → Conectores → Conector personalizado → colar URL oficial da conexão liberada pela Meta.
+- Tese exagerada de substituição total do gestor de tráfego — tratar com ceticismo.
 
 ## Conteúdo integral
 
@@ -42,8 +43,8 @@ Clica em saiba mais.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+A conexão de IA ao Meta Ads (se o conector oficial existir de fato) poderia acelerar ajustes de campanha, mas não substitui julgamento estratégico de segmentação/criativo para alto padrão. Verificar se esse conector é real e oficial antes de tentar configurar.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

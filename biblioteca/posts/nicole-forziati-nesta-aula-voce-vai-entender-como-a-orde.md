@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DaoQHU5ALJ2/
 tipo: video
-temas: []
-tags: []
+temas: [vendas]
+tags: [lead-fantasma, filtro, nova-regra-de-tres]
 duracao: "1min15"
 data_post: 2026-07-10
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reformula o 'Lead Fantasma' como quem pede planta/valor/vídeo e some porque nunca teve intenção real de comprar — o anúncio, conteúdo e atendimento não filtram isso. Propõe 'nova regra de três': três conteúdos magnéticos por semana, três conversas qualificadas por dia, três follow-ups estratégicos — vendendo atendendo menos gente, não mais.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Lead Fantasma (2ª definição): quem nunca teve intenção real, mascarado por pedir informação (planta, valor, vídeo).
+- 'Nova regra de três': 3 conteúdos/semana + 3 conversas qualificadas/dia + 3 follow-ups estratégicos.
+- Tese final: vender mais atendendo menos gente, não mais gente.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+A 'regra de três' é um framework de rotina simples e memorável, semelhante à distribuição 70-20-10 do @lucasmarrques, mas focado em contagem diária/semanal fácil de acompanhar — vale testar como meta operacional simples.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

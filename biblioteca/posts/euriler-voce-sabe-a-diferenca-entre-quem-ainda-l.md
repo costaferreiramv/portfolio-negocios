@@ -4,7 +4,7 @@ autor: "@euriler"
 url: https://www.instagram.com/p/DJrW08hMvlu/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, prova-social]
 duracao: "2min53"
 data_post: 2025-05-15
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Compara marketing tradicional a lavar roupa na mão vs máquina automática, alegando crescimento de 100 mil seguidores orgânicos em um mês 'sem gastar um real' via sistema de IA. Anúncio de workshop de marketing com IA.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Prova social sem verificação (100 mil seguidores em um mês).
 
 ## Conteúdo integral
 
@@ -47,8 +47,8 @@ Clique no botão Saiba Mais e garanta sua vaga.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — prova social não verificável, fora do nicho imobiliário.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

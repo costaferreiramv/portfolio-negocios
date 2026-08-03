@@ -4,7 +4,7 @@ autor: "@euriler"
 url: https://www.instagram.com/p/DXo169jjO75/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso]
 duracao: "53s"
 data_post: 2026-04-27
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de workshop prometendo montar negócio digital sozinho com IA, sem equipe.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de curso sem conteúdo educativo detalhado.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Clica em Saiba Mais pra conhecer melhor.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — anúncio genérico de infoproduto, fora do nicho imobiliário.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

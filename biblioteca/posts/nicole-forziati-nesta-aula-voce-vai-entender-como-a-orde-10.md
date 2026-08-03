@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DXEAHMIDExm/
 tipo: video
-temas: []
-tags: []
+temas: [gestao, vendas]
+tags: [ordem-do-sucesso, isca, case]
 duracao: "1min00"
 data_post: 2026-04-13
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de aula sobre 'Ordem do Sucesso': três ações — atração magnética do lead certo, conexão profunda para o cliente não sumir após visita, follow-up estratégico para destravar. Case: virada de 2 meses sem vender para 6 imóveis e R$30 mil em comissão no 3º mês.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Framework de três ações: atração certa → conexão pós-visita → follow-up estratégico.
+- Case pessoal sem verificação externa — tratar como exemplo, não prova.
 
 ## Conteúdo integral
 
@@ -32,8 +33,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O framework de 3 etapas (atrair certo, manter conexão pós-visita, follow-up estruturado) resume bem o que já está mais detalhado em outros posts desta biblioteca — útil como estrutura mental, sem informação nova de método.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

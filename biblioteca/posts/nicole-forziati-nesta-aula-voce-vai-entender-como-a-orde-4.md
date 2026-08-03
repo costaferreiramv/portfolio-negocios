@@ -3,8 +3,8 @@ titulo: "Nesta aula você vai entender como a Ordem do Sucesso está ajudando mu
 autor: "@nicole.forziati"
 url: https://www.instagram.com/p/DYSmOrYAPoh/
 tipo: video
-temas: []
-tags: []
+temas: [gestao]
+tags: [proporcao-de-acao, case-pessoal, isca]
 duracao: "1min16"
 data_post: 2026-05-13
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Relato pessoal: trabalhar 10-12h/dia não resolveu o problema de vendas irregulares — a virada veio ao entender que o problema era a proporção entre as ações diárias, não o volume de trabalho. Foco em 'fórmula de três ações' em vez de mais horas.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tese: o problema não é quanto se trabalha, é a proporção entre os tipos de ação executados no dia.
 
 ## Conteúdo integral
 
@@ -32,8 +32,8 @@ Toque em Saiba Mais e aprenda na aula as 3 ações simples que fazem mulheres ve
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça, sem detalhar método novo, a tese de qualidade de processo sobre quantidade de esforço — já coberta com mais profundidade em outros posts (régua 70-20-10 do @lucasmarrques).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,7 +4,7 @@ autor: "@euriler"
 url: https://www.instagram.com/p/DY_Oiw5jE2G/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, duplicata]
 duracao: "1min45"
 data_post: 2026-05-31
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Variação do vídeo anterior, mesmo formato dramatizado de 'IA trabalhando sozinha' com humor de 'pai empreendedor tomando vitamina'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mesmo formato e tese do post irmão, com humor de estilo de vida.
 
 ## Conteúdo integral
 
@@ -40,8 +40,8 @@ Clica em saiba mais.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — mesmo conteúdo de isca do post irmão.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

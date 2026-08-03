@@ -4,7 +4,7 @@ autor: "@brokersbr"
 url: https://www.instagram.com/p/DNWrivIADRD/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, duplicata]
 duracao: "49s"
 data_post: 2025-08-14
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duplicata exata do post anterior, mesma locutora e mesmo roteiro.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo idêntico ao post irmão.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Clique em "Saiba mais" e veja como outros profissionais do mercado estão transf
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — duplicata.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

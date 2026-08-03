@@ -3,8 +3,8 @@ titulo: "MERCADO IMOBILIÁRIO EM MOVIMENTO! Os dados do 2º trimestre de 2025 re
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DN9NplmkRS3/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [dados-de-mercado, migracao-de-faixa, premium]
 duracao: "2min57"
 data_post: 2025-08-29
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Dados de pesquisa (fonte: Brain Inteligência Estratégica) mostrando migração do mercado para faixas de preço mais altas entre T1 e T2 de 2025: imóveis até R$200k caíram de 47% para 37% das aquisições; faixa R$400-600k dobrou de 6% para 14%; acima de R$800k cresceu de 6% para 9%.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Dado com fonte nomeada (Brain Inteligência Estratégica) — verificar atualidade antes de reusar.
+- Tendência: mercado migrando para faixas de preço mais altas, oportunidade para segmento premium.
+- Recomendação do post: corretor/imobiliária deve se preparar para esse novo perfil de comprador.
 
 ## Conteúdo integral
 
@@ -49,8 +51,8 @@ Fonte: Brain Inteligência Estratégica
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Dado relevante se confirmado atual — sustenta narrativa de crescimento do segmento de alto padrão, que é exatamente o nicho do Marcus. Usar só depois de confirmar a fonte e o período, nunca projetar como promessa de valorização futura.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

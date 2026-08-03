@@ -3,19 +3,20 @@ titulo: "Confira agora os bairros com maior liquidez para investir em Uberlândi
 autor: "@sousasolucoes"
 url: https://www.instagram.com/p/DKQRMCVxHjz/
 tipo: imagem
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [liquidez, bairros-uberlandia, lista]
 data_post: 2025-05-29
 processado_em: 2026-07-30
 status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Lista de 8 bairros com maior liquidez para investir em Uberlândia: Karaíba, Tabajaras, Alto Umuarama, Morada da Colina, Granja Marileusa, Patrimônio (Copacabana), Jardim Sul, Gávea Sul.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Lista de bairros com maior liquidez de investimento em Uberlândia, incluindo Morada da Colina e Gávea Sul — território de atuação do Marcus.
+- Sem fonte metodológica declarada — verificar antes de citar como dado oficial.
 
 ## Conteúdo integral
 
@@ -41,8 +42,8 @@ Photo by Vanilda Sousa - Sousa Soluções Imobiliárias on May 29, 2025.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Referência local direta ao território de especialização do Marcus — Morada da Colina e Gávea Sul aparecem na lista. Útil como ponto de partida para conteúdo sobre liquidez de bairro, mas conferir a metodologia/fonte antes de reproduzir como fato.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

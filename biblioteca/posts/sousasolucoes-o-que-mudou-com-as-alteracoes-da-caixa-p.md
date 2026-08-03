@@ -4,7 +4,7 @@ autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DQuzEHNkWFO/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, noticia, politica]
 duracao: "2min58"
 data_post: 2025-11-06
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Notícia sobre mudanças na Caixa combinada com opinião política sobre uso eleitoral de bancos estatais.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo mistura notícia de crédito com opinião político-partidária — tom de risco para posicionamento profissional.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ O que mudou com as alterações da caixa para quem tem financiamento ativo na Ca
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — conteúdo de financiamento (proibido) e opinião político-partidária, incompatível com o posicionamento neutro e profissional do Marcus.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

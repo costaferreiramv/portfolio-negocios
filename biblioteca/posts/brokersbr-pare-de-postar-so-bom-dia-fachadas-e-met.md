@@ -3,8 +3,8 @@ titulo: "Pare de postar só bom dia, fachadas e metragens. Comece a usar os stor
 autor: "@brokersbr"
 url: https://www.instagram.com/p/DaGsAg9CR48/
 tipo: carrossel
-temas: []
-tags: []
+temas: [conteudo-organico]
+tags: [stories, isca]
 slides: 10
 data_post: 2026-06-27
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Crítica a conteúdo genérico ('bom dia', fachada, metragem) e recomendação de usar stories para gerar confiança, desejo e demanda previsível. Isca sem detalhamento de método.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Lista do que evitar: 'bom dia' genérico, foto de fachada solta, metragem sem contexto.
+- Objetivo proposto para stories: confiança, desejo, demanda previsível — não só presença.
 
 ## Conteúdo integral
 
@@ -37,8 +38,8 @@ Photo by Brokers Brasil on June 27, 2026. May be a meme of text that says 'x Sto
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+A lista de 'não fazer' é diretamente aplicável como checklist negativo para os stories do @marcus.imoveis — evitar conteúdo de presença vazia (bom dia, fachada) em favor de conteúdo que constrói confiança e desejo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

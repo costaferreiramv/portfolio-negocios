@@ -3,8 +3,8 @@ titulo: "O Corretor que não se posiciona online, vai cada dia mais perder venda
 autor: "@brokersbr"
 url: https://www.instagram.com/p/DXDJCK9ALDN/
 tipo: video
-temas: []
-tags: []
+temas: [conteudo-organico, vendas]
+tags: [case, organico, timing-de-postagem]
 duracao: "1min41"
 data_post: 2026-04-12
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Case detalhado: venda de R$4,3 milhões fechada em 13 dias a partir de post orgânico feito num sábado às 9h — cliente viu, contatou em 25 minutos, visitou e fechou com 99% de chance declarada antes mesmo da assinatura. Usado como prova da tese de que orgânico bem feito supera tráfego pago. Anúncio de workshop com prova social de R$1,5 bi em VGV (133 profissionais).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Caso citado: venda de R$4,3 milhões fechada em 13 dias a partir de um único post orgânico, sem viralizar.
+- Detalhe operacional citado: postagem feita 'sempre aos sábados às 9h' — rotina fixa de publicação.
+- Prova social maior e mais específica que outros posts do mesmo autor (1,5 bi VGV / 133 profissionais) — ainda sem fonte verificável.
 
 ## Conteúdo integral
 
@@ -46,8 +48,8 @@ Temos um limite de 500 pessoas na sala, então seja RÁPIDO para se inscrever no
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+O detalhe mais aproveitável não é a cifra (não verificável), é o hábito operacional: horário fixo de postagem semanal. Testar um horário fixo e consistente de publicação para o @marcus.imoveis é ajuste de baixo custo e mensurável.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

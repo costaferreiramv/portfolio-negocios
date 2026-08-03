@@ -3,8 +3,8 @@ titulo: "Se você quer aprender a produzir conteúdos que te posicionem como aut
 autor: "@brokersbr"
 url: https://www.instagram.com/reel/DKiWpo9MxVX/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos]
+tags: [roteiro, headline, gancho, estrutura-de-video]
 duracao: "1min44"
 data_post: 2025-06-05
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Explica a estrutura de roteirização de vídeo em 4 elementos: headline (primeira frase, curta e direta — testar 'alguém vai querer ver isso?'), gancho (ao longo do vídeo, não só no início — o que prende atenção, ex.: ação física como correr), contexto (localizar o empreendimento, a vista, a experiência ao redor), desenvolvimento.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Headline: primeira frase deve ser curta e direta, nunca prolixa — testar mentalmente 'alguém vai querer ver isso?'.
+- Gancho não é só abertura — é recorrente ao longo do vídeo, mantendo atenção (ex.: movimento físico).
+- 'Somos dopaminérgicos' — ninguém busca comprar na rede social, a compra é consequência do engajamento gerado.
+- Contexto vem depois do gancho: localizar o empreendimento na experiência ao redor (vista, comodidade, região).
 
 ## Conteúdo integral
 
@@ -32,8 +35,8 @@ Comente CONTEÚDO para saber como ⬇️
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Framework de 4 elementos (headline → gancho recorrente → contexto → desenvolvimento) complementa a skill `gancho-psicologico`, que já cobre a fase de abertura com rigor — este framework acrescenta a ideia de que o gancho deve se repetir ao longo do vídeo, não só nos 3 primeiros segundos.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

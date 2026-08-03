@@ -3,8 +3,8 @@ titulo: "Dica de segurança imobiliária. Quando pagar entrada?"
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DRVaI-CEfQG/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [seguranca-juridica, sinal, escritura, certidoes]
 duracao: "2min38"
 data_post: 2025-11-21
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Explica quando é seguro pagar entrada/sinal: em compra financiada, o momento seguro é na assinatura com o banco (que já verificou certidões e aprovou o imóvel) — contrato de financiamento substitui a escritura. Se o vendedor exigir sinal antes disso, deve ser valor baixo e só depois de o corretor retirar todas as certidões. Em compra à vista, pagar só na escritura, após 7 dias do contrato de compra e venda, com certidões negativas constando no documento.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Compra financiada: pagamento seguro é na assinatura com o banco, não antes.
+- Contrato de financiamento substitui escritura — imóvel financiado não tem escritura separada.
+- Compra à vista: pagar só na escritura, nunca sinal alto antes das certidões.
+- Corretor deve retirar todas as certidões antes de qualquer sinal ser pago.
 
 ## Conteúdo integral
 
@@ -30,8 +33,8 @@ Dica de segurança imobiliária. Quando pagar entrada?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conteúdo técnico de segurança jurídica — reforça, de fonte local de Uberlândia, o mesmo rigor documental do post do @sousasolucoes (nacional) sobre as 4 perguntas ao corretor. **Cuidado:** cita 'compra financiada' explicitamente, então precisa ser adaptado/generalizado para não mencionar financiamento se for reutilizar.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

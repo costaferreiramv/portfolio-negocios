@@ -4,7 +4,7 @@ autor: "@brokersbr"
 url: https://www.instagram.com/p/DXIe4c3AEQq/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, duplicata]
 duracao: "1min02"
 data_post: 2026-04-15
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Variação de roteiro da mesma oferta de workshop 'Nova Era Imobiliária', mesma prova social de R$1,5 bi em VGV.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo repetido do post irmão, locutora diferente.
 
 ## Conteúdo integral
 
@@ -46,8 +46,8 @@ Temos um limite de 500 pessoas na sala, então seja RÁPIDO para se inscrever no
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `brokersbr-o-corretor-que-nao-se-posiciona-online-v-2.md` (mesmo conteúdo, sem o case detalhado).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

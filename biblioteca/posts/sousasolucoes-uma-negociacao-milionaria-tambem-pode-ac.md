@@ -3,8 +3,8 @@ titulo: "Uma negociação milionária também pode acabar na Justiça. O caso en
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/Dayaabyu1i5/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [due-diligence, matricula, disputa-judicial, caso-real]
 duracao: "2min57"
 data_post: 2026-07-14
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Caso real (disputa judicial sobre fazenda comprada por Alexandre Pires por R$25 milhões) usado para ilustrar a importância de ler a matrícula até o fim: mesmo com registro de disputa judicial averbado na matrícula, o imóvel pode continuar sendo transferido — quem não lê a matrícula por completo assume o risco.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Averbação de disputa judicial na matrícula não impede a venda, só torna pública a existência do risco.
+- Ninguém lê a matrícula até o fim — é aí que o risco se esconde, segundo o vídeo.
+- Reforça que due diligence documental completa vale inclusive (ou principalmente) em negócios de alto valor.
 
 ## Conteúdo integral
 
@@ -38,8 +40,8 @@ Lembre-se: quem é dono do imóvel é quem consta no Registro de Imóveis, e tod
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Caso real e verificável, bom gancho de conteúdo educativo sobre due diligence em imóvel de alto padrão — reforça a mesma tese do post das 4 perguntas ao corretor (@sousasolucoes nacional), aqui com prova concreta e midiática.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

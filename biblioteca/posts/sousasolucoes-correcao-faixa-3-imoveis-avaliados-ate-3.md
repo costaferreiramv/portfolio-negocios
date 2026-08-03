@@ -4,7 +4,7 @@ autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DQXfiqWkbkR/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, noticia, minha-casa-minha-vida]
 duracao: "2min58"
 data_post: 2025-10-28
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Notícia sobre mudanças de faixas do Minha Casa Minha Vida e SBPE/SFH — teto de financiamento, liberação de percentual, taxa de juros.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Notícia de política habitacional específica de outubro/2025 — desatualiza rápido.
 
 ## Conteúdo integral
 
@@ -35,8 +35,8 @@ Com as novas regras de financiamento e condições mais acessíveis, o setor vol
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — conteúdo de financiamento, proibição absoluta.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

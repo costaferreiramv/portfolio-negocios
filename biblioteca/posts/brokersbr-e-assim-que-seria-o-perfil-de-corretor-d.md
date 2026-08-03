@@ -4,7 +4,7 @@ autor: "@brokersbr"
 url: https://www.instagram.com/p/DYGOXtUDNLP/
 tipo: carrossel
 temas: []
-tags: []
+tags: [engajamento, celebridade]
 slides: 10
 data_post: 2026-05-09
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Post especulativo/humor: como seria o perfil de corretor de um empresário famoso (Flávio Augusto). Pergunta de engajamento.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Formato de engajamento hipotético com celebridade — não tem substância de método.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Photo by Brokers Brasil on May 08, 2026.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação direta — formato de engajamento leve, não estratégico.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

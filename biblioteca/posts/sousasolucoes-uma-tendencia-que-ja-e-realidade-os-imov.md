@@ -3,8 +3,8 @@ titulo: "Uma tendência que já é realidade os imóveis compactos vieram para f
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DPpGaFdkbCP/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [flats, imoveis-compactos, tendencia, aluguel-de-temporada]
 duracao: "2min37"
 data_post: 2025-10-10
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Argumenta que imóveis compactos (flats) vieram para ficar, por quatro motivos: famílias menores, geração Z que prefere praticidade e amenidades compartilhadas, aluguel de temporada rentável, e menor custo de aquisição/manutenção. Compara o padrão de São Paulo como prenúncio do que chegará em Uberlândia.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Quatro motivos da tendência: famílias menores, preferência da geração Z, aluguel de temporada, custo menor.
+- Argumento de 'olhar São Paulo para prever Uberlândia' como método de leitura de tendência.
+- Recomendação: comprar por valor justo de m² e boa localização, não por tamanho.
 
 ## Conteúdo integral
 
@@ -39,8 +41,8 @@ Compacto não é sinônimo de pouco — é sinônimo de inteligente. 💡
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Fora do nicho de alto padrão do Marcus (flat compacto é segmento diferente), mas útil como leitura de tendência regional e como exemplo de formato de conteúdo educativo com fontes de raciocínio (comparação com mercado maior) em vez de dado solto.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

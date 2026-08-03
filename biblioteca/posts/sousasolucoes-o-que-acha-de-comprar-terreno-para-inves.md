@@ -3,8 +3,8 @@ titulo: "O que acha de comprar terreno para investir no lançamento do Buritis C
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DL-04QKxsOi/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [terreno, loteadora, due-diligence]
 duracao: "1min00"
 data_post: 2025-07-11
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Três alertas para compra de terreno para investimento: verificar o valor real de venda de terrenos próximos (não confiar na promessa de dobrar o valor); atenção a contrato de loteadora onde o saldo devedor cresce mais rápido que a amortização (efeito bola de neve); avaliar o que já está consolidado ao redor do terreno.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Checar valor real de venda de terrenos vizinhos antes de acreditar em promessa de valorização.
+- Risco de contrato de loteadora: saldo devedor pode crescer mais rápido que o pagamento (juros sobre correção).
+- Avaliar infraestrutura já consolidada no entorno, não só o potencial futuro.
 
 ## Conteúdo integral
 
@@ -33,8 +35,8 @@ Anote essas dicas para não errar!!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conteúdo técnico de alerta ao comprador de terreno — relevante se o Marcus atuar com lote/terreno na Zona Sul; útil como checklist educativo, sem prometer valorização.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

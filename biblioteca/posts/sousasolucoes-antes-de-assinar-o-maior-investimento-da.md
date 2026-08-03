@@ -3,8 +3,8 @@ titulo: "Antes de assinar o maior investimento da sua vida, entenda o que realm"
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DQG7UinERtH/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [planta-inteligente, valor-do-m2, zona-sul-uberlandia, construtora]
 duracao: "1min43"
 data_post: 2025-10-22
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Vídeo local (Uberlândia, Zona Sul) sobre os 4 pilares para avaliar um bom projeto antes de comprar: localização, valor do m², qualidade da construtora e do projeto (planta inteligente — menos corredor, mais integração — aumenta sensação de espaço e valor de revenda mesmo em apartamento menor). Usa empreendimento real na Rua da Carioca, próximo ao Praia Clube, como exemplo.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Regra: não avaliar só o preço por m², avaliar o projeto — planta inteligente aumenta valor de revenda mesmo em imóvel menor.
+- Localização citada como referência real de Uberlândia: proximidade ao Praia Clube e vias de acesso da Zona Sul.
+- 'Planta inteligente' = menos corredor, mais integração entre ambientes.
 
 ## Conteúdo integral
 
@@ -35,8 +37,8 @@ E pra deixar tudo ainda mais claro, eu trouxe o Gabriel, um dos corretores mais 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conteúdo local direto — mesma região de atuação do Marcus. O critério de 'planta inteligente vale mais que m² bruto' é argumento técnico reaproveitável para explicar diferença de preço entre imóveis aparentemente similares na Zona Sul.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

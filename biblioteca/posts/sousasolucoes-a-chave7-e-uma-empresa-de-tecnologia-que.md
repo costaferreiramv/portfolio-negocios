@@ -4,7 +4,7 @@ autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DEvPxsxJKYv/
 tipo: reel
 temas: []
-tags: []
+tags: [isca, parceria-tecnologia]
 duracao: "31s"
 data_post: 2025-01-12
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de plataforma (Chave7) que oferece imóveis prontos para corretor vender com comissão 100% do corretor, sem precisar captar.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Modelo de negócio: plataforma fornece imóveis, corretor foca só em vender e visitar.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ A Chave7 é uma empresa de tecnologia que ajuda corretores e imobiliárias a aum
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — o Marcus já opera com carteira própria captada, modelo diferente do proposto.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

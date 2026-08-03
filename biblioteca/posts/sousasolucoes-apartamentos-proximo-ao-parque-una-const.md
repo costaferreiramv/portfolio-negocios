@@ -3,8 +3,8 @@ titulo: "Apartamentos proximo ao Parque Una construídos pela Mrv. O que vc acha
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DQzl22REenf/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [mrv, parque-una, minha-casa-minha-vida, precificacao-local]
 duracao: "2min41"
 data_post: 2025-11-08
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Avaliação honesta de condomínios MRV próximos ao Parque Una em Uberlândia (United Post, United States, Universitat): região boa e fácil de alugar, mas padrão médio (Minha Casa Minha Vida usado), nunca vai virar alto padrão, m² na faixa de R$3.000-3.500, não recomenda pagar acima de R$4.000/m² nesses condomínios. Menciona valorização pontual do Espasio (vizinho ao shopping).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Avaliação honesta e local: região boa, mas padrão MCMV — nunca vira alto padrão, mesmo com valorização.
+- Faixa de preço de referência: R$3.000-3.500/m², teto recomendado R$4.000/m².
+- Aceitar aluguel de temporada no condomínio é fator que valoriza o m² nesses empreendimentos.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Apartamentos proximo ao Parque Una construídos pela Mrv. O que vc acha de lá. 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Dado de mercado local direto de Uberlândia (Zona Leste/Parque Una), fora do nicho de alto padrão do Marcus, mas útil como referência de preço por região ao posicionar comparativamente o valor do m² na Zona Sul.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

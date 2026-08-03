@@ -4,7 +4,7 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 111
+**Analisados (resumo, pontos-chave e aplicação escritos):** 131
 
 ### Status
 
@@ -32,6 +32,7 @@ automaticamente.
 
 ### vendas
 
+- [O Corretor que não se posiciona online, vai cada dia mais perder venda](posts/brokersbr-o-corretor-que-nao-se-posiciona-online-v-2.md) — @brokersbr
 - [5 tipos de cliente que todo corretor conhece. Tem mais algum? Comenta ](posts/brunoferoliveira-5-tipos-de-cliente-que-todo-corretor-con.md) — @brunoferoliveira
 - [Cliente que sumiu não precisa de cobrança. Precisa de uma mensagem que](posts/brunoferoliveira-cliente-que-sumiu-nao-precisa-de-cobranc.md) — @brunoferoliveira
 - [Essa é quente!](posts/brunoferoliveira-essa-e-quente.md) — @brunoferoliveira
@@ -89,6 +90,11 @@ automaticamente.
 ### criativos
 
 - [Tela dividida no CapCut em 5 passos](posts/andressapenna-tela-dividida-capcut.md) — @andressapenna.oficial
+- [é a prova de que posicionamento não acontece da noite para o dia. Ante](posts/brokersbr-e-a-prova-de-que-posicionamento-nao-acon.md) — @brokersbr
+- [não se tornou referência por acaso Ela construiu conteúdo com a própri](posts/brokersbr-nao-se-tornou-referencia-por-acaso-ela-c.md) — @brokersbr
+- [O cliente decide em segundos se continua ou vai embora! Aqui vão algun](posts/brokersbr-o-cliente-decide-em-segundos-se-continua.md) — @brokersbr
+- [Se você é corretor, pare de gravar vídeos apenas mostrando imóvel. Gra](posts/brokersbr-se-voce-e-corretor-pare-de-gravar-videos.md) — @brokersbr
+- [Se você quer aprender a produzir conteúdos que te posicionem como auto](posts/brokersbr-se-voce-quer-aprender-a-produzir-conteud.md) — @brokersbr
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr
 - [Model Sheet: o mapa do corpo que impede a IA de trocar as proporções do personagem](posts/bruno-ia1-model-sheet-corpo-inteiro.md) — @bruno.ia1
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
@@ -107,6 +113,9 @@ automaticamente.
 
 - [O caso Ricardo Martins: 7 vídeos por dia com função definida, e o corretor virando a marca](posts/andersonbarbosast-ricardo-martins-marca-pessoal.md) — @andersonbarbosast
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr
+- [não se tornou referência por acaso Ela construiu conteúdo com a própri](posts/brokersbr-nao-se-tornou-referencia-por-acaso-ela-c.md) — @brokersbr
+- [O Corretor que não se posiciona online, vai cada dia mais perder venda](posts/brokersbr-o-corretor-que-nao-se-posiciona-online-v-2.md) — @brokersbr
+- [Pare de postar só bom dia, fachadas e metragens. Comece a usar os stor](posts/brokersbr-pare-de-postar-so-bom-dia-fachadas-e-met.md) — @brokersbr
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr
 - [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
@@ -141,6 +150,9 @@ automaticamente.
 - [O caso Ricardo Martins: 7 vídeos por dia com função definida, e o corretor virando a marca](posts/andersonbarbosast-ricardo-martins-marca-pessoal.md) — @andersonbarbosast
 - [Silvio Santos, Pelé e Flávio Augusto: quem virou referência apareceu antes de estar pronto](posts/brokersbr-aparecer-antes-de-estar-pronto.md) — @brokersbr
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr
+- [Classe A ou Classe C, o que define o resultado não é o nicho. É saber ](posts/brokersbr-classe-a-ou-classe-c-o-que-define-o-resu.md) — @brokersbr
+- [é a prova de que posicionamento não acontece da noite para o dia. Ante](posts/brokersbr-e-a-prova-de-que-posicionamento-nao-acon.md) — @brokersbr
+- [Enquanto alguns se agarram ao passado, outros estão construindo um fut](posts/brokersbr-enquanto-alguns-se-agarram-ao-passado-ou.md) — @brokersbr
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli
 - [O Fantástico foi ao ar ontem com uma reportagem sobre a guerra do Airb](posts/brunoferoliveira-o-fantastico-foi-ao-ar-ontem-com-uma-rep.md) — @brunoferoliveira
 - [Para com isso! Comenta empresário que vou te mandar um conteúdo de com](posts/brunoferoliveira-para-com-isso-comenta-empresario-que-vou.md) — @brunoferoliveira
@@ -187,7 +199,18 @@ automaticamente.
 - [Imóvel fora de preço não é vendido](posts/lucasmarrques-imovel-fora-de-preco-nao-e-vendido.md) — @lucasmarrques
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes
+- [Antes de assinar o maior investimento da sua vida, entenda o que realm](posts/sousasolucoes-antes-de-assinar-o-maior-investimento-da.md) — @sousasolucoes
+- [Apartamentos proximo ao Parque Una construídos pela Mrv. O que vc acha](posts/sousasolucoes-apartamentos-proximo-ao-parque-una-const.md) — @sousasolucoes
+- [Confira agora os bairros com maior liquidez para investir em Uberlândi](posts/sousasolucoes-confira-agora-os-bairros-com-maior-liqui.md) — @sousasolucoes
+- [Dica de segurança imobiliária. Quando pagar entrada?](posts/sousasolucoes-dica-de-seguranca-imobiliaria-quando-pag.md) — @sousasolucoes
+- [Imobiliária pode cobrar 6 do valor do imóvel? Essa é uma dúvida muito ](posts/sousasolucoes-imobiliaria-pode-cobrar-6-do-valor-do-im.md) — @sousasolucoes
+- [Levantamento da Sejusp-MG aponta os bairros com maior risco de crimes ](posts/sousasolucoes-levantamento-da-sejusp-mg-aponta-os-bair.md) — @sousasolucoes
+- [MERCADO IMOBILIÁRIO EM MOVIMENTO! Os dados do 2º trimestre de 2025 rev](posts/sousasolucoes-mercado-imobiliario-em-movimento-os-dado.md) — @sousasolucoes
+- [O que acha de comprar terreno para investir no lançamento do Buritis C](posts/sousasolucoes-o-que-acha-de-comprar-terreno-para-inves.md) — @sousasolucoes
 - [Taxa de transferência abusiva: em Uberlândia o despachante gira em torno de R$ 700-800](posts/sousasolucoes-taxa-de-transferencia-abusiva.md) — @sousasolucoes
+- [Uma negociação milionária também pode acabar na Justiça. O caso envolv](posts/sousasolucoes-uma-negociacao-milionaria-tambem-pode-ac.md) — @sousasolucoes
+- [Uma tendência que já é realidade os imóveis compactos vieram para fica](posts/sousasolucoes-uma-tendencia-que-ja-e-realidade-os-imov.md) — @sousasolucoes
+- [Vai comprar um imóvel? Não pule este detalhe! Sempre peça a certidão n](posts/sousasolucoes-vai-comprar-um-imovel-nao-pule-este-deta.md) — @sousasolucoes
 - [ChatGPT como analista imobiliário: score, cap rate e faixa de proposta](posts/thaysfreire-chatgpt-analista-imobiliario.md) — @thaysfreire.ia
 
 ### gestao
@@ -219,6 +242,7 @@ automaticamente.
 - [Renda variável não sustenta despesa fixa: o erro que faz o corretor virar refém da próxima venda](posts/marcele-corretora-renda-variavel-despesa-fixa.md) — @marcele_corretora
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado
 - [24 coisas pra instalar no Claude: skills, plug-ins e MCP servers](posts/rtercas-24-coisas-instalar-claude.md) — @rtercas
+- [Imobiliária pode cobrar 6 do valor do imóvel? Essa é uma dúvida muito ](posts/sousasolucoes-imobiliaria-pode-cobrar-6-do-valor-do-im.md) — @sousasolucoes
 - [Modelo caro planeja, modelo barato executa: como cortar 54% do custo de IA](posts/thaleslaray-cortar-custos-claude-modelo-hibrido.md) — @thaleslaray
 
 ### ia-automacao
@@ -264,6 +288,15 @@ automaticamente.
 - [Tela dividida no CapCut em 5 passos](posts/andressapenna-tela-dividida-capcut.md) — @andressapenna.oficial · reel · 2026-07-16
 - [Silvio Santos, Pelé e Flávio Augusto: quem virou referência apareceu antes de estar pronto](posts/brokersbr-aparecer-antes-de-estar-pronto.md) — @brokersbr · carrossel · 2026-07-22
 - [Autoridade no offline, invisível no online — e o custo de terceirizar o tráfego](posts/brokersbr-autoridade-offline-invisivel-online.md) — @brokersbr · video · 2026-05-22
+- [Classe A ou Classe C, o que define o resultado não é o nicho. É saber ](posts/brokersbr-classe-a-ou-classe-c-o-que-define-o-resu.md) — @brokersbr · carrossel · 2026-06-15
+- [é a prova de que posicionamento não acontece da noite para o dia. Ante](posts/brokersbr-e-a-prova-de-que-posicionamento-nao-acon.md) — @brokersbr · reel · 2026-06-05
+- [Enquanto alguns se agarram ao passado, outros estão construindo um fut](posts/brokersbr-enquanto-alguns-se-agarram-ao-passado-ou.md) — @brokersbr · reel · 2025-07-13
+- [não se tornou referência por acaso Ela construiu conteúdo com a própri](posts/brokersbr-nao-se-tornou-referencia-por-acaso-ela-c.md) — @brokersbr · reel · 2026-04-27
+- [O cliente decide em segundos se continua ou vai embora! Aqui vão algun](posts/brokersbr-o-cliente-decide-em-segundos-se-continua.md) — @brokersbr · carrossel · 2026-04-20
+- [O Corretor que não se posiciona online, vai cada dia mais perder venda](posts/brokersbr-o-corretor-que-nao-se-posiciona-online-v-2.md) — @brokersbr · video · 2026-04-12
+- [Pare de postar só bom dia, fachadas e metragens. Comece a usar os stor](posts/brokersbr-pare-de-postar-so-bom-dia-fachadas-e-met.md) — @brokersbr · carrossel · 2026-06-27
+- [Se você é corretor, pare de gravar vídeos apenas mostrando imóvel. Gra](posts/brokersbr-se-voce-e-corretor-pare-de-gravar-videos.md) — @brokersbr · reel · 2026-06-16
+- [Se você quer aprender a produzir conteúdos que te posicionem como auto](posts/brokersbr-se-voce-quer-aprender-a-produzir-conteud.md) — @brokersbr · reel · 2025-06-05
 - [Teste dos 30 segundos: saber se o vídeo vai ser ignorado antes de postar](posts/brokersbr-teste-30-segundos-video.md) — @brokersbr · carrossel · 2026-07-29
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli · carrossel · 2026-07-18
 - [Model Sheet: o mapa do corpo que impede a IA de trocar as proporções do personagem](posts/bruno-ia1-model-sheet-corpo-inteiro.md) — @bruno.ia1 · carrossel · 2026-07-21
@@ -362,7 +395,18 @@ automaticamente.
 - [24 coisas pra instalar no Claude: skills, plug-ins e MCP servers](posts/rtercas-24-coisas-instalar-claude.md) — @rtercas · carrossel · 2026-07-03
 - [O formato sem edição pesada que o Instagram está privilegiando](posts/segueadi-formato-simplificado-alcance.md) — @segueadi · video · 2026-07-21
 - [4 perguntas para fazer ao corretor antes de pagar o sinal](posts/sousasolucoes-4-perguntas-para-o-corretor.md) — @sousasolucoes · reel · 2026-07-27
+- [Antes de assinar o maior investimento da sua vida, entenda o que realm](posts/sousasolucoes-antes-de-assinar-o-maior-investimento-da.md) — @sousasolucoes · reel · 2025-10-22
+- [Apartamentos proximo ao Parque Una construídos pela Mrv. O que vc acha](posts/sousasolucoes-apartamentos-proximo-ao-parque-una-const.md) — @sousasolucoes · reel · 2025-11-08
+- [Confira agora os bairros com maior liquidez para investir em Uberlândi](posts/sousasolucoes-confira-agora-os-bairros-com-maior-liqui.md) — @sousasolucoes · imagem · 2025-05-29
+- [Dica de segurança imobiliária. Quando pagar entrada?](posts/sousasolucoes-dica-de-seguranca-imobiliaria-quando-pag.md) — @sousasolucoes · reel · 2025-11-21
+- [Imobiliária pode cobrar 6 do valor do imóvel? Essa é uma dúvida muito ](posts/sousasolucoes-imobiliaria-pode-cobrar-6-do-valor-do-im.md) — @sousasolucoes · reel · 2026-07-18
+- [Levantamento da Sejusp-MG aponta os bairros com maior risco de crimes ](posts/sousasolucoes-levantamento-da-sejusp-mg-aponta-os-bair.md) — @sousasolucoes · reel · 2025-11-14
+- [MERCADO IMOBILIÁRIO EM MOVIMENTO! Os dados do 2º trimestre de 2025 rev](posts/sousasolucoes-mercado-imobiliario-em-movimento-os-dado.md) — @sousasolucoes · reel · 2025-08-29
+- [O que acha de comprar terreno para investir no lançamento do Buritis C](posts/sousasolucoes-o-que-acha-de-comprar-terreno-para-inves.md) — @sousasolucoes · reel · 2025-07-11
 - [Taxa de transferência abusiva: em Uberlândia o despachante gira em torno de R$ 700-800](posts/sousasolucoes-taxa-de-transferencia-abusiva.md) — @sousasolucoes · reel · 2026-07-20
+- [Uma negociação milionária também pode acabar na Justiça. O caso envolv](posts/sousasolucoes-uma-negociacao-milionaria-tambem-pode-ac.md) — @sousasolucoes · reel · 2026-07-14
+- [Uma tendência que já é realidade os imóveis compactos vieram para fica](posts/sousasolucoes-uma-tendencia-que-ja-e-realidade-os-imov.md) — @sousasolucoes · reel · 2025-10-10
+- [Vai comprar um imóvel? Não pule este detalhe! Sempre peça a certidão n](posts/sousasolucoes-vai-comprar-um-imovel-nao-pule-este-deta.md) — @sousasolucoes · reel · 2026-07-13
 - [Modelo caro planeja, modelo barato executa: como cortar 54% do custo de IA](posts/thaleslaray-cortar-custos-claude-modelo-hibrido.md) — @thaleslaray · carrossel · 2026-07-13
 - [ChatGPT como analista imobiliário: score, cap rate e faixa de proposta](posts/thaysfreire-chatgpt-analista-imobiliario.md) — @thaysfreire.ia · reel · 2026-07-25
 

@@ -3,8 +3,8 @@ titulo: "é a prova de que posicionamento não acontece da noite para o dia. Ant
 autor: "@brokersbr"
 url: https://www.instagram.com/reel/DZOMv2GucM4/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento, criativos]
+tags: [case, storytelling, autenticidade, narrativa]
 duracao: "3min03"
 data_post: 2026-06-05
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Case da corretora Tamara Stiff (@ta_ma_ra_s, 384 mil seguidores): há 3 anos usava o modelo padrão do mercado (câmera parada, voz narrada, metragem, localização, preço). Mudou para contar quem morava no imóvel e como se vivia ali, em vez de anunciar características — 'isso aqui é pra quem toma café olhando pro jardim antes de todo mundo acordar'. O seguidor não via metragem, se imaginava morando ali.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Modelo antigo: câmera parada + voz narrada + metragem/localização/preço = 'anúncio'.
+- Modelo novo: contar quem mora ali e como se vive, não anunciar características — vira 'experiência'.
+- Resultado (384 mil seguidores, milhões de views) veio depois de anos de construção, não da noite pro dia.
+- Frase-molde: descrever o cômodo pela cena de vida que ele permite, não pelo atributo físico.
 
 ## Conteúdo integral
 
@@ -36,8 +39,8 @@ Comente BBR e te mostramos o próximo passo 👇🏼
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+É a versão em vídeo do princípio 'venda o estilo de vida, não a ficha técnica' já registrado desta biblioteca (@declie.broker, @fzlabexclusive). O molde de frase ('isso aqui é pra quem...') é diretamente aplicável nos roteiros de tour de imóvel de alto padrão do Portfólio Negócios.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

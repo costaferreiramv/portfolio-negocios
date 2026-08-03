@@ -4,7 +4,7 @@ autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DAtq-WXJriP/
 tipo: reel
 temas: []
-tags: []
+tags: [leilao, isca, comparativo-de-lucro]
 duracao: "1min30"
 data_post: 2024-10-04
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Vídeo de venda de serviço de leilão de imóveis, com comparativo especulativo de tempo para 'se tornar milionário' via aluguel de kitnet vs construção vs leilão. Usa referência de patrimônio de terceiro sem verificação.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Comparativo numérico de retorno por estratégia, sem metodologia clara — tratar como marketing, não dado confiável.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ Há uma oportunidade, você pode agregar valor a sua pessoa, mas para isso preci
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — promessa de rentabilidade não verificável, incompatível com qualquer peça publicitária (CDC art. 37).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

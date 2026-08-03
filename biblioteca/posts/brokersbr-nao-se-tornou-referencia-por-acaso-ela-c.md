@@ -3,8 +3,8 @@ titulo: "não se tornou referência por acaso Ela construiu conteúdo com a pró
 autor: "@brokersbr"
 url: https://www.instagram.com/reel/DXnWUz3jINX/
 tipo: reel
-temas: []
-tags: []
+temas: [conteudo-organico, criativos]
+tags: [case, autenticidade, storytelling, curadoria]
 duracao: "2min20"
 data_post: 2026-04-27
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Segundo case sobre Tamara Stiff, detalhando a técnica: narrativa envolvente desde os primeiros segundos, linguagem informal e autêntica, opinião própria sobre o imóvel (comenta o bairro, sugere reforma, interpreta o papel de quem mora ali), humor ocasional. Os melhores vídeos dela usam storytelling para criar jornada, não checklist de cômodos.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Retenção vem de narrativa que puxa o espectador para dentro do vídeo, como se estivesse visitando junto.
+- Autenticidade = opinar (sugerir reforma, comentar o bairro), não só descrever.
+- Storytelling cria jornada — início de curiosidade, meio de descoberta, não checklist de ambientes.
 
 ## Conteúdo integral
 
@@ -38,8 +40,8 @@ Comente NOVA ERA que a gente te mostra o caminho 👇🏼
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça e detalha o case já registrado no post irmão — o elemento novo é 'opinar de verdade' (sugerir reforma, dar sua leitura pessoal do imóvel), que é mais raro e mais difícil de fingir que apenas narrar bonito. Alinhado à régua de 'infotenimento' do @andersonbarbosast.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

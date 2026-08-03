@@ -4,7 +4,7 @@ autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DSAxIgHkSpA/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, noticia]
 duracao: "1min35"
 data_post: 2025-12-08
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Notícia sobre fim da restrição da Caixa a múltiplos financiamentos por CPF, com caso de cliente que fez 37 financiamentos comprando imóveis de leilão, limitado a 30% de comprometimento de renda.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Notícia de política de crédito da Caixa — não é conteúdo evergreen, pode já estar desatualizada.
+- Regra geral citada: comprometimento de até 30% da renda em parcelas de financiamento.
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ A Caixa encerrou a restrição: agora é possível contratar mais de um financia
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — é conteúdo sobre financiamento, proibição absoluta do negócio. Serve só como registro de conhecimento de mercado, não como fonte de post.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

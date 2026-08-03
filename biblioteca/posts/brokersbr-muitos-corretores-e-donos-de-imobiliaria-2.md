@@ -4,7 +4,7 @@ autor: "@brokersbr"
 url: https://www.instagram.com/p/DNjXEe3AYc-/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso]
 duracao: "39s"
 data_post: 2025-08-19
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de aula gratuita sobre posicionamento digital, com a tese de que o cliente compra de quem 'parece melhor', não de quem sabe mais.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tese central: 'o cliente não compra de quem sabe mais, compra de quem parece melhor' — percepção supera conhecimento técnico no primeiro contato digital.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Clique em "Saiba mais" e veja como outros profissionais do mercado estão transf
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+A tese, se verdadeira, reforça a importância do perfil como vitrine de confiança (mesmo ponto do post do @kakarivas sobre 'a pergunta não é quantas pessoas entram'). Sem detalhe de método além da isca.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

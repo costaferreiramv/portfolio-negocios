@@ -3,8 +3,8 @@ titulo: "Imobiliária pode cobrar 6 do valor do imóvel? Essa é uma dúvida mui
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/Da8T_vKlQXG/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario, gestao]
+tags: [comissao, assessoria-de-compra, praxe-de-mercado]
 duracao: "1min07"
 data_post: 2026-07-18
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Esclarecimento sobre praxe de comissão: normalmente quem paga a comissão (em torno de 5%) é o vendedor, não o comprador. Se o comprador está sendo cobrado 6% de 'taxa de assessoria', é diferente — é serviço de assessoria de análise documental contratado à parte, não corretagem embutida na compra.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Praxe: comissão de corretagem (5% em geral) é despesa do vendedor, não do comprador.
+- Assessoria de compra (análise documental) é serviço distinto, cobrado à parte pelo comprador se quiser.
+- Alerta ao comprador: cobrança de comissão como 'taxa' embutida no valor de compra deve ser questionada.
 
 ## Conteúdo integral
 
@@ -38,8 +40,8 @@ Já o valor da corretagem é parte da despesa de quem está vendendo o imóvel, 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Conteúdo educativo direto para comprador — esclarece dúvida real e recorrente sobre quem paga comissão. Reforça a transparência de processo que já é parte do posicionamento do Marcus.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

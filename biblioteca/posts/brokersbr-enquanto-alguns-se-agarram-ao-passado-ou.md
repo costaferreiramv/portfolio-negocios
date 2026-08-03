@@ -3,8 +3,8 @@ titulo: "Enquanto alguns se agarram ao passado, outros estão construindo um fut
 autor: "@brokersbr"
 url: https://www.instagram.com/reel/DMEM1_pJDzL/
 tipo: reel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [case, reinvencao, autoridade]
 duracao: "1min15"
 data_post: 2025-07-13
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Case de Marcelo Antony, ex-ator de novela que se tornou corretor de imóveis de luxo em Portugal, hoje consultor de real estate atendendo brasileiros e estrangeiros em propriedades milionárias. Argumento: no mercado de luxo, carisma não basta — precisa de posicionamento, credibilidade e estratégia de venda.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Fama por si só não sustenta autoridade em mercado de luxo — precisa de posicionamento e estratégia real.
+- Reposicionamento de carreira (ator → corretor de alto padrão) como narrativa de autoridade.
+- Frase-chave: 'no mercado de luxo, carisma não é suficiente'.
 
 ## Conteúdo integral
 
@@ -38,8 +40,8 @@ E siga @brokersbr pra mais conteúdos como esse.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça, com case famoso, que autoridade em alto padrão exige mais que aparência ou fama — é o mesmo argumento do post do @brunoferoliveira contra investir em book fotográfico sem resultado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

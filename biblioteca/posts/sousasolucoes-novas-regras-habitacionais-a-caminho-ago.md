@@ -4,7 +4,7 @@ autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DPrw7gHkSjt/
 tipo: reel
 temas: []
-tags: []
+tags: [financiamento, noticia]
 duracao: "2min59"
 data_post: 2025-10-11
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Notícia sobre mudanças em regras de financiamento habitacional (SBPE, SFH) com entrevista de especialista local de Uberlândia.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Notícia de política de crédito — desatualiza rápido, conteúdo de financiamento.
 
 ## Conteúdo integral
 
@@ -31,8 +31,8 @@ Olá pessoal, eu perguntei a Sunaide, que tem 35 anos de mercado imobiliário, p
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação publicável — conteúdo de financiamento, proibição absoluta.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

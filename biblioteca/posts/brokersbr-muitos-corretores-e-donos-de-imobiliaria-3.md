@@ -4,7 +4,7 @@ autor: "@brokersbr"
 url: https://www.instagram.com/p/DNWri6NAFIx/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, duplicata]
 duracao: "44s"
 data_post: 2025-08-14
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesma oferta de aula gratuita, ângulo de independência de tráfego pago, com prova social de R$400 milhões em VGV gerados por conteúdo orgânico.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Prova social sem verificação (R$400 milhões em VGV) — mesmo padrão de cifra sem fonte já registrado em outros posts da coleção.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Clique em "Saiba mais" e veja como outros profissionais do mercado estão transf
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — repetição de isca com prova não verificável.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

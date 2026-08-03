@@ -3,8 +3,8 @@ titulo: "Se você é corretor, pare de gravar vídeos apenas mostrando imóvel. 
 autor: "@brokersbr"
 url: https://www.instagram.com/reel/DZqk7LGBBlN/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos]
+tags: [roteiro, gancho, bastidor]
 duracao: "2min24"
 data_post: 2026-06-16
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Vídeo de bastidor mostrando a gravação de um roteiro de tour: regra explícita de nunca abrir com 'sejam bem-vindos' (frase genérica); usar os 3 primeiros segundos com um gancho de dúvida ('vou te fazer duvidar do valor dessa casa'); guardar 'a cereja do bolo' para o final, não revelar tudo de uma vez.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Nunca abrir tour de imóvel com 'sejam bem-vindos' — frase genérica que desperdiça os 3 primeiros segundos.
+- Gancho de dúvida/curiosidade no início ('vou te fazer duvidar do valor dessa casa').
+- Estrutura de reveal: guardar o melhor ambiente para o final do vídeo, não mostrar tudo em ordem neutra.
 
 ## Conteúdo integral
 
@@ -36,8 +38,8 @@ Inspiração: @joseoliveirafilms
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Regra imediatamente acionável para os roteiros de vídeo de imóvel do Portfólio Negócios: banir 'sejam bem-vindos' e qualquer abertura genérica, e estruturar o roteiro com reveal guardado para o fim, não em ordem de cômodo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "Vai comprar um imóvel? Não pule este detalhe! Sempre peça a certidã
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DavQPmVxv5g/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [certidao-de-condominio, divida-do-imovel, due-diligence]
 duracao: "2min18"
 data_post: 2026-07-13
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Caso real de cliente que quase comprou imóvel com dívida de condomínio oculta: a certidão apresentada não declarava explicitamente 'sem dívida nos últimos 5 anos' (prazo de prescrição), e uma das administradoras anteriores tinha dívida relevante. Dívida de condomínio acompanha o imóvel (obrigação propter rem), não o CPF do antigo proprietário — o novo dono pode ser cobrado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Sempre exigir certidão negativa de condomínio expressa para os últimos 5 anos (prazo de prescrição da dívida).
+- Dívida de condomínio é obrigação que acompanha o imóvel (propter rem), não a pessoa — o comprador pode herdar a dívida.
+- Caso real como prova: certidão apresentada não cobria o período todo, e havia dívida real de uma das administradoras anteriores.
 
 ## Conteúdo integral
 
@@ -40,8 +42,8 @@ Comprar com segurança é sempre o melhor negócio. 🔑🏡
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Regra técnica concreta e de aplicação imediata em qualquer captação/venda do Portfólio Negócios: sempre exigir certidão negativa de condomínio explícita para os últimos 5 anos antes de fechar negócio, independente do valor do imóvel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

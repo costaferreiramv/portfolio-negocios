@@ -4,7 +4,7 @@ autor: "@brokersbr"
 url: https://www.instagram.com/p/DNHocDGgpcl/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, duplicata]
 duracao: "49s"
 data_post: 2025-08-09
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Mesma oferta, ângulo de comparação com corretor iniciante que já vende mais por ter 'autoridade digital'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mesma prova social (R$400 milhões) e mesma tese: quem aparece primeiro no feed vence, independente de experiência.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Clique em "Saiba mais" e veja como outros profissionais do mercado estão transf
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — repetição de isca.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

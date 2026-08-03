@@ -3,8 +3,8 @@ titulo: "Levantamento da Sejusp-MG aponta os bairros com maior risco de crimes "
 autor: "@sousasolucoes"
 url: https://www.instagram.com/reel/DRDRLs0kZEN/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [seguranca, bairros-uberlandia, dado-oficial]
 duracao: "2min06"
 data_post: 2025-11-14
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Lista de bairros de Uberlândia com maior índice de crime violento segundo levantamento da Sejusp-MG: Luizote de Freitas, Centro, Tibery, Morumbi, Santa Mônica, Roosevelt, Jardim Brasília, Custódio Pereira, Tocantins, Santa Rosa. Nenhum é da Zona Sul.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Fonte oficial (Sejusp-MG) — dado verificável, mas conferir se ainda é o levantamento mais recente antes de citar.
+- Nenhum bairro da lista é da Zona Sul de Uberlândia (território do Marcus).
 
 ## Conteúdo integral
 
@@ -45,8 +46,8 @@ O que achou dessa lista?
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Dado sensível — usar com cuidado extremo se for referenciado: falar de segurança por bairro pode soar como estigmatização. Se usado, deve ser only para reforçar indiretamente o argumento de segurança da Zona Sul, citando a fonte oficial, nunca nomeando negativamente os bairros da lista de forma direta em anúncio.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,7 +4,7 @@ autor: "@brokersbr"
 url: https://www.instagram.com/p/DZ-4aPuCZQR/
 tipo: carrossel
 temas: []
-tags: []
+tags: [isca]
 slides: 7
 data_post: 2026-06-24
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA puro sobre posicionamento de mercado, sem conteúdo no post.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de captura de contato, sem substância.
 
 ## Conteúdo integral
 
@@ -35,8 +35,8 @@ Photo by Brokers Brasil on June 24, 2026. May be an image of text that says '60 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

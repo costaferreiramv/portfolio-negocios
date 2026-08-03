@@ -3,8 +3,8 @@ titulo: "Classe A ou Classe C, o que define o resultado não é o nicho. É sabe
 autor: "@brokersbr"
 url: https://www.instagram.com/p/DZn1d0oCeZe/
 tipo: carrossel
-temas: []
-tags: []
+temas: [posicionamento]
+tags: [nicho, isca]
 slides: 7
 data_post: 2026-06-15
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Afirma que o que define resultado não é o nicho (classe A ou C), é saber se posicionar dentro dele. Isca de curso de posicionamento, sem detalhamento no post.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tese: resultado é função de posicionamento dentro do nicho, não do nicho escolhido em si.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Photo by Brokers Brasil on June 15, 2026. May be an image of one or more people,
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Confirma, sem detalhar, que a especialização em alto padrão do Marcus não garante resultado sozinha — o posicionamento dentro desse nicho (como já trabalhado nesta biblioteca) é o que decide.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

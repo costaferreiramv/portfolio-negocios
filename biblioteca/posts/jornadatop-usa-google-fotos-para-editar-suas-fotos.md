@@ -3,8 +3,8 @@ titulo: "Usa Google Fotos para editar suas fotos porqye esta demais . . . . ."
 autor: "@jornadatop"
 url: https://www.instagram.com/reel/DDuH0bNRGz9/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos]
+tags: [google-fotos, edicao, desfoque]
 duracao: "59s"
 data_post: 2024-12-18
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Recursos do Google Fotos: 'foto cinematográfica' (transforma foto parada em vídeo 3D em movimento), desfoque de retrato profissional, apagador de objetos e removedor de desfoque.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Foto cinematográfica' do Google Fotos anima foto parada em efeito 3D sutil, sem precisar de app pago.
+- Apagador de objetos e removedor de desfoque nativos do Google Fotos, com boa qualidade segundo o vídeo.
 
 ## Conteúdo integral
 
@@ -36,8 +37,8 @@ Usa Google Fotos para editar suas fotos porqye esta demais ✅
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Recurso gratuito e imediato para dar movimento sutil a fotos estáticas de imóvel em Stories/carrossel, e para remover objeto indesejado (carro, lixeira) de foto de fachada antes de publicar.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

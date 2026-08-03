@@ -3,8 +3,8 @@ titulo: "Agora você pode colocar apenas uma foto sua e criar um filme a partir 
 autor: "@jornadatop"
 url: https://www.instagram.com/reel/DMARVoru131/
 tipo: reel
-temas: []
-tags: []
+temas: [ia-automacao]
+tags: [google-flow, veo, avatar-falante]
 duracao: "1min15"
 data_post: 2025-07-12
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tutorial (2025) de como usar Google Flow/VEO3 para transformar uma foto parada em vídeo com a pessoa falando, usando prompt gerado por ChatGPT.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Técnica de foto-para-vídeo-falado via Google Flow/VEO3.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Agora você pode colocar apenas uma foto sua e criar um filme a partir disso e a
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tecnologia relevante para o avatar do Marcus (vídeo falado a partir de imagem), mas já coberta com mais rigor pelos posts sobre Character Sheet/Model Sheet — aquilo resolve consistência, isto resolve só a animação pontual.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

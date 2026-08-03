@@ -4,7 +4,7 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 151
+**Analisados (resumo, pontos-chave e aplicação escritos):** 169
 
 ### Status
 
@@ -45,6 +45,16 @@ automaticamente.
 - [Usa essa mensagem com quem parou de te responder!](posts/brunoferoliveira-usa-essa-mensagem-com-quem-parou-de-te-r.md) — @brunoferoliveira
 - [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas-2.md) — @brunoferoliveira
 - [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas.md) — @brunoferoliveira
+- [A abordagem errada destrói a venda.](posts/carol-iasmim-a-abordagem-errada-destroi-a-venda.md) — @carol.iasmim
+- [Aplica e depois me conta](posts/carol-iasmim-aplica-e-depois-me-conta.md) — @carol.iasmim
+- [As pessoas gostam de fazer negócios com pessoas fortes!](posts/carol-iasmim-as-pessoas-gostam-de-fazer-negocios-com.md) — @carol.iasmim
+- [Atenção! Um formato não exclui o outro! O objetivo do vídeo é te mostr](posts/carol-iasmim-atencao-um-formato-nao-exclui-o-outro-o.md) — @carol.iasmim
+- [E você? Como prefere ser tratado? Me conte aqui](posts/carol-iasmim-e-voce-como-prefere-ser-tratado-me-conte.md) — @carol.iasmim
+- [Muita gente domina a apresentação mas perde a venda nos últimos segund](posts/carol-iasmim-muita-gente-domina-a-apresentacao-mas-pe.md) — @carol.iasmim
+- [No final tem um PRESENTÃO pra você](posts/carol-iasmim-no-final-tem-um-presentao-pra-voce.md) — @carol.iasmim
+- [Pergunta certa abre o que discurso pronto não abre. Esse material é re](posts/carol-iasmim-pergunta-certa-abre-o-que-discurso-pront.md) — @carol.iasmim
+- [Salve para consultar sempre que for vender para cliente alto padrão!](posts/carol-iasmim-salve-para-consultar-sempre-que-for-vend.md) — @carol.iasmim
+- [Só aplica e depois me conta](posts/carol-iasmim-so-aplica-e-depois-me-conta.md) — @carol.iasmim
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz
 - [Nos EUA o corretor só abre a casa com carta de pré-aprovação — e isso não é grosseria](posts/eduardovgvendas-pre-aprovacao-eua-x-brasil.md) — @eduardovgvendas
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino
@@ -110,6 +120,9 @@ automaticamente.
 - [Speed ramp x câmera lenta: o ritmo do vídeo imobiliário depende do que o imóvel é](posts/dentrodoimovel-ritmo-video-imobiliario.md) — @dentrodoimovel
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
+- [É isso você precisa de usar só capcut e ter qualquer cenário Em casa! ](posts/jornadatop-e-isso-voce-precisa-de-usar-so-capcut-e.md) — @jornadatop
+- [Olha que dica legal para fazer videos de timelapse de suas coisas . . ](posts/jornadatop-olha-que-dica-legal-para-fazer-videos-de.md) — @jornadatop
+- [Usa Google Fotos para editar suas fotos porqye esta demais . . . . .](posts/jornadatop-usa-google-fotos-para-editar-suas-fotos.md) — @jornadatop
 - [A primeira frase do vídeo decide se a pessoa vai continuar assistindo ](posts/kakarivas-a-primeira-frase-do-video-decide-se-a-pe.md) — @kakarivas
 - [Ao invés de tentar se filmar falando sobre os imóveis faça isso 1. Gra](posts/kakarivas-ao-inves-de-tentar-se-filmar-falando-sob.md) — @kakarivas
 - [O erro que quase todo mundo comete em vídeos de imóveis Começar mostra](posts/kakarivas-o-erro-que-quase-todo-mundo-comete-em-vi.md) — @kakarivas
@@ -145,6 +158,8 @@ automaticamente.
 - [Você não compra só uma casa — compra o bairro, o acesso e a rotina dos próximos anos](posts/amandaresendy-localizacao-e-inteligencia-financeira.md) — @amandaresendy
 - [Marca de luxo não vende pela dor — vende pela visão de quem o cliente se torna](posts/brunamalucelli-luxo-nao-vende-pela-dor.md) — @brunamalucelli
 - [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni
+- [No final tem um PRESENTÃO pra você](posts/carol-iasmim-no-final-tem-um-presentao-pra-voce.md) — @carol.iasmim
+- [Para mais conteúdos de vendas e negociação, siga](posts/carol-iasmim-para-mais-conteudos-de-vendas-e-negociac.md) — @carol.iasmim
 - [Como atrair clientes de alto padrão com tráfego pago](posts/declie-broker-trafego-pago-alto-padrao.md) — @declie.broker
 - [Dualidade: por que mostrar dois lados da mesma história segura o carrossel até o fim](posts/fernandoalvaric-dualidade-retencao-carrossel.md) — @fernandoalvaric
 - [Ficha técnica não vende imóvel de R$ 1 milhão — e não diferencia você de ninguém](posts/fzlabexclusive-comunicacao-ficha-tecnica.md) — @fzlabexclusive
@@ -166,6 +181,8 @@ automaticamente.
 - [Para com isso! Comenta empresário que vou te mandar um conteúdo de com](posts/brunoferoliveira-para-com-isso-comenta-empresario-que-vou.md) — @brunoferoliveira
 - [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas-2.md) — @brunoferoliveira
 - [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni
+- [Para mais conteúdos de vendas e negociação, siga](posts/carol-iasmim-para-mais-conteudos-de-vendas-e-negociac.md) — @carol.iasmim
+- [Salve para consultar sempre que for vender para cliente alto padrão!](posts/carol-iasmim-salve-para-consultar-sempre-que-for-vend.md) — @carol.iasmim
 - [Você prefere com gás ou sem gás? Hospitalidade é conduzir, não perguntar](posts/giselepaula-hospitalidade-alto-padrao.md) — @giselepaula
 - [Agora me responde corretor perde mais venda por técnica ou postura?](posts/guilhermemachadooficial-agora-me-responde-corretor-perde-mais-ve.md) — @guilhermemachadooficial
 - [O que Fernanda Torres pode ensinar sobre vendas? Venda não é só técnic](posts/guilhermemachadooficial-o-que-fernanda-torres-pode-ensinar-sobre.md) — @guilhermemachadooficial
@@ -215,6 +232,7 @@ automaticamente.
 - [O mercado imobiliário de luxo está passando por uma transformação no p](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa-2.md) — @impulso.imobiliario
 - [O mercado imobiliário de luxo está passando por transformações para at](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa.md) — @impulso.imobiliario
 - [Top 5 cidades para investir em Airbnb no Brasil em 2025 m Reparou algo](posts/impulso-imobiliario-top-5-cidades-para-investir-em-airbnb-no.md) — @impulso.imobiliario
+- [Você gosta desse conteúdo de casa e construção segue aqui também o meu](posts/jornadatop-voce-gosta-desse-conteudo-de-casa-e-cons.md) — @jornadatop
 - [Imóvel de valor maior nao é mais difícil de vender](posts/lucasmarrques-imovel-de-valor-maior-nao-e-mais-dificil.md) — @lucasmarrques
 - [Imóvel fora de preço não é vendido](posts/lucasmarrques-imovel-fora-de-preco-nao-e-vendido.md) — @lucasmarrques
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado
@@ -276,6 +294,10 @@ automaticamente.
 - [Model Sheet: o mapa do corpo que impede a IA de trocar as proporções do personagem](posts/bruno-ia1-model-sheet-corpo-inteiro.md) — @bruno.ia1
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator
 - [Context rot: por que o Claude fica lento e confuso depois de meia hora](posts/ericluciano-context-rot-e-compactacao.md) — @ericluciano
+- [A inteligência artificial pra criar vídeos está ficando cada vez mais ](posts/jornadatop-a-inteligencia-artificial-pra-criar-vide.md) — @jornadatop
+- [Agora você pode colocar apenas uma foto sua e criar um filme a partir ](posts/jornadatop-agora-voce-pode-colocar-apenas-uma-foto.md) — @jornadatop
+- [Agora você pode usar inteligência artificial pra editar os seus vídeos](posts/jornadatop-agora-voce-pode-usar-inteligencia-artifi.md) — @jornadatop
+- [Olha que dica legal para fazer videos de timelapse de suas coisas . . ](posts/jornadatop-olha-que-dica-legal-para-fazer-videos-de.md) — @jornadatop
 - [Digite CLONE nos comentários que eu te mando o guia prático para criar](posts/kakarivas-digite-clone-nos-comentarios-que-eu-te-m.md) — @kakarivas
 - [O DeepSeek tá dando o que falar, e não é à toa! Essa ferramenta pode s](posts/kakarivas-o-deepseek-ta-dando-o-que-falar-e-nao-e.md) — @kakarivas
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-4.md) — @kakarivas
@@ -292,6 +314,7 @@ automaticamente.
 ### mentalidade
 
 - [Tem corretor trabalhando o mês inteiro e chegando no dia 25 sem saber ](posts/brunoferoliveira-tem-corretor-trabalhando-o-mes-inteiro-e-3.md) — @brunoferoliveira
+- [As pessoas gostam de fazer negócios com pessoas fortes!](posts/carol-iasmim-as-pessoas-gostam-de-fazer-negocios-com.md) — @carol.iasmim
 - [Tem coisa mais pobre do que tirar foto de prato caro pra provar que po](posts/guilhermemachadooficial-tem-coisa-mais-pobre-do-que-tirar-foto-d.md) — @guilhermemachadooficial
 - [Corretor, depois dos 50 você não precisa competir com quem faz dancinh](posts/kakarivas-corretor-depois-dos-50-voce-nao-precisa.md) — @kakarivas
 - [Qual foi a sua maior dificuldade?](posts/lucasmarrques-qual-foi-a-sua-maior-dificuldade.md) — @lucasmarrques
@@ -346,6 +369,17 @@ automaticamente.
 - [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas-2.md) — @brunoferoliveira · video · 2026-05-05
 - [Você é um corretor de imóveis ou apenas um Atendente com CRECI ? A ver](posts/brunoferoliveira-voce-e-um-corretor-de-imoveis-ou-apenas.md) — @brunoferoliveira · video · 2026-05-07
 - [A economia não é mais de atenção: produza pensamento, não entretenimento](posts/camila-marroni-economia-do-pensamento.md) — @camila_marroni · carrossel · 2026-07-17
+- [A abordagem errada destrói a venda.](posts/carol-iasmim-a-abordagem-errada-destroi-a-venda.md) — @carol.iasmim · reel · 2026-06-19
+- [Aplica e depois me conta](posts/carol-iasmim-aplica-e-depois-me-conta.md) — @carol.iasmim · reel · 2026-06-14
+- [As pessoas gostam de fazer negócios com pessoas fortes!](posts/carol-iasmim-as-pessoas-gostam-de-fazer-negocios-com.md) — @carol.iasmim · reel · 2025-07-24
+- [Atenção! Um formato não exclui o outro! O objetivo do vídeo é te mostr](posts/carol-iasmim-atencao-um-formato-nao-exclui-o-outro-o.md) — @carol.iasmim · reel · 2025-08-20
+- [E você? Como prefere ser tratado? Me conte aqui](posts/carol-iasmim-e-voce-como-prefere-ser-tratado-me-conte.md) — @carol.iasmim · reel · 2026-06-11
+- [Muita gente domina a apresentação mas perde a venda nos últimos segund](posts/carol-iasmim-muita-gente-domina-a-apresentacao-mas-pe.md) — @carol.iasmim · reel · 2026-04-22
+- [No final tem um PRESENTÃO pra você](posts/carol-iasmim-no-final-tem-um-presentao-pra-voce.md) — @carol.iasmim · reel · 2026-04-17
+- [Para mais conteúdos de vendas e negociação, siga](posts/carol-iasmim-para-mais-conteudos-de-vendas-e-negociac.md) — @carol.iasmim · reel · 2026-03-29
+- [Pergunta certa abre o que discurso pronto não abre. Esse material é re](posts/carol-iasmim-pergunta-certa-abre-o-que-discurso-pront.md) — @carol.iasmim · reel · 2026-06-21
+- [Salve para consultar sempre que for vender para cliente alto padrão!](posts/carol-iasmim-salve-para-consultar-sempre-que-for-vend.md) — @carol.iasmim · reel · 2026-01-08
+- [Só aplica e depois me conta](posts/carol-iasmim-so-aplica-e-depois-me-conta.md) — @carol.iasmim · reel · 2026-03-18
 - [Engenharia reversa de Reels viral: transcrever, analisar e recriar sem copiar](posts/catiacreator-engenharia-reversa-de-reels-viral.md) — @catiacreator · carrossel · 2026-07-26
 - [Três mudanças que o Instagram está testando: etiqueta de IA, seguidores ocultos e séries pagas](posts/catiacreator-mudancas-instagram-agosto.md) — @catiacreator · carrossel · 2026-07-22
 - [Ela achou que perdeu pelo preço — perdeu porque não voltou](posts/chaiene-luz-lead-que-morre-esperando-retorno.md) — @chaiene.luz · carrossel · 2026-07-09
@@ -380,6 +414,13 @@ automaticamente.
 - [O mercado imobiliário de luxo está passando por uma transformação no p](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa-2.md) — @impulso.imobiliario · imagem · 2025-01-27
 - [O mercado imobiliário de luxo está passando por transformações para at](posts/impulso-imobiliario-o-mercado-imobiliario-de-luxo-esta-passa.md) — @impulso.imobiliario · imagem · 2025-01-29
 - [Top 5 cidades para investir em Airbnb no Brasil em 2025 m Reparou algo](posts/impulso-imobiliario-top-5-cidades-para-investir-em-airbnb-no.md) — @impulso.imobiliario · reel · 2025-10-21
+- [A inteligência artificial pra criar vídeos está ficando cada vez mais ](posts/jornadatop-a-inteligencia-artificial-pra-criar-vide.md) — @jornadatop · reel · 2024-07-31
+- [Agora você pode colocar apenas uma foto sua e criar um filme a partir ](posts/jornadatop-agora-voce-pode-colocar-apenas-uma-foto.md) — @jornadatop · reel · 2025-07-12
+- [Agora você pode usar inteligência artificial pra editar os seus vídeos](posts/jornadatop-agora-voce-pode-usar-inteligencia-artifi.md) — @jornadatop · reel · 2026-07-04
+- [É isso você precisa de usar só capcut e ter qualquer cenário Em casa! ](posts/jornadatop-e-isso-voce-precisa-de-usar-so-capcut-e.md) — @jornadatop · reel · 2024-09-04
+- [Olha que dica legal para fazer videos de timelapse de suas coisas . . ](posts/jornadatop-olha-que-dica-legal-para-fazer-videos-de.md) — @jornadatop · reel · 2026-03-10
+- [Usa Google Fotos para editar suas fotos porqye esta demais . . . . .](posts/jornadatop-usa-google-fotos-para-editar-suas-fotos.md) — @jornadatop · reel · 2024-12-18
+- [Você gosta desse conteúdo de casa e construção segue aqui também o meu](posts/jornadatop-voce-gosta-desse-conteudo-de-casa-e-cons.md) — @jornadatop · reel · 2026-02-18
 - [A pergunta não é quantas pessoas entram no seu Instagram. A pergunta é](posts/kakarivas-a-pergunta-nao-e-quantas-pessoas-entram.md) — @kakarivas · carrossel · 2026-07-10
 - [A primeira frase do vídeo decide se a pessoa vai continuar assistindo ](posts/kakarivas-a-primeira-frase-do-video-decide-se-a-pe.md) — @kakarivas · carrossel · 2026-06-17
 - [Ao invés de tentar se filmar falando sobre os imóveis faça isso 1. Gra](posts/kakarivas-ao-inves-de-tentar-se-filmar-falando-sob.md) — @kakarivas · reel · 2026-06-23

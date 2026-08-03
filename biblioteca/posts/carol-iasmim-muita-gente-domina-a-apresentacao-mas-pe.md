@@ -3,8 +3,8 @@ titulo: "Muita gente domina a apresentação mas perde a venda nos últimos segu
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DXcIAbzgI4z/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [fechamento, conducao, exemplo-imobiliario, urgencia-falsa]
 duracao: "2min12"
 data_post: 2026-04-22
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Exemplo explícito de venda de imóvel.** Contrasta fechamento por pressão ('já vamos fechar, essa condição é até hoje, não sei se vai ter mais unidade') — que ativa defesa do cliente — com fechamento por condução: resgatar o que o próprio cliente disse que precisava ('esse apartamento resolve localização e espaço que a família precisa'), afirmar a ação como natural ('já vou separar essa unidade em seu nome') e avançar pedindo o próximo dado prático (e-mail para o contrato), sem perguntar se ele quer fechar.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Fechamento por pressão (urgência inventada) ativa defesa e recuo do cliente — 'gatilho mental vira gatilho mortal' se mal calibrado.
+- Fechamento por condução: resgata literalmente o que o cliente disse que precisava, depois avança como se a decisão já estivesse acontecendo.
+- Técnica: pedir dado prático (e-mail, documento) em vez de perguntar 'você quer fechar?' — qualquer resposta (ele dá o dado ou traz objeção oculta) é proveitosa.
 
 ## Conteúdo integral
 
@@ -42,8 +44,8 @@ Comenta QUERO aqui que te mando o convite pra maior imersão gratuita de vendas 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Aplicação direta e literal ao negócio do Marcus** — o próprio exemplo usado é venda de apartamento. O roteiro de fechamento (resgatar necessidade dita pelo cliente + avançar pedindo próximo dado prático) é diretamente utilizável na negociação de imóvel de alto padrão, substituindo qualquer urgência artificial (que também fere compliance) por condução legítima baseada no que o cliente já revelou querer.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

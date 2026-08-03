@@ -3,8 +3,8 @@ titulo: "A abordagem errada destrói a venda."
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DZxBpbRR5A3/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [prospeccao, autoridade, clareza]
 duracao: "2min48"
 data_post: 2026-06-19
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Análise crítica de uma abordagem real de prospecção por WhatsApp: erros identificados incluem escrita com erro de português, frase redundante ('vi o Insta e fui olhar'), pedir permissão para falar em vez de ser direto, não estabelecer de onde veio o contato nem autoridade, e usar 'se eu estiver errada, me corrija' — frase que expõe insegurança e confunde o cliente sobre o que exatamente deveria corrigir.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Erro 1: escrita com erro de português e frase redundante na primeira mensagem.
+- Erro 2: perguntar se pode falar agora em vez de ser objetivo sobre o motivo do contato.
+- Erro 3: não estabelecer de onde veio o contato nem autoridade antes de opinar sobre o negócio do cliente.
+- Erro 4: 'se eu estiver errada, me corrija' expõe insegurança e deixa a mensagem confusa sobre o que precisa ser corrigido.
 
 ## Conteúdo integral
 
@@ -30,8 +33,8 @@ A abordagem errada destrói a venda.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Checklist negativo direto para qualquer prospecção por WhatsApp do Portfólio Negócios: revisar mensagens de abordagem fria contra estes 4 erros antes de enviar.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

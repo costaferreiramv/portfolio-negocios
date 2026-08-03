@@ -4,7 +4,7 @@ autor: "@jornadatop"
 url: https://www.instagram.com/reel/DH2-vY8x1XW/
 tipo: reel
 temas: []
-tags: []
+tags: [efeito-ghibli, ferramenta-datada]
 duracao: "59s"
 data_post: 2025-03-31
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Lista de sites gratuitos para aplicar efeito 'estúdio Ghibli' em foto, como alternativa ao ChatGPT pago.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tutorial de efeito estético específico (tendência de 2025), sem relação com o negócio.
 
 ## Conteúdo integral
 
@@ -37,8 +37,8 @@ Essas são todas as ferramentas que eu coloquei que fazem o efeito do estúdio G
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — efeito estético de entretenimento, incompatível com o posicionamento profissional do Portfólio Negócios.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

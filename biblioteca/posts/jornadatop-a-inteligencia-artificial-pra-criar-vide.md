@@ -3,8 +3,8 @@ titulo: "A inteligência artificial pra criar vídeos está ficando cada vez mai
 autor: "@jornadatop"
 url: https://www.instagram.com/reel/C-FbTPdxoka/
 tipo: reel
-temas: []
-tags: []
+temas: [ia-automacao]
+tags: [kling-ai, ferramenta-datada]
 duracao: "59s"
 data_post: 2024-07-31
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tutorial de 2024 sobre Kling AI para gerar vídeo curto a partir de texto ou imagem.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tutorial de ferramenta específica, desatualizado (jul/2024) — paisagem de ferramentas de vídeo por IA mudou muito desde então.
 
 ## Conteúdo integral
 
@@ -38,8 +38,8 @@ A inteligência artificial pra criar vídeos está ficando cada vez mais poderos
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — tutorial datado de ferramenta específica; a operação já usa Kairogen com acesso a múltiplos modelos de vídeo mais atuais (Sora, Veo, Kling, Seedance).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

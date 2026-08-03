@@ -4,7 +4,7 @@ autor: "@jornadatop"
 url: https://www.instagram.com/p/DKXqLg-AED7/
 tipo: video
 temas: []
-tags: []
+tags: [isca, infoproduto]
 duracao: "46s"
 data_post: 2025-06-01
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Diálogo de venda de curso 'método copia e cola' prometendo 1 milhão de seguidores orgânicos em 6 meses e renda de até R$100 mil/mês.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Promessa de renda e crescimento sem fonte verificável — isca clássica.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ _sem legenda_
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — isca de infoproduto sem substância.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

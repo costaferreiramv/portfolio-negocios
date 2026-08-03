@@ -4,7 +4,7 @@ autor: "@jornadatop"
 url: https://www.instagram.com/reel/DFxJg2rxGb-/
 tipo: reel
 temas: []
-tags: []
+tags: [app, curiosidade]
 duracao: "54s"
 data_post: 2025-02-07
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Dica de app de papel de parede transparente no celular (mostra a câmera como fundo de tela).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Dica de app de utilidade geral, sem relação com o negócio.
 
 ## Conteúdo integral
 
@@ -35,8 +35,8 @@ Dica de segurança diferente que você pode fazer no celular. ✅
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

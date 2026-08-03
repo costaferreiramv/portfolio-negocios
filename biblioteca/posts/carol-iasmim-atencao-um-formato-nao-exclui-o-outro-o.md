@@ -3,8 +3,8 @@ titulo: "Atenção! Um formato não exclui o outro! O objetivo do vídeo é te m
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DNkzZNmAEPu/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [canal-de-comunicacao, espelhamento, ligacao]
 duracao: "2min42"
 data_post: 2025-08-20
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Hierarquia de conversão por canal: e-mail tem a conversão mais baixa (menos conexão emocional); WhatsApp texto sobe um pouco; áudio de WhatsApp sobe mais (mas nem todo cliente gosta — perguntar antes de mandar); ligação converte muito mais (resolve em minutos o que levaria semanas por mensagem). Regra de espelhamento: usar o mesmo formato que o cliente usa (se manda áudio, responder em áudio; se só escreve, responder escrito).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Hierarquia de conversão: e-mail < texto < áudio < ligação — quanto mais conexão emocional, maior a conversão.
+- Regra de espelhamento: comunicar no mesmo formato que o cliente usa, mesmo que não seja a preferência do vendedor.
+- Perguntar antes de mandar áudio, nem todo cliente gosta de receber.
+- Ligação resolve em minutos o que mensagem resolveria em semanas de troca lenta.
 
 ## Conteúdo integral
 
@@ -38,8 +41,8 @@ Atitude + ousadia fecham VENDAS!
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Regra prática de canal para o atendimento do Portfólio Negócios: para decisão de alto valor (visita, negociação, fechamento), preferir ligação; usar espelhamento de formato (texto/áudio) conforme o próprio cliente sinaliza preferir.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "Pergunta certa abre o que discurso pronto não abre. Esse material é r
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DZ2dAsdA5xS/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [objecao, perguntas-de-diagnostico, preco]
 duracao: "1min50"
 data_post: 2026-06-21
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Banco de perguntas para diferentes situações de objeção: dúvida indecisa ('o que ainda te deixa com dúvida?'), comparação com concorrente ('o que é mais importante pra você na decisão?'), enrolação ('como você se sentiria daqui a 6 meses sem ter resolvido isso?'), falta de percepção de valor ('se isso resolvesse o problema, o que mudaria na sua vida hoje?'), objeção de preço ('se o preço não fosse um fator, qual seria sua escolha?'), desconfiança ('o que você já tentou antes de resolver isso?').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Seis perguntas de diagnóstico, cada uma mapeada para um tipo específico de resistência do cliente.
+- Pergunta de preço ('se o preço não fosse fator, qual seria sua escolha?') revela se o problema é realmente preço ou outra coisa não dita.
+- Objetivo declarado: repertório para adaptar, não decorar frase pronta.
 
 ## Conteúdo integral
 
@@ -34,8 +36,8 @@ Comenta QUERO que eu te mando as perguntas completas, sem custo.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Banco de perguntas de objeção diretamente utilizável na negociação de alto padrão — complementa as três frases do @guilhermemachadooficial e o MRPC do @brunoferoliveira com mais granularidade por tipo de resistência.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

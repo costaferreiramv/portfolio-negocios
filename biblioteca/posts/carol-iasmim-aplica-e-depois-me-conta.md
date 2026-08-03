@@ -3,8 +3,8 @@ titulo: "Aplica e depois me conta"
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DZkZ6DMAIdg/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [pos-venda, ego-do-cliente, fechamento]
 duracao: "1min04"
 data_post: 2026-06-14
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Alerta contra agradecer demais após a venda ('muito obrigada por ter confiado', 'obrigada por me ajudar a bater meta') — isso faz o cliente sentir que fez um favor, aumentando o risco de arrependimento/cancelamento. Recomenda agradecer uma única vez, reforçando que o cliente fez um excelente negócio, não que ajudou o vendedor.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Agradecimento excessivo pós-venda inverte a percepção: cliente sente que fez favor ao vendedor, não que fez bom negócio.
+- Frase recomendada: 'muito obrigada pela preferência, parabéns, você fez um excelente negócio' — uma única vez.
+- Cliente que sai achando que fez ótima compra tem menor chance de arrependimento/cancelamento e maior chance de indicar.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Aplica e depois me conta 🤩🚀
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ajuste fino e de baixo custo para o fechamento de venda de alto padrão: a frase de encerramento deve reforçar a qualidade da decisão do comprador, nunca a gratidão do corretor pela comissão.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

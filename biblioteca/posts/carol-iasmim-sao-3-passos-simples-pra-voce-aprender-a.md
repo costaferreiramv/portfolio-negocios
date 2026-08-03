@@ -4,7 +4,7 @@ autor: "@carol.iasmim"
 url: https://www.instagram.com/p/DUR_t1OjLnX/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso]
 duracao: "30s"
 data_post: 2026-02-03
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Anúncio de aulão de vendas sobre técnica de primeiro contato, sem detalhamento no post.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Isca de curso, sem conteúdo educativo detalhado no post em si.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ O passo 1 é clicar em Saiba Mais e se inscrever. Estou te esperando.
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — anúncio sem substância própria.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

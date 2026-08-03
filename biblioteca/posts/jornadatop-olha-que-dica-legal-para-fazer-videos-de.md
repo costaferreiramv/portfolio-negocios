@@ -3,8 +3,8 @@ titulo: "Olha que dica legal para fazer videos de timelapse de suas coisas . . "
 autor: "@jornadatop"
 url: https://www.instagram.com/reel/DVs4xCpjoZD/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos, ia-automacao]
+tags: [timelapse, drone-sintetico, gemini, veo]
 duracao: "1min31"
 data_post: 2026-03-10
 processado_em: 2026-07-30
@@ -12,11 +12,14 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tutorial completo para criar vídeo de timelapse de construção (tendência viral) a partir só de foto de fachada, sem precisar de drone real: usar Gemini para remover a casa da imagem (gerando o terreno vazio) e depois o Google Flow/Nano Banana 2 para gerar vídeo de frame inicial (terreno vazio) a frame final (casa construída, vista de drone) com prompt de timelapse de obra.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Passo 1: usar Gemini para remover a construção da foto, gerando imagem do terreno vazio (mesma perspectiva).
+- Passo 2: no Google Flow, usar as duas imagens (terreno vazio → casa pronta) como frame inicial e final de um vídeo gerado, com prompt de timelapse de obra.
+- Não precisa de imagem de drone real — a IA sintetiza a partir da foto de fachada comum.
+- Formato citado como altamente viral (timelapse de construção, inclusive de piscina).
 
 ## Conteúdo integral
 
@@ -35,8 +38,8 @@ Olha que dica legal para fazer videos de timelapse de suas coisas ✅
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Técnica diretamente aplicável e de alto potencial** para os criativos do Portfólio Negócios: gerar vídeo de 'antes e depois' ou 'timelapse de construção' de imóveis vendidos ou lançamentos, usando só a foto real do imóvel pronto — sem precisar de imagem histórica de obra nem de drone. Encaixa no eixo de 'inspirar'/'alcançar' da régua 4/1/2, e é formato com apelo viral comprovado.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

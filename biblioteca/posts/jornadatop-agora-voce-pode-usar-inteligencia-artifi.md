@@ -3,8 +3,8 @@ titulo: "Agora você pode usar inteligência artificial pra editar os seus víde
 autor: "@jornadatop"
 url: https://www.instagram.com/reel/DaXsQ_bBWNk/
 tipo: reel
-temas: []
-tags: []
+temas: [ia-automacao]
+tags: [edicao-de-video, claude, capcut]
 duracao: "2min00"
 data_post: 2026-07-04
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Demonstra usar a extensão do Claude no navegador integrada ao CapCut Web para remover pausas/silêncios de um vídeo e adicionar transições automaticamente, via comando de linguagem natural.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Extensão do Claude no Chrome pode operar diretamente dentro do CapCut Web via comando de texto.
+- Remove silêncios e aplica transições automaticamente, mostrando o que fez e quanto tempo poupou.
 
 ## Conteúdo integral
 
@@ -35,8 +36,8 @@ Agora você pode usar inteligência artificial pra editar os seus vídeos automa
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Técnica de automação de edição aplicável para acelerar a produção de Reels de imóvel — remover pausas/silêncio automaticamente encurta o tempo de edição sem perder qualidade.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

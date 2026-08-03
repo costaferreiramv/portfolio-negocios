@@ -3,8 +3,8 @@ titulo: "Salve para consultar sempre que for vender para cliente alto padrão!"
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DTQAlSMANeN/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, posicionamento]
+tags: [alto-padrao, cliente-rico, autoridade, prova-social-qualificada]
 duracao: "2min24"
 data_post: 2026-01-08
 processado_em: 2026-07-30
@@ -12,11 +12,16 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Post central sobre como vender para cliente rico.** Tese: o problema do cliente rico não é dinheiro, é medo de pagar por incompetência. Quatro pilares: (1) posicionamento antes de abrir a boca — o cliente avalia marca, imagem, comunicação e postura antes de qualquer palavra; comunicação barata gera tratamento barato; (2) clareza técnica sem complicar — explicar com segurança e simplicidade, sem floreio (quem sabe de verdade explica fácil); (3) prova concreta e qualificada — cliente de alto padrão não acredita em 'eu sou bom', quer saber quem do mesmo nível dele já confiou, não depoimento genérico; (4) segurança emocional — o cliente de alto padrão testa, questiona e compara deliberadamente; reagir na defensiva ou com ansiedade destrói a venda. Ele 'compra tranquilidade cognitiva': previsibilidade, estrutura, consistência. Rejeita energia de vendedor carente.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- O medo do cliente rico não é o preço, é pagar por alguém incompetente.
+- Pilar 1 — posicionamento: o cliente avalia tudo (marca, comunicação, postura) antes da primeira palavra.
+- Pilar 2 — clareza sem floreio: explicar com simplicidade é sinal de domínio real do assunto.
+- Pilar 3 — prova qualificada: cliente rico quer saber quem do mesmo nível social/financeiro já confiou, não depoimento genérico.
+- Pilar 4 — segurança emocional: o cliente testa e provoca deliberadamente; reagir com defensividade ou ansiedade destrói a autoridade.
+- Ele 'compra tranquilidade cognitiva' — previsibilidade e consistência, não entusiasmo do vendedor.
 
 ## Conteúdo integral
 
@@ -30,8 +35,8 @@ Salve para consultar sempre que for vender para cliente alto padrão! 🧠🚀
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**O post mais diretamente aplicável de toda esta biblioteca ao público exato do Marcus.** Os quatro pilares formam um checklist de atendimento a comprador de alto padrão em Uberlândia: (1) auditar se a comunicação (perfil, site, mensagens) já comunica o nível certo antes do primeiro contato; (2) treinar explicação técnica simples sobre documentação/mercado, sem jargão; (3) construir prova social qualificada real (nome de cliente do mesmo perfil, com autorização, não depoimento genérico); (4) postura de calma sob questionamento, nunca defensiva. Conecta diretamente com o post do @guilhermemachadooficial sobre postura com cliente forte.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

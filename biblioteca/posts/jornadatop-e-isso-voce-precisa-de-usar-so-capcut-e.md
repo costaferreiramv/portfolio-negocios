@@ -3,8 +3,8 @@ titulo: "É isso você precisa de usar só capcut e ter qualquer cenário Em cas
 autor: "@jornadatop"
 url: https://www.instagram.com/reel/C_fhkuaxWRQ/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos]
+tags: [capcut, expansao-por-ia, cenario]
 duracao: "58s"
 data_post: 2024-09-04
 processado_em: 2026-07-30
@@ -12,11 +12,12 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tutorial de uso da função 'Expansão por IA' do CapCut para gerar cenário de fundo diferente a partir de uma imagem capturada do próprio vídeo, sem precisar de estúdio físico.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Função 'Expansão por IA' do CapCut gera cenário de fundo a partir de descrição de texto.
+- Técnica: capturar frame do vídeo, gerar fundo, sobrepor o clipe original com máscara.
 
 ## Conteúdo integral
 
@@ -38,8 +39,8 @@ Em casa! ✅
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Recurso técnico útil para gravação de conteúdo institucional/pessoal do Marcus sem precisar de estúdio — pode gerar cenário profissional a partir de gravação simples em casa/escritório.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

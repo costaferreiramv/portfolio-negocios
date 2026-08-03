@@ -4,7 +4,7 @@ autor: "@jornadatop"
 url: https://www.instagram.com/reel/C-xPPYmR57p/
 tipo: reel
 temas: []
-tags: []
+tags: [ferramenta-datada, logo]
 duracao: "59s"
 data_post: 2024-08-17
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tutorial de ferramenta (Kitly) para gerar logo/arte vetorial por IA.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tutorial de ferramenta específica de geração de logo.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Dica de inteligência artificial poderosa para criar logo para sua empresa e neg
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — fora do escopo do negócio (identidade visual do Portfólio Negócios já está definida).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "As pessoas gostam de fazer negócios com pessoas fortes!"
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DMfXl9ygX1f/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, mentalidade]
+tags: [persistencia, autoridade, posicionamento]
 duracao: "2min21"
 data_post: 2025-07-24
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Distingue persistência (bom) de insistência (ruim, chato): quem evita ligar 'para não incomodar' ou interpreta silêncio como falta de interesse está sendo covarde, não empático. Persistente é quem varia o argumento a cada contato para mostrar por que o produto é ideal, sem repetir a mesma coisa. Postura de vendedor 'mendigo' (implorando pela venda) enfraquece autoridade; mostrar valor próprio fortalece.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Vendedor fofo passa fome' — evitar contato por medo de incomodar é covardia disfarçada de empatia.
+- Persistência = variar o argumento a cada contato; insistência = repetir a mesma coisa (isso sim é chato).
+- Postura de 'vendedor mendigo' (implorando venda) enfraquece autoridade — mostrar que a compra também é boa para o cliente fortalece.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ As pessoas gostam de fazer negócios com pessoas fortes! 🔥
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça e nomeia a distinção que sustenta toda a régua de follow-up já registrada nesta biblioteca (@brunoferoliveira, @chaiene.luz): persistir com variação de abordagem, nunca repetir a mesma cobrança.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

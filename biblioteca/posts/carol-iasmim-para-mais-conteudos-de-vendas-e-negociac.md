@@ -3,8 +3,8 @@ titulo: "Para mais conteúdos de vendas e negociação, siga"
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DWeSMEVAJOQ/
 tipo: reel
-temas: []
-tags: []
+temas: [copywriting, posicionamento]
+tags: [narrativa, filmes, storytelling]
 duracao: "1min43"
 data_post: 2026-03-29
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Recomenda 3 filmes como 'aula de venda disfarçada de entretenimento': Obrigado por Fumar (quem controla a narrativa controla a conversa e fecha a venda), Como Vender a Lua (a NASA não vendeu tecnologia, vendeu um sonho — a maior venda da história foi de uma ideia, não de um produto), O Menino que Descobriu o Vento (quem não tem recurso precisa de criatividade).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tese central: quem controla a narrativa em torno do produto controla a venda — o produto raramente é o problema.
+- Case NASA: vendeu o sonho de ir à Lua, não a tecnologia — pessoas 'compraram' fazer parte de algo maior.
+- Recomendação de conteúdo de estudo (filmes), não script pronto — referência para desenvolver o próprio raciocínio de narrativa.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Para mais conteúdos de vendas e negociação, siga @carol.iasmim
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça a tese, já registrada nesta biblioteca (@declie.broker, @andersonbarbosast), de vender a experiência/narrativa em torno do imóvel de alto padrão, não a ficha técnica — aqui com exemplos culturais que ajudam a explicar o conceito em treinamento próprio ou conteúdo educativo.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

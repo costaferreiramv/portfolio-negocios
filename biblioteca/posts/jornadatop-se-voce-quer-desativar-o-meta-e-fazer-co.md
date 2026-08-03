@@ -4,7 +4,7 @@ autor: "@jornadatop"
 url: https://www.instagram.com/reel/DBoAD1tx-6H/
 tipo: reel
 temas: []
-tags: []
+tags: [privacidade, meta-ai, tutorial]
 duracao: "59s"
 data_post: 2024-10-27
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tutorial de 2024 para desativar a coleta de dados do Meta AI no Instagram/WhatsApp, via formulário de 'Direito de se Opor'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tutorial de privacidade específico da plataforma Meta, sujeito a mudança de interface — desatualiza rápido.
 
 ## Conteúdo integral
 
@@ -38,8 +38,8 @@ Ao fazer isso mesmo que mete aí ainda esteja no seu WhatsApp ou Instagram, pelo
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação direta ao negócio, mas relevante como boa prática de privacidade pessoal/da conta comercial — vale conferir se o processo ainda é válido antes de aplicar.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

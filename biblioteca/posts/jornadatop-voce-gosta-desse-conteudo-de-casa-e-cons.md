@@ -3,8 +3,8 @@ titulo: "Você gosta desse conteúdo de casa e construção segue aqui também o
 autor: "@jornadatop"
 url: https://www.instagram.com/reel/DU5i2NXDkkB/
 tipo: reel
-temas: []
-tags: []
+temas: [mercado-imobiliario]
+tags: [onr, matricula, due-diligence, ferramenta-gratuita]
 duracao: "1min00"
 data_post: 2026-02-18
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Apresenta o Sistema Nacional de Registro Eletrônico de Imóveis (ONR, mapa.onr.org.br) — mapa gratuito que mostra terrenos, permite consultar número de matrícula e verificar impedimentos (ex.: restrição do IBAMA) por localização no mapa ou por endereço, com opção de solicitar certificado digital para visualizar a matrícula completa.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Ferramenta gratuita e oficial (ONR) para localizar matrícula de terreno/imóvel por mapa ou endereço.
+- Mostra impedimentos e restrições diretamente no mapa (ex.: área com restrição ambiental do IBAMA).
+- Serviço em atualização gradual — nem toda região/matrícula ainda está disponível.
 
 ## Conteúdo integral
 
@@ -35,8 +37,8 @@ Você gosta desse conteúdo de casa e construção segue aqui também o meu perf
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Ferramenta de due diligence gratuita e diretamente aplicável** na captação e verificação documental do Portfólio Negócios — complementa a exigência já registrada de certidões completas (posts do @sousasolucoes) com uma fonte oficial e gratuita de consulta preliminar de matrícula e restrição por localização.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

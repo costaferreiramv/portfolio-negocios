@@ -3,8 +3,8 @@ titulo: "No final tem um PRESENTÃO pra você"
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DXO3ZNGgKC1/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas, copywriting]
+tags: [metodo-socratico, perguntas, persuasao]
 duracao: "2min31"
 data_post: 2026-04-17
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Técnica de mais de 2 mil anos (método socrático): fazer a pessoa chegar sozinha à conclusão desejada, através de perguntas encadeadas, em vez de afirmar. Quem chega à própria conclusão a defende com mais força que uma ideia recebida de fora, porque não precisa 'abrir mão' de nada. Aplicação em vendas: em vez de afirmar 'esse produto é perfeito para você', perguntar 'como está sua situação hoje sem esse produto?' ou 'o que acontece com seu negócio se isso continuar assim por seis meses?'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Método socrático: convencer por perguntas encadeadas, não por afirmação — a pessoa sai achando que pensou sozinha.
+- Ideia própria é defendida com mais força que ideia recebida — não há resistência de 'abrir mão' da própria posição.
+- Transformar afirmação de venda em pergunta: 'você vai perder dinheiro se não decidir' vira 'o que acontece se isso continuar assim por seis meses?'
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ No final tem um PRESENTÃO pra você 🤫🎁
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Técnica de alto valor para objeção de preço/timing em venda de alto padrão: reformular toda afirmação de urgência ou benefício como pergunta que leva o cliente à própria conclusão. Complementa diretamente as frases do @guilhermemachadooficial ('me ajude a entender melhor') com a fundamentação teórica de por que funcionam.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

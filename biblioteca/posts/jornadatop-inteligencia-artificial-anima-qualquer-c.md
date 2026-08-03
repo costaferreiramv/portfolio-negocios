@@ -4,7 +4,7 @@ autor: "@jornadatop"
 url: https://www.instagram.com/reel/C_K3Dx3Rge_/
 tipo: reel
 temas: []
-tags: []
+tags: [ferramenta-datada, logo-animada]
 duracao: "58s"
 data_post: 2024-08-27
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Tutorial de ferramenta (Mojo AI) para animar logo/marca com efeitos.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Tutorial de ferramenta específica de animação de logo.
 
 ## Conteúdo integral
 
@@ -36,8 +36,8 @@ Inteligência artificial Anima qualquer coisa e fica perfeito. Você pode usar i
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação direta — poderia ser testado para animar a marca do Portfólio Negócios em vídeos de abertura/fechamento, mas de baixa prioridade.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

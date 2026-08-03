@@ -3,8 +3,8 @@ titulo: "E você? Como prefere ser tratado? Me conte aqui"
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DZceI6uxdL7/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [nome-do-cliente, tratamento, rapport]
 duracao: "1min25"
 data_post: 2026-06-11
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Defende usar o nome do cliente em vez de apelidos genéricos ('querida', 'amiga', 'florzinha') — intimidade forçada pode não combinar com o cliente e criar desconforto. Repetir o nome do cliente funciona como comando inconsciente de familiaridade, quebrando a barreira vendedor-cliente. Também evitar 'senhor/senhora' com cliente que não quer ser tratado assim (nem sempre correlacionado à idade).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Evitar apelidos genéricos ('querida', 'amiga') — pode soar forçado e desagradar sem o vendedor perceber.
+- Repetir o nome do cliente durante a conversa reforça familiaridade e quebra a formalidade fria.
+- 'Senhor/senhora' por educação pode incomodar cliente que não se identifica com o tratamento — vale calibrar.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ E você? Como prefere ser tratado? Me conte aqui 👇
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Prática simples e de custo zero para o atendimento: usar o nome do cliente (não apelido genérico nem título formal padrão) tanto em WhatsApp quanto presencial. Especialmente relevante com cliente de alto padrão, que valoriza tratamento personalizado, não genérico.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,8 +3,8 @@ titulo: "Só aplica e depois me conta"
 autor: "@carol.iasmim"
 url: https://www.instagram.com/reel/DWCP2cSAJrx/
 tipo: reel
-temas: []
-tags: []
+temas: [vendas]
+tags: [oportunidade-x-necessidade, abordagem, tom]
 duracao: "1min44"
 data_post: 2026-03-18
 processado_em: 2026-07-30
@@ -12,11 +12,13 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Contrasta duas aberturas de venda de consórcio: uma que soa desesperada ('gostaria de apresentar uma simulação, quando posso te ligar?') e outra que soa como oportunidade oferecida ('tenho conversado com pessoas que buscam uma forma mais inteligente de comprar, você já ouviu falar dessa possibilidade?'). Mesma oferta, duas percepções opostas — 'ninguém compra de quem precisa vender'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mesma oferta, duas aberturas: uma soa a desespero de comissão, outra a oportunidade oferecida ao cliente.
+- 'Ninguém compra de quem precisa vender' — o vendedor de sucesso parece estar oferecendo, não implorando.
+- O problema de conversão baixa geralmente está na abertura da abordagem, não no volume de contatos feitos.
 
 ## Conteúdo integral
 
@@ -30,8 +32,8 @@ Só aplica e depois me conta 😉
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça, com exemplo contrastado, o mesmo princípio de tom já estabelecido nesta biblioteca (@lucasmarrques 'esse dia', @marcele_corretora): abrir a conversa oferecendo, nunca implorando. Útil como exercício de reescrita de scripts de abordagem existentes.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

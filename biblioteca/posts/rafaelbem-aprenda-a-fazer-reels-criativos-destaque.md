@@ -4,19 +4,19 @@ autor: "@rafaelbem"
 url: https://www.instagram.com/p/DKzznR0OylX/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, meta-numerica]
 duracao: "34s"
 data_post: 2025-06-12
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Isca prometendo 10 mil seguidores em 30 dias com 'estratégia copia e cola'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Promessa numérica específica sem comprovação — típica de isca de infoproduto.
 
 ## Conteúdo integral
 
@@ -41,8 +41,8 @@ Tudo isso através de Reels simples e criativos que QUALQUER pessoa é capaz de 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — meta numérica sem base verificável.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

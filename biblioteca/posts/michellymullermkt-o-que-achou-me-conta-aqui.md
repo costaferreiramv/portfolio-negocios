@@ -3,20 +3,22 @@ titulo: "O que achou?! Me conta aqui"
 autor: "@michellymullermkt"
 url: https://www.instagram.com/reel/DGVv_1vOp1C/
 tipo: reel
-temas: []
-tags: []
+temas: [trafego-pago]
+tags: [formulario-instantaneo, qualificacao-por-pergunta-condicional, meta-ads]
 duracao: "1min48"
 data_post: 2025-02-21
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Técnica de qualificação dentro do formulário de lead da Meta: para imóvel de alto padrão (R$100 mil/m² no exemplo), inserir pergunta condicional logo no início — 'você está ciente do valor deste imóvel?' — se responder não, o formulário informa que talvez não seja a melhor opção e interrompe o cadastro; se sim, segue normalmente. Configuração: formulário instantâneo → habilitar opção de pergunta condicional → pergunta de múltipla escolha com lógica de ramificação.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Pergunta condicional de consciência de preço logo no início do formulário de lead filtra antes mesmo do envio.
+- Quem responde 'não' é informado que o imóvel provavelmente não é a opção certa, e o cadastro é interrompido ali.
+- Configuração técnica: Meta Ads → formulário instantâneo → habilitar lógica condicional → pergunta de múltipla escolha com ramificação.
 
 ## Conteúdo integral
 
@@ -32,8 +34,8 @@ O que achou?! 😱 Me conta aqui 👇🏼👇🏼👇🏼
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Diretamente aplicável e de alto valor para os anúncios de alto padrão do Portfólio Negócios.** Configurar formulário instantâneo do Meta com pergunta condicional de faixa de valor filtra curioso antes mesmo de gerar o lead — reduz drasticamente conversa com quem não tem o perfil financeiro do imóvel, sem tocar em financiamento (a pergunta é sobre ciência do valor, não sobre capacidade de crédito).
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,19 +4,19 @@ autor: "@rafaelbem"
 url: https://www.instagram.com/p/DK2qgJiAqwC/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, codigos-virais]
 duracao: "1min05"
 data_post: 2025-06-13
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Isca de curso ('códigos virais') com casos de crescimento não verificáveis em diferentes nichos.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Prova social não verificável de múltiplos perfis.
 
 ## Conteúdo integral
 
@@ -41,8 +41,8 @@ Tudo isso através de Reels simples e criativos que QUALQUER pessoa é capaz de 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação — isca genérica.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -4,14 +4,14 @@
 Gerado por `ferramentas/gerar_indice.py` — reexecutar a cada lote.
 
 **Posts na coleção:** 1267
-**Analisados (resumo, pontos-chave e aplicação escritos):** 288
+**Analisados (resumo, pontos-chave e aplicação escritos):** 303
 
 ### Status
 
 | status | o que significa | posts |
 |---|---|---|
-| `completo` | íntegra capturada e analisada | 244 |
-| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 804 |
+| `completo` | íntegra capturada e analisada | 258 |
+| `parcial` | íntegra parcial (ex.: vídeo sem fala, slide faltando) | 790 |
 | `pendente` | legenda capturada; falta transcrever slides ou analisar | 219 |
 
 ### Tipo
@@ -125,6 +125,7 @@ automaticamente.
 - [Google testa exibir imóveis direto nos resultados de busca](posts/ibrep-google-imoveis-na-busca.md) — @ibrep
 - [O DeepSeek tá dando o que falar, e não é à toa! Essa ferramenta pode s](posts/kakarivas-o-deepseek-ta-dando-o-que-falar-e-nao-e.md) — @kakarivas
 - [PEGA O OURO AQUI Mas antes de mais nada já me segue pra você aprender ](posts/kakarivas-pega-o-ouro-aqui-mas-antes-de-mais-nada-2.md) — @kakarivas
+- [O que achou?! Me conta aqui](posts/michellymullermkt-o-que-achou-me-conta-aqui.md) — @michellymullermkt
 - [Pare de mandar o anúncio direto pro WhatsApp: filtre com uma conversão mais avançada](posts/pedromoro93-funil-0405-conversao-avancada.md) — @pedromoro93
 
 ### criativos
@@ -156,7 +157,12 @@ automaticamente.
 - [Quer valorizar de verdade esse ambiente? Anota essas ideias. E ja apli](posts/leonardo-ura-quer-valorizar-de-verdade-esse-ambiente.md) — @leonardo_ura
 - [Você leva tudo com acesso vitalício! Domine os vídeos imobiliários com](posts/leonardo-ura-voce-leva-tudo-com-acesso-vitalicio-domi.md) — @leonardo_ura
 - [Character Sheet: por que a IA troca o rosto do personagem a cada geração](posts/leoromano-character-sheet-consistencia-ia.md) — @leoromano.oficial
+- [Quer criar Reels que realmente vendem alugam? Esse vídeo mostra a estr](posts/michellymullermkt-quer-criar-reels-que-realmente-vendem-al.md) — @michellymullermkt
+- [Story de imóvel com foto lisa e preço não vende. Não desperta desejo, ](posts/michellymullermkt-story-de-imovel-com-foto-lisa-e-preco-na.md) — @michellymullermkt
+- [Você acha que não tem o que postar. Mas o problema é que você olha pra](posts/michellymullermkt-voce-acha-que-nao-tem-o-que-postar-mas-o.md) — @michellymullermkt
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira
+- [Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito ](posts/rafaelbem-aprenda-a-fazer-reels-criativos-destaque-2.md) — @rafaelbem
+- [Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito ](posts/rafaelbem-aprenda-a-fazer-reels-criativos-destaque-5.md) — @rafaelbem
 
 ### conteudo-organico
 
@@ -180,6 +186,8 @@ automaticamente.
 - [Falar com pessoa e falar com câmera são habilidades diferentes — e a segunda se treina](posts/leonardo-ura-corretor-que-trava-na-camera.md) — @leonardo_ura
 - [Domine os vídeos imobiliários com o seu celular e transforme suas vend](posts/leonardo-ura-domine-os-videos-imobiliarios-com-o-seu.md) — @leonardo_ura
 - [Hack para você conseguir ser constante na produção de conteúdo!](posts/lucasmarrques-hack-para-voce-conseguir-ser-constante-n.md) — @lucasmarrques
+- [8 truques que captam lead orgânico, sem gastar 1 real em anúncio. E ol](posts/michellymullermkt-8-truques-que-captam-lead-organico-sem-g.md) — @michellymullermkt
+- [Você acha que não tem o que postar. Mas o problema é que você olha pra](posts/michellymullermkt-voce-acha-que-nao-tem-o-que-postar-mas-o.md) — @michellymullermkt
 - [RecSys: o Instagram não lê beleza de arte, lê sinais](posts/obrunonogueira-recsys-instagram-sinais.md) — @obrunonogueira
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi
 - [2020 Poste todo dia use hashtags crescimento 2025 Faça isso morte do p](posts/segueadi-2020-poste-todo-dia-use-hashtags-crescim.md) — @segueadi
@@ -200,6 +208,9 @@ automaticamente.
 - [O comprador que espera o preço cair está negociando com o próprio medo](posts/gilson-tangerino-vies-do-status-quo-comprador-que-espera.md) — @gilson_tangerino
 - [Um dos segredos de uma boa copy, é a escalada de atenção. Foi assim qu](posts/leandroladeiran-um-dos-segredos-de-uma-boa-copy-e-a-esca.md) — @leandroladeiran
 - [Vocabulário do luxo: cinco trocas de frase para remarcar um compromisso](posts/malu-albertotti-remarcar-com-elegancia.md) — @malu_albertotti
+- [O cliente percebe quando o texto não é seu. Não conscientemente, mas e](posts/michellymullermkt-o-cliente-percebe-quando-o-texto-nao-e-s.md) — @michellymullermkt
+- [PRINTA as Ideias de títulos! Investidores Os 5 Tipos de Imóvel que Mai](posts/michellymullermkt-printa-as-ideias-de-titulos-investidores.md) — @michellymullermkt
+- [Quer criar Reels que realmente vendem alugam? Esse vídeo mostra a estr](posts/michellymullermkt-quer-criar-reels-que-realmente-vendem-al.md) — @michellymullermkt
 - [49 dos brasileiros têm intenção de compra no mercado imobiliário. Esse](posts/mpercussor-49-dos-brasileiros-tem-intencao-de-compr.md) — @mpercussor
 - [Por que o cliente compra? Porque a decisão junta novidade, emoção e ne](posts/mpercussor-por-que-o-cliente-compra-porque-a-decisa.md) — @mpercussor
 - [A primeira mensagem não foi feita para vender — foi feita para gerar resposta](posts/paidoslead-primeira-mensagem-nao-vende.md) — @paidoslead
@@ -266,6 +277,10 @@ automaticamente.
 - [Imóvel fora de preço não é vendido](posts/lucasmarrques-imovel-fora-de-preco-nao-e-vendido.md) — @lucasmarrques
 - [Melhor forma de conduzir negociações com permuta.](posts/lucasmarrques-melhor-forma-de-conduzir-negociacoes-com.md) — @lucasmarrques
 - [Lista fria funciona — o que não funciona é abrir a conversa vendendo](posts/marcele-corretora-lista-fria-diagnostico.md) — @marcele_corretora
+- [8 truques que captam lead orgânico, sem gastar 1 real em anúncio. E ol](posts/michellymullermkt-8-truques-que-captam-lead-organico-sem-g.md) — @michellymullermkt
+- [Comenta APP que eu te mando o link no direct!](posts/michellymullermkt-comenta-app-que-eu-te-mando-o-link-no-di.md) — @michellymullermkt
+- [PRINTA as Ideias de títulos! Investidores Os 5 Tipos de Imóvel que Mai](posts/michellymullermkt-printa-as-ideias-de-titulos-investidores.md) — @michellymullermkt
+- [Story de imóvel com foto lisa e preço não vende. Não desperta desejo, ](posts/michellymullermkt-story-de-imovel-com-foto-lisa-e-preco-na.md) — @michellymullermkt
 
 ### mercado-imobiliario
 
@@ -375,6 +390,7 @@ automaticamente.
 - [Faz e depois me agradece](posts/lucasmarrques-faz-e-depois-me-agradece.md) — @lucasmarrques
 - [Hack para você conseguir ser constante na produção de conteúdo!](posts/lucasmarrques-hack-para-voce-conseguir-ser-constante-n.md) — @lucasmarrques
 - [6 sacadas do criador do Claude Code sobre como ele usa IA](posts/manualdedonos-6-sacadas-claude-code.md) — @manualdedonos
+- [Comenta APP que eu te mando o link no direct!](posts/michellymullermkt-comenta-app-que-eu-te-mando-o-link-no-di.md) — @michellymullermkt
 - [A morte do corretor intermediário chegou mais rápido do que o mercado ](posts/natanpimentels-a-morte-do-corretor-intermediario-chegou.md) — @natanpimentels
 - [Faz uns meses que tudo que entrego na consultoria individual passou a ](posts/natanpimentels-faz-uns-meses-que-tudo-que-entrego-na-co.md) — @natanpimentels
 - [6 skills que tiram o Claude do modo chatbot](posts/nicksoncarvalho-6-skills-claude.md) — @nicksoncarvalho
@@ -613,6 +629,14 @@ automaticamente.
 - [Você já assistiu um desses filmes e percebeu essas nuances sobre poder](posts/marthaleonardis-voce-ja-assistiu-um-desses-filmes-e-perc.md) — @marthaleonardis · reel · 2026-02-12
 - [Você já percebeu que pessoas que forçam simpatia em excesso são deixad](posts/marthaleonardis-voce-ja-percebeu-que-pessoas-que-forcam.md) — @marthaleonardis · reel · 2026-02-18
 - [A cláusula de corretagem que protege o corretor (art. 723 do Código Civil)](posts/metodo-corretorblindado-clausula-art-723.md) — @metodo_corretorblindado · reel · 2026-07-21
+- [8 truques que captam lead orgânico, sem gastar 1 real em anúncio. E ol](posts/michellymullermkt-8-truques-que-captam-lead-organico-sem-g.md) — @michellymullermkt · carrossel · 2026-06-11
+- [Comenta APP que eu te mando o link no direct!](posts/michellymullermkt-comenta-app-que-eu-te-mando-o-link-no-di.md) — @michellymullermkt · reel · 2026-05-27
+- [O cliente percebe quando o texto não é seu. Não conscientemente, mas e](posts/michellymullermkt-o-cliente-percebe-quando-o-texto-nao-e-s.md) — @michellymullermkt · reel · 2026-06-25
+- [O que achou?! Me conta aqui](posts/michellymullermkt-o-que-achou-me-conta-aqui.md) — @michellymullermkt · reel · 2025-02-21
+- [PRINTA as Ideias de títulos! Investidores Os 5 Tipos de Imóvel que Mai](posts/michellymullermkt-printa-as-ideias-de-titulos-investidores.md) — @michellymullermkt · reel · 2025-05-14
+- [Quer criar Reels que realmente vendem alugam? Esse vídeo mostra a estr](posts/michellymullermkt-quer-criar-reels-que-realmente-vendem-al.md) — @michellymullermkt · reel · 2025-06-13
+- [Story de imóvel com foto lisa e preço não vende. Não desperta desejo, ](posts/michellymullermkt-story-de-imovel-com-foto-lisa-e-preco-na.md) — @michellymullermkt · reel · 2026-06-10
+- [Você acha que não tem o que postar. Mas o problema é que você olha pra](posts/michellymullermkt-voce-acha-que-nao-tem-o-que-postar-mas-o.md) — @michellymullermkt · reel · 2026-06-23
 - [15 atitudes para quem está se reconstruindo aos 45](posts/modoprodutivo-reconstrucao-aos-45.md) — @modoprodutivo_ · carrossel · 2026-07-21
 - [49 dos brasileiros têm intenção de compra no mercado imobiliário. Esse](posts/mpercussor-49-dos-brasileiros-tem-intencao-de-compr.md) — @mpercussor · reel · 2026-01-26
 - [IMÓVEL E MOEDA FORTE De 2006 a 2025, pouca coisa mudou juros altos, cr](posts/mpercussor-imovel-e-moeda-forte-de-2006-a-2025-pouc.md) — @mpercussor · reel · 2025-07-23
@@ -652,6 +676,13 @@ automaticamente.
 - [A primeira mensagem não foi feita para vender — foi feita para gerar resposta](posts/paidoslead-primeira-mensagem-nao-vende.md) — @paidoslead · video · 2026-07-26
 - [Pare de mandar o anúncio direto pro WhatsApp: filtre com uma conversão mais avançada](posts/pedromoro93-funil-0405-conversao-avancada.md) — @pedromoro93 · video · 2026-07-08
 - [Conectar o Instagram no Claude para analisar métricas e montar estratégia](posts/rafa-grandi-conectar-instagram-no-claude.md) — @rafa.grandi · reel · 2026-05-04
+- [Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito ](posts/rafaelbem-aprenda-a-fazer-reels-criativos-destaque-2.md) — @rafaelbem · video · 2024-12-29
+- [Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito ](posts/rafaelbem-aprenda-a-fazer-reels-criativos-destaque-3.md) — @rafaelbem · video · 2025-06-13
+- [Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito ](posts/rafaelbem-aprenda-a-fazer-reels-criativos-destaque-4.md) — @rafaelbem · video · 2025-06-12
+- [Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito ](posts/rafaelbem-aprenda-a-fazer-reels-criativos-destaque-5.md) — @rafaelbem · video · 2024-12-24
+- [Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito ](posts/rafaelbem-aprenda-a-fazer-reels-criativos-destaque-6.md) — @rafaelbem · video · 2024-10-06
+- [Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito ](posts/rafaelbem-aprenda-a-fazer-reels-criativos-destaque-7.md) — @rafaelbem · video · 2024-12-24
+- [Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito ](posts/rafaelbem-aprenda-a-fazer-reels-criativos-destaque.md) — @rafaelbem · video · 2025-06-12
 - [24 coisas pra instalar no Claude: skills, plug-ins e MCP servers](posts/rtercas-24-coisas-instalar-claude.md) — @rtercas · carrossel · 2026-07-03
 - [2020 Poste todo dia use hashtags crescimento 2025 Faça isso morte do p](posts/segueadi-2020-poste-todo-dia-use-hashtags-crescim.md) — @segueadi · video · 2025-06-24
 - [ATENÇÃO Essa aula fica no ar só por 24 HORAS! Sabe por que seus reels ](posts/segueadi-atencao-essa-aula-fica-no-ar-so-por-24-h.md) — @segueadi · video · 2025-06-14

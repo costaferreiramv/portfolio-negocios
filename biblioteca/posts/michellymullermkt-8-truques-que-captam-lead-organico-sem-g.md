@@ -3,8 +3,8 @@ titulo: "8 truques que captam lead orgânico, sem gastar 1 real em anúncio. E o
 autor: "@michellymullermkt"
 url: https://www.instagram.com/p/DZc3KFtjiwk/
 tipo: carrossel
-temas: []
-tags: []
+temas: [captacao, conteudo-organico]
+tags: [lead-organico, isca]
 slides: 10
 data_post: 2026-06-11
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: pendente
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Promete 8 truques para captar lead orgânico sem gastar em anúncio, sem detalhamento no texto disponível (carrossel não lido).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo do carrossel (8 truques) não capturado — isca de formação paga.
 
 ## Conteúdo integral
 
@@ -38,8 +38,8 @@ Photo by Michelly Müller • Marketing Imobiliário on June 11, 2026. May be an
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem conteúdo verificável sem ler o carrossel.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

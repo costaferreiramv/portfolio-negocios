@@ -4,19 +4,19 @@ autor: "@rafaelbem"
 url: https://www.instagram.com/p/DKzvgpZvq1u/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, duplicata]
 duracao: "1min20"
 data_post: 2025-06-12
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Variação do mesmo discurso de 'códigos virais' com prova social do próprio autor (1,7 milhões de seguidores, 93 mil alunos).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Mesma isca, prova social não verificável.
 
 ## Conteúdo integral
 
@@ -41,8 +41,8 @@ Tudo isso através de Reels simples e criativos que QUALQUER pessoa é capaz de 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

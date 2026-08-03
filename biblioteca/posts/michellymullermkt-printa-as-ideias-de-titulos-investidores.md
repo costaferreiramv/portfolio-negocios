@@ -3,20 +3,22 @@ titulo: "PRINTA as Ideias de títulos! Investidores Os 5 Tipos de Imóvel que Ma
 autor: "@michellymullermkt"
 url: https://www.instagram.com/reel/DJpe12YNjov/
 tipo: reel
-temas: []
-tags: []
+temas: [captacao, copywriting]
+tags: [ebook, lead-magnet, titulos-por-nicho]
 duracao: "1min16"
 data_post: 2025-05-14
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Estratégia de captação por troca de material (ebook) segmentado por nicho de cliente, com títulos prontos sugeridos: investidor ('5 tipos de imóvel que mais valorizam', 'manual do imóvel para renda'), primeiro imóvel ('do aluguel ao apê próprio'), comprador de alto padrão ('tudo o que compradores inteligentes consideram antes de fechar um imóvel de luxo', 'o guia da excelência imobiliária: como escolher imóvel de alto padrão com rigor e visão de patrimônio'), imóvel na planta. Processo: montar o ebook no Canva/Visme, criar campanha Meta Ads de leads com formulário instantâneo, ativar a opção de download de arquivo — funciona sem precisar de site próprio.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Títulos prontos para lead magnet de alto padrão: 'Tudo o que compradores inteligentes consideram antes de fechar um imóvel de luxo' e 'O Guia da Excelência Imobiliária: como escolher imóvel de alto padrão com rigor e visão de patrimônio'.
+- Fluxo técnico sem precisar de site: Meta Ads → leads → formulário instantâneo → opção de download de arquivo anexado.
+- O ebook substitui o site como isca de captura para quem ainda não tem página própria — o Portfólio Negócios já tem site, então o ebook seria complementar, não substituto.
 
 ## Conteúdo integral
 
@@ -70,8 +72,8 @@ Gostou? Então já segue aqui no @michellymullermkt pra aprender TUDO sobre Mark
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Os dois títulos de alto padrão são diretamente aproveitáveis como lead magnet para captação de comprador de alto padrão em Uberlândia — um ebook curto com esse conteúdo, distribuído via Meta Ads com download nativo (sem precisar de página de captura própria), é execução rápida e testável.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

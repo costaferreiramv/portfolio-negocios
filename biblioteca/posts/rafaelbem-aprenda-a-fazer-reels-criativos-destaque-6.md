@@ -4,19 +4,19 @@ autor: "@rafaelbem"
 url: https://www.instagram.com/p/DAy-jSqsbF-/
 tipo: video
 temas: []
-tags: []
+tags: [isca, curso, duplicata]
 duracao: "1min02"
 data_post: 2024-10-06
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duplicata do discurso de 'códigos virais' e barreira invisível do algoritmo.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo repetido do post irmão.
 
 ## Conteúdo integral
 
@@ -41,8 +41,8 @@ Tudo isso através de Reels simples e criativos que QUALQUER pessoa é capaz de 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

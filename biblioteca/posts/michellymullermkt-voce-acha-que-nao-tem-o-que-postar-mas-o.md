@@ -3,20 +3,22 @@ titulo: "Você acha que não tem o que postar. Mas o problema é que você olha 
 autor: "@michellymullermkt"
 url: https://www.instagram.com/reel/DZ7vCmGuclL/
 tipo: reel
-temas: []
-tags: []
+temas: [conteudo-organico, criativos]
+tags: [multiplicacao-de-conteudo, um-imovel-dez-conteudos, pauta]
 duracao: "2min08"
 data_post: 2026-06-23
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Um único imóvel pode gerar até 10 conteúdos diferentes**, em vez do tour único que a maioria dos corretores faz: (1) tour clássico curto, deixando 'gostinho de quer mais'; (2) vídeo só da área de lazer em câmera lenta; (3) história do prédio/casa — quem construiu, quando, conceito; (4) comparativo de preço com imóvel similar da região; (5) detalhes de acabamento (piso, acústica, metragem); (6) entorno do imóvel (mercado, escola, parque); (7) simulação de financiamento/fluxo de pagamento na tela; (8) depoimento de quem já morou ali.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Um imóvel = até 10 conteúdos possíveis, não um vídeo só — resolve a 'insônia do criador' sem precisar de captação nova.
+- Lista de ângulos: tour curto, lazer em câmera lenta, história do imóvel, comparativo de preço regional, detalhe de acabamento, entorno/vizinhança, simulação de pagamento (retirar — financiamento), depoimento de morador.
+- Recomendação explícita: não deixar o tour longo demais — terminar com 'gostinho de quer mais'.
 
 ## Conteúdo integral
 
@@ -34,8 +36,8 @@ Comenta CONTEÚDO que eu te mando mais 30 ideias pro mesmo imóvel. Salva també
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Framework de multiplicação de conteúdo diretamente aplicável e de alto impacto na produção do Portfólio Negócios.** Um único imóvel de alto padrão captado pode virar uma semana inteira de pauta seguindo esses ângulos (removendo o item de simulação de financiamento, que fere a regra absoluta do negócio) — resolve exatamente o problema de 'não ter o que postar' sem depender de captação nova toda semana.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

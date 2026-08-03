@@ -3,20 +3,21 @@ titulo: "Comenta APP que eu te mando o link no direct!"
 autor: "@michellymullermkt"
 url: https://www.instagram.com/reel/DY2CREGOH7a/
 tipo: reel
-temas: []
-tags: []
+temas: [captacao, ia-automacao]
+tags: [knock-knock, app-de-lead, marketplace]
 duracao: "1min04"
 data_post: 2026-05-27
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Apresenta o aplicativo 'Knock Knock', onde o lead cadastra interesse de compra/aluguel e o corretor busca e envia oferta de imóvel da própria carteira que se encaixa, abrindo chat direto.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- App funciona como marketplace reverso: lead publica o que busca, corretor envia oferta compatível da própria carteira.
+- Requer cadastro prévio dos imóveis da carteira no aplicativo para funcionar.
 
 ## Conteúdo integral
 
@@ -30,8 +31,8 @@ Tô nem acreditando que eu vou falar isso pra vocês, tá? Corretor, corretora, 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ferramenta a avaliar como canal adicional de captação de demanda — vale conferir se o Knock Knock tem presença/uso relevante em Uberlândia antes de investir tempo em cadastro.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

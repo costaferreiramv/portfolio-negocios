@@ -3,20 +3,20 @@ titulo: "Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito 
 autor: "@rafaelbem"
 url: https://www.instagram.com/p/DELdWkmAVDj/
 tipo: video
-temas: []
-tags: []
+temas: [criativos]
+tags: [movimento, dinamismo, isca]
 duracao: "29s"
 data_post: 2024-12-29
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Define 'movimento' em vídeo viral não como mexer a câmera, mas qualquer elemento que traga dinamismo: mudar tom de voz, usar legenda, mudar zoom, inserir efeito sonoro. Isca de curso 'Reels Pro'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- 'Movimento' redefinido como dinamismo geral (voz, legenda, zoom, som), não literalmente câmera em movimento.
 
 ## Conteúdo integral
 
@@ -41,8 +41,8 @@ Tudo isso através de Reels simples e criativos que QUALQUER pessoa é capaz de 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Checklist simples para dar dinamismo a vídeo de imóvel sem precisar de equipamento de câmera móvel: variar tom de voz na narração, usar legenda dinâmica na tela, variar zoom, inserir efeito sonoro no corte.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

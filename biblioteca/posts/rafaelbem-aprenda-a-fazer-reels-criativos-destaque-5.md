@@ -3,20 +3,20 @@ titulo: "Aprenda a fazer Reels Criativos, destaque o seu perfil e cresça muito 
 autor: "@rafaelbem"
 url: https://www.instagram.com/p/DD9Wwylgf2j/
 tipo: video
-temas: []
-tags: []
+temas: [criativos]
+tags: [gancho-visual, isca]
 duracao: "14s"
 data_post: 2024-12-24
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Enfatiza gancho visual (não só verbal) como o que precisa mudar quando o vídeo não viraliza — 'não mude o roteiro, mude o gancho'.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Reforça que o problema de retenção pode estar no gancho visual, não no roteiro/conteúdo.
 
 ## Conteúdo integral
 
@@ -41,8 +41,8 @@ Tudo isso através de Reels simples e criativos que QUALQUER pessoa é capaz de 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Reforça a importância da camada visual do gancho (frame 1), já coberta com rigor pela skill `gancho-psicologico` — 'o gancho tem que funcionar no mudo'.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

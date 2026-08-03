@@ -4,19 +4,19 @@ autor: "@rafaelbem"
 url: https://www.instagram.com/p/DD9XW75ASZm/
 tipo: video
 temas: []
-tags: []
+tags: [duplicata]
 duracao: "29s"
 data_post: 2024-12-24
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Duplicata exata do post sobre 'movimento' em vídeo viral.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Conteúdo idêntico ao post irmão.
 
 ## Conteúdo integral
 
@@ -41,8 +41,8 @@ Tudo isso através de Reels simples e criativos que QUALQUER pessoa é capaz de 
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Ver aplicação em `rafaelbem-aprenda-a-fazer-reels-criativos-destaque-2.md`.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

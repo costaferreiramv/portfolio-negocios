@@ -3,20 +3,23 @@ titulo: "O cliente percebe quando o texto não é seu. Não conscientemente, mas
 autor: "@michellymullermkt"
 url: https://www.instagram.com/reel/DaA5uKyO3z-/
 tipo: reel
-temas: []
-tags: []
+temas: [copywriting]
+tags: [humanizacao, texto-de-ia, padroes-a-evitar]
 duracao: "1min58"
 data_post: 2026-06-25
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Três ajustes para tirar 'cara de texto de IA' de legenda/conteúdo: (1) evitar o padrão 'não é só X, é Y' ('não é só um imóvel, é um patrimônio') — trocar por frase que se falaria de verdade; (2) evitar travessão em excesso, que soa artificial mesmo dando 'fôlego' ao texto — simplificar a frase ou usar vírgula; (3) evitar palavras que 'entregam IA' no início de frase ('descubra', 'imagine', 'conheça') — escrever como realmente se falaria ('passei nesse condomínio hoje e entendi por que tá vendendo tão rápido').
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Padrão a evitar 1: 'não é só X, é Y' (ex.: 'não é só um imóvel, é um patrimônio') — clichê reconhecível de texto gerado por IA.
+- Padrão a evitar 2: travessão em excesso — ninguém escreve assim no WhatsApp/Direct; trocar por frase mais direta ou vírgula.
+- Padrão a evitar 3: verbos de abertura ('descubra', 'imagine', 'conheça') — substituir por fala natural, como se contasse a um amigo.
+- Consequência da falha: cliente sente desconfiança inconsciente antes mesmo da visita, por associar texto robótico a falta de conhecimento real do produto.
 
 ## Conteúdo integral
 
@@ -36,8 +39,8 @@ A boa notícia: dá pra usar IA sem entregar que é IA. Comenta IA aqui que eu t
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Checklist direto para a skill `humanizer` já em uso no Portfólio Negócios** — os três padrões (constructo 'não só X, é Y', travessão excessivo, verbo de abertura tipo 'descubra/imagine') são exatamente os tells que a skill deveria revisar antes de qualquer copy sair. Vale incorporar esses três itens como checklist explícito na aplicação da skill.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

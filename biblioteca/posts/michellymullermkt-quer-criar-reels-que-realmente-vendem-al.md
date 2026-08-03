@@ -3,20 +3,22 @@ titulo: "Quer criar Reels que realmente vendem alugam? Esse vídeo mostra a estr
 autor: "@michellymullermkt"
 url: https://www.instagram.com/reel/DK2oZZrSd8Z/
 tipo: reel
-temas: []
-tags: []
+temas: [criativos, copywriting]
+tags: [aida, gancho, cta, roteiro-de-video]
 duracao: "1min17"
 data_post: 2025-06-13
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Estrutura AIDA aplicada a Reels de imóvel dos 'grandes players': Atenção (gancho nos primeiros 4 segundos, frase que chama atenção rápida), Interesse/Desejo (mostra o que é interessante — churrasqueira, acabamento, características que geram desejo através do próprio conteúdo do vídeo), Ação (CTA pedindo visita ou contato no direct).
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Framework AIDA (Atenção, Interesse, Desejo, Ação) mapeado especificamente para Reels de imóvel.
+- Gancho deve estar nos primeiros 4 segundos — janela ainda mais curta que a referência de 3s já usada na skill de gancho.
+- Estrutura: gancho → conteúdo que gera desejo (mostrar características de forma que crie vontade) → CTA de ação.
 
 ## Conteúdo integral
 
@@ -45,8 +47,8 @@ Nos vídeos:
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Confirma e reforça a estrutura já usada na skill `gancho-psicologico` (payoff antes da metade, CTA no fim) — a variante AIDA aqui é uma nomenclatura alternativa do mesmo framework, útil para comunicar a estrutura ao Marcus de forma simples se necessário.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

@@ -3,20 +3,22 @@ titulo: "Story de imóvel com foto lisa e preço não vende. Não desperta desej
 autor: "@michellymullermkt"
 url: https://www.instagram.com/reel/DZaPjL0hMNH/
 tipo: reel
-temas: []
-tags: []
+temas: [captacao, criativos]
+tags: [stories-de-captacao, antecipacao, desejo]
 duracao: "1min06"
 data_post: 2026-06-10
 processado_em: 2026-07-30
-status: parcial
+status: completo
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Critica o formato padrão de story de captação ('foto lisa com preço e características') por não despertar desejo. Alternativa: vídeo de 60 segundos do imóvel recém-captado, sem aparecer, com texto 'mostrando em primeira mão esse imóvel que ainda entrará em pauta' + informações básicas (quartos, bairro, valor) + CTA 'quer visitar antes de todo mundo? Me chama aqui no direct' — gera antecipação e já reserva interessados antes do anúncio oficial.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Formato de baixo valor: foto lisa do imóvel com preço e característica em texto — não gera desejo nem conversa.
+- Formato recomendado: vídeo de 60s sem aparecer + texto de 'primeira mão' + CTA de visita antecipada.
+- Sequência de stories deve despertar curiosidade e tocar a dor de quem paga aluguel antes de convidar para conversa.
 
 ## Conteúdo integral
 
@@ -38,8 +40,8 @@ Comenta GPT aqui que eu te mando de graça no direct 👇🏻
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+**Formato de story de captação diretamente aplicável.** Assim que um imóvel novo entra na carteira do Marcus, antes mesmo da publicação oficial no site, gravar 60s do imóvel com o texto de 'primeira mão' e CTA de visita antecipada gera fila de interessados e testa a demanda antes do lançamento formal.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

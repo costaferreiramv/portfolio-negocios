@@ -4,7 +4,7 @@ autor: "@rafaelbem"
 url: https://www.instagram.com/p/DWWT8s4jPeg/
 tipo: video
 temas: []
-tags: []
+tags: [isca]
 duracao: "8s"
 data_post: 2026-03-26
 processado_em: 2026-07-30
@@ -12,11 +12,11 @@ status: parcial
 ---
 ## Resumo
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+CTA puro sem áudio nem conteúdo detalhado.
 
 ## Pontos-chave
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+- Post sem conteúdo substantivo capturável.
 
 ## Conteúdo integral
 
@@ -30,8 +30,8 @@ _Ainda não analisado. O conteúdo integral abaixo já está capturado._
 
 ## Aplicação
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+Sem aplicação.
 
 ## Conexões
 
-_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+_Sem conexões identificadas ainda._

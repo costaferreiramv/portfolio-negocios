@@ -1,0 +1,56 @@
+---
+titulo: "Você vai descobrir, em 1 único dia, como transformar seu Instagram em "
+autor: "@maferpizzoni"
+url: https://www.instagram.com/p/DWXZGB_gJ0L/
+tipo: video
+temas: []
+tags: []
+duracao: "57s"
+data_post: 2026-03-26
+processado_em: 2026-07-30
+status: parcial
+---
+## Resumo
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Pontos-chave
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Conteúdo integral
+
+### Transcrição do vídeo
+
+Você acha que vender imóveis através do Instagram é só pra quem tem seguidor? Você tá muito enganado. Tem corretores aqui com a gente que são nossos alunos, nossos assessorados, que começaram do zero com menos de 500 seguidores e fazem muito mais do que 30 mil reais em comissões todos os meses, somente vendendo através do Instagram. Então o seguidor não é métrica que você vai olhar agora no começo, entendeu? Ele é importante, sim, mas não é necessário pra vender. Essa estratégia que eu vou te ensinar na aula secreta, que eu vou entregar a estratégia, um método validado que faz com que corretores consigam vender imóveis todos os meses através da internet. Não é sorte, é método. Eu vou revelar quais são os três pilares necessários para que isso aconteça. Somente essa estratégia em 2024 gerou mais de meio bilhão em vendas para o mercado imobiliário. Os depoimentos aí no meu perfil estão aí para não mentir. É gratuita, mas não vai ter gravação. Então clica aqui no link e se inscreve. Não perca essa aula porque é realmente uma oportunidade. Eu não brinco em entregar conteúdo
+
+### Legenda
+
+Você vai descobrir, em 1 único dia, como transformar seu Instagram em uma máquina de vendas de imóveis.
+
+📅 Dia 07/04, às 20h | Online e ao vivo
+
+Vou abrir, passo a passo, os bastidores da estratégia usada por corretores que faturam + de R$50.000 por mês, vendendo imóveis todos os meses, exclusivamente pelo digital.
+
+Você vai aprender:
+✔️ Como atrair compradores realmente qualificados
+✔️ Como transformar seguidores em clientes prontos para fechar
+✔️ Como estruturar vendas de imóveis online de forma previsível
+
+O mercado imobiliário mudou.
+Em 2026, existem apenas dois caminhos:
+👉 dominar as vendas digitais
+👉 ou continuar perdendo negócios para quem domina
+
+Em poucas horas, vou revelar as estratégias responsáveis por comissões de múltiplos 5 e 6 dígitos no mercado imobiliário.
+
+⚠️ Vagas limitadas
+👉 Clique em “Saiba Mais” e entre no grupo.
+
+## Aplicação
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Conexões
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._

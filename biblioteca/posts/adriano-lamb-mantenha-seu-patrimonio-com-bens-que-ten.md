@@ -1,0 +1,37 @@
+---
+titulo: "Mantenha seu Patrimônio com bens que tenham Valor!"
+autor: "@adriano.lamb"
+url: https://www.instagram.com/reel/DBRxgNqJAS-/
+tipo: reel
+temas: []
+tags: []
+duracao: "5min08"
+data_post: 2024-10-18
+processado_em: 2026-07-30
+status: parcial
+---
+## Resumo
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Pontos-chave
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Conteúdo integral
+
+### Transcrição do vídeo
+
+Não venda aquilo que tem valor. Não fique girando o teu próprio patrimônio. Não fique alimentando o tempo todo o sistema. Eu vou te explicar isso com números agora e depois eu vou entrar no conceito mais teórico para te explicar o que é algo de valor no mercado imobiliário. Observa só como teu patrimônio vai ficando pelo caminho. Eu vou pegar o exemplo de um apartamento de 500 mil. E tu está ganhando 3 mil por mês com ele de aluguel, tu acha que é pouco, de repente tu possa ganhar 5 mil, 5,500 investindo esse dinheiro se tu tivesse em mãos. mas, vamos lá, 500 mil para vender um imóvel, a gente sabe que a liquidez não é rápida então, tu vai dar um desconto de 10% então, 450 mil vendi o apartamento por 450 vou precisar pagar a comissão de 6% sobre 450 mil, 27 mil reais 423 eu fiquei na mão errado, digamos que tu tenha comprado esse apartamento por 250 e vendeu por 423 então, tu teve um ganho de capital de 173 vai pagar imposto de renda de 15% sobre esse valor, que fica 25,950 no final dos 500 mil que tu tinha tu ficou com 393.050 na mão ou seja, 107 mil ficou aí pro sistema por esta questão de tu ter girado teu patrimônio perdeu-se aí mais de 20% do valor que tu tinha agora vamos observar se tu tivesse ficado com esse apartamento digamos que é um bom apartamento, ele tem valor e ele te gere um aluguel de 3 mil que é 0,6 sobre o valor de 500 mil é uma boa remuneração 3 mil vezes 12 é 36 mil que tu recebe de aluguel tu vai pagar imposto de renda sobre isso então 15%, 5.400, você vai perder, você vai ficar com 30.600 o aluguel. Só que esse imóvel também tem que ter uma correção anual. E eu vou considerar a correção do CUBE, que é 7,5% ao ano. Tem pessoas que vão dizer que é muito, que o apartamento não valoriza isso tudo todo ano, mas eu vou te explicar aqui uma coisa baseada em cálculos. A média do IPCA, agora não estou falando de CUBE, dos últimos 15 anos é 6% ao ano. O bom imóvel em períodos longos de 10, 15, 20 anos, ele tende a valorizar o dobro do IPCA. Então a gente está falando aqui de 12%. É muita coisa, mas vamos ficar com 7,5%, que seria 37.500 sobre o valor do imóvel de 500 mil. Então eu somo os 3600 do aluguel, mais 37.500 que foi a correção, que embora eu não bote a mão nesses 37.500, eu sei que o meu patrimônio ali está corrigindo. Somando os dois, 68.100. 68.100 em 500 mil significa um retorno anual de 13,62%. É um belo retorno e a gente não pode esquecer dessa correção que o bom imóvel tem todo ano. Agora voltando lá para quem vendeu o imóvel. Lembra que tu ficou com R$393.050. Primeiro, para tu simplesmente voltar a ter R$500.000, tu vai precisar ter 27,21% de ganho. E segundo, para tu ter aqueles R$68.100 em R$393.050, tu vai precisar fazer por ano 17,45%. Repetindo então, eu tenho 393.050 na mão Que eu estou investindo Que para eu ter o retorno que o apartamento está me dando Que é 68.100 por ano Eu precisarei fazer 17,45% ao ano Ou 1,35% ao mês É difícil e é muito mais fácil se manter lá no imóvel Tendo aquele rendimento do aluguel E a correção anual do CUBE sobre o apartamento E o que a gente pode considerar um imóvel de valor no mercado imobiliário? Pegar o exemplo então de um apartamento Que é o que a gente estava conversando primeiro, não precisa ser nada espetacular algo que tu comprou em um lançamento e ele dobrou de valor durante o período de construção ou que tu comprou numa região e daqui a pouco soube que vai ser construído um shopping ali do lado, a gente não precisa de casos específicos ou explosões de valorização simplesmente estar em um bom bairro onde tem ali as questões básicas que a pessoa precisa, um bom prédio com baixa manutenção, um condomínio bom com relação ao que o prédio oferece que se tu tá, né, se tu é investidor e tu tem ele alugado, que não fique períodos longos sem tu conseguir alugar alugar, que tu tem um retorno bom com relação ao preço do imóvel e o retorno do aluguel, mais importante ainda quanto que tu investiu no imóvel e quanto que está te dando de retorno, tem apartamentos que são 0,4 sobre o valor do imóvel, 0,5 0,6, 0,7, então isso é bem importante, mas não é nada espetacular isso é considerado um bom imóvel, aquele bairro sustentável, que ele continua sempre bom, que ele tem uma tendência de 10, 20 30 anos, se manter como um bairro bom, nobre, não precisa necessariamente ser nobre mas algo que seja estável E para concluir, fazer uma analogia rápida com o mercado financeiro, o que seria um ativo de valor no mercado financeiro? Aquela empresa que tem lucros recorrentes de anos e anos sempre trazendo lucro, que tem uma análise fundamentalista já consolidada, uma boa e sólida governança. Quando tem uma empresa que você avaliou, que você conseguiu entender, perceber que isso está acontecendo nessa empresa por prazos longos, quando ela sobe de valor, você simplesmente fica ali esperando, recebe os dividendos e quando ela baixa de valor, você vai lá e compra mais. é a mesma coisa que acontece no imóvel, essa analogia de valor. A gente não fica vendendo o que a gente tem de valor. Segura, não gira teu patrimônio, não fica alimentando o sistema. Isso aqui é um pensamento, é um mindset diferente até de investidores. Tem muita gente no mercado financeiro que fala isso, mas no imóvel tem pessoas que acham que é, eu tenho que comprar, tenho que vender logo, tenho que fazer, tenho que girar. Nem sempre é o melhor caminho. Valeu!
+
+### Legenda
+
+Mantenha seu Patrimônio com bens que tenham Valor!
+
+## Aplicação
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._
+
+## Conexões
+
+_Ainda não analisado. O conteúdo integral abaixo já está capturado._

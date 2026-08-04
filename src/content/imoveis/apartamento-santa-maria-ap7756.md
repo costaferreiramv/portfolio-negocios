@@ -1,5 +1,5 @@
 ---
-titulo: Apartamento de 3 suítes no Santa Maria
+titulo: Apartamento com 2 suítes à venda no St. Maria
 codigo: AP7756
 tipo: apartamento
 bairro: Santa Maria

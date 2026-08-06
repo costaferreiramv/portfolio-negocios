@@ -1,0 +1,36 @@
+---
+autor: "houseflipping.br"
+autor_nome: "Carlos Beil"
+url: "https://www.instagram.com/p/DW6kj0qjEBX/"
+code: "DW6kj0qjEBX"
+data: "2026-04-09"
+tipo: "carrossel"
+curtidas: 30824
+comentarios: 1592
+views: null
+temas: [geral]
+analisado: false
+---
+
+## Legenda
+
+Quem constrói no Brasil precisa entender o que está acontecendo agora.
+
+O preço da mão de obra está subindo. O custo do material também. Impostos, guerra, petróleo tudo empurrando pra cima ao mesmo tempo.
+
+Vai exigir cada vez mais planejamento para a conta do lucro fechar.
+
+Eu trabalho com reforma e house flipping. Acompanho o mercado de perto, todos os dias. E o que eu mostro aqui são os números reais do que está acontecendo com o custo de construir no Brasil.
+
+Quem constrói vai pagar cada vez mais caro.
+Quem reforma, tem uma vantagem que eu explico no post.
+
+E quem ignora isso vai tomar decisão errada.
+
+Manda pra quem precisa saber disso.
+
+E me conta: você que constrói ou reforma, já sentiu o preço subir nos últimos meses?
+
+## Aplicação no negócio
+
+_Não analisado ainda._

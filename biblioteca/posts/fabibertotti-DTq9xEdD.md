@@ -1,0 +1,42 @@
+---
+autor: "fabibertotti"
+autor_nome: "FABIANA BERTOTTI | SUPERCOMUNICAÇÃO"
+url: "https://www.instagram.com/p/DTq9xEdDKoF/"
+code: "DTq9xEdDKoF"
+data: "2026-01-18"
+tipo: "video"
+curtidas: 32929
+comentarios: 360
+views: 477680
+temas: [gancho]
+analisado: false
+---
+
+## Legenda
+
+"Se eu abrir a boca, vão perceber que não sei nada..." 😔
+Esse pensamento já passou pela sua cabeça?
+Você se prepara, estuda, domina o assunto... mas na hora H, a voz trava. O coração acelera. As palavras somem.
+E sabe o que acontece? Oportunidades escorregam pelos seus dedos. Promoções vão para quem "fala melhor". Ideias brilhantes ficam presas na sua mente.
+Mas aqui está a verdade que ninguém te conta: o problema não é você. É a falta de um método estruturado. 🎯
+Comunicação eficaz não é dom. É técnica. É treino. É estratégia.
+Por isso criei este método completo que vai te ensinar:
+
+Como estruturar seu raciocínio antes de falar
+Técnicas para controlar nervosismo em segundos
+O passo a passo para se expressar com clareza e impacto
+Como transformar sua voz em ferramenta de influência
+
+Não é sobre "ter coragem". É sobre ter o CAMINHO certo. 🛤️
+Investimento de apenas R$ 97 para transformar completamente sua relação com a comunicação.
+⚠️ Atenção: Esta é uma oferta especial e ficará disponível apenas enquanto esta página estiver no ar.
+Quantas oportunidades você ainda vai deixar passar?
+👉 Clique aqui e comece sua transformação agora mesmo!
+
+## Transcrição
+
+Ninguém respeita a sua inteligência, se a sua fala não sustenta quem você é. Esse é o problema de milhares de pessoas brilhantes. Tem conhecimento, mas a forma como falam esconde isso. Esse é meu novo livro, Sem Medo de Falar, que ensina você a alinhar a sua fala com o seu valor. Você aprende a posicionar sua voz, construir frases de impacto, controlar a ansiedade, organizar ideias e se apresentar como alguém que merece ser ouvido. Ele veio acompanhado de materiais digitais únicos que tornam o seu desenvolvimento ainda mais rápido. Se você quer ter a sua fala reflita a sua competência, clique agora aqui e garanta o seu porque o estoque é limitado.
+
+## Aplicação no negócio
+
+_Não analisado ainda._

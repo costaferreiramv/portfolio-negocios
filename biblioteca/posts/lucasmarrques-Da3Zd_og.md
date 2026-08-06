@@ -1,0 +1,25 @@
+---
+autor: "lucasmarrques"
+autor_nome: "LUCAS MARQUES"
+url: "https://www.instagram.com/p/Da3Zd_ogCrL/"
+code: "Da3Zd_ogCrL"
+data: "2026-07-16"
+tipo: "video"
+curtidas: 103
+comentarios: 4
+views: null
+temas: [imobiliario]
+analisado: false
+---
+
+## Legenda
+
+_(sem legenda)_
+
+## Transcrição
+
+O que um corretor de imóveis com R$ 37 faz na mão? Eu sei o que ele pode fazer. Ele pode gastar comprando uma cerveja, ele pode comprar um pão com mussarela e presunto, ele pode gastar no almoço. Mas eu quero te oferecer um plano de R$ 37 que vai fazer você trabalhar de forma diferente, colocar mais dinheiro no seu bolso e posicionar você como especialista do mercado imobiliário num nicho que tem poucas pessoas olhando e poucas pessoas faturando. E você vai conseguir aplicar ele, mesmo que você seja uma pessoa que não tem conhecimento de causa, que está começando do zero. Clica aqui embaixo, usa R$ 37 e muda sua carreira.
+
+## Aplicação no negócio
+
+_Não analisado ainda._

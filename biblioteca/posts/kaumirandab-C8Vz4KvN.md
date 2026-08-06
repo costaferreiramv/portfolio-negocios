@@ -1,0 +1,32 @@
+---
+autor: "kaumirandab"
+autor_nome: "Kau Miranda | Vendas e Negócios"
+url: "https://www.instagram.com/p/C8Vz4KvNhXc/"
+code: "C8Vz4KvNhXc"
+data: "2024-06-18"
+tipo: "video"
+curtidas: 378
+comentarios: 2
+views: 21426
+temas: [objecao, pos-venda]
+analisado: false
+---
+
+## Legenda
+
+Você não consegue vender pelo WhatsApp?
+Cliente sempre vem com uma objeção ou te deixa no vácuo?!
+
+Se isso acontece com você eu tenho uma Metodologia que vai mudar isso de uma vez por todas.
+
+O Segredo da Persuasão no WhatsApp!
+
+Clica agora no "saiba mais" e garanta a sua vaga!
+
+## Transcrição
+
+Não! Para de perder vendas e deixar resultados na mesa enquanto você continua respondendo para o cliente, tudo bem, qualquer coisa estou à disposição. Quando você faz isso, você acaba com a venda ali onde ela ainda poderia acontecer. Então, se você quer parar com isso e quer alavancar as suas vendas, aumentar a sua conversão em vendas, clica no link e acessa o segredo da persuasão no WhatsApp.
+
+## Aplicação no negócio
+
+_Não analisado ainda._

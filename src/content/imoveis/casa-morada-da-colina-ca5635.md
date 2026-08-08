@@ -21,9 +21,9 @@ Casa térrea de esquina no Morada da Colina, em rua residencial arborizada. Dist
 ## O imóvel
 
 - 284,56 m² de área construída em terreno de 592,77 m²
-- 4 suítes com armários planejados
+- 4 suítes com armários planejados, todas no mesmo pavimento
 - Sala ampla em três ambientes, integrada à cozinha
-- Cozinha com ilha, bancadas espaçosas e marcenaria completa
+- Cozinha com bancadas espaçosas e marcenaria completa
 - Espaço gourmet com churrasqueira e piscina aquecida
 - Pergolado, jardim e dependência completa de empregada
 - Garagem para 3 carros

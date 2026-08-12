@@ -16,13 +16,13 @@ fotos: casa-morada-da-colina-ca5635
 capa: 1
 ---
 
-Casa térrea de esquina no Morada da Colina, em rua residencial arborizada. Distribuição ampla e integrada, com área de lazer completa.
+Casa térrea de esquina no Morada da Colina, em região residencial da zona sul. Distribuição ampla, com ambientes espaçosos e área de lazer completa.
 
 ## O imóvel
 
 - 284,56 m² de área construída em terreno de 592,77 m²
 - 4 suítes com armários planejados, todas no mesmo pavimento
-- Sala ampla em três ambientes, integrada à cozinha
+- Sala ampla em três ambientes
 - Cozinha com bancadas espaçosas e marcenaria completa
 - Espaço gourmet com churrasqueira e piscina aquecida
 - Pergolado, jardim e dependência completa de empregada

@@ -1,9 +1,10 @@
 ---
 /* Landing page de funil do CA5635 — casa térrea de 4 suítes no Morada da Colina.
-   Percurso guiado: o visitante responde, a página reage, e o que ele vê depende
-   do caminho. Quem chega no fim decidido viu as 20 fotos; quem está pesquisando
-   vê 14. O canonical aponta para a ficha, que continua sendo a página oficial
-   do imóvel — a LP não disputa busca com ela. */
+   Fluxo tipo assistente: uma pergunta por vez, com "voltar". Cada resposta abre
+   um comentário do Marcus e, quando faz sentido, entrega fotos específicas
+   daquela opção — trocar a resposta troca as fotos. O canonical aponta para a
+   ficha, que continua sendo a página oficial do imóvel — a LP não disputa
+   busca com ela. */
 import { getCollection, render } from 'astro:content';
 import { getImage } from 'astro:assets';
 import LP from '../layouts/LP.astro';
@@ -16,7 +17,7 @@ const d = imovel.data;
 const fotos = fotosDe(d.fotos, d.capa);
 
 /* fotosDe() devolve a capa primeiro; aqui a ordem tem de ser a do arquivo,
-   porque as sequências abaixo se referem ao número da foto. */
+   porque as listas abaixo se referem ao número do arquivo (foto-N.jpg). */
 const emOrdem = fotosDe(d.fotos);
 const minis = await Promise.all(
   emOrdem.map((f) => getImage({ src: f, width: 800, widths: [420, 800], format: 'webp' }))
@@ -51,101 +52,90 @@ const LEGENDAS = [
   'Banheiro de suíte',
 ];
 
-/* Ordem em que as fotos se revelam, conforme o que o visitante disse que mais
-   pesa. Números da foto, não índices. */
-const SEQUENCIAS: Record<string, number[]> = {
-  andar:   [8, 1, 3, 5, 4, 9, 10, 12, 6, 13, 2, 14, 11, 7, 16, 17, 18, 20, 19, 15],
-  receber: [16, 7, 2, 17, 1, 5, 15, 4, 3, 13, 6, 14, 8, 9, 10, 12, 11, 18, 20, 19],
-  suites:  [8, 9, 10, 12, 11, 18, 20, 19, 1, 5, 3, 4, 6, 13, 2, 14, 7, 16, 17, 15],
-  terreno: [16, 17, 15, 7, 2, 1, 5, 3, 4, 8, 9, 10, 12, 6, 13, 14, 11, 18, 20, 19],
-};
-
-/* peso = temperatura do lead · fotos = quanto o bloco seguinte libera */
+/* Seis perguntas, uma por vez. Cada opção pode ter: eco (comentário exibido
+   após a escolha), fotos (números da foto — mudam se a resposta mudar) e,
+   só a pergunta 6, fecho (título e texto que a página de contato assume). */
 const ETAPAS = [
   {
     id: 'moradores',
-    numero: 'Pergunta 1 de 6',
     pergunta: 'Quem vai morar na casa?',
-    apoio: 'Começo por aqui porque é o que mais muda o que vale a pena te mostrar.',
+    apoio: 'Entender sua família desde já faz toda a diferença.',
     opcoes: [
-      { id: 'filhos', txt: 'Família com filhos em casa', peso: 0, fotos: 3,
-        eco: 'Então quarto de verdade para cada um pesa mais que metro quadrado de sala. São quatro suítes, todas com armário planejado.' },
-      { id: 'casal', txt: 'Casal, com quartos para receber', peso: 0, fotos: 3,
-        eco: 'Casa grande para dois costuma sobrar quarto — e aqui sobra do jeito certo: quatro suítes, cada uma com armário planejado.' },
-      { id: 'tresgeracoes', txt: 'Família grande, com pais ou sogros junto', peso: 0, fotos: 3,
-        eco: 'Nesse caso o mesmo andar deixa de ser conforto e vira necessidade. Esta casa é térrea: não tem escada em lugar nenhum.' },
-      { id: 'recebe', txt: 'Somos poucos, mas recebemos muito', peso: 0, fotos: 3,
-        eco: 'Aí o que decide é o que fica em volta da casa. O terreno tem 592 m² e a casa ocupa 284 — o resto virou área de lazer.' },
+      { id: 'filhos', txt: 'Família com filhos em casa', peso: 0, fotos: [10, 11],
+        eco: 'A casa oferece 4 suítes amplas, todas montadas com planejados e espaço externo de sobra.' },
+      { id: 'casal', txt: 'Casal, com quartos para receber', peso: 0, fotos: [9, 12],
+        eco: 'Dá pra receber muito bem os familiares e amigos de fora, com conforto, privacidade e acessibilidade.' },
+      { id: 'tresgeracoes', txt: 'Família grande, com pais ou sogros junto', peso: 0, fotos: [3, 4],
+        eco: 'A acessibilidade é fundamental. A casa possui alguns desníveis decorativos — você precisa ver isso pessoalmente e avaliar.' },
+      { id: 'recebe', txt: 'Somos poucos, mas recebemos muito', peso: 0, fotos: [16, 7],
+        eco: 'Então o importante pode ser o que fica em volta da casa. Além da piscina, a casa tem um gourmet bem espaçoso para acolher os eventos familiares.' },
     ],
   },
   {
     id: 'pesa',
-    numero: 'Pergunta 2 de 6',
     pergunta: 'O que mais pesa na sua escolha?',
     apoio: 'Escolha o que você olharia primeiro numa visita.',
     opcoes: [
-      { id: 'andar', txt: 'Ser tudo no mesmo andar, sem escada', peso: 0, fotos: 4,
+      { id: 'andar', txt: 'Ser tudo no mesmo andar, sem escada', peso: 0, fotos: [1, 6, 18],
         eco: 'Então vou começar por dentro. São 284 m² construídos e nenhum degrau entre a sala e o último quarto.' },
-      { id: 'receber', txt: 'Ter espaço para receber', peso: 0, fotos: 4,
+      { id: 'receber', txt: 'Ter espaço para receber', peso: 0, fotos: [17, 2, 19],
         eco: 'Então vou começar pela área de lazer: piscina aquecida, churrasqueira e pergolado.' },
-      { id: 'suites', txt: 'O número de suítes', peso: 0, fotos: 4,
-        eco: 'São quatro, todas com armário planejado. Vou te mostrar o corredor e os quartos primeiro.' },
-      { id: 'terreno', txt: 'O tamanho do terreno', peso: 0, fotos: 4,
-        eco: 'São 592 m² de terreno para 284 m² de casa. Vou começar pela parte de fora.' },
+      { id: 'conservacao', txt: 'As condições de conservação da casa', peso: 0, fotos: [14, 13, 20],
+        eco: 'Você vai perceber que a casa foi muito bem cuidada — acabamento, marcenaria e estrutura em ótimo estado.' },
+      { id: 'comodos', txt: 'O espaço dos cômodos', peso: 0, fotos: [5, 8, 15],
+        eco: 'Os ambientes são generosos, nada de cômodo apertado aqui. Vou te mostrar a sala e os espaços internos.' },
     ],
   },
   {
     id: 'prazo',
-    numero: 'Pergunta 3 de 6',
-    pergunta: 'Em quanto tempo você pretende mudar?',
-    apoio: 'Não tem resposta errada aqui. Só muda o meu jeito de te ajudar.',
+    pergunta: 'Em quanto tempo você pretende resolver este negócio?',
+    apoio: 'Nada mais justo que um alinhamento de expectativas entre as partes.',
     opcoes: [
-      { id: 'ate3', txt: 'Até 3 meses', peso: 25, fotos: 4,
-        eco: 'Prazo curto pede visita rápida, porque casa térrea grande no bairro não fica muito tempo disponível.' },
-      { id: '3a6', txt: 'De 3 a 6 meses', peso: 18, fotos: 3,
-        eco: 'É um prazo bom: dá para visitar com calma e ainda decidir sem correria.' },
-      { id: 'ano', txt: 'Ainda este ano', peso: 10, fotos: 2,
-        eco: 'Então vale conhecer agora e usar esta casa como régua para comparar as próximas.' },
-      { id: 'pesquisa', txt: 'Sem prazo, estou pesquisando', peso: 3, fotos: 2,
-        eco: 'Faz sentido. No seu lugar eu também olharia bastante antes de mexer numa decisão desse tamanho.' },
+      { id: 'ate3', txt: 'Até 3 meses', peso: 25 },
+      { id: '3a6', txt: 'De 3 a 6 meses', peso: 18 },
+      { id: 'ano', txt: 'Ainda este ano', peso: 10 },
+      { id: 'pesquisa', txt: 'Sem prazo, estou pesquisando', peso: 3 },
     ],
   },
   {
     id: 'venda',
-    numero: 'Pergunta 4 de 6',
-    pergunta: 'Nessa mudança, você tem um imóvel para vender?',
-    apoio: 'É o que costuma definir o prazo de verdade.',
+    pergunta: 'Você tem intenção de colocar um imóvel para realizar o negócio?',
+    apoio: 'Aqui é onde todos ganham tempo na negociação. Uma informação que preciso apresentar para o proprietário antes de agendar qualquer visita.',
     opcoes: [
-      { id: 'javenda', txt: 'Sim, e já está à venda', peso: 15, fotos: 3,
-        eco: 'Bom saber. Com o seu já anunciado, dá para alinhar as duas pontas desde o começo.' },
-      { id: 'aindanao', txt: 'Sim, mas ainda não coloquei', peso: 10, fotos: 2,
-        eco: 'Vale conversarmos sobre isso: colocar o seu no lugar certo costuma encurtar bastante o caminho.' },
-      { id: 'direta', txt: 'Não, é compra direta', peso: 20, fotos: 3,
+      { id: 'permuta', txt: 'Sim, preciso saber se o vendedor aceita permuta', peso: 15, fotos: [12, 9],
+        eco: 'Certo! Vou pegar os detalhes com você para validar a possibilidade com o vendedor.' },
+      { id: 'aindanao', txt: 'Não, mas preciso vender o meu primeiro', peso: 10, fotos: [4, 6],
+        eco: 'Vale conversarmos sobre isso: anunciar no preço certo costuma encurtar bastante o caminho.' },
+      { id: 'direta', txt: 'Não, é compra direta', peso: 20, fotos: [7, 16],
         eco: 'Então o processo é bem mais simples: depende só da sua decisão.' },
     ],
   },
   {
     id: 'pagamento',
-    numero: 'Pergunta 5 de 6',
     pergunta: 'Como você pretende pagar?',
-    apoio: 'Só para eu já chegar na conversa sabendo por onde começar.',
+    apoio: 'Financiamento bancário, carta de consórcio ou recurso próprio.',
     opcoes: [
-      { id: 'avista', txt: 'À vista', peso: 25, fotos: 3, eco: 'Anotado.' },
-      { id: 'misto', txt: 'Parte à vista, parte financiada', peso: 20, fotos: 3, eco: 'Anotado.' },
-      { id: 'banco', txt: 'Financiamento bancário', peso: 18, fotos: 3, eco: 'Anotado.' },
-      { id: 'avaliando', txt: 'Ainda estou avaliando', peso: 8, fotos: 2,
-        eco: 'Tranquilo. Isso é conversa de mesa, com número na frente — não de página na internet.' },
+      { id: 'avista', txt: 'À vista', peso: 25, fotos: [10, 3], eco: 'Certo.' },
+      { id: 'misto', txt: 'Parte à vista, parte financiada', peso: 20, fotos: [13, 17], eco: 'Anotado.' },
+      { id: 'banco', txt: 'Financiamento bancário já aprovado / Carta de crédito contemplada', peso: 18, fotos: [14, 20], eco: 'Excelente.' },
+      { id: 'avaliando', txt: 'Ainda estou avaliando', peso: 8, fotos: [5, 8],
+        eco: 'Tranquilo. Importante consultar um correspondente bancário pra te auxiliar nesta avaliação.' },
     ],
   },
   {
     id: 'visita',
-    numero: 'Pergunta 6 de 6',
     pergunta: 'Você gostaria de conhecer a casa pessoalmente?',
-    apoio: 'Foto e vídeo mostram muito, mas o tamanho a gente só sente andando dentro.',
+    apoio: 'Foto e vídeo mostram muito, mas o tamanho e a energia da casa a gente só sente entrando, né?',
     opcoes: [
-      { id: 'semana', txt: 'Quero marcar esta semana', peso: 30, fotos: 3, eco: '' },
-      { id: 'depois', txt: 'Quero, mas mais para frente', peso: 15, fotos: 2, eco: '' },
-      { id: 'infoantes', txt: 'Prefiro receber mais informações antes', peso: 8, fotos: 1, eco: '' },
+      { id: 'semana', txt: 'Quero marcar esta semana', peso: 30,
+        fechoTitulo: 'Excelente!',
+        fechoLead: 'Pelo que você contou, faz sentido mesmo conhecer a casa logo. Deixa seu nome e seu WhatsApp que eu te chamo para pegar sua disponibilidade.' },
+      { id: 'depois', txt: 'Quero, mas mais para frente', peso: 15,
+        fechoTitulo: 'Sem problemas!',
+        fechoLead: 'Provavelmente ainda tem alguma dúvida pra sanarmos. Vamos conversar no WhatsApp ou no telefone, se estiver mais tranquilo, e aí depois de tudo certo marcamos a visita, se ainda for sua intenção. Deixa seu nome e seu número que eu te chamo em breve.' },
+      { id: 'infoantes', txt: 'Prefiro receber mais informações antes', peso: 8,
+        fechoTitulo: 'Claro! Tudo no seu tempo.',
+        fechoLead: 'Deixa seu nome e seu WhatsApp. Eu te mando a ficha completa da casa e a gente conversa pra eu entender suas dúvidas.' },
     ],
   },
 ];
@@ -153,7 +143,7 @@ const ETAPAS = [
 const canonicalFicha = new URL('/imovel/casa-morada-da-colina-ca5635/', Astro.site).href;
 const urlLp = new URL('/casa-terrea-morada-da-colina/', Astro.site).href;
 const descricao =
-  'Casa térrea à venda no Morada da Colina, Uberlândia — 284 m² construídos em terreno de 592 m², 4 suítes com armário planejado, piscina aquecida e 3 vagas. Veja o vídeo da casa inteira e fale direto com o corretor.';
+  'Casa térrea à venda no Morada da Colina, Uberlândia — 284 m² construídos em terreno de esquina com 592 m², 4 suítes com planejados, piscina e 3 vagas. Veja o vídeo da casa inteira e fale direto com o corretor.';
 
 const videoLd = {
   '@context': 'https://schema.org',
@@ -187,11 +177,7 @@ const listingLd = {
 };
 
 const dadosJs = {
-  etapas: ETAPAS.map((e) => ({
-    id: e.id,
-    opcoes: e.opcoes.map((o) => ({ id: o.id, txt: o.txt, peso: o.peso, fotos: o.fotos })),
-  })),
-  sequencias: SEQUENCIAS,
+  etapas: ETAPAS.map((e) => ({ id: e.id })),
   wa: CONTATO.whatsappNum,
 };
 ---
@@ -210,7 +196,7 @@ const dadosJs = {
     <div class="lp-hero-in">
       <div class="lp-hero-topo">
         <p class="rotulo lp-hero-rot">Morada da Colina · Uberlândia · Ref. {d.codigo}</p>
-        <h1>Casa térrea de 4&nbsp;suítes no Morada da Colina</h1>
+        <h1>Casa térrea com 4&nbsp;suítes no Morada da Colina</h1>
       </div>
 
       <figure class="lp-hero-video">
@@ -220,39 +206,42 @@ const dadosJs = {
           playsinline muted loop autoplay controls preload="metadata"
           aria-label="Vídeo do percurso completo pela casa"
         ></video>
-        <figcaption class="rotulo">Casa inteira, sem corte de edição de anúncio</figcaption>
       </figure>
 
       <div class="lp-hero-texto">
         <p class="lp-hero-lead">
-          Quem procura casa térrea grande na Zona Sul sabe como é difícil aparecer uma.
-          Esta tem 284&nbsp;m² construídos em terreno de 592&nbsp;m², e é toda no mesmo
-          andar — nenhum degrau entre a sala e o último quarto.
+          Você que procura por casa térrea grande, na Zona Sul, fora de condomínio,
+          sabe como é difícil aparecer uma que realmente esteja boa. Esta tem
+          284&nbsp;m² construídos em um terreno de esquina com 592&nbsp;m², um
+          projeto atemporal bem distribuído, com espaços de área íntima e social
+          bem colocados, proporcionando o melhor em privacidade e lazer.
         </p>
-        <p class="lp-hero-preco">{precoBR(d.preco)}</p>
+        <p class="lp-hero-preco">{precoBR(d.preco)} <span>(somente venda)</span></p>
         <p class="lp-hero-nota">
-          O anúncio mostrou um pedaço. Aqui está a casa inteira, em pouco mais de
-          quarenta segundos. Depois eu faço algumas perguntas e vou te mostrando o
-          que interessa para o seu caso.
+          O anúncio te mostrou um pedaço. Aqui estão os detalhes, a casa inteira,
+          em pouco mais de quarenta segundos. Depois quero entender melhor suas
+          expectativas e prioridades para, se for o seu desejo para o momento,
+          lhe proporcionar o atendimento mais assertivo possível.
         </p>
         <a class="btn btn-solido lp-hero-btn" href="#etapa-moradores">Começar</a>
       </div>
     </div>
   </header>
 
-  <!-- ————————————————— PERCURSO ————————————————— -->
+  <!-- ————————————————— PERCURSO: uma pergunta por vez ————————————————— -->
   <div class="percurso">
     {ETAPAS.map((etapa, i) => (
       <section class="etapa" id={`etapa-${etapa.id}`} data-etapa={etapa.id} data-ordem={i}>
         <div class="etapa-in">
-          <p class="rotulo etapa-num">{etapa.numero}</p>
+          {i > 0 && <button type="button" class="voltar" data-voltar={i}>← voltar</button>}
           <h2>{etapa.pergunta}</h2>
           <p class="etapa-apoio">{etapa.apoio}</p>
 
           <div class="opcoes" role="group" aria-label={etapa.pergunta}>
             {etapa.opcoes.map((o) => (
               <button type="button" class="opcao" data-etapa={etapa.id} data-opcao={o.id}
-                      data-peso={o.peso} data-fotos={o.fotos}>
+                      data-peso={o.peso} data-fotos={(o.fotos || []).join(',')}
+                      data-fecho-titulo={o.fechoTitulo} data-fecho-lead={o.fechoLead}>
                 <span class="opcao-txt">{o.txt}</span>
                 <span class="opcao-marca" aria-hidden="true"></span>
               </button>
@@ -274,8 +263,9 @@ const dadosJs = {
     ))}
 
     <!-- Acervo: as 20 fotos existem no HTML desde o carregamento, com legenda e
-         alt. Com JS elas migram daqui para a etapa que as liberou; sem JS ficam
-         todas aqui, e a página continua completa para leitor de tela e robô. -->
+         alt. Com JS elas migram daqui para a pergunta que as liberou; sem JS
+         ficam todas aqui, e a página continua completa para leitor de tela e
+         para o robô. -->
     <section class="lp-galeria-bloco" id="lp-galeria">
       <p class="rotulo lp-galeria-rot">Fotos da casa</p>
       <div class="lp-galeria" id="lp-galeria-grade">
@@ -294,14 +284,14 @@ const dadosJs = {
     <!-- ————————————————— FECHO ————————————————— -->
     <section class="fecho" id="fecho">
       <div class="fecho-in">
-        <p class="rotulo">Para terminar</p>
+        <button type="button" class="voltar" id="fecho-voltar">← voltar</button>
         <h2 id="fecho-titulo">Me diz como te chamar</h2>
         <p class="fecho-lead" id="fecho-lead">
           Deixe seu nome e seu WhatsApp que eu te chamo para combinar o resto.
         </p>
 
         <aside class="resumo" id="resumo" hidden>
-          <p class="rotulo">O que você me contou</p>
+          <p class="rotulo">O que você já me contou</p>
           <ul id="resumo-lista"></ul>
         </aside>
 
@@ -319,7 +309,10 @@ const dadosJs = {
             <input type="email" name="email" autocomplete="email" placeholder="para eu mandar a ficha completa" />
           </label>
 
-          <button type="submit" class="btn btn-solido form-enviar">Quero falar com o Marcus</button>
+          <div class="fecho-botoes">
+            <button type="button" class="btn btn-solido" id="btn-enviar">Enviar mensagem</button>
+            <button type="button" class="btn-wa" id="btn-whats" hidden>Falar no WhatsApp agora</button>
+          </div>
           <p class="form-nota">
             Eu mesmo respondo, não é robô. Seus dados servem só para essa conversa —
             veja a <a href="/privacidade/">política de privacidade</a>.
@@ -328,12 +321,9 @@ const dadosJs = {
         </form>
 
         <div class="obrigado" id="obrigado" hidden>
-          <h3>Recebi, obrigado.</h3>
-          <p id="obrigado-txt">Vou te chamar no WhatsApp. Se preferir adiantar, é só abrir a conversa aqui.</p>
+          <h3>Será uma satisfação atender você!</h3>
+          <p>Gratidão!</p>
           <a class="btn-wa" id="wa-final" href="#" target="_blank" rel="noopener">Abrir conversa no WhatsApp</a>
-          <p class="obrigado-ficha">
-            Prefere ver tudo de uma vez? A <a href="/imovel/casa-morada-da-colina-ca5635/">ficha completa do imóvel</a> está no site.
-          </p>
         </div>
       </div>
     </section>
@@ -358,93 +348,88 @@ const dadosJs = {
     }}
   >
     (function () {
-      var html = document.documentElement;
       var etapas = Array.from(document.querySelectorAll('.etapa'));
+      var fechoSec = document.getElementById('fecho');
       var grade = document.getElementById('lp-galeria-grade');
       var fotos = Array.from(grade.querySelectorAll('.lp-foto'));
       var barra = document.getElementById('barra');
       var suave = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
       var respostas = {};
+      var fotosPorEtapa = {}; // idEtapa -> números atualmente exibidos ali
       var score = 0;
-      var liberadas = 0;
-      var sequencia = dados.sequencias.andar;
+      var cursor = 0;
+
+      /* ——— navegação: uma pergunta visível por vez ——— */
+      function mostraEtapa(i) {
+        cursor = i;
+        etapas.forEach(function (e, idx) { e.classList.toggle('ativa', idx === i); });
+        fechoSec.classList.remove('ativa');
+        barra.style.width = (i / etapas.length) * 100 + '%';
+      }
+      function mostraFecho() {
+        etapas.forEach(function (e) { e.classList.remove('ativa'); });
+        fechoSec.classList.add('ativa');
+        barra.style.width = '100%';
+      }
 
       /* ——— fotos ———
-         Cada resposta entrega as próximas fotos da sequência dentro da própria
-         etapa, para o visitante ver o resultado onde ele está, e não no fim da
-         página. Mover o nó preserva a imagem já carregada. */
-      function revela(qtd, destino) {
-        var de = liberadas;
-        liberadas = Math.min(fotos.length, liberadas + qtd);
-        sequencia.slice(de, liberadas).forEach(function (n, pos) {
+         Cada opção carrega sua própria lista de fotos. Ao responder (ou
+         trocar a resposta) de uma pergunta, as fotos da escolha anterior
+         voltam para o acervo e as da escolha nova aparecem ali mesmo. */
+      function aplicaFotos(idEtapa, destino, numerosNovos) {
+        var anteriores = fotosPorEtapa[idEtapa] || [];
+        anteriores.forEach(function (n) {
+          if (numerosNovos.indexOf(n) === -1) {
+            var el = fotos[n - 1];
+            el.classList.remove('vista');
+            grade.appendChild(el);
+          }
+        });
+        numerosNovos.forEach(function (n, pos) {
           var el = fotos[n - 1];
           if (!el) return;
-          destino.appendChild(el);
+          if (el.parentElement !== destino) destino.appendChild(el);
           el.style.transitionDelay = suave ? pos * 80 + 'ms' : '0ms';
-          /* reflow síncrono para a transição pegar o estado inicial.
-             requestAnimationFrame não serve: em aba oculta ele não dispara e
-             as fotos ficariam invisíveis para sempre. */
+          /* reflow síncrono: requestAnimationFrame não dispara em aba oculta
+             e a foto ficaria invisível para sempre. */
           void el.offsetWidth;
           el.classList.add('vista');
         });
-        destino.classList.add('cheia');
+        destino.classList.toggle('cheia', numerosNovos.length > 0);
+        fotosPorEtapa[idEtapa] = numerosNovos;
       }
-      /* Trocar a resposta da pergunta 2 muda o eixo: as fotos já entregues são
-         devolvidas e reentregues na ordem nova, sem repetir nem sumir. */
-      function refazEntrega() {
-        var total = liberadas;
-        fotos.forEach(function (f) {
-          f.classList.remove('vista');
-          f.style.transitionDelay = '0ms';
-          f.style.transition = 'none';
-          grade.appendChild(f);
-          void f.offsetWidth;
-          f.style.transition = '';
-        });
-        liberadas = 0;
-        var acumulado = 0;
+
+      function resumoTexto() {
+        var partes = [];
         dados.etapas.forEach(function (e) {
           var r = respostas[e.id];
-          if (!r || acumulado >= total) return;
-          var caixa = document.querySelector('[data-fotos-de="' + e.id + '"]');
-          var quanto = Math.min(r.fotos, total - acumulado);
-          acumulado += quanto;
-          revela(quanto, caixa);
+          if (r) partes.push('• ' + r.texto);
         });
+        return partes.join('\n');
       }
 
-      /* ——— avanço ——— */
-      function destrava(i) {
-        var alvo = etapas[i];
-        if (!alvo) return;
-        alvo.classList.add('aberta');
-      }
-      function rolaAte(el) {
-        if (!el) return;
-        el.scrollIntoView({ behavior: suave ? 'smooth' : 'auto', block: 'center' });
-      }
-      function atualizaBarra() {
-        var feitas = Object.keys(respostas).length;
-        barra.style.width = (feitas / dados.etapas.length) * 100 + '%';
-      }
-
+      /* ——— perguntas ——— */
       etapas.forEach(function (secao, i) {
+        var idEtapa = secao.dataset.etapa;
+
+        var botaoVoltar = secao.querySelector('.voltar');
+        if (botaoVoltar) {
+          botaoVoltar.addEventListener('click', function () { mostraEtapa(i - 1); });
+        }
+
         secao.querySelectorAll('.opcao').forEach(function (botao) {
           botao.addEventListener('click', function () {
-            var idEtapa = botao.dataset.etapa;
             var idOpcao = botao.dataset.opcao;
             var jaRespondida = !!respostas[idEtapa];
+            if (jaRespondida) score -= respostas[idEtapa].peso;
 
-            /* trocar de resposta não soma pontos nem fotos de novo */
-            if (jaRespondida) {
-              score -= respostas[idEtapa].peso;
-            }
             respostas[idEtapa] = {
               opcao: idOpcao,
               texto: botao.querySelector('.opcao-txt').textContent,
               peso: Number(botao.dataset.peso),
-              fotos: Number(botao.dataset.fotos),
+              fechoTitulo: botao.dataset.fechoTitulo,
+              fechoLead: botao.dataset.fechoLead,
             };
             score += Number(botao.dataset.peso);
 
@@ -458,53 +443,33 @@ const dadosJs = {
             secao.querySelectorAll('.eco').forEach(function (p) { p.classList.remove('visivel'); });
             if (eco) eco.classList.add('visivel');
 
-            /* A pergunta 2 troca o eixo, então a sequência inteira muda: as
-               fotos já entregues precisam ser redistribuídas na ordem nova,
-               senão uma foto da ordem antiga migra e abre buraco atrás. */
-            if (idEtapa === 'pesa') {
-              sequencia = dados.sequencias[idOpcao] || sequencia;
-              refazEntrega();
-            }
+            var numeros = (botao.dataset.fotos || '')
+              .split(',').filter(Boolean).map(Number);
+            aplicaFotos(idEtapa, secao.querySelector('[data-fotos-de="' + idEtapa + '"]'), numeros);
 
-            if (!jaRespondida) {
-              revela(
-                Number(botao.dataset.fotos),
-                secao.querySelector('[data-fotos-de="' + idEtapa + '"]')
-              );
-            }
-            atualizaBarra();
+            barra.style.width = ((i + 1) / etapas.length) * 100 + '%';
 
-            if (i + 1 < etapas.length) {
-              destrava(i + 1);
-              if (!jaRespondida) setTimeout(function () { rolaAte(etapas[i + 1]); }, 420);
-            } else {
-              fecha();
-            }
+            setTimeout(function () {
+              if (i + 1 < etapas.length) mostraEtapa(i + 1);
+              else fecha();
+            }, 380);
           });
         });
       });
 
-      /* ——— fecho: o tom muda com a temperatura ——— */
-      function fecha() {
-        var sec = document.getElementById('fecho');
-        sec.classList.add('aberta');
+      document.getElementById('fecho-voltar').addEventListener('click', function () {
+        mostraEtapa(etapas.length - 1);
+      });
 
+      /* ——— fecho: título e texto vêm direto da resposta da pergunta 6 ——— */
+      function fecha() {
         var titulo = document.getElementById('fecho-titulo');
         var lead = document.getElementById('fecho-lead');
-        var quer = respostas.visita && respostas.visita.opcao;
+        var ultima = respostas[dados.etapas[dados.etapas.length - 1].id];
 
-        if (score >= 70 || quer === 'semana') {
-          titulo.textContent = 'Então vamos marcar';
-          lead.textContent =
-            'Pelo que você me contou, faz sentido conhecer a casa logo. Deixa seu nome e seu WhatsApp que eu te chamo para combinar dia e horário.';
-        } else if (score >= 40) {
-          titulo.textContent = 'Me diz como te chamar';
-          lead.textContent =
-            'Deixa seu nome e seu WhatsApp. Eu te mando a ficha completa e a gente combina a visita quando fizer sentido para você.';
-        } else {
-          titulo.textContent = 'Sem pressa nenhuma';
-          lead.textContent =
-            'Se ainda está pesquisando, tudo bem — no seu lugar eu faria igual. Deixa seu contato que eu te mando a ficha completa e aviso quando aparecer algo parecido.';
+        if (ultima && ultima.fechoTitulo) {
+          titulo.textContent = ultima.fechoTitulo;
+          lead.textContent = ultima.fechoLead;
         }
 
         var lista = document.getElementById('resumo-lista');
@@ -518,37 +483,56 @@ const dadosJs = {
         });
         document.getElementById('resumo').hidden = false;
 
-        setTimeout(function () { rolaAte(sec); }, 420);
+        mostraFecho();
       }
 
-      /* ——— envio ——— */
-      function resumoTexto() {
-        var partes = [];
-        dados.etapas.forEach(function (e) {
-          var r = respostas[e.id];
-          if (r) partes.push('• ' + r.texto);
-        });
-        return partes.join('\n');
-      }
-
+      /* ——— envio ———
+         Dois caminhos de conversão: "Enviar mensagem" manda e-mail; "Falar
+         no WhatsApp agora" faz o mesmo e ainda abre o WhatsApp sozinho. Esse
+         segundo botão só aparece depois que nome e telefone são válidos. */
       var form = document.getElementById('form-lead');
-      form.addEventListener('submit', function (ev) {
-        ev.preventDefault();
-        var erro = document.getElementById('form-erro');
-        var dadosForm = new FormData(form);
-        var nome = (dadosForm.get('nome') || '').toString().trim();
-        var telefone = (dadosForm.get('telefone') || '').toString().trim();
-        var email = (dadosForm.get('email') || '').toString().trim();
+      var erro = document.getElementById('form-erro');
+      var btnEnviar = document.getElementById('btn-enviar');
+      var btnWhats = document.getElementById('btn-whats');
 
-        if (!nome || telefone.replace(/\D/g, '').length < 10) {
+      function nomeValido(v) { return v.trim().length > 1; }
+      function telValido(v) { return v.replace(/\D/g, '').length >= 10; }
+
+      function atualizaBotaoWhats() {
+        btnWhats.hidden = !(nomeValido(form.nome.value) && telValido(form.telefone.value));
+      }
+      form.nome.addEventListener('input', atualizaBotaoWhats);
+      form.telefone.addEventListener('input', atualizaBotaoWhats);
+
+      function mostraObrigado(nome, telefone, abrirWhats) {
+        form.hidden = true;
+        document.getElementById('obrigado').hidden = false;
+
+        var msg =
+          'Olá Marcus, sou ' + nome + '. Vim pela página da casa térrea no Morada da Colina (CA5635).\n\n' +
+          resumoTexto();
+        var waHref = 'https://wa.me/' + dados.wa + '?text=' + encodeURIComponent(msg);
+        document.getElementById('wa-final').href = waHref;
+
+        if (abrirWhats) {
+          setTimeout(function () { window.location.href = waHref; }, 1500);
+        }
+      }
+
+      function enviarLead(botao, abrirWhats) {
+        var nome = form.nome.value.trim();
+        var telefone = form.telefone.value.trim();
+        var email = form.email.value.trim();
+
+        if (!nomeValido(nome) || !telValido(telefone)) {
           erro.textContent = 'Preciso do seu nome e de um WhatsApp com DDD.';
           erro.hidden = false;
           return;
         }
         erro.hidden = true;
 
-        var botao = form.querySelector('.form-enviar');
         botao.disabled = true;
+        var textoOriginal = botao.textContent;
         botao.textContent = 'Enviando…';
 
         var eventId = 'lp-ca5635-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8);
@@ -562,12 +546,14 @@ const dadosJs = {
           }).filter(Boolean),
         };
 
+        /* Sinal para o Meta contar a conversão só aqui: o Pixel só dispara
+           dentro deste clique, não em nenhum outro ponto da página. */
         fetch('/api/lead', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(corpo),
         })
-          .catch(function () { /* o WhatsApp abaixo continua sendo o caminho */ })
+          .catch(function () { /* o WhatsApp continua sendo o caminho, mesmo se o e-mail falhar */ })
           .then(function () {
             if (window.fbq) fbq('track', 'Lead', { content_name: 'CA5635' }, { eventID: eventId });
             fetch('/api/capi', {
@@ -581,47 +567,38 @@ const dadosJs = {
               }),
             }).catch(function () {});
 
-            form.hidden = true;
-            var ok = document.getElementById('obrigado');
-            ok.hidden = false;
-            document.getElementById('obrigado-txt').textContent =
-              'Oi ' + nome.split(' ')[0] + ', recebi seu contato. Vou te chamar no WhatsApp. Se preferir adiantar, é só abrir a conversa aqui.';
-            var msg =
-              'Olá Marcus, sou ' + nome + '. Vim pela página da casa térrea no Morada da Colina (CA5635).\n\n' +
-              resumoTexto();
-            document.getElementById('wa-final').href =
-              'https://wa.me/' + dados.wa + '?text=' + encodeURIComponent(msg);
-            rolaAte(ok);
+            botao.textContent = textoOriginal;
+            mostraObrigado(nome, telefone, abrirWhats);
           });
-      });
+      }
 
-      /* ——— lightbox ——— */
+      btnEnviar.addEventListener('click', function () { enviarLead(btnEnviar, false); });
+      btnWhats.addEventListener('click', function () { enviarLead(btnWhats, true); });
+
+      /* ——— lightbox: mostra só as fotos que já estavam juntas na tela ——— */
       var lb = document.getElementById('lightbox');
       var lbImg = document.getElementById('lb-img');
       var contador = document.getElementById('lb-contador');
+      var listaAtual = [];
       var idx = 0;
-      function visiveis() {
-        return sequencia.slice(0, Math.max(liberadas, html.classList.contains('js') ? 0 : fotos.length));
-      }
       function mostra(i) {
-        var lista = visiveis();
-        if (!lista.length) return;
-        idx = (i + lista.length) % lista.length;
-        var n = lista[idx];
+        if (!listaAtual.length) return;
+        idx = (i + listaAtual.length) % listaAtual.length;
+        var n = Number(listaAtual[idx].dataset.n);
         lbImg.src = urls[n - 1];
         lbImg.alt = legendas[n - 1] + ' — ' + titulo;
-        contador.textContent = idx + 1 + ' / ' + lista.length;
+        contador.textContent = idx + 1 + ' / ' + listaAtual.length;
       }
-      function abre(n) {
-        var lista = visiveis();
-        var pos = lista.indexOf(n);
-        mostra(pos < 0 ? 0 : pos);
+      function abre(elClicado) {
+        var container = elClicado.closest('.lp-galeria');
+        listaAtual = Array.from(container.querySelectorAll('.lp-foto'));
+        mostra(listaAtual.indexOf(elClicado));
         lb.hidden = false;
         document.body.style.overflow = 'hidden';
       }
       function fechaLb() { lb.hidden = true; document.body.style.overflow = ''; }
       fotos.forEach(function (f) {
-        f.addEventListener('click', function () { abre(Number(f.dataset.n)); });
+        f.addEventListener('click', function () { abre(f); });
       });
       document.getElementById('lb-fechar').addEventListener('click', fechaLb);
       document.getElementById('lb-prev').addEventListener('click', function () { mostra(idx - 1); });
@@ -635,7 +612,7 @@ const dadosJs = {
       });
 
       /* ——— estado inicial ——— */
-      destrava(0);
+      mostraEtapa(0);
     })();
   </script>
 
@@ -662,10 +639,14 @@ const dadosJs = {
       font-family: var(--display); font-size: clamp(2rem, 6.4vw, 3.4rem);
       line-height: 1.03; letter-spacing: -.028em; margin: 0 0 4px;
     }
-    .lp-hero-lead { font-size: 1.12rem; margin: 0 0 22px; max-width: 40ch; }
+    .lp-hero-lead { font-size: 1.12rem; margin: 0 0 22px; max-width: 42ch; }
     .lp-hero-preco {
       font-family: var(--display); font-weight: 600;
       font-size: clamp(1.5rem, 4.4vw, 2rem); letter-spacing: -.02em; margin: 0 0 20px;
+    }
+    .lp-hero-preco span {
+      font-family: var(--corpo); font-weight: 400; font-size: .5em;
+      color: var(--tinta-media); letter-spacing: 0; margin-left: 4px;
     }
     .lp-hero-nota { color: var(--tinta-media); max-width: 44ch; margin: 0 0 28px; }
     .lp-hero-btn { display: inline-block; }
@@ -676,7 +657,6 @@ const dadosJs = {
       display: block; border-radius: 14px; background: var(--papel-fundo);
       box-shadow: var(--sombra-alta); object-fit: cover;
     }
-    .lp-hero-video figcaption { margin-top: 12px; color: var(--tinta-fraca); }
 
     /* No telefone a ordem é a do HTML: título, vídeo, texto. O vídeo é o
        gancho — ele não pode ficar embaixo de três parágrafos. */
@@ -685,8 +665,6 @@ const dadosJs = {
       .lp-hero-in {
         grid-template-columns: 1.05fr .95fr;
         grid-template-areas: 'topo video' 'texto video';
-        /* a segunda linha absorve a altura do vídeo; sem isso as duas linhas
-           dividem essa altura e abre um vão entre o título e o texto */
         grid-template-rows: auto 1fr;
         gap: 18px 64px; align-items: start;
       }
@@ -695,10 +673,24 @@ const dadosJs = {
       .lp-hero-video { grid-area: video; justify-self: end; align-self: center; }
     }
 
-    /* ——— etapas ——— */
-    .percurso { max-width: 780px; margin: 0 auto; padding: 0 28px 96px; }
-    .etapa { padding: 44px 0; border-top: 1px solid var(--traco); }
-    .etapa-num { color: var(--ciano-tinta); margin: 0 0 12px; }
+    /* ——— perguntas: uma por vez ——— */
+    .percurso { max-width: 780px; margin: 0 auto; padding: 0 28px 96px; min-height: 40vh; }
+    .etapa, .fecho { display: none; }
+    .etapa.ativa, .fecho.ativa { display: block; animation: entra .4s cubic-bezier(.2,.7,.3,1) both; }
+    @keyframes entra {
+      from { opacity: 0; transform: translateY(14px); }
+      to { opacity: 1; transform: none; }
+    }
+    .etapa-in { padding: 40px 0; }
+    .fecho-in { padding: 48px 0 0; }
+
+    .voltar {
+      display: inline-block; margin: 0 0 20px; padding: 0; border: 0; background: none;
+      font-family: var(--mono); font-size: .78rem; letter-spacing: .03em;
+      color: var(--tinta-fraca); cursor: pointer; transition: color .18s;
+    }
+    .voltar:hover { color: var(--ciano-tinta); }
+
     .etapa h2 {
       font-family: var(--display); font-size: clamp(1.45rem, 4.4vw, 2.05rem);
       line-height: 1.1; letter-spacing: -.022em; margin: 0 0 10px;
@@ -735,10 +727,10 @@ const dadosJs = {
       border-left: 3px solid var(--ciano); border-radius: 0 10px 10px 0;
       color: var(--tinta-media);
     }
-    .eco.visivel { display: block; animation: sobe .45s cubic-bezier(.2,.7,.3,1) both; }
+    .eco.visivel { display: block; animation: entra .45s cubic-bezier(.2,.7,.3,1) both; }
 
     /* ——— galeria ——— */
-    .lp-galeria-bloco { padding: 40px 0; border-top: 1px solid var(--traco); }
+    .lp-galeria-bloco { padding: 40px 0; border-top: 1px solid var(--traco); display: none; }
     .lp-galeria-rot { color: var(--ciano-tinta); margin: 0 0 18px; }
     .lp-galeria { display: flex; flex-wrap: wrap; gap: 10px; }
     .etapa-fotos:empty { display: none; }
@@ -747,7 +739,10 @@ const dadosJs = {
       flex: 1 1 calc(50% - 5px); min-width: 140px; position: relative;
       padding: 0; border: 0; background: var(--papel-fundo); cursor: pointer;
       border-radius: 10px; overflow: hidden; aspect-ratio: 4 / 3;
+      opacity: 0; transform: scale(.94) translateY(10px);
+      transition: opacity .55s ease, transform .55s cubic-bezier(.2,.7,.3,1);
     }
+    .lp-foto.vista { opacity: 1; transform: none; }
     .lp-foto img { width: 100%; height: 100%; object-fit: cover; display: block; }
     .lp-foto-leg {
       position: absolute; inset: auto 0 0 0; padding: 26px 10px 8px;
@@ -757,8 +752,16 @@ const dadosJs = {
     }
     @media (min-width: 640px) { .lp-foto { flex-basis: calc(33.333% - 7px); } }
 
+    /* Sem JS: nada de wizard — todas as perguntas e o acervo inteiro
+       aparecem juntos, legíveis e completos. */
+    :global(html:not(.js)) .etapa,
+    :global(html:not(.js)) .fecho,
+    :global(html:not(.js)) .lp-galeria-bloco { display: block !important; }
+    :global(html:not(.js)) .lp-foto { opacity: 1; transform: none; }
+    :global(html:not(.js)) .voltar,
+    :global(html:not(.js)) .lp-progresso { display: none; }
+
     /* ——— fecho ——— */
-    .fecho { padding: 48px 0 0; border-top: 1px solid var(--traco); }
     .fecho h2 {
       font-family: var(--display); font-size: clamp(1.5rem, 4.6vw, 2.15rem);
       line-height: 1.08; letter-spacing: -.022em; margin: 10px 0 12px;
@@ -785,46 +788,21 @@ const dadosJs = {
       transition: border-color .2s;
     }
     .form input:focus { border-color: var(--ciano); outline: none; }
-    .form-enviar { margin-top: 6px; border: 0; cursor: pointer; font: inherit; }
-    .form-enviar[disabled] { opacity: .6; cursor: default; }
+
+    .fecho-botoes { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 6px; }
+    .fecho-botoes button { border: 0; cursor: pointer; font: inherit; }
+    .fecho-botoes button[disabled] { opacity: .6; cursor: default; }
+
     .form-nota { font-size: .86rem; color: var(--tinta-fraca); margin: 0; }
     .form-nota a { text-decoration: underline; }
     .form-erro { color: #b3261e; margin: 0; font-size: .92rem; }
 
-    .obrigado h3 { font-family: var(--display); font-size: 1.5rem; margin: 0 0 10px; }
-    .obrigado p { margin: 0 0 18px; }
-    .obrigado-ficha { font-size: .92rem; color: var(--tinta-fraca); margin-top: 20px; }
-    .obrigado-ficha a { text-decoration: underline; }
-
-    /* ——— animação de entrada ———
-       Só existe quando o JS está vivo. Sem JS, tudo já está aberto e legível. */
-    @keyframes sobe {
-      from { opacity: 0; transform: translateY(14px); }
-      to { opacity: 1; transform: none; }
-    }
-    :global(html.js) .etapa,
-    :global(html.js) .fecho {
-      opacity: 0; transform: translateY(22px); pointer-events: none;
-      transition: opacity .55s cubic-bezier(.2,.7,.3,1), transform .55s cubic-bezier(.2,.7,.3,1);
-    }
-    :global(html.js) .etapa.aberta,
-    :global(html.js) .fecho.aberta {
-      opacity: 1; transform: none; pointer-events: auto;
-    }
-    /* Com JS o acervo do fim vira só a origem das fotos: elas migram para a
-       etapa que as liberou, e o bloco não aparece. */
-    :global(html.js) .lp-galeria-bloco { display: none; }
-    :global(html.js) .lp-foto {
-      opacity: 0; transform: scale(.94) translateY(10px);
-      transition: opacity .55s ease, transform .55s cubic-bezier(.2,.7,.3,1);
-    }
-    :global(html.js) .lp-foto.vista { opacity: 1; transform: none; }
+    .obrigado h3 { font-family: var(--display); font-size: 1.6rem; margin: 0 0 6px; }
+    .obrigado p { margin: 0 0 20px; color: var(--tinta-media); }
+    .obrigado .btn-wa { border: 0; cursor: pointer; font: inherit; }
 
     @media (prefers-reduced-motion: reduce) {
-      :global(html.js) .etapa,
-      :global(html.js) .fecho,
-      :global(html.js) .lp-foto { transition: none; }
-      .eco.visivel { animation: none; }
+      .etapa.ativa, .fecho.ativa, .lp-foto, .eco.visivel { animation: none; transition: none; }
     }
   </style>
 </LP>

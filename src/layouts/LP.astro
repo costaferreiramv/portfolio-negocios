@@ -94,16 +94,10 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
 
     <footer class="lp-foot">
       <div class="lp-foot-in">
-        <Image class="lp-foot-logo so-claro" src={logoNavy} alt="Portfólio Negócios Imobiliários" height={120} />
-        <Image class="lp-foot-logo so-escuro" src={logoWhite} alt="Portfólio Negócios Imobiliários" height={120} />
+        <Image class="lp-foot-logo" src={logoWhite} alt="Portfólio Negócios Imobiliários" height={120} />
         <p>
-          Marcus Vinícius Costa · Corretor de Imóveis · {CONTATO.creci}/MG-F<br />
-          {CONTATO.razao} · {CONTATO.cidade}
-        </p>
-        <p class="lp-foot-links">
-          <a href="/">Portfólio Negócios</a> ·
-          <a href="/zona-sul/">Imóveis na Zona Sul</a> ·
-          <a href="/privacidade/">Privacidade</a>
+          {CONTATO.razao} · CNPJ {CONTATO.cnpj.replace('CNPJ ', '')} · {CONTATO.cidade}<br />
+          Marcus Vinícius Costa · Corretor de Imóveis · {CONTATO.creci}/MG-F
         </p>
       </div>
     </footer>

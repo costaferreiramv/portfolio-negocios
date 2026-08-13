@@ -722,3 +722,22 @@ button.contato-linha-dupla{gap:8px;background:none;border:none;font:inherit;text
   .reveal{opacity:1;transform:none;transition:none}
   .card,.btn,.btn-wa,.foto img,.galeria img{transition:none}
 }
+
+/* ---- landing pages de funil (layout LP) ---- */
+.lp-body{background:var(--papel)}
+.lp-foot{border-top:1px solid var(--traco);margin-top:64px;padding:44px 0 56px;background:var(--papel-fundo)}
+.lp-foot-in{max-width:var(--maxw);margin:0 auto;padding:0 28px;text-align:center}
+.lp-foot-logo{height:auto;margin:0 auto 18px;display:block}
+.lp-foot p{margin:0 0 10px;color:var(--tinta-media);font-size:.92rem;line-height:1.6}
+.lp-foot-links a{color:var(--tinta-media);text-decoration:underline;text-underline-offset:3px}
+.lp-foot-links a:hover{color:var(--ciano-tinta)}
+
+/* ---- porta da ficha para a landing page de funil ---- */
+.prop-lp{display:flex;align-items:center;gap:14px;margin:0 0 22px;padding:15px 18px;
+  border:1px solid var(--traco);border-radius:12px;background:var(--papel-alto);
+  transition:border-color .2s,transform .2s,box-shadow .2s}
+.prop-lp:hover{border-color:var(--ciano);transform:translateY(-2px);box-shadow:var(--sombra)}
+.prop-lp-ic{flex:none;width:38px;height:38px;border-radius:50%;background:var(--ciano);color:#fff;
+  display:grid;place-items:center;font-size:13px;padding-left:3px}
+.prop-lp strong{display:block;font-family:var(--display);font-weight:600;letter-spacing:-.015em}
+.prop-lp em{display:block;font-style:normal;font-size:.88rem;color:var(--tinta-media);margin-top:2px}

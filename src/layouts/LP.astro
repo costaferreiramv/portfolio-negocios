@@ -1,0 +1,111 @@
+---
+/* Layout das páginas de funil (landing pages de imóvel).
+   Mesma identidade do site, mas sem menu e sem rodapé de navegação: nenhuma
+   porta de saída no meio do percurso. O canonical é parametrizável porque a
+   página oficial do imóvel continua sendo a ficha — a LP não disputa com ela. */
+import '@fontsource-variable/archivo';
+import '@fontsource-variable/literata';
+import '@fontsource/ibm-plex-mono/400.css';
+import '@fontsource/ibm-plex-mono/500.css';
+import '../styles/global.css';
+import { Image } from 'astro:assets';
+import logoNavy from '../assets/brand/logo-navy.png';
+import logoWhite from '../assets/brand/logo-white.png';
+import { CONTATO } from '../lib/site';
+
+interface Props {
+  title: string;
+  description: string;
+  /** URL absoluta da imagem social (og:image) */
+  image?: string;
+  /** Página oficial do assunto. Sem ela, o canonical é a própria URL. */
+  canonical?: string;
+  jsonLd?: object | object[];
+}
+const { title, description, image, canonical, jsonLd } = Astro.props;
+const urlCanonica = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
+const ogImage = image ? new URL(image, Astro.site).href : undefined;
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={urlCanonica} />
+    <link rel="icon" type="image/png" href={logoNavy.src} />
+    <link rel="apple-touch-icon" href={logoNavy.src} />
+    <meta name="theme-color" content="#1e2a44" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:url" content={urlCanonica} />
+    <meta property="og:site_name" content="Portfólio Negócios Imobiliários" />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    {ogImage && <meta property="og:image:alt" content={title} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    {ogImage && <meta name="twitter:image" content={ogImage} />}
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+
+    <!-- marca que o JS está vivo: só então o CSS trava as etapas.
+         Sem JS a página inteira fica legível, para leitor de tela e para o robô. -->
+    <script is:inline>
+      document.documentElement.classList.add('js');
+    </script>
+
+    <!-- Meta Pixel Code -->
+    <script>
+      !(function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+          n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '3524802721153934');
+      fbq('track', 'PageView');
+    </script>
+    <noscript>
+      <img
+        height="1"
+        width="1"
+        style="display:none"
+        src="https://www.facebook.com/tr?id=3524802721153934&ev=PageView&noscript=1"
+      />
+    </noscript>
+    <!-- End Meta Pixel Code -->
+  </head>
+  <body class="lp-body">
+    <main>
+      <slot />
+    </main>
+
+    <footer class="lp-foot">
+      <div class="lp-foot-in">
+        <Image class="lp-foot-logo so-claro" src={logoNavy} alt="Portfólio Negócios Imobiliários" height={120} />
+        <Image class="lp-foot-logo so-escuro" src={logoWhite} alt="Portfólio Negócios Imobiliários" height={120} />
+        <p>
+          Marcus Vinícius Costa · Corretor de Imóveis · {CONTATO.creci}/MG-F<br />
+          {CONTATO.razao} · {CONTATO.cidade}
+        </p>
+        <p class="lp-foot-links">
+          <a href="/">Portfólio Negócios</a> ·
+          <a href="/zona-sul/">Imóveis na Zona Sul</a> ·
+          <a href="/privacidade/">Privacidade</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

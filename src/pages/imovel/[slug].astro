@@ -35,6 +35,13 @@ const tipoLabel: Record<string, string> = {
   area: 'Área', fazenda: 'Fazenda', rancho: 'Rancho', sitio: 'Sítio',
 };
 
+/* Imóveis que têm landing page de funil própria. Quem chega na ficha pelo
+   orgânico ganha a porta para o percurso guiado — é lá que ele vira lead. */
+const LP_POR_CODIGO: Record<string, string> = {
+  CA5635: '/casa-terrea-morada-da-colina/',
+};
+const lpUrl = d.codigo ? LP_POR_CODIGO[d.codigo] : undefined;
+
 // Eixo de condomínios: o bairro não aparece em lugar nenhum (regra do eixo).
 const ocultaBairro = eixoOcultaBairro(d.eixo);
 // Rótulo de localização usado no lugar do bairro quando ele fica oculto.
@@ -108,6 +115,16 @@ const breadcrumbLd = {
         <div class="prop-info">
           <h1>{d.titulo}</h1>
           <div class="prop-preco">{precoBR(d.preco)}</div>
+
+          {lpUrl && (
+            <a class="prop-lp" href={lpUrl}>
+              <span class="prop-lp-ic" aria-hidden="true">▶</span>
+              <span>
+                <strong>Ver a casa em vídeo</strong>
+                <em>Percurso completo, e eu te mostro o que interessa para o seu caso</em>
+              </span>
+            </a>
+          )}
 
           <div class="prop-cotas">
             <div class="c"><div class="v">{d.areaUtil} m²</div><div class="l rotulo">{d.areaTerreno ? 'Construída' : 'Área útil'}</div></div>

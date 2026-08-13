@@ -1,10 +1,11 @@
 ---
 /* Landing page de funil do CA5635 — casa térrea de 4 suítes no Morada da Colina.
-   Fluxo tipo assistente: uma pergunta por vez, com "voltar". Cada resposta abre
-   um comentário do Marcus e, quando faz sentido, entrega fotos específicas
-   daquela opção — trocar a resposta troca as fotos. O canonical aponta para a
-   ficha, que continua sendo a página oficial do imóvel — a LP não disputa
-   busca com ela. */
+   Fluxo tipo assistente: uma pergunta por vez, com "voltar" e "avançar" —
+   nada acontece sozinho no tempo, é sempre o clique do visitante que muda de
+   tela. Cada pergunta já mostra suas fotos ao abrir; responder só soma o
+   comentário do Marcus, sem trocar o que já está na tela. O canonical aponta
+   para a ficha, que continua sendo a página oficial do imóvel — a LP não
+   disputa busca com ela. */
 import { getCollection, render } from 'astro:content';
 import { getImage } from 'astro:assets';
 import LP from '../layouts/LP.astro';
@@ -52,22 +53,24 @@ const LEGENDAS = [
   'Banheiro de suíte',
 ];
 
-/* Seis perguntas, uma por vez. Cada opção pode ter: eco (comentário exibido
-   após a escolha), fotos (números da foto — mudam se a resposta mudar) e,
-   só a pergunta 6, fecho (título e texto que a página de contato assume). */
+/* Seis perguntas, uma por vez. As fotos (quando existem) são fixas da
+   pergunta e aparecem já ao abrir, antes de qualquer clique — não dependem
+   de qual opção o visitante escolhe. O eco é o comentário que aparece depois
+   da escolha. Só a pergunta 6 carrega fecho (título e texto do fim). */
 const ETAPAS = [
   {
     id: 'moradores',
     pergunta: 'Quem vai morar na casa?',
     apoio: 'Entender sua família desde já faz toda a diferença.',
+    fotos: [10, 11, 9, 12, 3, 4, 16, 7],
     opcoes: [
-      { id: 'filhos', txt: 'Família com filhos em casa', peso: 0, fotos: [10, 11],
+      { id: 'filhos', txt: 'Família com filhos em casa',
         eco: 'A casa oferece 4 suítes amplas, todas montadas com planejados e espaço externo de sobra.' },
-      { id: 'casal', txt: 'Casal, com quartos para receber', peso: 0, fotos: [9, 12],
+      { id: 'casal', txt: 'Casal, com quartos para receber',
         eco: 'Dá pra receber muito bem os familiares e amigos de fora, com conforto, privacidade e acessibilidade.' },
-      { id: 'tresgeracoes', txt: 'Família grande, com pais ou sogros junto', peso: 0, fotos: [3, 4],
+      { id: 'tresgeracoes', txt: 'Família grande, com pais ou sogros junto',
         eco: 'A acessibilidade é fundamental. A casa possui alguns desníveis decorativos — você precisa ver isso pessoalmente e avaliar.' },
-      { id: 'recebe', txt: 'Somos poucos, mas recebemos muito', peso: 0, fotos: [16, 7],
+      { id: 'recebe', txt: 'Somos poucos, mas recebemos muito',
         eco: 'Então o importante pode ser o que fica em volta da casa. Além da piscina, a casa tem um gourmet bem espaçoso para acolher os eventos familiares.' },
     ],
   },
@@ -75,14 +78,15 @@ const ETAPAS = [
     id: 'pesa',
     pergunta: 'O que mais pesa na sua escolha?',
     apoio: 'Escolha o que você olharia primeiro numa visita.',
+    fotos: [1, 6, 18, 17, 2, 19, 14, 13, 20, 5, 8, 15],
     opcoes: [
-      { id: 'andar', txt: 'Ser tudo no mesmo andar, sem escada', peso: 0, fotos: [1, 6, 18],
+      { id: 'andar', txt: 'Ser tudo no mesmo andar, sem escada',
         eco: 'Então vou começar por dentro. São 284 m² construídos e nenhum degrau entre a sala e o último quarto.' },
-      { id: 'receber', txt: 'Ter espaço para receber', peso: 0, fotos: [17, 2, 19],
+      { id: 'receber', txt: 'Ter espaço para receber',
         eco: 'Então vou começar pela área de lazer: piscina aquecida, churrasqueira e pergolado.' },
-      { id: 'conservacao', txt: 'As condições de conservação da casa', peso: 0, fotos: [14, 13, 20],
+      { id: 'conservacao', txt: 'As condições de conservação da casa',
         eco: 'Você vai perceber que a casa foi muito bem cuidada — acabamento, marcenaria e estrutura em ótimo estado.' },
-      { id: 'comodos', txt: 'O espaço dos cômodos', peso: 0, fotos: [5, 8, 15],
+      { id: 'comodos', txt: 'O espaço dos cômodos',
         eco: 'Os ambientes são generosos, nada de cômodo apertado aqui. Vou te mostrar a sala e os espaços internos.' },
     ],
   },
@@ -101,12 +105,13 @@ const ETAPAS = [
     id: 'venda',
     pergunta: 'Você tem intenção de colocar um imóvel para realizar o negócio?',
     apoio: 'Aqui é onde todos ganham tempo na negociação. Uma informação que preciso apresentar para o proprietário antes de agendar qualquer visita.',
+    fotos: [12, 9, 4, 6, 7, 16],
     opcoes: [
-      { id: 'permuta', txt: 'Sim, preciso saber se o vendedor aceita permuta', peso: 15, fotos: [12, 9],
+      { id: 'permuta', txt: 'Sim, preciso saber se o vendedor aceita permuta',
         eco: 'Certo! Vou pegar os detalhes com você para validar a possibilidade com o vendedor.' },
-      { id: 'aindanao', txt: 'Não, mas preciso vender o meu primeiro', peso: 10, fotos: [4, 6],
+      { id: 'aindanao', txt: 'Não, mas preciso vender o meu primeiro',
         eco: 'Vale conversarmos sobre isso: anunciar no preço certo costuma encurtar bastante o caminho.' },
-      { id: 'direta', txt: 'Não, é compra direta', peso: 20, fotos: [7, 16],
+      { id: 'direta', txt: 'Não, é compra direta',
         eco: 'Então o processo é bem mais simples: depende só da sua decisão.' },
     ],
   },
@@ -114,11 +119,12 @@ const ETAPAS = [
     id: 'pagamento',
     pergunta: 'Como você pretende pagar?',
     apoio: 'Financiamento bancário, carta de consórcio ou recurso próprio.',
+    fotos: [10, 3, 13, 17, 14, 20, 5, 8],
     opcoes: [
-      { id: 'avista', txt: 'À vista', peso: 25, fotos: [10, 3], eco: 'Certo.' },
-      { id: 'misto', txt: 'Parte à vista, parte financiada', peso: 20, fotos: [13, 17], eco: 'Anotado.' },
-      { id: 'banco', txt: 'Financiamento bancário já aprovado / Carta de crédito contemplada', peso: 18, fotos: [14, 20], eco: 'Excelente.' },
-      { id: 'avaliando', txt: 'Ainda estou avaliando', peso: 8, fotos: [5, 8],
+      { id: 'avista', txt: 'À vista', eco: 'Certo.' },
+      { id: 'misto', txt: 'Parte à vista, parte financiada', eco: 'Anotado.' },
+      { id: 'banco', txt: 'Financiamento bancário já aprovado / Carta de crédito contemplada', eco: 'Excelente.' },
+      { id: 'avaliando', txt: 'Ainda estou avaliando',
         eco: 'Tranquilo. Importante consultar um correspondente bancário pra te auxiliar nesta avaliação.' },
     ],
   },
@@ -127,13 +133,13 @@ const ETAPAS = [
     pergunta: 'Você gostaria de conhecer a casa pessoalmente?',
     apoio: 'Foto e vídeo mostram muito, mas o tamanho e a energia da casa a gente só sente entrando, né?',
     opcoes: [
-      { id: 'semana', txt: 'Quero marcar esta semana', peso: 30,
+      { id: 'semana', txt: 'Quero marcar esta semana',
         fechoTitulo: 'Excelente!',
         fechoLead: 'Pelo que você contou, faz sentido mesmo conhecer a casa logo. Deixa seu nome e seu WhatsApp que eu te chamo para pegar sua disponibilidade.' },
-      { id: 'depois', txt: 'Quero, mas mais para frente', peso: 15,
+      { id: 'depois', txt: 'Quero, mas mais para frente',
         fechoTitulo: 'Sem problemas!',
         fechoLead: 'Provavelmente ainda tem alguma dúvida pra sanarmos. Vamos conversar no WhatsApp ou no telefone, se estiver mais tranquilo, e aí depois de tudo certo marcamos a visita, se ainda for sua intenção. Deixa seu nome e seu número que eu te chamo em breve.' },
-      { id: 'infoantes', txt: 'Prefiro receber mais informações antes', peso: 8,
+      { id: 'infoantes', txt: 'Prefiro receber mais informações antes',
         fechoTitulo: 'Claro! Tudo no seu tempo.',
         fechoLead: 'Deixa seu nome e seu WhatsApp. Eu te mando a ficha completa da casa e a gente conversa pra eu entender suas dúvidas.' },
     ],
@@ -201,6 +207,7 @@ const dadosJs = {
 
       <figure class="lp-hero-video">
         <video
+          id="video-tour"
           src="/video/ca5635-tour.mp4"
           poster="/video/ca5635-tour-poster.jpg"
           playsinline muted loop autoplay controls preload="metadata"
@@ -223,13 +230,13 @@ const dadosJs = {
           expectativas e prioridades para, se for o seu desejo para o momento,
           lhe proporcionar o atendimento mais assertivo possível.
         </p>
-        <a class="btn btn-solido lp-hero-btn" href="#etapa-moradores">Começar</a>
+        <button type="button" class="btn btn-solido lp-hero-btn" id="btn-comecar">Começar</button>
       </div>
     </div>
   </header>
 
   <!-- ————————————————— PERCURSO: uma pergunta por vez ————————————————— -->
-  <div class="percurso">
+  <div class="percurso" id="percurso">
     {ETAPAS.map((etapa, i) => (
       <section class="etapa" id={`etapa-${etapa.id}`} data-etapa={etapa.id} data-ordem={i}>
         <div class="etapa-in">
@@ -237,10 +244,24 @@ const dadosJs = {
           <h2>{etapa.pergunta}</h2>
           <p class="etapa-apoio">{etapa.apoio}</p>
 
+          {etapa.fotos && (
+            <div class="lp-galeria etapa-fotos">
+              {etapa.fotos.map((n) => (
+                <button type="button" class="lp-foto" data-n={n}
+                        aria-label={`Ampliar: ${LEGENDAS[n - 1]}`}>
+                  <img src={minis[n - 1].src} srcset={minis[n - 1].srcSet.attribute}
+                       sizes="(max-width:640px) 46vw, (max-width:1000px) 30vw, 320px"
+                       alt={`${LEGENDAS[n - 1]} — casa térrea no Morada da Colina`} loading="lazy" />
+                  <span class="lp-foto-leg">{LEGENDAS[n - 1]}</span>
+                </button>
+              ))}
+            </div>
+          )}
+
           <div class="opcoes" role="group" aria-label={etapa.pergunta}>
             {etapa.opcoes.map((o) => (
               <button type="button" class="opcao" data-etapa={etapa.id} data-opcao={o.id}
-                      data-peso={o.peso} data-fotos={(o.fotos || []).join(',')}
+                      data-peso={o.peso || 0}
                       data-fecho-titulo={o.fechoTitulo} data-fecho-lead={o.fechoLead}>
                 <span class="opcao-txt">{o.txt}</span>
                 <span class="opcao-marca" aria-hidden="true"></span>
@@ -256,21 +277,21 @@ const dadosJs = {
             </div>
           )}
 
-          <!-- as fotos daquela resposta chegam aqui, logo abaixo dela -->
-          <div class="lp-galeria etapa-fotos" data-fotos-de={etapa.id}></div>
+          <button type="button" class="avancar" hidden>
+            {i + 1 < ETAPAS.length ? 'Avançar →' : 'Continuar →'}
+          </button>
         </div>
       </section>
     ))}
 
-    <!-- Acervo: as 20 fotos existem no HTML desde o carregamento, com legenda e
-         alt. Com JS elas migram daqui para a pergunta que as liberou; sem JS
-         ficam todas aqui, e a página continua completa para leitor de tela e
-         para o robô. -->
+    <!-- Acervo completo: as 20 fotos com legenda e alt, sempre no HTML — cobre
+         o que não aparece em nenhuma pergunta específica e serve de fallback
+         completo para quem navega sem JavaScript. -->
     <section class="lp-galeria-bloco" id="lp-galeria">
-      <p class="rotulo lp-galeria-rot">Fotos da casa</p>
+      <p class="rotulo lp-galeria-rot">Todas as fotos da casa</p>
       <div class="lp-galeria" id="lp-galeria-grade">
         {minis.map((m, idx) => (
-          <button type="button" class="lp-foto" data-n={idx + 1} data-i={idx}
+          <button type="button" class="lp-foto" data-n={idx + 1}
                   aria-label={`Ampliar: ${LEGENDAS[idx]}`}>
             <img src={m.src} srcset={m.srcSet.attribute}
                  sizes="(max-width:640px) 46vw, (max-width:1000px) 30vw, 320px"
@@ -314,19 +335,19 @@ const dadosJs = {
             <button type="button" class="btn-wa" id="btn-whats" hidden>Falar no WhatsApp agora</button>
           </div>
           <p class="form-nota">
-            Eu mesmo respondo, não é robô. Seus dados servem só para essa conversa —
-            veja a <a href="/privacidade/">política de privacidade</a>.
+            Seus dados servem só para essa conversa — veja a <a href="/privacidade/">política de privacidade</a>.
           </p>
           <p class="form-erro" id="form-erro" hidden></p>
         </form>
-
-        <div class="obrigado" id="obrigado" hidden>
-          <h3>Será uma satisfação atender você!</h3>
-          <p>Gratidão!</p>
-          <a class="btn-wa" id="wa-final" href="#" target="_blank" rel="noopener">Abrir conversa no WhatsApp</a>
-        </div>
       </div>
     </section>
+  </div>
+
+  <!-- ————————————————— AGRADECIMENTO: tela cheia ————————————————— -->
+  <div class="obrigado" id="obrigado" hidden>
+    <p class="obrigado-sub">Será uma satisfação atender você!</p>
+    <p class="obrigado-grande">Gratidão!</p>
+    <a class="btn-wa" id="wa-final" href="#" target="_blank" rel="noopener">Abrir conversa no WhatsApp</a>
   </div>
 
   <!-- LIGHTBOX -->
@@ -350,55 +371,30 @@ const dadosJs = {
     (function () {
       var etapas = Array.from(document.querySelectorAll('.etapa'));
       var fechoSec = document.getElementById('fecho');
-      var grade = document.getElementById('lp-galeria-grade');
-      var fotos = Array.from(grade.querySelectorAll('.lp-foto'));
+      var percurso = document.getElementById('percurso');
       var barra = document.getElementById('barra');
-      var suave = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
       var respostas = {};
-      var fotosPorEtapa = {}; // idEtapa -> números atualmente exibidos ali
       var score = 0;
-      var cursor = 0;
 
-      /* ——— navegação: uma pergunta visível por vez ——— */
+      /* ——— navegação: uma pergunta visível por vez, só avança por clique ——— */
       function mostraEtapa(i) {
-        cursor = i;
         etapas.forEach(function (e, idx) { e.classList.toggle('ativa', idx === i); });
         fechoSec.classList.remove('ativa');
         barra.style.width = (i / etapas.length) * 100 + '%';
+        etapas[i].scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
       function mostraFecho() {
         etapas.forEach(function (e) { e.classList.remove('ativa'); });
         fechoSec.classList.add('ativa');
         barra.style.width = '100%';
+        fechoSec.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
 
-      /* ——— fotos ———
-         Cada opção carrega sua própria lista de fotos. Ao responder (ou
-         trocar a resposta) de uma pergunta, as fotos da escolha anterior
-         voltam para o acervo e as da escolha nova aparecem ali mesmo. */
-      function aplicaFotos(idEtapa, destino, numerosNovos) {
-        var anteriores = fotosPorEtapa[idEtapa] || [];
-        anteriores.forEach(function (n) {
-          if (numerosNovos.indexOf(n) === -1) {
-            var el = fotos[n - 1];
-            el.classList.remove('vista');
-            grade.appendChild(el);
-          }
-        });
-        numerosNovos.forEach(function (n, pos) {
-          var el = fotos[n - 1];
-          if (!el) return;
-          if (el.parentElement !== destino) destino.appendChild(el);
-          el.style.transitionDelay = suave ? pos * 80 + 'ms' : '0ms';
-          /* reflow síncrono: requestAnimationFrame não dispara em aba oculta
-             e a foto ficaria invisível para sempre. */
-          void el.offsetWidth;
-          el.classList.add('vista');
-        });
-        destino.classList.toggle('cheia', numerosNovos.length > 0);
-        fotosPorEtapa[idEtapa] = numerosNovos;
-      }
+      document.getElementById('btn-comecar').addEventListener('click', function () {
+        percurso.classList.add('iniciado');
+        mostraEtapa(0);
+      });
 
       function resumoTexto() {
         var partes = [];
@@ -412,6 +408,7 @@ const dadosJs = {
       /* ——— perguntas ——— */
       etapas.forEach(function (secao, i) {
         var idEtapa = secao.dataset.etapa;
+        var botaoAvancar = secao.querySelector('.avancar');
 
         var botaoVoltar = secao.querySelector('.voltar');
         if (botaoVoltar) {
@@ -443,18 +440,16 @@ const dadosJs = {
             secao.querySelectorAll('.eco').forEach(function (p) { p.classList.remove('visivel'); });
             if (eco) eco.classList.add('visivel');
 
-            var numeros = (botao.dataset.fotos || '')
-              .split(',').filter(Boolean).map(Number);
-            aplicaFotos(idEtapa, secao.querySelector('[data-fotos-de="' + idEtapa + '"]'), numeros);
-
-            barra.style.width = ((i + 1) / etapas.length) * 100 + '%';
-
-            setTimeout(function () {
-              if (i + 1 < etapas.length) mostraEtapa(i + 1);
-              else fecha();
-            }, 380);
+            if (botaoAvancar) botaoAvancar.hidden = false;
           });
         });
+
+        if (botaoAvancar) {
+          botaoAvancar.addEventListener('click', function () {
+            if (i + 1 < etapas.length) mostraEtapa(i + 1);
+            else fecha();
+          });
+        }
       });
 
       document.getElementById('fecho-voltar').addEventListener('click', function () {
@@ -505,14 +500,14 @@ const dadosJs = {
       form.telefone.addEventListener('input', atualizaBotaoWhats);
 
       function mostraObrigado(nome, telefone, abrirWhats) {
-        form.hidden = true;
-        document.getElementById('obrigado').hidden = false;
-
         var msg =
           'Olá Marcus, sou ' + nome + '. Vim pela página da casa térrea no Morada da Colina (CA5635).\n\n' +
           resumoTexto();
         var waHref = 'https://wa.me/' + dados.wa + '?text=' + encodeURIComponent(msg);
         document.getElementById('wa-final').href = waHref;
+
+        document.getElementById('obrigado').hidden = false;
+        document.body.style.overflow = 'hidden';
 
         if (abrirWhats) {
           setTimeout(function () { window.location.href = waHref; }, 1500);
@@ -596,8 +591,11 @@ const dadosJs = {
         lb.hidden = false;
         document.body.style.overflow = 'hidden';
       }
-      function fechaLb() { lb.hidden = true; document.body.style.overflow = ''; }
-      fotos.forEach(function (f) {
+      function fechaLb() {
+        lb.hidden = true;
+        if (document.getElementById('obrigado').hidden) document.body.style.overflow = '';
+      }
+      document.querySelectorAll('.lp-foto').forEach(function (f) {
         f.addEventListener('click', function () { abre(f); });
       });
       document.getElementById('lb-fechar').addEventListener('click', fechaLb);
@@ -611,8 +609,30 @@ const dadosJs = {
         if (e.key === 'ArrowRight') mostra(idx + 1);
       });
 
-      /* ——— estado inicial ——— */
-      mostraEtapa(0);
+      /* ——— vídeo do topo: no desktop, altura exata entre o topo do título
+         e o topo do parágrafo final ("...mais assertivo possível"), pedido
+         do Marcus. No telefone o vídeo volta a ser 9:16 de largura total. */
+      var video = document.getElementById('video-tour');
+      var topoEl = document.querySelector('.lp-hero-topo');
+      var notaEl = document.querySelector('.lp-hero-nota');
+      function ajustaVideo() {
+        if (window.innerWidth < 900) {
+          video.style.height = '';
+          video.style.width = '';
+          video.style.maxWidth = '';
+          return;
+        }
+        var alvo = notaEl.getBoundingClientRect().top - topoEl.getBoundingClientRect().top;
+        if (alvo > 80) {
+          video.style.height = alvo + 'px';
+          video.style.width = 'auto';
+          video.style.maxWidth = 'none';
+        }
+      }
+      ajustaVideo();
+      window.addEventListener('resize', ajustaVideo);
+      window.addEventListener('load', ajustaVideo);
+      if (document.fonts && document.fonts.ready) document.fonts.ready.then(ajustaVideo);
     })();
   </script>
 
@@ -631,7 +651,7 @@ const dadosJs = {
     .lp-hero { padding: 56px 0 28px; }
     .lp-hero-in {
       max-width: var(--maxw); margin: 0 auto; padding: 0 28px;
-      display: grid; gap: 40px; align-items: center;
+      display: grid; gap: 40px; align-items: start;
       grid-template-columns: 1fr;
     }
     .lp-hero-rot { color: var(--ciano-tinta); margin: 0 0 14px; }
@@ -649,7 +669,7 @@ const dadosJs = {
       color: var(--tinta-media); letter-spacing: 0; margin-left: 4px;
     }
     .lp-hero-nota { color: var(--tinta-media); max-width: 44ch; margin: 0 0 28px; }
-    .lp-hero-btn { display: inline-block; }
+    .lp-hero-btn { display: inline-block; border: 0; cursor: pointer; font: inherit; }
 
     .lp-hero-video { margin: 18px 0 26px; }
     .lp-hero-video video {
@@ -666,15 +686,19 @@ const dadosJs = {
         grid-template-columns: 1.05fr .95fr;
         grid-template-areas: 'topo video' 'texto video';
         grid-template-rows: auto 1fr;
-        gap: 18px 64px; align-items: start;
+        gap: 18px 64px;
       }
       .lp-hero-topo { grid-area: topo; }
       .lp-hero-texto { grid-area: texto; }
-      .lp-hero-video { grid-area: video; justify-self: end; align-self: center; }
+      /* altura exata calculada via JS (ajustaVideo); align-self:start garante
+         que o topo do vídeo cole no topo do título, como pedido — por isso
+         zera a margem que no telefone separa o vídeo do título. */
+      .lp-hero-video { grid-area: video; justify-self: end; align-self: start; margin-top: 0; }
     }
 
-    /* ——— perguntas: uma por vez ——— */
-    .percurso { max-width: 780px; margin: 0 auto; padding: 0 28px 96px; min-height: 40vh; }
+    /* ——— perguntas: uma por vez, só some quando "iniciado" ——— */
+    .percurso { max-width: 780px; margin: 0 auto; padding: 0 28px 96px; }
+    .percurso:not(.iniciado) { padding-bottom: 0; }
     .etapa, .fecho { display: none; }
     .etapa.ativa, .fecho.ativa { display: block; animation: entra .4s cubic-bezier(.2,.7,.3,1) both; }
     @keyframes entra {
@@ -729,20 +753,25 @@ const dadosJs = {
     }
     .eco.visivel { display: block; animation: entra .45s cubic-bezier(.2,.7,.3,1) both; }
 
-    /* ——— galeria ——— */
+    .avancar {
+      display: inline-flex; align-items: center; gap: 8px; margin-top: 26px;
+      border: 0; cursor: pointer; font: inherit;
+      font-family: var(--display); font-weight: 600; font-size: 14px;
+      background: var(--tinta); color: var(--papel); padding: 13px 22px;
+      transition: background .18s, transform .18s;
+    }
+    .avancar:hover { background: var(--ciano-tinta); color: #fff; transform: translateY(-2px); }
+
+    /* ——— fotos: já visíveis com a pergunta, sem depender do clique ——— */
     .lp-galeria-bloco { padding: 40px 0; border-top: 1px solid var(--traco); display: none; }
     .lp-galeria-rot { color: var(--ciano-tinta); margin: 0 0 18px; }
     .lp-galeria { display: flex; flex-wrap: wrap; gap: 10px; }
-    .etapa-fotos:empty { display: none; }
-    .etapa-fotos.cheia { margin-top: 22px; }
+    .etapa-fotos { margin-bottom: 26px; }
     .lp-foto {
       flex: 1 1 calc(50% - 5px); min-width: 140px; position: relative;
       padding: 0; border: 0; background: var(--papel-fundo); cursor: pointer;
       border-radius: 10px; overflow: hidden; aspect-ratio: 4 / 3;
-      opacity: 0; transform: scale(.94) translateY(10px);
-      transition: opacity .55s ease, transform .55s cubic-bezier(.2,.7,.3,1);
     }
-    .lp-foto.vista { opacity: 1; transform: none; }
     .lp-foto img { width: 100%; height: 100%; object-fit: cover; display: block; }
     .lp-foto-leg {
       position: absolute; inset: auto 0 0 0; padding: 26px 10px 8px;
@@ -752,13 +781,14 @@ const dadosJs = {
     }
     @media (min-width: 640px) { .lp-foto { flex-basis: calc(33.333% - 7px); } }
 
-    /* Sem JS: nada de wizard — todas as perguntas e o acervo inteiro
-       aparecem juntos, legíveis e completos. */
+    /* Sem JS: nada de wizard — todas as perguntas, o botão "Começar" e o
+       acervo inteiro aparecem juntos, legíveis e completos. */
     :global(html:not(.js)) .etapa,
     :global(html:not(.js)) .fecho,
     :global(html:not(.js)) .lp-galeria-bloco { display: block !important; }
-    :global(html:not(.js)) .lp-foto { opacity: 1; transform: none; }
     :global(html:not(.js)) .voltar,
+    :global(html:not(.js)) .avancar,
+    :global(html:not(.js)) .lp-hero-btn,
     :global(html:not(.js)) .lp-progresso { display: none; }
 
     /* ——— fecho ——— */
@@ -797,12 +827,22 @@ const dadosJs = {
     .form-nota a { text-decoration: underline; }
     .form-erro { color: #b3261e; margin: 0; font-size: .92rem; }
 
-    .obrigado h3 { font-family: var(--display); font-size: 1.6rem; margin: 0 0 6px; }
-    .obrigado p { margin: 0 0 20px; color: var(--tinta-media); }
+    /* ——— agradecimento: cobre a tela inteira ——— */
+    .obrigado[hidden] { display: none; }
+    .obrigado:not([hidden]) {
+      position: fixed; inset: 0; z-index: 70; background: var(--papel);
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      text-align: center; padding: 40px; animation: entra .5s cubic-bezier(.2,.7,.3,1) both;
+    }
+    .obrigado-sub { font-size: 1.15rem; color: var(--tinta-media); margin: 0 0 8px; }
+    .obrigado-grande {
+      font-family: var(--display); font-weight: 700; letter-spacing: -.02em;
+      font-size: clamp(2.6rem, 8vw, 4.4rem); margin: 0 0 34px; color: var(--tinta);
+    }
     .obrigado .btn-wa { border: 0; cursor: pointer; font: inherit; }
 
     @media (prefers-reduced-motion: reduce) {
-      .etapa.ativa, .fecho.ativa, .lp-foto, .eco.visivel { animation: none; transition: none; }
+      .etapa.ativa, .fecho.ativa, .eco.visivel, .obrigado { animation: none; }
     }
   </style>
 </LP>

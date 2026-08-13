@@ -206,7 +206,7 @@ const dadosJs = {
     <div class="lp-hero-in">
       <div class="lp-hero-topo">
         <p class="rotulo lp-hero-rot">Morada da Colina · Uberlândia · Ref. {d.codigo}</p>
-        <h1>Casa térrea com 4&nbsp;suítes no Morada da Colina</h1>
+        <h1>Aconchegante e espaçosa no coração da Zona Sul.</h1>
       </div>
 
       <figure class="lp-hero-video">
@@ -221,20 +221,23 @@ const dadosJs = {
 
       <div class="lp-hero-texto">
         <p class="lp-hero-lead">
-          Você que procura por casa térrea grande, na Zona Sul, fora de condomínio,
-          sabe como é difícil aparecer uma que realmente esteja boa. Esta tem
-          284&nbsp;m² construídos em um terreno de esquina com 592&nbsp;m², um
-          projeto atemporal bem distribuído, com espaços de área íntima e social
-          bem colocados, proporcionando o melhor em privacidade e lazer.
+          Casa térrea grande na Zona Sul, fora de condomínio.
+          Você sabe que essas raramente aparecem à venda, e boas, quase nunca.
         </p>
-        <p class="lp-hero-preco">{precoBR(d.preco)} <span>(somente venda)</span></p>
+        <ul class="lp-hero-lista">
+          <li>Terreno de esquina com 592 m²</li>
+          <li>284 m² bem construídos e distribuídos</li>
+          <li>Projeto atemporal, áreas íntima e social bem posicionadas</li>
+          <li>Máxima privacidade e lazer para a família</li>
+          <li class="lp-hero-lista-preco">{precoBR(d.preco)} (somente venda)</li>
+        </ul>
         <p class="lp-hero-nota">
-          O anúncio te mostrou um pedaço. Aqui estão os detalhes, a casa inteira,
-          em pouco mais de quarenta segundos. Depois quero entender melhor suas
-          expectativas e prioridades para, se for o seu desejo para o momento,
-          lhe proporcionar o atendimento mais assertivo possível.
+          Veja todas as fotos da casa à seguir com calma e me conte o que é
+          prioridade para você. Depois, se esta for a casa certa, podemos
+          avançar sem desperdiçar o seu tempo.
         </p>
-        <button type="button" class="btn btn-solido lp-hero-btn" id="btn-comecar">Começar</button>
+        <button type="button" class="btn btn-solido lp-hero-btn" id="btn-comecar">Vamos lá!</button>
+        <p class="lp-hero-toque">Toque para ver as imagens e receber mais informações</p>
       </div>
     </div>
   </header>
@@ -666,17 +669,25 @@ const dadosJs = {
       font-family: var(--display); font-size: clamp(2rem, 6.4vw, 3.4rem);
       line-height: 1.03; letter-spacing: -.028em; margin: 0 0 4px;
     }
-    .lp-hero-lead { font-size: 1.12rem; margin: 0 0 22px; max-width: 42ch; }
-    .lp-hero-preco {
-      font-family: var(--display); font-weight: 600;
-      font-size: clamp(1.5rem, 4.4vw, 2rem); letter-spacing: -.02em; margin: 0 0 20px;
+    .lp-hero-lead { font-size: 1.12rem; margin: 0 0 20px; max-width: 42ch; }
+    .lp-hero-lista {
+      list-style: none; margin: 0 0 22px; padding: 0; max-width: 42ch;
+      display: grid; gap: 9px;
     }
-    .lp-hero-preco span {
-      font-family: var(--corpo); font-weight: 400; font-size: .5em;
-      color: var(--tinta-media); letter-spacing: 0; margin-left: 4px;
+    .lp-hero-lista li {
+      position: relative; padding-left: 20px; font-size: 1rem; color: var(--tinta-media);
     }
-    .lp-hero-nota { color: var(--tinta-media); max-width: 44ch; margin: 0 0 28px; }
+    .lp-hero-lista li::before {
+      content: ''; position: absolute; left: 0; top: .55em;
+      width: 7px; height: 7px; border-radius: 50%; background: var(--ciano);
+    }
+    .lp-hero-lista-preco {
+      font-family: var(--display); font-weight: 600; font-size: 1.2rem !important;
+      color: var(--tinta) !important; letter-spacing: -.01em; margin-top: 4px;
+    }
+    .lp-hero-nota { color: var(--tinta-media); max-width: 44ch; margin: 0 0 22px; }
     .lp-hero-btn { display: inline-block; border: 0; cursor: pointer; font: inherit; }
+    .lp-hero-toque { margin: 10px 0 0; font-size: .72rem; color: var(--tinta-fraca); }
 
     .lp-hero-video { margin: 18px 0 26px; }
     .lp-hero-video video {
@@ -705,20 +716,20 @@ const dadosJs = {
 
     /* ——— perguntas: uma por vez, só some quando "iniciado" ———
        Cada pergunta precisa caber numa tela só, sem rolagem: foto, pergunta,
-       opções, eco e o botão avançar. Por isso o cartão usa a altura visível
-       (100dvh) como orçamento e distribui o espaço com flexbox + clamp(),
-       em vez de tamanhos fixos que estourariam em celular pequeno. */
+       opções, eco e o botão avançar. O truque é usar dvh (altura da tela)
+       pra escalar os tamanhos, nunca vw (largura) — vw faz o texto crescer
+       em desktop largo e estourava a tela ali, mesmo cabendo no celular.
+       Sem centralizar verticalmente: centralizar um cartão curto numa tela
+       alta sobra espaço vazio em cima; alinhado ao topo, com respiro fixo,
+       resolve isso e evita rolagem quando o cartão é mais alto. */
     .percurso { max-width: 780px; margin: 0 auto; padding: 0 20px; }
     .etapa, .fecho { display: none; }
-    .etapa.ativa, .fecho.ativa {
-      display: flex; flex-direction: column; justify-content: center;
-      min-height: 100dvh; animation: entra .4s cubic-bezier(.2,.7,.3,1) both;
-    }
+    .etapa.ativa, .fecho.ativa { display: block; animation: entra .4s cubic-bezier(.2,.7,.3,1) both; }
     @keyframes entra {
       from { opacity: 0; transform: translateY(14px); }
       to { opacity: 1; transform: none; }
     }
-    .etapa-in, .fecho-in { padding: clamp(14px, 4dvh, 40px) 0; }
+    .etapa-in, .fecho-in { padding: clamp(14px, 3dvh, 28px) 0; }
 
     .voltar {
       display: inline-block; margin: 0 0 clamp(8px, 1.6dvh, 18px); padding: 0; border: 0; background: none;
@@ -728,12 +739,12 @@ const dadosJs = {
     .voltar:hover { color: var(--ciano-tinta); }
 
     .etapa h2 {
-      font-family: var(--display); font-size: clamp(1.15rem, 4.4vw, 1.9rem);
-      line-height: 1.12; letter-spacing: -.022em; margin: 0 0 clamp(4px, 1dvh, 10px);
+      font-family: var(--display); font-size: clamp(1.15rem, 1.6dvh + .8rem, 1.55rem);
+      line-height: 1.14; letter-spacing: -.022em; margin: 0 0 clamp(4px, 1dvh, 10px);
     }
     .etapa-apoio {
-      color: var(--tinta-media); margin: 0 0 clamp(10px, 2.2dvh, 22px);
-      font-size: clamp(.8rem, 2.6vw, .98rem);
+      color: var(--tinta-media); margin: 0 0 clamp(10px, 2.2dvh, 20px);
+      font-size: clamp(.8rem, .8dvh + .6rem, .92rem);
     }
 
     .opcoes { display: grid; gap: clamp(6px, 1.4dvh, 12px); }
@@ -741,8 +752,8 @@ const dadosJs = {
       display: flex; align-items: center; gap: 12px; width: 100%;
       text-align: left; font: inherit; color: inherit; cursor: pointer;
       background: var(--papel-alto); border: 1px solid var(--traco);
-      border-radius: 12px; padding: clamp(9px, 1.8dvh, 16px) clamp(12px, 3vw, 19px);
-      font-size: clamp(.82rem, 2.7vw, .96rem);
+      border-radius: 12px; padding: clamp(9px, 1.8dvh, 15px) clamp(12px, .8dvh + 8px, 18px);
+      font-size: clamp(.82rem, .8dvh + .6rem, .92rem);
       transition: border-color .2s, background .2s, transform .2s, box-shadow .2s;
     }
     .opcao:hover { border-color: var(--traco-forte); transform: translateY(-1px); box-shadow: var(--sombra); }
@@ -765,7 +776,7 @@ const dadosJs = {
       display: none; margin: 0; padding: clamp(9px, 1.8dvh, 15px) 15px;
       background: color-mix(in srgb, var(--ciano) 6%, transparent);
       border-left: 3px solid var(--ciano); border-radius: 0 10px 10px 0;
-      color: var(--tinta-media); font-size: clamp(.78rem, 2.5vw, .92rem);
+      color: var(--tinta-media); font-size: clamp(.78rem, .8dvh + .55rem, .88rem);
     }
     .eco.visivel { display: block; animation: entra .45s cubic-bezier(.2,.7,.3,1) both; }
 

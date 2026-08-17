@@ -50,8 +50,8 @@ const local = ocultaBairro ? 'Condomínio fechado' : d.bairro;
 const WA_LINK = waLink(`Olá Marcus, vi no site o imóvel "${d.titulo}" e gostaria de sanar uma dúvida.`);
 
 const descricaoMeta = ocultaBairro
-  ? `${tipoLabel[d.tipo]} à venda em condomínio fechado na Zona Sul de Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}. Direto com o corretor.`
-  : `${tipoLabel[d.tipo]} à venda no ${d.bairro}, Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}. Direto com o corretor.`;
+  ? `${tipoLabel[d.tipo]} à venda em condomínio fechado na Zona Sul de Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}.`
+  : `${tipoLabel[d.tipo]} à venda no ${d.bairro}, Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}.`;
 
 // URLs absolutas (schema/og exigem absolutas)
 const canonical = new URL(Astro.url.pathname, Astro.site).href;

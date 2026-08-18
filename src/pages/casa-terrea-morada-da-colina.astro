@@ -389,22 +389,54 @@ const dadosJs = {
       var respostas = {};
       var score = 0;
 
+      /* ——— rastreio de abandono: uma chave por (sessão, etapa) em
+         /api/funil, ver functions/api/funil.js. sendBeacon sobrevive o
+         fechamento da aba, que é exatamente o momento que queremos captar. */
+      function idDaSessao() {
+        try {
+          var s = sessionStorage.getItem('lp-sid');
+          if (!s) {
+            s = Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 10);
+            sessionStorage.setItem('lp-sid', s);
+          }
+          return s;
+        } catch (e) { return 'sem-sessao'; }
+      }
+      function registraEtapa(indice, etapaId) {
+        try {
+          var corpo = JSON.stringify({
+            imovel: 'CA5635', sessionId: idDaSessao(), etapa: indice, etapaId: etapaId,
+          });
+          if (navigator.sendBeacon) {
+            navigator.sendBeacon('/api/funil', new Blob([corpo], { type: 'application/json' }));
+          } else {
+            fetch('/api/funil', {
+              method: 'POST', headers: { 'Content-Type': 'application/json' },
+              body: corpo, keepalive: true,
+            }).catch(function () {});
+          }
+        } catch (e) { /* rastreio nunca pode travar o funil real */ }
+      }
+
       /* ——— navegação: uma pergunta visível por vez, só avança por clique ——— */
       function mostraEtapa(i) {
         etapas.forEach(function (e, idx) { e.classList.toggle('ativa', idx === i); });
         fechoSec.classList.remove('ativa');
         barra.style.width = (i / etapas.length) * 100 + '%';
         etapas[i].scrollIntoView({ behavior: 'smooth', block: 'start' });
+        registraEtapa(i + 1, etapas[i].dataset.etapa);
       }
       function mostraFecho() {
         etapas.forEach(function (e) { e.classList.remove('ativa'); });
         fechoSec.classList.add('ativa');
         barra.style.width = '100%';
         fechoSec.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        registraEtapa(etapas.length + 1, 'fecho');
       }
 
       document.getElementById('btn-comecar').addEventListener('click', function () {
         percurso.classList.add('iniciado');
+        registraEtapa(0, 'hero');
         mostraEtapa(0);
       });
 
@@ -563,6 +595,7 @@ const dadosJs = {
         })
           .catch(function () { /* o WhatsApp continua sendo o caminho, mesmo se o e-mail falhar */ })
           .then(function () {
+            registraEtapa(etapas.length + 2, 'lead-enviado');
             if (window.fbq) fbq('track', 'Lead', { content_name: 'CA5635' }, { eventID: eventId });
             fetch('/api/capi', {
               method: 'POST',

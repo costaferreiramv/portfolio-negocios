@@ -1,0 +1,12 @@
+# Config do Cloudflare Pages para este projeto. Serve só pra declarar bindings
+# (KV, etc.) que o build automático via GitHub também lê — não muda o deploy,
+# que continua sendo git push -> Cloudflare Pages build.
+name = "portfolio-negocios"
+compatibility_date = "2026-08-18"
+pages_build_output_dir = "dist"
+
+# Rastreio de abandono por etapa nas landing pages de funil (ver
+# src/pages/casa-terrea-morada-da-colina.astro e functions/api/funil.js).
+[[kv_namespaces]]
+binding = "FUNIL_EVENTOS"
+id = "5a66b4156fd348fa865bb103dd41695b"

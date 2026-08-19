@@ -289,6 +289,12 @@ const dadosJs = {
           <button type="button" class="avancar" hidden>
             {i + 1 < ETAPAS.length ? 'Avançar →' : 'Continuar →'}
           </button>
+
+          {i >= 4 && (
+            <button type="button" class="atalho-whats">
+              Prefere já chamar no WhatsApp?
+            </button>
+          )}
         </div>
       </section>
     ))}
@@ -449,6 +455,23 @@ const dadosJs = {
         return partes.join('\n');
       }
 
+      /* ——— atalho de WhatsApp a partir da pergunta 5 ———
+         Pra quem já contou o suficiente e não quer preencher formulário:
+         abre o WhatsApp direto com o resumo das respostas até aqui. Conta
+         como conversão (dispara Lead e grava no funil) mesmo sem nome e
+         telefone — quem manda a mensagem já entrega o contato pelo próprio
+         WhatsApp. */
+      function abrirWhatsAtalho() {
+        registraEtapa(etapas.length + 2, 'lead-atalho-whats');
+        var eventId = 'lp-ca5635-atalho-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8);
+        if (window.fbq) fbq('track', 'Lead', { content_name: 'CA5635' }, { eventID: eventId });
+        var resumo = resumoTexto();
+        var msg =
+          'Olá Marcus, vim pela página da casa térrea no Morada da Colina (CA5635).' +
+          (resumo ? '\n\n' + resumo : '');
+        window.location.href = 'https://wa.me/' + dados.wa + '?text=' + encodeURIComponent(msg);
+      }
+
       /* ——— perguntas ——— */
       etapas.forEach(function (secao, i) {
         var idEtapa = secao.dataset.etapa;
@@ -457,6 +480,11 @@ const dadosJs = {
         var botaoVoltar = secao.querySelector('.voltar');
         if (botaoVoltar) {
           botaoVoltar.addEventListener('click', function () { mostraEtapa(i - 1); });
+        }
+
+        var atalhoWhats = secao.querySelector('.atalho-whats');
+        if (atalhoWhats) {
+          atalhoWhats.addEventListener('click', abrirWhatsAtalho);
         }
 
         secao.querySelectorAll('.opcao').forEach(function (botao) {
@@ -825,6 +853,22 @@ const dadosJs = {
     }
     .avancar:hover { background: var(--ciano-tinta); color: #fff; transform: translateY(-2px); }
     .avancar[hidden] { display: none; }
+
+    /* ——— atalho de WhatsApp (a partir da pergunta 5) ———
+       Segunda opção, discreta — não pode competir com "Avançar", que continua
+       sendo o caminho principal do percurso. */
+    .atalho-whats {
+      display: block; margin: clamp(10px, 1.6dvh, 14px) 0 0;
+      border: 1px solid var(--traco); background: transparent; color: var(--tinta-media);
+      border-radius: 10px; cursor: pointer; font: inherit;
+      font-family: var(--display); font-weight: 500; font-size: 12.5px;
+      padding: clamp(8px, 1.4dvh, 11px) 16px; text-align: center;
+      transition: border-color .18s, color .18s, background .18s;
+    }
+    .atalho-whats:hover {
+      border-color: var(--ciano); color: var(--ciano-tinta);
+      background: color-mix(in srgb, var(--ciano) 6%, transparent);
+    }
 
     /* ——— fotos: já visíveis com a pergunta, sem depender do clique ———
        Sempre 4, sempre numa linha só (grid de 4 colunas), pra gastar o

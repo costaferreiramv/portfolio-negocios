@@ -607,6 +607,8 @@ footer.foot{background:var(--papel-fundo);border-top:1px solid var(--traco);padd
 .foot-cols a.contato-icone:hover .ic{transform:scale(1.14)}
 .foot-cols .contato-icone.so-mobile{display:none}
 @media(max-width:860px){.foot-cols .contato-icone.so-mobile{display:flex}}
+.contato-linha.so-mobile{display:none}
+@media(max-width:860px){.contato-linha.so-mobile{display:flex}}
 /* o WhatsApp/telefone é um <button> inteiro clicável (ícones + número), não só os ícones —
    abre um popup de escolha em vez de linkar direto, então precisa do reset de botão nativo */
 button.contato-linha-dupla{gap:8px;background:none;border:none;font:inherit;text-align:left;cursor:pointer;width:100%}

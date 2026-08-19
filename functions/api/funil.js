@@ -33,10 +33,16 @@ export async function onRequestPost(context) {
   const chave = `ev:${imovel}:${sessionId}:${String(etapa).padStart(2, '0')}`;
 
   try {
+    const ts = Date.now();
     await env.FUNIL_EVENTOS.put(
       chave,
-      JSON.stringify({ etapaId, ts: Date.now() }),
-      { expirationTtl: 60 * 60 * 24 * 120 } // 120 dias, suficiente pra ciclo de venda de imóvel
+      JSON.stringify({ etapaId, ts }),
+      {
+        expirationTtl: 60 * 60 * 24 * 120, // 120 dias, suficiente pra ciclo de venda de imóvel
+        // metadata vem junto no list(), sem precisar de get() por chave —
+        // é o que permite o relatório montar a tabela de leads sem N+1 leitura.
+        metadata: { etapaId, ts },
+      }
     );
     return Response.json({ ok: true });
   } catch (erro) {

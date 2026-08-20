@@ -160,8 +160,6 @@ const breadcrumbLd = {
                 </div>
               )}
               {d.vagas > 0 && <div class="linha"><dt>Vagas</dt><dd>{d.vagas}</dd></div>}
-              {d.aceitaFinanciamento !== undefined && <div class="linha"><dt>Financiamento</dt><dd>{d.aceitaFinanciamento ? 'Aceita' : 'Não aceita'}</dd></div>}
-              {d.aceitaPermuta !== undefined && <div class="linha"><dt>Permuta</dt><dd>{d.aceitaPermuta ? 'Estuda' : 'Não'}</dd></div>}
               <div class="linha"><dt>Valor</dt><dd>{precoBR(d.preco)}</dd></div>
             </dl>
           </aside>

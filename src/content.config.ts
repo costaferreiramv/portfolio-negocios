@@ -29,7 +29,9 @@ const imoveis = defineCollection({
     dormitorios: z.number(),
     suites: z.number(),
     vagas: z.number(),
-    // opcionais: quando não informados pelo proprietário, não afirmar nada
+    // DEPRECADO — não exibido na ficha (Kenlo é impreciso nisso) e não deve
+    // ser mais preenchido em novos imóveis. Campo opcional só por compat com
+    // conteúdo antigo já publicado; nunca ler/renderizar de novo.
     aceitaFinanciamento: z.boolean().optional(),
     aceitaPermuta: z.boolean().optional(),
     publicadoEm: z.coerce.date(),

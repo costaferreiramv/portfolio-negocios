@@ -44,7 +44,7 @@ Casa térrea contemporânea em condomínio fechado na Zona Sul de Uberlândia, c
 ## Diferenciais
 
 - Condomínio fechado com portaria 24 horas
-- Estrutura completa de lazer e esportes: academia, piscinas, quadra de tênis, quadra poliesportiva, campo de futebol e playground
+- Estrutura completa de lazer e esportes: academia, quadra de tênis, quadra poliesportiva, campo de futebol e playground
 
 ## Condições
 

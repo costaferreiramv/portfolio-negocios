@@ -4,7 +4,7 @@ codigo: CA6452
 tipo: casa
 bairro: Vigilato Pereira
 eixo: karaiba
-preco: 1100000
+preco: 900000
 areaUtil: 250
 areaTerreno: 260
 dormitorios: 5

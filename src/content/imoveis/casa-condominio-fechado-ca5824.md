@@ -33,7 +33,7 @@ Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, 
 ## Lazer
 
 - Piscina privativa integrada à área social
-- Estrutura completa do condomínio: academia, sauna, ofurô, solarium, playground, campo de futebol, quadra de tênis e quadra poliesportiva
+- Estrutura completa do condomínio: sauna, solarium, playground, campo de futebol, quadra de tênis e quadra poliesportiva
 
 ## Diferenciais
 

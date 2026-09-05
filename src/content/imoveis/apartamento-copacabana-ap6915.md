@@ -5,7 +5,7 @@ bairro: Copacabana
 eixo: praia-clube
 condominio: true
 codigo: AP6915
-preco: 850000
+preco: 799000
 areaUtil: 108
 dormitorios: 3
 suites: 1

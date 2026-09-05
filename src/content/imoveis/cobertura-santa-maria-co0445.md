@@ -6,7 +6,7 @@ bairro: Santa Maria
 eixo: karaiba
 condominio: true
 taxaCondominio: 1280
-preco: 1200000
+preco: 913500
 areaUtil: 140
 dormitorios: 3
 suites: 1

@@ -5,7 +5,7 @@ tipo: apartamento
 bairro: Jardim Botânico
 eixo: karaiba
 condominio: true
-preco: 990000
+preco: 900000
 areaUtil: 128
 dormitorios: 3
 suites: 1

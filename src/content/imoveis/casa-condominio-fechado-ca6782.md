@@ -31,7 +31,7 @@ Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, 
 - Iluminação em LED em todo o projeto
 - Aquecimento solar com tubos a vácuo
 - Área de serviço reservada
-- Garagem coberta para até 2 veículos, além de vagas descobertas, somando 4 vagas
+- Garagem coberta para até 2 veículos
 
 ## Lazer
 

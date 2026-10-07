@@ -45,5 +45,4 @@ Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, 
 
 ## Condições
 
-- Imóvel ocupado
 - Valores e disponibilidade sujeitos a confirmação

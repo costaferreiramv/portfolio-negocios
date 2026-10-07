@@ -24,7 +24,7 @@ Sobrado amplo de alto padrão em condomínio fechado na Zona Sul de Uberlândia,
 - 357,20 m² de área construída em terreno de 397,93 m², em 2 pavimentos
 - Pavimento superior com 4 suítes montadas com armários e sacada
 - Pavimento inferior com escritório privativo e banheiro
-- 5 suítes no total, segundo a ficha do imóvel
+- Total de 5 suítes
 - Lavabo social
 - Cozinha completa com copa acoplada e despensa
 - Área de serviço e lavanderia

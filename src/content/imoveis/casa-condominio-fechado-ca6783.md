@@ -29,7 +29,7 @@ Sobrado de alto padrão em condomínio fechado na Região Sul de Uberlândia, co
 - Lavanderia independente
 - Lavabo
 - Segundo pavimento com 3 suítes, sendo 1 máster com closet
-- Home cinema
+- Sala de cinema
 - Hall com amplo roupeiro
 - 4 vagas de garagem
 
@@ -37,7 +37,7 @@ Sobrado de alto padrão em condomínio fechado na Região Sul de Uberlândia, co
 
 - Piscina aquecida
 - Cozinha gourmet integrada aos ambientes sociais, com churrasqueira
-- Home cinema
+- Sala de cinema
 
 ## Diferenciais
 

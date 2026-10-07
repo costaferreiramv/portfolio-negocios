@@ -40,8 +40,8 @@ Apartamento de alto padrão no Jardim Sul, na Zona Sul de Uberlândia, próximo 
 - Academia equipada
 - Quadra poliesportiva
 - Salão de festas e salão de jogos
-- Brinquedoteca, playground e pet place
-- Car wash no condomínio
+- Brinquedoteca, playground e espaço para animais de estimação
+- Lava-rápido de veículos no condomínio
 
 ## Diferenciais
 

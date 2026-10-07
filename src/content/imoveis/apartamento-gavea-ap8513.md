@@ -35,9 +35,9 @@ Apartamento novo no Gávea, na Zona Sul de Uberlândia, com acabamento moderno e
 - Piscina com apoio de bar, lounge e sauna
 - Academia completa e equipada
 - Quadra de tênis e quadra poliesportiva
-- Espaço para churrasco, varanda de jogos, coworking e espaço delivery
-- Playground, bicicletário e pocket garden
-- Infraestrutura para recarga de carros elétricos e Wi-Fi nas áreas comuns
+- Espaço para churrasco, varanda de jogos, espaço de trabalho compartilhado e espaço para recebimento de entregas
+- Playground, bicicletário e jardim com irrigação automatizada
+- Infraestrutura para recarga de carros elétricos e internet sem fio nas áreas comuns
 
 ## Diferenciais
 

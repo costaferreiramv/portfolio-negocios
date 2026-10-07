@@ -24,7 +24,7 @@ Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, 
 - Projeto 100% térreo, com cerca de 206 m² de área construída em terreno de 360 m²
 - Fachada com porta principal em ACM e acabamentos de alto padrão
 - Sala ampla para 2 ambientes, com pé-direito duplo e muita iluminação natural
-- Escritório privativo, ideal para home office ou estudos
+- Escritório privativo, ideal para trabalho em casa ou estudos
 - 3 suítes, todas com persianas integradas e telas mosquiteiras
 - Ar-condicionado instalado nas suítes, na sala e no escritório
 - Cozinha independente e funcional

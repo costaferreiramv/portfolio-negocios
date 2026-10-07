@@ -31,7 +31,7 @@ Sobrado no Jardim Inconfidência, na Zona Sul de Uberlândia, em região residen
 
 ## Lazer
 
-- Quintal privativo com piso de paver, de baixa manutenção, ideal para convivência ao ar livre e pets
+- Quintal privativo com piso intertravado, de baixa manutenção, ideal para convivência ao ar livre e pets
 
 ## Diferenciais
 

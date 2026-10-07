@@ -5,7 +5,7 @@ tipo: casa
 bairro: Jardim Karaíba
 eixo: horizontais
 condominio: true
-preco: 3500000
+preco: 3100000
 areaUtil: 306
 areaTerreno: 467
 dormitorios: 4

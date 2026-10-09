@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado alto padrão com SPA privativo em condomínio fechado
+titulo: Sobrado alto padrão com SPA privativo no Condomínio Quality Residence
 codigo: CA6458
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Quality Residence
 taxaCondominio: 608
 preco: 1023000
 areaUtil: 125
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6458
 capa: 9
 ---
 
-Sobrado de alto padrão em condomínio fechado, com acabamentos de primeira linha, marcenaria planejada em toda a casa e um espaço de lazer privativo que inclui SPA aquecido — segurança, conforto e sofisticação para toda a família.
+Sobrado de alto padrão no Condomínio Quality Residence, com acabamentos de primeira linha, marcenaria planejada em toda a casa e um espaço de lazer privativo que inclui SPA aquecido. Segurança, conforto e sofisticação para toda a família.
 
 ## O imóvel
 
@@ -38,7 +39,7 @@ Sobrado de alto padrão em condomínio fechado, com acabamentos de primeira linh
 - Área gourmet climatizada com ilha estendida, cooktop, depurador e churrasqueira com sistema de exaustão integrado
 - SPA/ofurô aquecido para 6 pessoas, com hidromassagem, cascata e iluminação em LED
 - Quintal decorado com jardim vertical iluminado e fechamento com toldos retráteis automatizados
-- Complexo aquático do condomínio, com piscinas adulto e infantil aquecidas
+- Complexo aquático do Condomínio Quality Residence, com piscinas adulto e infantil aquecidas
 - Academia equipada e playground infantil
 - Salão de festas climatizado, mobiliado e equipado
 - Portaria com monitoramento e segurança 24h

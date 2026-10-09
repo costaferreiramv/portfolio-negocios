@@ -81,6 +81,7 @@ const dadosBusca = await Promise.all(
       eixo: im.data.eixo,
       ocultaBairro: eixoOcultaBairro(im.data.eixo),
       condominio: !!im.data.condominio,
+      nomeCondominio: im.data.nomeCondominio || '',
       preco: im.data.preco,
       area: im.data.areaUtil,
       dormitorios: im.data.dormitorios,
@@ -338,7 +339,7 @@ const eixosImg = await Promise.all(
                 {imovel.data.codigo && <span class="selo-ref">{imovel.data.codigo}</span>}
               </div>
               <div class="card-corpo">
-                <div class="onde">{eixoOcultaBairro(imovel.data.eixo) ? 'Condomínio fechado' : imovel.data.bairro}</div>
+                <div class="onde">{eixoOcultaBairro(imovel.data.eixo) ? (imovel.data.nomeCondominio ? `Condomínio ${imovel.data.nomeCondominio}` : 'Condomínio fechado') : imovel.data.bairro}</div>
                 <h3>{imovel.data.titulo}</h3>
                 <div class="cota-mini card-cota">
                   <span class="haste"></span>
@@ -383,6 +384,7 @@ const eixosImg = await Promise.all(
 
   <script is:inline set:html={`window.__IMOVEIS__ = ${JSON.stringify(dadosBusca)};
     window.__BAIRROS__ = ${JSON.stringify(bairrosConhecidos)};
+    window.__CONDOMINIOS__ = ${JSON.stringify(Array.from(new Set(imoveis.map((i) => i.data.nomeCondominio).filter(Boolean))))};
     window.__EIXOS__ = ${JSON.stringify(eixosBusca)};`}></script>
   <script is:inline src="/busca.js"></script>
 

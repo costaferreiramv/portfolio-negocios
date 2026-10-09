@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de 5 quartos em condomínio fechado
+titulo: Sobrado de 5 quartos no Condomínio The Palms
 codigo: CA6516
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: The Palms
 taxaCondominio: 650
 preco: 850000
 areaUtil: 107.96
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6516
 capa: 1
 ---
 
-Sobrado em condomínio fechado na Zona Sul de Uberlândia, próximo a shopping, universidade e áreas de lazer — planta inteligente com aproveitamento de espaço e infraestrutura completa de lazer no condomínio.
+Sobrado no Condomínio The Palms, na Zona Sul de Uberlândia, próximo a shopping, universidade e áreas de lazer, com planta inteligente, aproveitamento de espaço e infraestrutura completa de lazer no condomínio.
 
 ## O imóvel
 
@@ -31,7 +32,7 @@ Sobrado em condomínio fechado na Zona Sul de Uberlândia, próximo a shopping, 
 - Lavanderia separada e independente
 - 2 vagas de garagem cobertas
 
-## O condomínio
+## O Condomínio The Palms
 
 - Piscina coletiva e academia equipada
 - Espaço gourmet com churrasqueira e varanda gourmet

@@ -1,10 +1,11 @@
 ---
-titulo: Casa mobiliada de 3 suítes em condomínio fechado
+titulo: Casa mobiliada de 3 suítes no Condomínio Golden Village
 codigo: CA5907
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Golden Village
 taxaCondominio: 900
 preco: 2200000
 areaUtil: 234.4
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca5907
 capa: 1
 ---
 
-Casa de alto padrão em condomínio fechado na Zona Sul de Uberlândia, região nobre, com segurança reforçada, lazer completo e fácil acesso a comércios, serviços e principais vias da cidade. Totalmente mobiliada e decorada, pronta para morar.
+Casa de alto padrão no Condomínio Golden Village, na Zona Sul de Uberlândia, região nobre, com segurança reforçada, lazer completo e fácil acesso a comércios, serviços e principais vias da cidade. Totalmente mobiliada e decorada, pronta para morar.
 
 ## O imóvel
 
@@ -36,10 +37,10 @@ Casa de alto padrão em condomínio fechado na Zona Sul de Uberlândia, região 
 - Piscina, playground e quintal
 - Varanda gourmet e churrasqueira
 - Quadra poliesportiva e quadra de tênis
-- Academia e adega no condomínio
+- Academia e adega no Condomínio Golden Village
 - Aquecimento de água por energia solar
 
-## O condomínio
+## O Condomínio Golden Village
 
 - Segurança e infraestrutura de lazer completa
 - Academia, quadras esportivas e piscina

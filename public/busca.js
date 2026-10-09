@@ -130,6 +130,13 @@
       const eixo = EIXOS.find((e) => e.areas.some((a) => norm(a) === nb));
       f.locais.push({ nome: nb, rotulo: b, eixo: eixo ? eixo.id : null, tipo: 'bairro', excluir: negado(m.index) });
     }
+    // nome de condomínio citado (ex.: "splendido", "the palms") filtra pelo condomínio exato
+    for (const c of window.__CONDOMINIOS__ || []) {
+      const nc = norm(c);
+      const m = new RegExp('\\b' + nc.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b').exec(t);
+      if (!m) continue;
+      f.locais.push({ nome: nc, rotulo: c, eixo: null, tipo: 'condominio', excluir: negado(m.index) });
+    }
     // apelidos/marcos de eixo que não são um bairro específico cadastrado
     const APELIDOS_EIXO = {
       praia: 'praia-clube', 'praia clube': 'praia-clube',
@@ -175,7 +182,8 @@
     for (const loc of f.locais) {
       if (loc.excluir) continue; // exclusão não pontua proximidade, só descarta (em filtrar)
       // imóveis de eixo com bairro oculto nunca casam por bairro (não revelar localização)
-      if (!im.ocultaBairro && bairro === loc.nome) s += 3; // bairro/área exata
+      if (loc.tipo === 'condominio') { if (norm(im.nomeCondominio || '') === loc.nome) s += 3; }
+      else if (!im.ocultaBairro && bairro === loc.nome) s += 3; // bairro/área exata
       else if (loc.eixo && im.eixo === loc.eixo) s += 2;   // mesma região (eixo)
     }
     return s;
@@ -198,7 +206,9 @@
     // casa por bairro). Apelido/marco de eixo citado filtra pelo eixo inteiro.
     // Locais em contexto negativo ("longe de", "distante de"...) excluem, não exigem.
     const bateLocal = (im, loc) =>
-      loc.tipo === 'eixo' ? im.eixo === loc.eixo : !im.ocultaBairro && norm(im.bairro) === loc.nome;
+      loc.tipo === 'eixo' ? im.eixo === loc.eixo
+        : loc.tipo === 'condominio' ? norm(im.nomeCondominio || '') === loc.nome
+        : !im.ocultaBairro && norm(im.bairro) === loc.nome;
     if (f.locais && f.locais.length) {
       const incluir = f.locais.filter((l) => !l.excluir);
       const excluir = f.locais.filter((l) => l.excluir);
@@ -253,7 +263,7 @@
       '<span class="selo">' + (tipoLabel[im.tipo] || im.tipo) + '</span>' +
       (im.codigo ? '<span class="selo-ref">' + im.codigo + '</span>' : '') +
       '</div>' +
-      '<div class="card-corpo"><div class="onde">' + (im.ocultaBairro ? 'Condomínio fechado' : im.bairro) + '</div>' +
+      '<div class="card-corpo"><div class="onde">' + (im.ocultaBairro ? (im.nomeCondominio ? 'Condomínio ' + im.nomeCondominio : 'Condomínio fechado') : im.bairro) + '</div>' +
       '<h3>' + im.titulo + '</h3>' +
       '<div class="cota-mini card-cota"><span class="haste"></span><span class="num">' + im.area + ' m²</span><span class="haste"></span></div>' +
       '<div class="preco"><span class="v num">' + brl(im.preco) + '</span><span class="ir">Ver detalhes →</span></div>' +

@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea de 3 suítes com piscina e cascata em condomínio fechado
+titulo: Casa térrea de 3 suítes com piscina e cascata no Condomínio Splêndido
 codigo: CA6576
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 750
 aceitaFinanciamento: false
 preco: 2580000
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6576
 capa: 1
 ---
 
-Casa térrea moderna, pronta para morar, em um dos condomínios mais valorizados da Zona Sul de Uberlândia, com segurança, tranquilidade e infraestrutura completa para toda a família.
+Casa térrea moderna, pronta para morar, no Condomínio Splêndido, um dos condomínios mais valorizados da Zona Sul de Uberlândia, com segurança, tranquilidade e infraestrutura completa para toda a família.
 
 ## O imóvel
 
@@ -39,7 +40,7 @@ Casa térrea moderna, pronta para morar, em um dos condomínios mais valorizados
 ## Diferenciais
 
 - Acabamentos de alto padrão e excelente distribuição dos ambientes
-- Localizada em um dos condomínios mais valorizados da cidade
+- Localizada no Condomínio Splêndido, um dos condomínios mais valorizados da cidade
 - Conforto, sofisticação e funcionalidade
 
 ## Condições

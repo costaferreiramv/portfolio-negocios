@@ -1,10 +1,11 @@
 ---
-titulo: Casa de arquitetura contemporânea com piscina e spa em condomínio fechado
+titulo: Casa de arquitetura contemporânea com piscina e spa no Condomínio Cyrela Buritis
 codigo: CA6337
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Cyrela Buritis
 taxaCondominio: 1300
 preco: 4690000
 areaUtil: 330
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6337
 capa: 4
 ---
 
-Casa de altíssimo padrão em condomínio fechado na Zona Sul de Uberlândia, com arquitetura contemporânea assinada e infraestrutura de lazer comparável a um resort.
+Casa de altíssimo padrão no Condomínio Cyrela Buritis, na Zona Sul de Uberlândia, com arquitetura contemporânea assinada e infraestrutura de lazer comparável a um resort.
 
 ## O imóvel
 
@@ -40,7 +41,7 @@ Casa de altíssimo padrão em condomínio fechado na Zona Sul de Uberlândia, co
 
 - Acabamentos premium: quartzito Perla Venata, quartzo branco, bege Bahia e linha Deca em todo o imóvel
 - Escada em madeira Cumaru, fachada em pedra natural e ACM amadeirado
-- Condomínio fechado em um dos setores mais exclusivos e valorizados da Zona Sul, com segurança de elite
+- Condomínio Cyrela Buritis em um dos setores mais exclusivos e valorizados da Zona Sul, com segurança de elite
 
 ## Condições
 

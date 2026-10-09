@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea contemporânea com 3 suítes e piscina aquecida com cascata em condomínio fechado
+titulo: Casa térrea contemporânea com 3 suítes e piscina aquecida no Condomínio Splêndido
 codigo: CA6767
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 600
 preco: 2050000
 areaUtil: 210.94
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6767
 capa: 1
 ---
 
-Casa térrea de alto padrão em condomínio fechado consolidado, com acesso rápido às principais vias da cidade, centros de compras, escolas e serviços.
+Casa térrea de alto padrão no Condomínio Splêndido, consolidado, com acesso rápido às principais vias da cidade, centros de compras, escolas e serviços.
 
 ## O imóvel
 
@@ -42,7 +43,7 @@ Casa térrea de alto padrão em condomínio fechado consolidado, com acesso ráp
 - Projeto integralmente térreo, com fluidez e acessibilidade entre todos os cômodos
 - Área gourmet com ilha central e conexão direta com a piscina aquecida
 - Conforto térmico e acústico, com janelas e persianas motorizadas nos quartos
-- Condomínio fechado com estrutura de clube esportivo e portaria 24 horas
+- Condomínio Splêndido com estrutura de clube esportivo e portaria 24 horas
 
 ## Condições
 

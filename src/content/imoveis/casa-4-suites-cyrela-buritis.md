@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 4 suítes em condomínio fechado
+titulo: Casa de 4 suítes no Condomínio Cyrela Buritis
 codigo: CA6389
 tipo: casa
 bairro: Jardim Karaíba
 eixo: horizontais
 condominio: true
+nomeCondominio: Cyrela Buritis
 preco: 3100000
 areaUtil: 306
 areaTerreno: 467
@@ -17,7 +18,7 @@ fotos: casa-4-suites-cyrela-buritis
 capa: 4
 ---
 
-Casa térrea em um dos condomínios mais procurados da Zona Sul de Uberlândia, com infraestrutura de lazer completa e cercado por áreas verdes.
+Casa térrea no Condomínio Cyrela Buritis, um dos condomínios mais procurados da Zona Sul de Uberlândia, com infraestrutura de lazer completa e cercado por áreas verdes.
 
 ## O imóvel
 

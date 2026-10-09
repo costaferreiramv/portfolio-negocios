@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de alto padrão com piscina aquecida e home cinema
+titulo: Sobrado de alto padrão com piscina aquecida e home cinema no Condomínio Gávea Hill II
 codigo: CA6692
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Gávea Hill II
 taxaCondominio: 1200
 preco: 3800000
 areaUtil: 330
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6692
 capa: 1
 ---
 
-Sobrado de altíssimo padrão em condomínio fechado, com terreno amplo, área de lazer privativa completa e acabamentos nobres do piso ao teto.
+Sobrado de altíssimo padrão no Condomínio Gávea Hill II, com terreno amplo, área de lazer privativa completa e acabamentos nobres do piso ao teto.
 
 ## O imóvel
 

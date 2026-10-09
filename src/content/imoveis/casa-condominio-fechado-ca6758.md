@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea com escritório e varanda gourmet em condomínio fechado
+titulo: Casa térrea com escritório e varanda gourmet no Condomínio Manhattan
 codigo: CA6758
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Manhattan
 taxaCondominio: 600
 preco: 1020000
 areaUtil: 74.82
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6758
 capa: 2
 ---
 
-Casa térrea planejada em condomínio fechado, com sala em dois ambientes, escritório privativo e varanda gourmet, pronta para morar.
+Casa térrea planejada no Condomínio Manhattan, com sala em dois ambientes, escritório privativo e varanda gourmet, pronta para morar.
 
 ## O imóvel
 

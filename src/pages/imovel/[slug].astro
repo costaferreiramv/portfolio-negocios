@@ -44,12 +44,12 @@ const lpUrl = d.codigo ? LP_POR_CODIGO[d.codigo] : undefined;
 // Eixo de condomínios: o bairro não aparece em lugar nenhum (regra do eixo).
 const ocultaBairro = eixoOcultaBairro(d.eixo);
 // Rótulo de localização usado no lugar do bairro quando ele fica oculto.
-const local = ocultaBairro ? 'Condomínio fechado' : d.bairro;
+const local = ocultaBairro ? (d.nomeCondominio ? `Condomínio ${d.nomeCondominio}` : 'Condomínio fechado') : d.bairro;
 
 const WA_LINK = waLink(`Olá Marcus, vi no site o imóvel "${d.titulo}" e gostaria de sanar uma dúvida.`);
 
 const descricaoMeta = ocultaBairro
-  ? `${tipoLabel[d.tipo]} à venda em condomínio fechado na Zona Sul de Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}.`
+  ? `${tipoLabel[d.tipo]} à venda no ${d.nomeCondominio ? `Condomínio ${d.nomeCondominio}` : 'condomínio fechado'}, Zona Sul de Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}.`
   : `${tipoLabel[d.tipo]} à venda no ${d.bairro}, Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}.`;
 
 // URLs absolutas (schema/og exigem absolutas)
@@ -149,7 +149,8 @@ const breadcrumbLd = {
               {d.codigo && <div class="linha"><dt>Referência</dt><dd class="ref-codigo">{d.codigo}</dd></div>}
               <div class="linha"><dt>Tipo</dt><dd>{tipoLabel[d.tipo]}</dd></div>
               {!ocultaBairro && <div class="linha"><dt>Bairro</dt><dd>{d.bairro}</dd></div>}
-              {d.taxaCondominio && <div class="linha"><dt>Condomínio</dt><dd>{precoBR(d.taxaCondominio)}/mês</dd></div>}
+              {d.nomeCondominio && <div class="linha"><dt>Condomínio</dt><dd>{d.nomeCondominio}</dd></div>}
+              {d.taxaCondominio && <div class="linha"><dt>{d.nomeCondominio ? 'Valor do condomínio' : 'Condomínio'}</dt><dd>{precoBR(d.taxaCondominio)}/mês</dd></div>}
               <div class="linha"><dt>{d.areaTerreno ? 'Área construída' : 'Área útil'}</dt><dd>{d.areaUtil} m²</dd></div>
               {d.areaTerreno && <div class="linha"><dt>Área do terreno</dt><dd>{d.areaTerreno} m²</dd></div>}
               {d.dormitorios > 0 && (

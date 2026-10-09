@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de 4 suítes com piscina aquecida e home cinema em condomínio de alto padrão
+titulo: Sobrado de 4 suítes com piscina aquecida e home cinema no Condomínio Jardins Barcelona
 codigo: CA6498
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Jardins Barcelona
 taxaCondominio: 900
 preco: 2850000
 areaUtil: 309
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6498
 capa: 24
 ---
 
-Espetacular sobrado em condomínio de altíssimo padrão na Zona Sul de Uberlândia, com máxima segurança, privacidade e proximidade aos principais centros de lazer, gastronomia e serviços premium.
+Espetacular sobrado no Condomínio Jardins Barcelona, de altíssimo padrão, na Zona Sul de Uberlândia, com máxima segurança, privacidade e proximidade aos principais centros de lazer, gastronomia e serviços premium.
 
 ## O imóvel
 
@@ -38,7 +39,7 @@ Espetacular sobrado em condomínio de altíssimo padrão na Zona Sul de Uberlân
 - Piscina aquecida com cascata, ducha externa e solarium
 - Espaço gourmet com projetor e telão automatizados
 - Paisagismo
-- Condomínio com quadra de tênis, quadra poliesportiva e academia equipada
+- Condomínio Jardins Barcelona com quadra de tênis, quadra poliesportiva e academia equipada
 - Playground e áreas de convivência arborizadas
 - Portaria 24 horas
 

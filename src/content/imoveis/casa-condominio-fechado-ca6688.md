@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea contemporânea com piscina em condomínio fechado
+titulo: Casa térrea contemporânea com piscina no Condomínio Splêndido
 codigo: CA6688
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 537
 preco: 2300000
 areaUtil: 208
@@ -19,7 +20,7 @@ fotos: casa-condominio-fechado-ca6688
 capa: 1
 ---
 
-Casa térrea contemporânea em condomínio fechado na Zona Sul de Uberlândia, com projeto arquitetônico assinado, pé-direito imponente e integração total entre os ambientes sociais e a área de lazer.
+Casa térrea contemporânea no Condomínio Splêndido, na Zona Sul de Uberlândia, com projeto arquitetônico assinado, pé-direito imponente e integração total entre os ambientes sociais e a área de lazer.
 
 ## O imóvel
 
@@ -43,7 +44,7 @@ Casa térrea contemporânea em condomínio fechado na Zona Sul de Uberlândia, c
 
 ## Diferenciais
 
-- Condomínio fechado com portaria 24 horas
+- Condomínio Splêndido com portaria 24 horas
 - Estrutura completa de lazer e esportes: academia, quadra de tênis, quadra poliesportiva, campo de futebol e playground
 
 ## Condições

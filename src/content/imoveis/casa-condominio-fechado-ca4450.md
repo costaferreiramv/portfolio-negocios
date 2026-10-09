@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea com espaço gourmet em condomínio fechado
+titulo: Casa térrea com espaço gourmet no Condomínio Royal Park
 codigo: CA4450
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Royal Park
 taxaCondominio: 670
 preco: 1250000
 areaUtil: 210
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca4450
 capa: 30
 ---
 
-Casa térrea de alto padrão em condomínio fechado, com três suítes, escritório montado e espaço gourmet completo para receber com conforto.
+Casa térrea de alto padrão no Condomínio Royal Park, com três suítes, escritório montado e espaço gourmet completo para receber com conforto.
 
 ## O imóvel
 

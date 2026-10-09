@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 3 suítes com piscina e spa em condomínio fechado
+titulo: Casa de 3 suítes com piscina e spa no Condomínio Royal Park
 codigo: CA5415
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Royal Park
 taxaCondominio: 700
 preco: 1300000
 areaUtil: 194.89
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca5415
 capa: 17
 ---
 
-Casa em condomínio fechado de alto padrão na Zona Sul de Uberlândia, com segurança, tranquilidade e fácil acesso a comércios, serviços e áreas de lazer.
+Casa no Condomínio Royal Park, de alto padrão, na Zona Sul de Uberlândia, com segurança, tranquilidade e fácil acesso a comércios, serviços e áreas de lazer.
 
 ## O imóvel
 
@@ -35,7 +36,7 @@ Casa em condomínio fechado de alto padrão na Zona Sul de Uberlândia, com segu
 - Ampla varanda gourmet com churrasqueira
 - Piscina aquecida com spa
 - Paisagismo cuidadosamente planejado
-- Condomínio fechado, com segurança e exclusividade
+- Condomínio Royal Park, com segurança e exclusividade
 
 ## Condições
 

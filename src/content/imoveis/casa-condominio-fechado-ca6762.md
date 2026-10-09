@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea de alto padrão com 3 suítes, piscina e fundo para área verde em condomínio fechado
+titulo: Casa térrea com 3 suítes, piscina e fundo para área verde no Condomínio Tamboré
 codigo: CA6762
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Tamboré
 taxaCondominio: 860
 preco: 2950000
 areaUtil: 227
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6762
 capa: 1
 ---
 
-Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, com acesso rápido ao Uberlândia Shopping, colégios, supermercados, centros médicos e serviços essenciais. O lote tem o fundo voltado para uma das áreas mais nobres do condomínio, com vista livre e sem vizinhos de fundo.
+Casa térrea de alto padrão no Condomínio Tamboré, na Zona Sul de Uberlândia, com acesso rápido ao Uberlândia Shopping, colégios, supermercados, centros médicos e serviços essenciais. O lote tem o fundo voltado para uma das áreas mais nobres do Condomínio Tamboré, com vista livre e sem vizinhos de fundo.
 
 ## O imóvel
 
@@ -41,7 +42,7 @@ Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, 
 - Posição exclusiva no condomínio, com lote de fundo para área verde e privacidade superior
 - Projeto integralmente térreo, com circulação prática e sem desníveis
 - Banheiro máster concebido como spa privativo, com hidromassagem, cromoterapia e duchas duplas
-- Condomínio fechado com estrutura de segurança, esporte e lazer
+- Condomínio Tamboré com estrutura de segurança, esporte e lazer
 
 ## Condições
 

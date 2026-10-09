@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea nova com 3 suítes e piscina aquecida em condomínio fechado
+titulo: Casa térrea nova com 3 suítes e piscina aquecida no Condomínio Splêndido
 codigo: CA6771
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 750
 preco: 2200000
 areaUtil: 206
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6771
 capa: 1
 ---
 
-Casa térrea de alto padrão, nova e nunca habitada, em condomínio fechado, com acesso fácil às principais avenidas, escolas, centros comerciais e serviços da cidade.
+Casa térrea de alto padrão, nova e nunca habitada, no Condomínio Splêndido, com acesso fácil às principais avenidas, escolas, centros comerciais e serviços da cidade.
 
 ## O imóvel
 

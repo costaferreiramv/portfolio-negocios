@@ -17,8 +17,12 @@ const imoveis = defineCollection({
     bairro: z.string(),
     // eixo de navegação — ver src/lib/eixos.ts
     eixo: z.enum(EIXO_IDS),
-    // está em condomínio? (só flag de busca — o NOME do edifício/condomínio nunca é exposto)
+    // está em condomínio? (flag de busca)
     condominio: z.boolean().optional(),
+    // nome do condomínio, SEM a palavra "Condomínio" (ex.: "Splêndido", "The Palms").
+    // Obrigatório nos imóveis do eixo Condomínios Horizontais (exibido no card, no
+    // título, na descrição e na ficha). Edifícios de apartamento continuam sem nome exposto.
+    nomeCondominio: z.string().optional(),
     // valor mensal do condomínio em R$, exibido na Ficha do Imóvel.
     // NÃO preencher quando ausente ou informado como 1,00 (placeholder do Kenlo).
     taxaCondominio: z.number().optional(),

@@ -1,10 +1,11 @@
 ---
-titulo: Casa nova de 4 quartos com jardim amplo em condomínio fechado
+titulo: Casa nova de 4 quartos com jardim amplo no Condomínio Gávea Paradiso
 codigo: CA5963
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Gávea Paradiso
 taxaCondominio: 850
 preco: 1980000
 areaUtil: 259
@@ -19,7 +20,7 @@ fotos: casa-condominio-fechado-ca5963
 capa: 3
 ---
 
-Casa nova, pronta para morar, em condomínio fechado na Zona Sul de Uberlândia, com acabamento de alto padrão e amplo jardim arborizado.
+Casa nova, pronta para morar, no Condomínio Gávea Paradiso, na Zona Sul de Uberlândia, com acabamento de alto padrão e amplo jardim arborizado.
 
 ## O imóvel
 
@@ -38,7 +39,7 @@ Casa nova, pronta para morar, em condomínio fechado na Zona Sul de Uberlândia,
 
 ## Diferenciais
 
-- Imóvel novo, com padrão construtivo alto e localização em condomínio fechado
+- Imóvel novo, com padrão construtivo alto e localização no Condomínio Gávea Paradiso
 - Região tranquila e valorizada, com fácil acesso a comércios, escolas e vias principais
 
 ## Condições

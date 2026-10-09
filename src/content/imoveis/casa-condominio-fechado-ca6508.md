@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea de 3 suítes com piscina e espaço gourmet em condomínio fechado
+titulo: Casa térrea de 3 suítes com piscina e espaço gourmet no Condomínio Royal Park
 codigo: CA6508
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Royal Park
 taxaCondominio: 770
 preco: 1350000
 areaUtil: 191
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6508
 capa: 8
 ---
 
-Casa térrea em condomínio fechado na Zona Sul de Uberlândia, com boa acessibilidade, três suítes completas e espaço de lazer próprio com piscina e varanda gourmet — segurança, tranquilidade e fácil acesso a comércios e vias principais.
+Casa térrea no Condomínio Royal Park, na Zona Sul de Uberlândia, com boa acessibilidade, três suítes completas e espaço de lazer próprio com piscina e varanda gourmet. Segurança, tranquilidade e fácil acesso a comércios e vias principais.
 
 ## O imóvel
 
@@ -34,7 +35,7 @@ Casa térrea em condomínio fechado na Zona Sul de Uberlândia, com boa acessibi
 
 - Piscina
 - Varanda gourmet, perfeita para receber amigos e familiares
-- Condomínio fechado, com máxima segurança e tranquilidade
+- Condomínio Royal Park, com máxima segurança e tranquilidade
 
 ## Diferenciais
 

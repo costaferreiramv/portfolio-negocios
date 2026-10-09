@@ -1,10 +1,11 @@
 ---
-titulo: Lote de 360 m² em condomínio fechado
+titulo: Lote de 360 m² no Condomínio Splêndido
 codigo: TE4399
 tipo: lote
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 580
 preco: 599000
 areaUtil: 360
@@ -17,13 +18,13 @@ fotos: lote-condominio-fechado-te4399
 capa: 6
 ---
 
-Lote de 360 m² em um dos condomínios fechados mais valorizados e desejados da Zona Sul de Uberlândia, com infraestrutura completa e área de lazer de altíssimo padrão.
+Lote de 360 m² no Condomínio Splêndido, um dos condomínios mais valorizados e desejados da Zona Sul de Uberlândia, com infraestrutura completa e área de lazer de altíssimo padrão.
 
 ## O imóvel
 
 - 360 m² de área total (12 m x 30 m)
 - Topografia excelente, favorável à construção e à otimização de custos de obra
-- Posição privilegiada dentro do condomínio
+- Posição privilegiada dentro do Condomínio Splêndido
 - Lote 100% liberado e pronto para construir
 
 ## Lazer

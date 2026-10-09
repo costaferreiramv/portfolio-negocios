@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de 4 suítes com home cinema e spa privativo em condomínio de alto padrão
+titulo: Sobrado de 4 suítes com home cinema e spa privativo no Condomínio Jardins Barcelona
 codigo: CA6597
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Jardins Barcelona
 taxaCondominio: 950
 aceitaFinanciamento: false
 preco: 2900000
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6597
 capa: 1
 ---
 
-Sobrado de projeto sofisticado em condomínio de alto padrão na Zona Sul de Uberlândia, com segurança, exclusividade e fácil acesso aos principais centros comerciais, escolas e serviços.
+Sobrado de projeto sofisticado no Condomínio Jardins Barcelona, na Zona Sul de Uberlândia, com segurança, exclusividade e fácil acesso aos principais centros comerciais, escolas e serviços.
 
 ## O imóvel
 
@@ -46,7 +47,7 @@ Sobrado de projeto sofisticado em condomínio de alto padrão na Zona Sul de Ube
 - Projeto elegante com ampla área de lazer privativa
 - 4 suítes, home cinema e escritório
 - Marcenaria planejada em todos os ambientes
-- Completa infraestrutura em um dos melhores condomínios da Zona Sul
+- Completa infraestrutura no Condomínio Jardins Barcelona, um dos melhores condomínios da Zona Sul
 
 ## Condições
 

@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea com home office e cozinha gourmet em condomínio de alto padrão
+titulo: Casa térrea com home office e cozinha gourmet no Condomínio Jardins Gênova
 codigo: CA6509
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Jardins Gênova
 taxaCondominio: 900
 preco: 2200000
 areaUtil: 210
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6509
 capa: 3
 ---
 
-Casa térrea em condomínio de altíssimo padrão na Zona Sul de Uberlândia, em ponto nobre e valorizado, com infraestrutura completa de lazer e segurança.
+Casa térrea no Condomínio Jardins Gênova, de altíssimo padrão, na Zona Sul de Uberlândia, em ponto nobre e valorizado, com infraestrutura completa de lazer e segurança.
 
 ## O imóvel
 

@@ -1,10 +1,11 @@
 ---
-titulo: Casa automatizada de 3 suítes com piscina aquecida em condomínio fechado
+titulo: Casa automatizada de 3 suítes com piscina aquecida no Condomínio Tamboré
 codigo: CA5253
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Tamboré
 taxaCondominio: 750
 preco: 2200000
 areaUtil: 204
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca5253
 capa: 1
 ---
 
-Casa de projeto arquitetônico moderno e imponente em condomínio fechado na Zona Sul de Uberlândia, com automação completa e infraestrutura de lazer de alto padrão.
+Casa de projeto arquitetônico moderno e imponente no Condomínio Tamboré, na Zona Sul de Uberlândia, com automação completa e infraestrutura de lazer de alto padrão.
 
 ## O imóvel
 
@@ -35,7 +36,7 @@ Casa de projeto arquitetônico moderno e imponente em condomínio fechado na Zon
 
 - Piscina aquecida com hidromassagem, cascata e automação
 - Churrasqueira embutida com coifa de exaustão
-- Condomínio com campo de futebol, quadra de tênis, quadra poliesportiva e playground
+- Condomínio Tamboré com campo de futebol, quadra de tênis, quadra poliesportiva e playground
 
 ## Diferenciais
 

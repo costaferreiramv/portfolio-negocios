@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea com fachada imponente em condomínio fechado
+titulo: Casa térrea com fachada imponente no Condomínio Park Sul
 codigo: CA6353
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Park Sul
 taxaCondominio: 650
 preco: 1450000
 areaUtil: 160
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6353
 capa: 1
 ---
 
-Casa térrea pronta para morar, montada em armários e com acabamentos contemporâneos, em condomínio fechado na Zona Sul de Uberlândia — ao lado do Parque Una, com fácil acesso ao Uberlândia Shopping e à Unitri.
+Casa térrea pronta para morar, montada em armários e com acabamentos contemporâneos, no Condomínio Park Sul, na Zona Sul de Uberlândia, ao lado do Parque Una, com fácil acesso ao Uberlândia Shopping e à Unitri.
 
 ## O imóvel
 

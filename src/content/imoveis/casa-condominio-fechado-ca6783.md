@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de alto padrão com piscina aquecida e 3 suítes em condomínio fechado
+titulo: Sobrado de alto padrão com piscina aquecida e 3 suítes no Condomínio Splêndido
 codigo: CA6783
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 539
 preco: 3000000
 areaUtil: 297.28
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6783
 capa: 2
 ---
 
-Sobrado de alto padrão em condomínio fechado na Região Sul de Uberlândia, com projeto arquitetônico diferenciado, acabamentos refinados e ambientes planejados com sofisticação e conforto.
+Sobrado de alto padrão no Condomínio Splêndido, na Região Sul de Uberlândia, com projeto arquitetônico diferenciado, acabamentos refinados e ambientes planejados com sofisticação e conforto.
 
 ## O imóvel
 

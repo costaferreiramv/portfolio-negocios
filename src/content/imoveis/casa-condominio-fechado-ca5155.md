@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 3 suítes com varanda gourmet e piscina em condomínio fechado
+titulo: Casa de 3 suítes com varanda gourmet e piscina no Condomínio GSP Arts
 codigo: CA5155
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: GSP Arts
 preco: 2650000
 areaUtil: 239
 areaTerreno: 420
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca5155
 capa: 1
 ---
 
-Casa de alto padrão em condomínio fechado na Zona Sul de Uberlândia, com localização privilegiada e ambiente exclusivo e sofisticado.
+Casa de alto padrão no Condomínio GSP Arts, na Zona Sul de Uberlândia, com localização privilegiada e ambiente exclusivo e sofisticado.
 
 ## O imóvel
 
@@ -37,7 +38,7 @@ Casa de alto padrão em condomínio fechado na Zona Sul de Uberlândia, com loca
 ## Diferenciais
 
 - Acabamento de alto nível e amplos espaços internos
-- Localização privilegiada, em condomínio fechado de alto padrão
+- Localização privilegiada, no Condomínio GSP Arts, de alto padrão
 
 ## Condições
 

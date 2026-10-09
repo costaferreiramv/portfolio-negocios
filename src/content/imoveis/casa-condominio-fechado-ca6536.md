@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de alto padrão com 3 suítes em condomínio fechado
+titulo: Sobrado de alto padrão com 3 suítes no Condomínio Village Karaíba
 codigo: CA6536
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Village Karaíba
 taxaCondominio: 750
 preco: 1500000
 areaUtil: 284.65
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6536
 capa: 4
 ---
 
-Sobrado de alto padrão em condomínio fechado na Zona Sul de Uberlândia, região tranquila e altamente segura, ideal para quem busca conforto, privacidade e excelente qualidade de vida para a família. Pronto para morar, com acabamentos refinados e climatização completa.
+Sobrado de alto padrão no Condomínio Village Karaíba, na Zona Sul de Uberlândia, região tranquila e altamente segura, ideal para quem busca conforto, privacidade e excelente qualidade de vida para a família. Pronto para morar, com acabamentos refinados e climatização completa.
 
 ## O imóvel
 
@@ -37,7 +38,7 @@ Sobrado de alto padrão em condomínio fechado na Zona Sul de Uberlândia, regi�
 
 ## Diferenciais
 
-- Localização estratégica dentro do condomínio, com forte apelo de valorização
+- Localização estratégica dentro do Condomínio Village Karaíba, com forte apelo de valorização
 - Sistema de segurança rigoroso e monitorado
 - Integração perfeita entre ambientes internos e área gourmet
 

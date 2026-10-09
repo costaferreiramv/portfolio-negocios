@@ -1,10 +1,11 @@
 ---
-titulo: Lote em condomínio de alto padrão, próximo à portaria e à área de lazer
+titulo: Lote no Condomínio Tamboré, próximo à portaria e à área de lazer
 codigo: TE4343
 tipo: lote
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Tamboré
 taxaCondominio: 800
 preco: 632900
 areaUtil: 383.53
@@ -18,7 +19,7 @@ fotos: lote-condominio-fechado-te4343
 capa: 1
 ---
 
-Lote de 383,53 m² em condomínio de altíssimo padrão na melhor localização da Zona Sul de Uberlândia, com segurança, exclusividade e excelente potencial de valorização, próximo à portaria e à área de lazer do condomínio.
+Lote de 383,53 m² no Condomínio Tamboré, de altíssimo padrão, na melhor localização da Zona Sul de Uberlândia, com segurança, exclusividade e excelente potencial de valorização, próximo à portaria e à área de lazer do Condomínio Tamboré.
 
 ## O imóvel
 
@@ -30,11 +31,11 @@ Lote de 383,53 m² em condomínio de altíssimo padrão na melhor localização 
 
 ## Lazer
 
-- Condomínio de alto padrão com infraestrutura completa, segurança e áreas de lazer planejadas
+- Condomínio Tamboré, de alto padrão, com infraestrutura completa, segurança e áreas de lazer planejadas
 
 ## Diferenciais
 
-- Localizado em um dos melhores pontos do condomínio, próximo à portaria e à área de lazer
+- Localizado em um dos melhores pontos do Condomínio Tamboré, próximo à portaria e à área de lazer
 - Excelente topografia e posição privilegiada em relação ao sol
 - Grande potencial para construção de uma residência de alto padrão
 

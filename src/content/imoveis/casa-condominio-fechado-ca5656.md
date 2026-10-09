@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de esquina com piscina e ofurô, 6 vagas, em condomínio de alto padrão
+titulo: Sobrado de esquina com piscina e ofurô, 6 vagas, no Condomínio Gávea Hill I
 codigo: CA5656
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Gávea Hill I
 taxaCondominio: 1100
 preco: 2800000
 areaUtil: 344
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca5656
 capa: 29
 ---
 
-Residência em um dos condomínios mais valorizados e tranquilos da Zona Sul de Uberlândia, em terreno de esquina, com excelente aproveitamento do espaço e acesso privilegiado.
+Residência no Condomínio Gávea Hill I, um dos condomínios mais valorizados e tranquilos da Zona Sul de Uberlândia, em terreno de esquina, com excelente aproveitamento do espaço e acesso privilegiado.
 
 ## O imóvel
 
@@ -40,7 +41,7 @@ Residência em um dos condomínios mais valorizados e tranquilos da Zona Sul de 
 - Ducha externa e lavabo de apoio
 - Aquecimento solar para piscina, torneiras e chuveiros
 - Paisagismo com irrigação automatizada
-- Condomínio com playground, quadra poliesportiva, quadra de tênis e espaços de convivência
+- Condomínio Gávea Hill I com playground, quadra poliesportiva, quadra de tênis e espaços de convivência
 
 ## Condições
 

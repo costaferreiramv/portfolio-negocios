@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de 4 quartos em condomínio fechado
+titulo: Sobrado de 4 quartos no Condomínio The Palms
 codigo: CA6515
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: The Palms
 taxaCondominio: 650
 preco: 960000
 areaUtil: 151.86
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6515
 capa: 1
 ---
 
-Lindo sobrado à venda em condomínio fechado na melhor localização da Zona Sul de Uberlândia, com fácil acesso a todas as regiões da cidade e inserido em área nobre de alta valorização.
+Lindo sobrado à venda no Condomínio The Palms, na melhor localização da Zona Sul de Uberlândia, com fácil acesso a todas as regiões da cidade e inserido em área nobre de alta valorização.
 
 ## O imóvel
 

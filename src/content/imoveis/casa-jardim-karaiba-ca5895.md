@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado novo em condomínio fechado
+titulo: Sobrado novo no Condomínio Dolce Vita
 codigo: CA5895
 tipo: casa
 bairro: Jardim Karaíba
 eixo: horizontais
 condominio: true
+nomeCondominio: Dolce Vita
 preco: 1630000
 areaUtil: 176.19
 areaTerreno: 210.5
@@ -17,7 +18,7 @@ fotos: casa-jardim-karaiba-ca5895
 capa: 1
 ---
 
-Sobrado novo, em condomínio fechado na Zona Sul de Uberlândia, em região valorizada e próxima a comércios, escolas e serviços.
+Sobrado novo, no Condomínio Dolce Vita, na Zona Sul de Uberlândia, em região valorizada e próxima a comércios, escolas e serviços.
 
 ## O imóvel
 

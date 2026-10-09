@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea de 3 suítes com espaço gourmet em condomínio fechado
+titulo: Casa térrea de 3 suítes com espaço gourmet no Condomínio Varanda Sul
 codigo: CA6574
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Varanda Sul
 preco: 1700000
 areaUtil: 216
 areaTerreno: 360
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6574
 capa: 1
 ---
 
-Casa térrea em condomínio fechado na Zona Sul de Uberlândia, com projeto moderno, ambientes integrados e completa infraestrutura de lazer — região privilegiada, com segurança e fácil acesso aos principais comércios e vias de deslocamento.
+Casa térrea no Condomínio Varanda Sul, na Zona Sul de Uberlândia, com projeto moderno, ambientes integrados e completa infraestrutura de lazer. Região privilegiada, com segurança e fácil acesso aos principais comércios e vias de deslocamento.
 
 ## O imóvel
 
@@ -34,7 +35,7 @@ Casa térrea em condomínio fechado na Zona Sul de Uberlândia, com projeto mode
 ## Lazer
 
 - Varanda gourmet equipada com churrasqueira, pia e banheiro de apoio
-- Condomínio com piscina, academia, espaço gourmet com churrasqueira, playground, salão de festas, quadra poliesportiva e quadra de tênis
+- Condomínio Varanda Sul com piscina, academia, espaço gourmet com churrasqueira, playground, salão de festas, quadra poliesportiva e quadra de tênis
 - Portaria 24 horas
 
 ## Diferenciais

@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea com piscina e lazer completo em condomínio fechado
+titulo: Casa térrea com piscina e lazer completo no Condomínio Jardins Barcelona
 codigo: CA5824
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Jardins Barcelona
 taxaCondominio: 1000
 preco: 1650000
 areaUtil: 210
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca5824
 capa: 1
 ---
 
-Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, com piscina privativa e estrutura de lazer completa.
+Casa térrea de alto padrão no Condomínio Jardins Barcelona, na Zona Sul de Uberlândia, com piscina privativa e estrutura de lazer completa.
 
 ## O imóvel
 
@@ -33,13 +34,13 @@ Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, 
 ## Lazer
 
 - Piscina privativa integrada à área social
-- Estrutura completa do condomínio: sauna, solarium, playground, campo de futebol, quadra de tênis e quadra poliesportiva
+- Estrutura completa do Condomínio Jardins Barcelona: sauna, solarium, playground, campo de futebol, quadra de tênis e quadra poliesportiva
 
 ## Diferenciais
 
 - Imóvel totalmente térreo, com acabamento de alto padrão
 - Ar-condicionado
-- Localização privilegiada dentro do condomínio
+- Localização privilegiada dentro do Condomínio Jardins Barcelona
 
 ## Condições
 

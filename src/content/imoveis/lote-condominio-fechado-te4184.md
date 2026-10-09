@@ -1,10 +1,11 @@
 ---
-titulo: Lote de alto padrão em condomínio fechado
+titulo: Lote de alto padrão no Condomínio Cyrela Buritis
 codigo: TE4184
 tipo: lote
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Cyrela Buritis
 taxaCondominio: 800
 preco: 970600
 areaUtil: 422.92
@@ -18,7 +19,7 @@ fotos: lote-condominio-fechado-te4184
 capa: 1
 ---
 
-Lote de 422,92 m² em condomínio fechado de alto padrão na Zona Sul de Uberlândia, em frente a uma praça infantil recém-reformada, num dos pontos mais tranquilos do empreendimento.
+Lote de 422,92 m² no Condomínio Cyrela Buritis, de alto padrão, na Zona Sul de Uberlândia, em frente a uma praça infantil recém-reformada, num dos pontos mais tranquilos do empreendimento.
 
 ## O imóvel
 

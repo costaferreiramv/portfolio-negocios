@@ -90,7 +90,7 @@ const jsonLd = {
                 {imovel.data.codigo && <span class="selo-ref">{imovel.data.codigo}</span>}
               </div>
               <div class="card-corpo">
-                <div class="onde">{eixo.ocultaBairro ? 'Condomínio fechado' : imovel.data.bairro}</div>
+                <div class="onde">{eixo.ocultaBairro ? (imovel.data.nomeCondominio ? `Condomínio ${imovel.data.nomeCondominio}` : 'Condomínio fechado') : imovel.data.bairro}</div>
                 <h3>{imovel.data.titulo}</h3>
                 <div class="cota-mini card-cota">
                   <span class="haste"></span>

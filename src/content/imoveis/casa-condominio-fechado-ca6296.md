@@ -1,10 +1,11 @@
 ---
-titulo: Casa de esquina com piscina aquecida e energia fotovoltaica em condomínio de alto padrão
+titulo: Casa de esquina com piscina aquecida e energia fotovoltaica no Condomínio Cyrela Buritis
 codigo: CA6296
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Cyrela Buritis
 taxaCondominio: 957
 preco: 2800000
 areaUtil: 214
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6296
 capa: 18
 ---
 
-Casa de esquina em um dos condomínios mais prestigiosos da Zona Sul de Uberlândia, com infraestrutura de alto padrão, segurança total e posicionamento privilegiado que garante sol da manhã e maior privacidade.
+Casa de esquina no Condomínio Cyrela Buritis, um dos condomínios mais prestigiosos da Zona Sul de Uberlândia, com infraestrutura de alto padrão, segurança total e posicionamento privilegiado que garante sol da manhã e maior privacidade.
 
 ## O imóvel
 

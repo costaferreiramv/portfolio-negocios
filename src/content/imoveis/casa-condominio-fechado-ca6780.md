@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de alto padrão com 5 suítes e piscina aquecida em condomínio fechado
+titulo: Sobrado de alto padrão com 5 suítes e piscina aquecida no Condomínio Jardins Roma
 codigo: CA6780
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Jardins Roma
 taxaCondominio: 1100
 preco: 3200000
 areaUtil: 357.2
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6780
 capa: 1
 ---
 
-Sobrado amplo de alto padrão em condomínio fechado na Zona Sul de Uberlândia, com ambientes bem distribuídos, marcenaria completa e boa iluminação natural.
+Sobrado amplo de alto padrão no Condomínio Jardins Roma, na Zona Sul de Uberlândia, com ambientes bem distribuídos, marcenaria completa e boa iluminação natural.
 
 ## O imóvel
 
@@ -41,9 +42,9 @@ Sobrado amplo de alto padrão em condomínio fechado na Zona Sul de Uberlândia,
 
 ## Diferenciais
 
-- Sobrado de alto padrão em condomínio fechado
+- Sobrado de alto padrão no Condomínio Jardins Roma
 - 4 suítes no pavimento superior, com armários e sacadas
-- Condomínio com estrutura de lazer e portaria 24 horas
+- Condomínio Jardins Roma com estrutura de lazer e portaria 24 horas
 
 ## Condições
 

@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea com SPA privativo e varanda gourmet em condomínio fechado
+titulo: Casa térrea com SPA privativo e varanda gourmet no Condomínio Cyrela Buritis
 codigo: CA3412
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Cyrela Buritis
 taxaCondominio: 1128
 preco: 2850000
 areaUtil: 225
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca3412
 capa: 3
 ---
 
-Casa totalmente térrea, de alto padrão, em localização privilegiada dentro de um condomínio fechado na Zona Sul de Uberlândia, com estrutura de lazer privativa e completa.
+Casa totalmente térrea, de alto padrão, em localização privilegiada dentro do Condomínio Cyrela Buritis, na Zona Sul de Uberlândia, com estrutura de lazer privativa e completa.
 
 ## O imóvel
 
@@ -34,7 +35,7 @@ Casa totalmente térrea, de alto padrão, em localização privilegiada dentro d
 ## Lazer
 
 - SPA aquecido no quintal privativo e solarium
-- Estrutura completa do condomínio: academia, sauna, piscinas, ofurô, campo de futebol, quadra de tênis e quadra poliesportiva, playground
+- Estrutura completa do Condomínio Cyrela Buritis: academia, sauna, piscinas, ofurô, campo de futebol, quadra de tênis e quadra poliesportiva, playground
 
 ## Diferenciais
 
@@ -44,5 +45,4 @@ Casa totalmente térrea, de alto padrão, em localização privilegiada dentro d
 
 ## Condições
 
-- Aceita financiamento
 - Valores e disponibilidade sujeitos a confirmação

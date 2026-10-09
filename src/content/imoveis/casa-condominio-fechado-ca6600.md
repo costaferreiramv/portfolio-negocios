@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de 3 suítes com piscina aquecida e área gourmet em condomínio de alto padrão
+titulo: Sobrado de 3 suítes com piscina aquecida e área gourmet no Condomínio Villa do Sol
 codigo: CA6600
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Villa do Sol
 taxaCondominio: 1200
 aceitaFinanciamento: false
 preco: 3800000
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6600
 capa: 3
 ---
 
-Sobrado de altíssimo padrão em um dos condomínios mais tradicionais e valorizados da Zona Sul de Uberlândia, com segurança, exclusividade e fácil acesso a centros comerciais, escolas e serviços.
+Sobrado de altíssimo padrão no Condomínio Villa do Sol, um dos condomínios mais tradicionais e valorizados da Zona Sul de Uberlândia, com segurança, exclusividade e fácil acesso a centros comerciais, escolas e serviços.
 
 ## O imóvel
 

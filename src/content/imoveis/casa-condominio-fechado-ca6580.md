@@ -1,10 +1,11 @@
 ---
-titulo: Casa nova com piscina em condomínio fechado
+titulo: Casa nova com piscina no Condomínio Golden Village
 codigo: CA6580
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Golden Village
 taxaCondominio: 894
 preco: 2790000
 areaUtil: 245.09
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6580
 capa: 1
 ---
 
-Casa recém-construída, pronta para morar, em condomínio fechado na Zona Sul de Uberlândia — região de fácil acesso aos principais centros comerciais e vias de deslocamento.
+Casa recém-construída, pronta para morar, no Condomínio Golden Village, na Zona Sul de Uberlândia, região de fácil acesso aos principais centros comerciais e vias de deslocamento.
 
 ## O imóvel
 
@@ -39,7 +40,7 @@ Casa recém-construída, pronta para morar, em condomínio fechado na Zona Sul d
 - Piscina aquecida com banco de hidromassagem
 - Paisagismo completo com irrigação automatizada
 
-## O condomínio
+## O Condomínio Golden Village
 
 - Portaria e segurança 24 horas, com controle de acesso
 - Academia, piscinas e salão de festas

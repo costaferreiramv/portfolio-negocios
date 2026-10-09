@@ -1,10 +1,11 @@
 ---
-titulo: Casa mobiliada de arquitetura contemporânea com piscina e solarium
+titulo: Casa mobiliada de arquitetura contemporânea com piscina e solarium no Condomínio Splêndido
 codigo: CA6244
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 600
 preco: 1950000
 areaUtil: 200
@@ -19,7 +20,7 @@ fotos: casa-condominio-fechado-ca6244
 capa: 1
 ---
 
-Casa de arquitetura contemporânea em condomínio fechado na Zona Sul de Uberlândia, mobiliada e pronta para morar, com infraestrutura completa de lazer e segurança.
+Casa de arquitetura contemporânea no Condomínio Splêndido, na Zona Sul de Uberlândia, mobiliada e pronta para morar, com infraestrutura completa de lazer e segurança.
 
 ## O imóvel
 
@@ -42,10 +43,9 @@ Casa de arquitetura contemporânea em condomínio fechado na Zona Sul de Uberlâ
 
 - Casa mobiliada, pronta para morar
 - Arquitetura contemporânea com acabamento de alto padrão
-- Condomínio fechado com infraestrutura completa de lazer e segurança
+- Condomínio Splêndido com infraestrutura completa de lazer e segurança
 
 ## Condições
 
-- Aceita financiamento
 - Aceita permuta
 - Valores e disponibilidade sujeitos a confirmação

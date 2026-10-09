@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado moderno com varanda gourmet em condomínio fechado
+titulo: Sobrado moderno com varanda gourmet no Condomínio Quality Residence
 codigo: CA6679
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Quality Residence
 taxaCondominio: 650
 preco: 850000
 areaUtil: 158.3
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6679
 capa: 3
 ---
 
-Sobrado moderno de excelente distribuição, em condomínio fechado na Zona Sul de Uberlândia, com localização nobre, segura e de fácil acesso a comércios, escolas e principais avenidas.
+Sobrado moderno de excelente distribuição, no Condomínio Quality Residence, na Zona Sul de Uberlândia, com localização nobre, segura e de fácil acesso a comércios, escolas e principais avenidas.
 
 ## O imóvel
 
@@ -35,7 +36,7 @@ Sobrado moderno de excelente distribuição, em condomínio fechado na Zona Sul 
 ## Lazer
 
 - Varanda gourmet privativa com churrasqueira
-- Estrutura do condomínio com portaria e controle de acesso 24 horas, piscina aquecida, academia equipada e playground
+- Estrutura do Condomínio Quality Residence com portaria e controle de acesso 24 horas, piscina aquecida, academia equipada e playground
 
 ## Condições
 

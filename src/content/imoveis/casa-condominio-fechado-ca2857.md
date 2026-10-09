@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 4 suítes com spa e adega em condomínio fechado
+titulo: Casa de 4 suítes com spa e adega no Condomínio Varanda Sul
 codigo: CA2857
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Varanda Sul
 taxaCondominio: 530
 preco: 1900000
 areaUtil: 224.5
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca2857
 capa: 1
 ---
 
-Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, totalmente planejada, com espaços de lazer privativos e acabamentos sofisticados.
+Casa térrea de alto padrão no Condomínio Varanda Sul, na Zona Sul de Uberlândia, totalmente planejada, com espaços de lazer privativos e acabamentos sofisticados.
 
 ## O imóvel
 

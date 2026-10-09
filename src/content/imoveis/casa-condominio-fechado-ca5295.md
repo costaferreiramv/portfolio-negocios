@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 3 suítes com planta moderna em condomínio fechado
+titulo: Casa de 3 suítes com planta moderna no Condomínio Splêndido
 codigo: CA5295
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 514
 preco: 1890000
 areaUtil: 214
@@ -19,7 +20,7 @@ fotos: casa-condominio-fechado-ca5295
 capa: 4
 ---
 
-Casa de planta moderna e sofisticada em condomínio fechado na Zona Sul de Uberlândia, com acabamentos de luxo e localização privilegiada.
+Casa de planta moderna e sofisticada no Condomínio Splêndido, na Zona Sul de Uberlândia, com acabamentos de luxo e localização privilegiada.
 
 ## O imóvel
 
@@ -33,12 +34,12 @@ Casa de planta moderna e sofisticada em condomínio fechado na Zona Sul de Uberl
 ## Lazer
 
 - Área gourmet com churrasqueira
-- Condomínio com academia equipada, campo de futebol, playground e quadra de tênis
+- Condomínio Splêndido com academia equipada, campo de futebol, playground e quadra de tênis
 
 ## Diferenciais
 
 - Planta moderna e sofisticada, com elegância e requinte nos acabamentos
-- Condomínio fechado em área privilegiada, com fácil acesso a serviços, comércio e transporte
+- Condomínio Splêndido em área privilegiada, com fácil acesso a serviços, comércio e transporte
 
 ## Condições
 

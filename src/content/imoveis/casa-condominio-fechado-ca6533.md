@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea de 4 suítes com piscina aquecida em condomínio fechado
+titulo: Casa térrea de 4 suítes com piscina aquecida no Condomínio GSP Arts
 codigo: CA6533
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: GSP Arts
 taxaCondominio: 1079
 preco: 2990000
 areaUtil: 283
@@ -19,7 +20,7 @@ fotos: casa-condominio-fechado-ca6533
 capa: 1
 ---
 
-Casa totalmente térrea, de alto padrão, em condomínio fechado com infraestrutura completa na Zona Sul de Uberlândia, com segurança máxima e localização privilegiada.
+Casa totalmente térrea, de alto padrão, no Condomínio GSP Arts, com infraestrutura completa na Zona Sul de Uberlândia, com segurança máxima e localização privilegiada.
 
 ## O imóvel
 
@@ -42,7 +43,7 @@ Casa totalmente térrea, de alto padrão, em condomínio fechado com infraestrut
 
 - Fachada imponente e excelente distribuição de espaço
 - Sistema de aquecimento de água em todos os banheiros, cozinha gourmet e lavanderia
-- Condomínio fechado de alto padrão, com segurança máxima
+- Condomínio GSP Arts, de alto padrão, com segurança máxima
 
 ## Condições
 

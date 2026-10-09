@@ -1,10 +1,11 @@
 ---
-titulo: Lote de esquina em condomínio de alto padrão, próximo ao lago
+titulo: Lote de esquina no Condomínio Cyrela Buritis, próximo ao lago
 codigo: TE4370
 tipo: lote
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Cyrela Buritis
 taxaCondominio: 800
 preco: 1660000
 areaUtil: 663.35
@@ -18,14 +19,14 @@ fotos: lote-condominio-fechado-te4370
 capa: 1
 ---
 
-Lote de 663,35 m² em condomínio de alto padrão na Zona Sul de Uberlândia, em posição de esquina e próximo a um dos lagos do condomínio, numa região planejada com segurança e infraestrutura completa.
+Lote de 663,35 m² no Condomínio Cyrela Buritis, na Zona Sul de Uberlândia, em posição de esquina e próximo a um dos lagos do Condomínio Cyrela Buritis, numa região planejada com segurança e infraestrutura completa.
 
 ## O imóvel
 
 - 663,35 m², medindo 25,05 m x 30 m x 26,78 m
 - Boa topografia
 - Terreno de esquina, com maior liberdade para projetos arquitetônicos
-- Próximo a um dos lagos do condomínio
+- Próximo a um dos lagos do Condomínio Cyrela Buritis
 
 ## Lazer
 
@@ -36,7 +37,7 @@ Lote de 663,35 m² em condomínio de alto padrão na Zona Sul de Uberlândia, em
 
 ## Diferenciais
 
-- Terreno amplo, com excelente aproveitamento e localização privilegiada dentro do condomínio
+- Terreno amplo, com excelente aproveitamento e localização privilegiada dentro do Condomínio Cyrela Buritis
 - Posição em esquina, ideal para projetos com fachadas mais elaboradas
 - Grande potencial para construção de uma residência exclusiva
 

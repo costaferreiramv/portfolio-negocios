@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 4 suítes com piscina em condomínio fechado
+titulo: Casa de 4 suítes com piscina no Condomínio Jardins Gênova
 codigo: CA4939
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Jardins Gênova
 taxaCondominio: 1028
 preco: 2990000
 areaUtil: 295
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca4939
 capa: 1
 ---
 
-Casa térrea de alto padrão em um dos condomínios fechados mais completos da Zona Sul, com 295 m² de área construída em terreno de mais de 500 m².
+Casa térrea de alto padrão no Condomínio Jardins Gênova, um dos condomínios fechados mais completos da Zona Sul, com 295 m² de área construída em terreno de mais de 500 m².
 
 ## O imóvel
 
@@ -26,7 +27,7 @@ São quatro suítes, todas com closet, incluindo uma suíte principal especialme
 
 ## Lazer
 
-No quintal, piscina aquecida com cascata e churrasqueira dão o tom da área externa. O condomínio completa a experiência com campo de futebol, academia, playground, quadra de tênis e quadra poliesportiva.
+No quintal, piscina aquecida com cascata e churrasqueira dão o tom da área externa. O Condomínio Jardins Gênova completa a experiência com campo de futebol, academia, playground, quadra de tênis e quadra poliesportiva.
 
 ## Diferenciais
 

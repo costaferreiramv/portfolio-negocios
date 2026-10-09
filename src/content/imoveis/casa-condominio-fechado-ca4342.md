@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 4 suítes com home cine e piscina aquecida em condomínio fechado
+titulo: Casa de 4 suítes com home cine e piscina aquecida no Condomínio Jardins Roma
 codigo: CA4342
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Jardins Roma
 taxaCondominio: 1400
 preco: 3250000
 areaUtil: 420
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca4342
 capa: 1
 ---
 
-Casa de altíssimo padrão em condomínio fechado na Zona Sul de Uberlândia, com amplos ambientes sociais e lazer completo, incluindo home cine e piscina aquecida.
+Casa de altíssimo padrão no Condomínio Jardins Roma, na Zona Sul de Uberlândia, com amplos ambientes sociais e lazer completo, incluindo home cine e piscina aquecida.
 
 ## O imóvel
 
@@ -39,7 +40,7 @@ Casa de altíssimo padrão em condomínio fechado na Zona Sul de Uberlândia, co
 ## Diferenciais
 
 - Home cine e amplos ambientes integrados
-- Condomínio fechado de alto padrão, com segurança e localização valorizada na Zona Sul
+- Condomínio Jardins Roma, de alto padrão, com segurança e localização valorizada na Zona Sul
 
 ## Condições
 

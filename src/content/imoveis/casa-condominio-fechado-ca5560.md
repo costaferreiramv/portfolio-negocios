@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea com mezanino, piscina aquecida e 4 suítes em condomínio de alto padrão
+titulo: Casa térrea com mezanino, piscina aquecida e 4 suítes no Condomínio Gávea Hill I
 codigo: CA5560
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Gávea Hill I
 taxaCondominio: 1100
 preco: 3000000
 areaUtil: 361.69
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca5560
 capa: 3
 ---
 
-Casa em um dos condomínios de mais alto padrão da Zona Sul de Uberlândia, em ambiente seguro, exclusivo e cercado de natureza, ideal para quem busca qualidade de vida, privacidade e sofisticação.
+Casa no Condomínio Gávea Hill I, um dos condomínios de mais alto padrão da Zona Sul de Uberlândia, em ambiente seguro, exclusivo e cercado de natureza, ideal para quem busca qualidade de vida, privacidade e sofisticação.
 
 ## O imóvel
 
@@ -35,7 +36,7 @@ Casa em um dos condomínios de mais alto padrão da Zona Sul de Uberlândia, em 
 - Pergolado
 - Varanda gourmet
 - Aquecimento de água por energia solar
-- Condomínio com quadra poliesportiva, quadra de tênis e playground
+- Condomínio Gávea Hill I com quadra poliesportiva, quadra de tênis e playground
 - Paisagismo
 
 ## Condições

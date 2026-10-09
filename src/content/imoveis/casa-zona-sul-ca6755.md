@@ -1,10 +1,11 @@
 ---
-titulo: Casa moderna com energia solar e piscina em condomínio fechado
+titulo: Casa moderna com energia solar e piscina no Condomínio Splêndido
 codigo: CA6755
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 600
 preco: 2050000
 areaUtil: 206
@@ -17,7 +18,7 @@ fotos: casa-zona-sul-ca6755
 capa: 9
 ---
 
-Casa térrea moderna em condomínio fechado na Zona Sul de Uberlândia, com planta funcional, tecnologia embarcada e área de lazer privativa completa.
+Casa térrea moderna no Condomínio Splêndido, na Zona Sul de Uberlândia, com planta funcional, tecnologia embarcada e área de lazer privativa completa.
 
 ## O imóvel
 
@@ -41,7 +42,7 @@ Casa térrea moderna em condomínio fechado na Zona Sul de Uberlândia, com plan
 - Usina de energia solar fotovoltaica já em operação
 - Sistema de aquecimento solar de água
 - Projeto de paisagismo moderno já implantado
-- Condomínio fechado de alto padrão, com localização valorizada na Zona Sul
+- Condomínio Splêndido, de alto padrão, com localização valorizada na Zona Sul
 
 ## Condições
 

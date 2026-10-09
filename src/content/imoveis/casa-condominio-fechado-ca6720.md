@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 3 suítes com piscina aquecida e elevador em condomínio fechado
+titulo: Casa de 3 suítes com piscina aquecida e elevador no Condomínio Tamboré
 codigo: CA6720
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Tamboré
 taxaCondominio: 800
 aceitaPermuta: true
 preco: 3800000
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca6720
 capa: 13
 ---
 
-Residência de altíssimo padrão em condomínio fechado, em região nobre e tranquila da Zona Sul de Uberlândia, com fácil acesso a serviços, colégios e às principais avenidas.
+Residência de altíssimo padrão no Condomínio Tamboré, em região nobre e tranquila da Zona Sul de Uberlândia, com fácil acesso a serviços, colégios e às principais avenidas.
 
 ## O imóvel
 

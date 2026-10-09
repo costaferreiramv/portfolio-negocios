@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea de alto padrão com 3 suítes e piscina aquecida em condomínio fechado
+titulo: Casa térrea de alto padrão com 3 suítes e piscina aquecida no Condomínio Splêndido
 codigo: CA6782
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 750
 preco: 2390000
 areaUtil: 206
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6782
 capa: 1
 ---
 
-Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, com fácil acesso a colégios, polos gastronômicos, centros de compras e às principais vias expressas da cidade.
+Casa térrea de alto padrão no Condomínio Splêndido, na Zona Sul de Uberlândia, com fácil acesso a colégios, polos gastronômicos, centros de compras e às principais vias expressas da cidade.
 
 ## O imóvel
 

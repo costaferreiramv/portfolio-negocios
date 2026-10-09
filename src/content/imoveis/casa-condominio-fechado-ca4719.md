@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de 4 suítes com piscina aquecida e espaço gourmet completo em condomínio tradicional
+titulo: Sobrado de 4 suítes com piscina aquecida e espaço gourmet no Condomínio Gávea Hill II
 codigo: CA4719
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Gávea Hill II
 taxaCondominio: 1100
 aceitaFinanciamento: true
 preco: 3700000
@@ -18,7 +19,7 @@ fotos: casa-condominio-fechado-ca4719
 capa: 1
 ---
 
-Esplêndido sobrado em condomínio tradicional de alto padrão na Zona Sul de Uberlândia, com fachada imponente e acabamentos de alta qualidade em toda a residência.
+Esplêndido sobrado no Condomínio Gávea Hill II, de alto padrão, na Zona Sul de Uberlândia, com fachada imponente e acabamentos de alta qualidade em toda a residência.
 
 ## O imóvel
 
@@ -43,5 +44,4 @@ Esplêndido sobrado em condomínio tradicional de alto padrão na Zona Sul de Ub
 
 ## Condições
 
-- Aceita financiamento
 - Valores e disponibilidade sujeitos a confirmação

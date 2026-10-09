@@ -1,10 +1,11 @@
 ---
-titulo: Casa térrea de 3 suítes com piscina em condomínio fechado
+titulo: Casa térrea de 3 suítes com piscina no Condomínio Carmel
 codigo: CA6409
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Carmel
 taxaCondominio: 670
 preco: 1500000
 areaUtil: 185
@@ -19,7 +20,7 @@ fotos: casa-condominio-fechado-ca6409
 capa: 9
 ---
 
-Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, em uma das regiões mais desejadas e valorizadas da cidade.
+Casa térrea de alto padrão no Condomínio Carmel, na Zona Sul de Uberlândia, em uma das regiões mais desejadas e valorizadas da cidade.
 
 ## O imóvel
 
@@ -35,7 +36,7 @@ Casa térrea de alto padrão em condomínio fechado na Zona Sul de Uberlândia, 
 
 - Piscina privativa
 - Varanda gourmet com churrasqueira e espaço para bar
-- Condomínio com campo de futebol e área de lazer completa para a família
+- Condomínio Carmel com campo de futebol e área de lazer completa para a família
 
 ## Diferenciais
 

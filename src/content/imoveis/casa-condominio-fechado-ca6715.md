@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 3 suítes com piscina e espaço gourmet em condomínio fechado
+titulo: Casa de 3 suítes com piscina e espaço gourmet no Condomínio Splêndido
 codigo: CA6715
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Splêndido
 taxaCondominio: 636
 preco: 1960000
 areaUtil: 204.72
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6715
 capa: 1
 ---
 
-Casa de alto padrão em condomínio fechado nobre e seguro na Zona Sul de Uberlândia, cercada por imóveis de alto padrão e com fácil acesso a supermercados, colégios e às principais avenidas.
+Casa de alto padrão no Condomínio Splêndido, nobre e seguro, na Zona Sul de Uberlândia, cercada por imóveis de alto padrão e com fácil acesso a supermercados, colégios e às principais avenidas.
 
 ## O imóvel
 
@@ -37,7 +38,7 @@ Casa de alto padrão em condomínio fechado nobre e seguro na Zona Sul de Uberl�
 - Espaço gourmet privativo com churrasqueira
 - Banheiro externo de apoio à área da piscina
 
-## Diferenciais do condomínio
+## Diferenciais do Condomínio Splêndido
 
 - Portaria com controle de acesso e monitoramento 24 horas
 - Ronda motorizada interna

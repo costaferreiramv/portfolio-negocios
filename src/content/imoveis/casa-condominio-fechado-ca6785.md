@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 2 pavimentos com 4 quartos e área gourmet em condomínio fechado
+titulo: Casa de 2 pavimentos com 4 quartos e área gourmet no Condomínio The Palms
 codigo: CA6785
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: The Palms
 taxaCondominio: 590
 preco: 890000
 areaUtil: 170
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca6785
 capa: 1
 ---
 
-Casa de dois pavimentos em condomínio fechado, com arquitetura moderna, acabamento de alto padrão e ambientes planejados para conforto e sofisticação.
+Casa de dois pavimentos no Condomínio The Palms, com arquitetura moderna, acabamento de alto padrão e ambientes planejados para conforto e sofisticação.
 
 ## O imóvel
 
@@ -43,7 +44,7 @@ Casa de dois pavimentos em condomínio fechado, com arquitetura moderna, acabame
 
 - Arquitetura moderna e acabamentos de primeira linha em todo o imóvel
 - Cozinha planejada com ilha
-- Imóvel de dois pavimentos em condomínio fechado
+- Imóvel de dois pavimentos no Condomínio The Palms
 
 ## Condições
 

@@ -1,10 +1,11 @@
 ---
-titulo: Sobrado de 3 quartos com lazer completo em condomínio fechado
+titulo: Sobrado de 3 quartos com lazer completo no Condomínio Residencial Village Unique
 codigo: CA5527
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Residencial Village Unique
 taxaCondominio: 676.01
 preco: 650000
 areaUtil: 164.52
@@ -18,11 +19,11 @@ fotos: casa-condominio-fechado-ca5527
 capa: 2
 ---
 
-Sobrado em condomínio fechado, próximo ao Praia Clube, com localização de fácil acesso, três quartos, suíte com sacada e área de lazer completa — conforto, praticidade e segurança para a família.
+Sobrado no Condomínio Residencial Village Unique, próximo ao Praia Clube, com localização de fácil acesso, três quartos, suíte com sacada e área de lazer completa: conforto, praticidade e segurança para a família.
 
 ## O imóvel
 
-- 164 m² de área construída em condomínio fechado
+- 164 m² de área construída no Condomínio Residencial Village Unique
 - Casa toda montada, repleta de marcenaria
 - Piso em porcelanato
 - Sala ampla em três ambientes

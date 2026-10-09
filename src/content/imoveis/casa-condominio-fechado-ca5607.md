@@ -1,10 +1,11 @@
 ---
-titulo: Casa de 4 vagas com varanda gourmet em condomínio fechado
+titulo: Casa de 4 vagas com varanda gourmet no Condomínio Jardins Gênova
 codigo: CA5607
 tipo: casa
 bairro: Zona Sul
 eixo: horizontais
 condominio: true
+nomeCondominio: Jardins Gênova
 taxaCondominio: 1000
 preco: 2500000
 areaUtil: 245
@@ -17,7 +18,7 @@ fotos: casa-condominio-fechado-ca5607
 capa: 7
 ---
 
-Casa em um dos condomínios mais completos e exclusivos da Zona Sul de Uberlândia, com excelente infraestrutura de lazer e segurança 24 horas.
+Casa no Condomínio Jardins Gênova, um dos condomínios mais completos e exclusivos da Zona Sul de Uberlândia, com excelente infraestrutura de lazer e segurança 24 horas.
 
 ## O imóvel
 

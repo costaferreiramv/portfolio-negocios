@@ -22,7 +22,6 @@ Apartamento no bairro Patrimônio, na Zona Sul de Uberlândia, ao lado da Praça
 
 - 91,52 m² de área útil
 - 3 quartos, sendo 1 suíte
-- Sala ampla integrada à cozinha, com bancada e marcenaria planejada
 - Ambientes mobiliados, com marcenaria planejada e mobília inclusas
 - Vendido na modalidade porteira fechada
 - 2 vagas de garagem com sótão

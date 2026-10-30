@@ -5,7 +5,7 @@ tipo: apartamento
 bairro: Tabajaras
 eixo: praia-clube
 condominio: true
-preco: 688000
+preco: 650000
 areaUtil: 101
 dormitorios: 3
 suites: 1

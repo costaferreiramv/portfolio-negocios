@@ -5,7 +5,7 @@ tipo: apartamento
 bairro: Altamira
 eixo: colina
 condominio: true
-preco: 1150000
+preco: 1000000
 areaUtil: 127
 dormitorios: 3
 suites: 3

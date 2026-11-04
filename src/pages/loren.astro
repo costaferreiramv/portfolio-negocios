@@ -169,8 +169,9 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
   jsonLd={jsonLd}
 >
   <!-- marca do Portfólio, fixa no canto superior esquerdo durante toda a rolagem -->
-  <div class="lr-marca">
-    <img src={`${D}portfolio-logo.png`} width="180" height="258" alt="Portfólio Negócios Imobiliários" />
+  <div class="lr-marca" id="lr-marca">
+    <img class="lr-marca-clara" src={`${D}portfolio-logo.png`} width="180" height="258" alt="Portfólio Negócios Imobiliários" />
+    <img class="lr-marca-escura" src={`${D}portfolio-logo-navy.png`} width="180" height="258" alt="" aria-hidden="true" />
   </div>
 
   <!-- ————————————————— ABERTURA ————————————————— -->
@@ -478,6 +479,22 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
       document.getElementById('lr-lb-x').addEventListener('click', fecha);
       lb.addEventListener('click', function (e) { if (e.target === lb) fecha(); });
 
+      /* marca do Portfólio: versão escura sobre fundo claro, clara sobre fundo escuro */
+      var marca = document.getElementById('lr-marca');
+      var escuras = '.lr-hero, .lr-nums, .lr-lazer, .lr-cta, .lr-legal, .lp-foot';
+      var pend = false;
+      function ajustaMarca() {
+        pend = false;
+        var r = marca.getBoundingClientRect();
+        var el = document.elementFromPoint(r.left + r.width / 2, r.top + r.height / 2);
+        var escuro = !!(el && el.closest(escuras));
+        marca.classList.toggle('lr-sobre-claro', !escuro);
+      }
+      function agenda() { if (!pend) { pend = true; requestAnimationFrame(ajustaMarca); } }
+      addEventListener('scroll', agenda, { passive: true });
+      addEventListener('resize', agenda);
+      ajustaMarca();
+
       /* conversão: os dois botões contam como Lead no Pixel */
       document.querySelectorAll('[data-ev]').forEach(function (a) {
         a.addEventListener('click', function () {
@@ -510,14 +527,14 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
     body.lp-body .lp-foot { margin-top: 0; background: var(--lr-marinho); border-top: 0; }
     body.lp-body :focus-visible { outline: 2px solid var(--lr-ouro); outline-offset: 3px; }
 
-    .lr-marca {
-      position: fixed; top: 14px; left: 14px; z-index: 60; padding: 8px 9px;
-      background: rgba(11, 29, 58, .86); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
-      border: 1px solid rgba(244, 234, 216, .18); border-radius: 12px; box-shadow: 0 6px 22px rgba(0, 0, 0, .25);
-      pointer-events: none;
-    }
-    .lr-marca img { display: block; width: 36px; height: auto; }
-    @media (min-width: 900px) { .lr-marca { top: 22px; left: 26px; padding: 10px 11px; } .lr-marca img { width: 44px; } }
+    /* marca sem fundo nem borda: troca entre a versão clara e a escura conforme o que está por baixo */
+    .lr-marca { position: fixed; top: 16px; left: 18px; z-index: 60; pointer-events: none; width: 38px; }
+    .lr-marca img { display: block; width: 100%; height: auto; }
+    .lr-marca-clara { filter: drop-shadow(0 1px 2px rgba(0, 0, 0, .5)) drop-shadow(0 2px 10px rgba(0, 0, 0, .45)); }
+    .lr-marca-escura { position: absolute; inset: 0; opacity: 0; }
+    .lr-marca.lr-sobre-claro .lr-marca-clara { opacity: 0; }
+    .lr-marca.lr-sobre-claro .lr-marca-escura { opacity: 1; }
+    @media (min-width: 900px) { .lr-marca { top: 24px; left: 30px; width: 46px; } }
     .lr-wrap { max-width: var(--lr-w); margin: 0 auto; padding: 0 28px; }
     .lr-sec { position: relative; padding: clamp(72px, 10vw, 140px) 0; overflow: hidden; }
     .lr-sec h2, .lr-cta h2, .lr-sec h3 {

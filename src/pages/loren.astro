@@ -60,13 +60,6 @@ const DISTANCIAS = [
   { m: '8', t: 'Praia Clube' },
 ];
 
-const LEGENDA_PILOTIS = [
-  'Salão de festas', 'Churrasqueira do salão', 'Espaço gourmet', 'Brinquedoteca', 'Playground',
-  'Sala de jogos', 'Quadra poliesportiva', 'Quadra de beach tennis', 'Churrasqueira das quadras',
-  'Coworking', 'Academia', 'Sauna', 'Sala de massagem', 'Espaço beauty', 'Pool house',
-  'Bar da pool house', 'Solário', 'Piscina', 'Deck molhado', 'Espaço delivery', 'Minimercado',
-];
-
 const LAZER = [
   { ...r('piscina', 'Piscina com solário do Loren (imagem ilustrativa)'), t: 'Piscina com solário', d: 'Dias ao ar livre vividos por completo.', grande: true },
   { ...r('salao', 'Salão de festas (imagem ilustrativa)'), t: 'Salão de festas', d: 'Recebe grandes celebrações com a mesma naturalidade dos momentos mais íntimos.' },
@@ -75,11 +68,7 @@ const LAZER = [
   { ...r('beach', 'Quadra de beach tennis (imagem ilustrativa)'), t: 'Beach tennis', d: 'Pé na areia, do jeito que deve ser.' },
   { ...r('sala-jogos', 'Sala de jogos (imagem ilustrativa)'), t: 'Sala de jogos', d: 'Imersão em cada partida.' },
   { ...r('academia', 'Academia (imagem ilustrativa)'), t: 'Academia', d: 'Alta performance no seu tempo.', grande: true, larga: true },
-  { ...r('playground', 'Playground (imagem ilustrativa)'), t: 'Playground', d: 'Mais liberdade para explorar.' },
-  { ...r('sauna', 'Sauna (imagem ilustrativa)'), t: 'Sauna e massagem', d: 'Bem-estar sob medida, sem sair de casa.' },
   { ...r('poolbar', 'Bar da pool house (imagem ilustrativa)'), t: 'Pool house e bar', d: 'Entre um mergulho e outro, o lazer continua.', grande: true },
-  { ...r('coworking', 'Coworking (imagem ilustrativa)'), t: 'Coworking', d: 'Foco para ir mais longe, a poucos passos de casa.' },
-  { ...r('beauty', 'Espaço beauty (imagem ilustrativa)'), t: 'Espaço beauty', d: 'O conforto de cuidar de si.' },
 ];
 
 const DECORADO = [
@@ -89,14 +78,8 @@ const DECORADO = [
   f('03436', 'Suíte decorada com cabeceira em madeira'),
   f('03454', 'Varanda com poltrona e vegetação'),
   f('03377', 'Sala com sofá curvo e varanda gourmet ao fundo'),
-  f('03370', 'Varanda gourmet com mesa de apoio'),
-  f('03451', 'Suíte com acesso à varanda'),
   f('03443', 'Banheiro com banheira de imersão'),
-  f('03376', 'Estar com nicho de adega'),
   f('03462', 'Closet da suíte máster'),
-  f('03368', 'Ilha da cozinha com iluminação embutida'),
-  f('03440', 'Detalhe da suíte com painel artístico'),
-  f('03463', 'Suíte com roupa de cama em tons terrosos'),
   f('03452', 'Varanda com mesa redonda e poltronas'),
 ];
 
@@ -105,35 +88,6 @@ const PLANTAS = [
     itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-tipo', 'Planta do apartamento tipo de 4 suítes') },
   { t: 'Tipo com sala ampliada', s: '7º ao 24º pavimento', area: '247,13', suites: '3 suítes', vagas: '3 vagas',
     itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Home office e adega', 'Varanda gourmet e hall privativo'], img: r('planta-tipo-ampliada', 'Planta do apartamento tipo com sala ampliada') },
-  { t: 'Apartamentos 301 e 302', s: '3º pavimento', area: '310,29', suites: '4 suítes', vagas: '4 vagas',
-    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-301-302', 'Planta dos apartamentos 301 e 302') },
-  { t: 'Apartamentos 401 e 402', s: '4º pavimento', area: '294,54', suites: '4 suítes', vagas: '4 vagas',
-    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-401-402', 'Planta dos apartamentos 401 e 402') },
-  { t: 'Apartamentos 501 e 502', s: '5º pavimento', area: '279,19', suites: '4 suítes', vagas: '4 vagas',
-    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-501-502', 'Planta dos apartamentos 501 e 502') },
-  { t: 'Apartamentos 601 e 602', s: '6º pavimento', area: '263,01', suites: '4 suítes', vagas: '4 vagas',
-    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-601-602', 'Planta dos apartamentos 601 e 602') },
-];
-
-const FICHA_EMPREENDIMENTO = [
-  'Terreno com 3.000 m²',
-  'Área construída com 19.102,80 m²',
-  'Torre única, 26 pavimentos',
-  '2 apartamentos por andar, 52 no total',
-  '2 apartamentos: 4 suítes, 310,29 m², 4 vagas',
-  '2 apartamentos: 4 suítes, 294,54 m², 4 vagas',
-  '2 apartamentos: 4 suítes, 279,19 m², 4 vagas',
-  '2 apartamentos: 4 suítes, 263,01 m², 4 vagas',
-  '42 apartamentos tipo: 4 suítes, 247,13 m², 3 vagas',
-  '2 apartamentos duplex: 428,58 m², 4 vagas',
-  '170 vagas, 3 para PCD e 4 para visitantes',
-  '3 elevadores: 2 sociais e 1 de serviço',
-];
-const FICHA_LAZER = [
-  'Hall', 'Salão de festas', 'Churrasqueira do salão de festas', 'Espaço gourmet', 'Brinquedoteca',
-  'Playground', 'Sala de jogos', 'Quadra poliesportiva', 'Quadra de beach tennis',
-  'Churrasqueira das quadras', 'Coworking', 'Academia', 'Sauna', 'Sala de massagem', 'Espaço beauty',
-  'Pool house', 'Bar da pool house', 'Solário', 'Piscina', 'Deck molhado', 'Espaço delivery', 'Minimercado',
 ];
 
 const descricao =
@@ -197,8 +151,7 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
       <div class="lr-txt lr-reveal">
         <p class="lr-rot">O Loren</p>
         <h2>Entre imponência e leveza, <em>presença e tranquilidade</em></h2>
-        <p>A cidade cresce, as expectativas evoluem e as escolhas passam a refletir uma nova forma de viver. O Loren nasce para esse momento: um residencial desenhado para acompanhar uma vida que continua em movimento.</p>
-        <p>Um endereço que responde ao presente, mas permanece à altura dos próximos capítulos.</p>
+        <p>A cidade cresce e as escolhas refletem uma nova forma de viver. O Loren nasce para esse momento: um residencial desenhado para uma vida em movimento.</p>
       </div>
     </div>
   </section>
@@ -232,13 +185,7 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
       </figure>
       <div class="lr-txt lr-reveal">
         <h3>Chegar passa a ter <em>outro significado</em></h3>
-        <p>A portaria com porte-cochère oferece segurança e conforto em todos os momentos de chegada. Funcional e imponente, o acesso antecipa a elegância presente em todo o Loren.</p>
-        <figure class="lr-fig lr-fig-hall">
-          <img src={`${D}hall-800.webp`} srcset={`${D}hall-800.webp 800w, ${D}hall.webp 1800w`}
-               sizes="(max-width:900px) 92vw, 46vw" width="1800" height="682" loading="lazy"
-               alt="Hall de entrada com proporções generosas (imagem ilustrativa)" />
-          <figcaption>Hall de entrada · imagem ilustrativa</figcaption>
-        </figure>
+        <p>Portaria com porte-cochère: segurança e conforto em cada chegada.</p>
       </div>
     </div>
   </section>
@@ -264,17 +211,6 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
         <figcaption>Mapa ilustrativo, sem escala</figcaption>
       </figure>
     </div>
-    <div class="lr-wrap lr-cidade lr-reveal">
-      <figure class="lr-fig">
-        <img src={`${D}uberlandia-noite-800.webp`} srcset={`${D}uberlandia-noite-800.webp 800w, ${D}uberlandia-noite.webp 1800w`}
-             sizes="(max-width:900px) 92vw, 56vw" width="1800" height="1014" loading="lazy"
-             alt="Vista aérea de Uberlândia ao anoitecer" />
-      </figure>
-      <div class="lr-txt">
-        <h3>Uma nova perspectiva <em>para Uberlândia</em></h3>
-        <p>No coração do Triângulo Mineiro, a cidade vive um novo momento. Hoje, localização e metragem já não definem uma escolha por si só: arquitetura, bem-estar e permanência ganham cada vez mais relevância.</p>
-      </div>
-    </div>
   </section>
 
   <!-- ————————————————— LAZER ————————————————— -->
@@ -284,13 +220,6 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
       <h2>Um andar inteiro dedicado a <em>cada momento</em></h2>
       <p class="lr-sub">Vinte e uma experiências reunidas no pilotis, do esporte ao descanso.</p>
     </div>
-    <div class="lr-wrap lr-pilotis lr-reveal">
-      <img src={`${D}pilotis.webp`} width="1750" height="1003" loading="lazy"
-           alt="Planta ilustrativa do pilotis com todos os ambientes de lazer" />
-      <ol class="lr-legenda">
-        {LEGENDA_PILOTIS.map((n) => <li>{n}</li>)}
-      </ol>
-    </div>
     <div class="lr-wrap">
       <ul class="lr-mosaico">
         {LAZER.map((a) => (
@@ -298,12 +227,12 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
             <button type="button" class="lr-zoom lr-tile-btn" data-full={a.src} data-alt={a.alt} aria-label={`Ampliar: ${a.t}`}>
               <img src={a.src} srcset={a.srcset} sizes={a.grande ? '(max-width:1220px) 92vw, 1124px' : '(max-width:700px) 92vw, 552px'}
                    width={a.w} height={a.h} loading="lazy" alt={a.alt} />
-              <span class="lr-tile-leg"><b>{a.t}</b><span>{a.d}</span></span>
+              <span class="lr-tile-leg"><b>{a.t}</b></span>
             </button>
           </li>
         ))}
       </ul>
-      <p class="lr-nota">Imagens ilustrativas, assim como equipamentos, acessórios e paisagismo.</p>
+      <p class="lr-nota">Também: sauna, coworking, playground, espaço beauty, minimercado e mais. Imagens ilustrativas.</p>
     </div>
   </section>
 
@@ -344,7 +273,7 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
     <div class="lr-wrap lr-cab lr-reveal">
       <p class="lr-rot">Plantas</p>
       <h2>Amplas, com integrações <em>bem resolvidas</em></h2>
-      <p class="lr-sub">De 247 a 428 m². Possibilidade de adaptação de 4 ou 3 suítes, para acompanhar diferentes formas de viver, hoje e ao longo do tempo.</p>
+      <p class="lr-sub">De 247 a 428 m², com 4 suítes ou adaptação para 3. Do 3º ao 6º pavimento, apartamentos de 263 a 310 m² com 4 vagas.</p>
     </div>
     <div class="lr-wrap lr-pl-grade">
       {PLANTAS.map((p) => (
@@ -374,8 +303,6 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
         <p class="lr-dup-area"><strong>428,58</strong> m² · 4 vagas</p>
         <ul>
           <li>Suíte máster com closet, banho sr. e sra. e banheira*</li>
-          <li>Varanda em todas as suítes</li>
-          <li>Elevador com acesso aos dois pavimentos</li>
           <li>Terraço descoberto com previsão para piscina* (área descoberta de 59,80 m²)</li>
         </ul>
         <p class="lr-nota-fixa">*Não inclui equipamentos.</p>
@@ -386,34 +313,6 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
              alt="Sala de estar da cobertura duplex (imagem ilustrativa)" />
         <figcaption>Sala da cobertura duplex · imagem ilustrativa</figcaption>
       </figure>
-    </div>
-    <div class="lr-wrap lr-dup-pl lr-reveal">
-      <button type="button" class="lr-zoom lr-zoom-pl" data-full={`${D}planta-duplex-n1.webp`} data-alt="Planta da cobertura duplex, 1º nível" aria-label="Ampliar: planta da cobertura duplex, 1º nível">
-        <img src={`${D}planta-duplex-n1.webp`} width="1200" height="1037" loading="lazy" alt="Planta da cobertura duplex, 1º nível" />
-        <span>1º nível</span>
-      </button>
-      <button type="button" class="lr-zoom lr-zoom-pl" data-full={`${D}planta-duplex-n2.webp`} data-alt="Planta da cobertura duplex, 2º nível" aria-label="Ampliar: planta da cobertura duplex, 2º nível">
-        <img src={`${D}planta-duplex-n2.webp`} width="1200" height="1014" loading="lazy" alt="Planta da cobertura duplex, 2º nível" />
-        <span>2º nível</span>
-      </button>
-    </div>
-  </section>
-
-  <!-- ————————————————— FICHA ————————————————— -->
-  <section class="lr-sec lr-ficha">
-    <div class="lr-wrap">
-      <p class="lr-rot">Ficha técnica</p>
-      <h2>O empreendimento <em>em detalhes</em></h2>
-      <div class="lr-ficha-grade">
-        <div>
-          <h3>O empreendimento</h3>
-          <ul>{FICHA_EMPREENDIMENTO.map((i) => <li>{i}</li>)}</ul>
-        </div>
-        <div>
-          <h3>Lazer e áreas comuns</h3>
-          <ul class="lr-ficha-lazer">{FICHA_LAZER.map((i) => <li>{i}</li>)}</ul>
-        </div>
-      </div>
     </div>
   </section>
 

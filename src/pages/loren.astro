@@ -68,17 +68,17 @@ const LEGENDA_PILOTIS = [
 ];
 
 const LAZER = [
-  { ...r('piscina', 'Piscina com solário do Loren (imagem ilustrativa)'), t: 'Piscina com solário', d: 'Dias ao ar livre vividos por completo.' },
+  { ...r('piscina', 'Piscina com solário do Loren (imagem ilustrativa)'), t: 'Piscina com solário', d: 'Dias ao ar livre vividos por completo.', grande: true },
   { ...r('salao', 'Salão de festas (imagem ilustrativa)'), t: 'Salão de festas', d: 'Recebe grandes celebrações com a mesma naturalidade dos momentos mais íntimos.' },
   { ...r('brinquedoteca', 'Brinquedoteca (imagem ilustrativa)'), t: 'Brinquedoteca', d: 'Um ambiente lúdico e protegido, onde cada brincadeira estimula o desenvolvimento.' },
-  { ...r('gourmet', 'Espaço gourmet (imagem ilustrativa)'), t: 'Espaço gourmet', d: 'A arte de estar ao redor da mesa.' },
-  { ...r('academia', 'Academia (imagem ilustrativa)'), t: 'Academia', d: 'Alta performance no seu tempo.' },
+  { ...r('gourmet', 'Espaço gourmet (imagem ilustrativa)'), t: 'Espaço gourmet', d: 'A arte de estar ao redor da mesa.', grande: true, larga: true },
   { ...r('beach', 'Quadra de beach tennis (imagem ilustrativa)'), t: 'Beach tennis', d: 'Pé na areia, do jeito que deve ser.' },
   { ...r('sala-jogos', 'Sala de jogos (imagem ilustrativa)'), t: 'Sala de jogos', d: 'Imersão em cada partida.' },
+  { ...r('academia', 'Academia (imagem ilustrativa)'), t: 'Academia', d: 'Alta performance no seu tempo.', grande: true, larga: true },
   { ...r('playground', 'Playground (imagem ilustrativa)'), t: 'Playground', d: 'Mais liberdade para explorar.' },
   { ...r('sauna', 'Sauna (imagem ilustrativa)'), t: 'Sauna e massagem', d: 'Bem-estar sob medida, sem sair de casa.' },
+  { ...r('poolbar', 'Bar da pool house (imagem ilustrativa)'), t: 'Pool house e bar', d: 'Entre um mergulho e outro, o lazer continua.', grande: true },
   { ...r('coworking', 'Coworking (imagem ilustrativa)'), t: 'Coworking', d: 'Foco para ir mais longe, a poucos passos de casa.' },
-  { ...r('poolbar', 'Bar da pool house (imagem ilustrativa)'), t: 'Pool house e bar', d: 'Entre um mergulho e outro, o lazer continua.' },
   { ...r('beauty', 'Espaço beauty (imagem ilustrativa)'), t: 'Espaço beauty', d: 'O conforto de cuidar de si.' },
 ];
 
@@ -158,7 +158,7 @@ const jsonLd = {
 
 const hero = r('hero', 'Textura marinho com veios dourados');
 const logo = { src: `${D}loren-logo.png`, w: 710, h: 242 };
-const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção: Laso Engenharia. Gestão de vendas: Arez'), src: `${D}creditos.png` };
+const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção: Laso Engenharia'), src: `${D}creditos.png` };
 ---
 
 <LP
@@ -168,6 +168,11 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
   canonical={URL_PAGINA}
   jsonLd={jsonLd}
 >
+  <!-- marca do Portfólio, fixa no canto superior esquerdo durante toda a rolagem -->
+  <div class="lr-marca">
+    <img src={`${D}portfolio-logo.png`} width="180" height="258" alt="Portfólio Negócios Imobiliários" />
+  </div>
+
   <!-- ————————————————— ABERTURA ————————————————— -->
   <header class="lr-hero">
     <img class="lr-hero-bg" src={hero.src} srcset={hero.srcset} sizes="100vw" width={hero.w} height={hero.h}
@@ -182,7 +187,6 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
 
   <!-- ————————————————— CONCEITO ————————————————— -->
   <section class="lr-sec lr-intro">
-    <img class="lr-aq lr-aq-intro" src={`${D}aq-teal-800.webp`} alt="" width="800" height="382" loading="lazy" />
     <div class="lr-wrap lr-intro-grade">
       <figure class="lr-fig lr-reveal">
         <img src={`${D}familia-800.webp`} srcset={`${D}familia-800.webp 800w, ${D}familia.webp 1800w`}
@@ -289,10 +293,12 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
     <div class="lr-wrap">
       <ul class="lr-mosaico">
         {LAZER.map((a) => (
-          <li class="lr-tile lr-reveal">
-            <img src={a.src} srcset={a.srcset} sizes="(max-width:700px) 92vw, (max-width:1100px) 46vw, 31vw"
-                 width={a.w} height={a.h} loading="lazy" alt={a.alt} />
-            <div class="lr-tile-leg"><b>{a.t}</b><span>{a.d}</span></div>
+          <li class:list={['lr-tile', 'lr-reveal', a.grande && 'lr-tile-g', a.larga && 'lr-tile-l']}>
+            <button type="button" class="lr-zoom lr-tile-btn" data-full={a.src} data-alt={a.alt} aria-label={`Ampliar: ${a.t}`}>
+              <img src={a.src} srcset={a.srcset} sizes={a.grande ? '(max-width:1220px) 92vw, 1124px' : '(max-width:700px) 92vw, 552px'}
+                   width={a.w} height={a.h} loading="lazy" alt={a.alt} />
+              <span class="lr-tile-leg"><b>{a.t}</b><span>{a.d}</span></span>
+            </button>
           </li>
         ))}
       </ul>
@@ -306,7 +312,7 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
     <div class="lr-wrap lr-cab lr-reveal">
       <p class="lr-rot">Apartamento decorado</p>
       <h2>Conheça o Loren <em>por dentro</em></h2>
-      <p class="lr-sub">O percurso completo pelo apartamento, em vídeo sem edição, e as fotos de cada ambiente.</p>
+      <p class="lr-sub">Conheça o decorado em vídeo, encante-se com as fotos de cada ambiente.</p>
     </div>
     <div class="lr-wrap lr-dec-grade">
       <div class="lr-video-col lr-reveal">
@@ -416,7 +422,7 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
     <div class="lr-cta-in lr-reveal">
       <img class="lr-logo lr-logo-peq" src={logo.src} width={logo.w} height={logo.h} alt="Loren Residence" loading="lazy" />
       <h2>Viva a experiência <em>no decorado</em></h2>
-      <p>Agende um horário e percorra o apartamento com calma, ambiente por ambiente. Ou, se preferir, fale agora com o corretor e tire suas dúvidas pelo WhatsApp.</p>
+      <p>Agende um horário e conheça o apartamento com calma e em silêncio, no seu tempo. Ou, se preferir, fale agora comigo e tire suas dúvidas pelo WhatsApp.</p>
       <div class="lr-botoes">
         <a class="lr-btn lr-btn-ouro" href={waLink(MSG_AGENDAR)} target="_blank" rel="noopener" data-ev="agendar">
           Agendar experiência no decorado
@@ -504,6 +510,14 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
     body.lp-body .lp-foot { margin-top: 0; background: var(--lr-marinho); border-top: 0; }
     body.lp-body :focus-visible { outline: 2px solid var(--lr-ouro); outline-offset: 3px; }
 
+    .lr-marca {
+      position: fixed; top: 14px; left: 14px; z-index: 60; padding: 8px 9px;
+      background: rgba(11, 29, 58, .86); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+      border: 1px solid rgba(244, 234, 216, .18); border-radius: 12px; box-shadow: 0 6px 22px rgba(0, 0, 0, .25);
+      pointer-events: none;
+    }
+    .lr-marca img { display: block; width: 36px; height: auto; }
+    @media (min-width: 900px) { .lr-marca { top: 22px; left: 26px; padding: 10px 11px; } .lr-marca img { width: 44px; } }
     .lr-wrap { max-width: var(--lr-w); margin: 0 auto; padding: 0 28px; }
     .lr-sec { position: relative; padding: clamp(72px, 10vw, 140px) 0; overflow: hidden; }
     .lr-sec h2, .lr-cta h2, .lr-sec h3 {
@@ -529,7 +543,6 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
 
     /* aquarelas do book: o branco some no creme (multiply) */
     .lr-aq { position: absolute; pointer-events: none; mix-blend-mode: multiply; z-index: 0; user-select: none; }
-    .lr-aq-intro { top: -4%; right: -4%; width: min(34vw, 470px); height: auto; opacity: .9; }
     .lr-aq-dec { top: -3%; right: -5%; width: min(30vw, 420px); height: auto; opacity: .85; }
     .lr-sec > .lr-wrap { position: relative; z-index: 1; }
 
@@ -609,18 +622,24 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
     .lr-legenda li::before { content: counter(l); font-family: var(--lr-serif); color: var(--lr-ouro-claro); font-variant-numeric: tabular-nums; }
     @media (min-width: 980px) { .lr-pilotis { grid-template-columns: 1.35fr 1fr; } }
 
-    .lr-mosaico { list-style: none; margin: 0; padding: 0; column-count: 1; column-gap: 18px; }
-    .lr-tile { position: relative; break-inside: avoid; margin: 0 0 18px; overflow: hidden; background: var(--lr-marinho-2); }
-    .lr-tile img { display: block; width: 100%; height: auto; transition: transform .8s cubic-bezier(.2,.7,.3,1); }
-    .lr-tile:hover img { transform: scale(1.03); }
+    .lr-mosaico { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr; gap: 16px; }
+    .lr-tile { position: relative; overflow: hidden; background: var(--lr-marinho-2); aspect-ratio: 4 / 3; }
+    .lr-tile-btn { position: relative; display: block; width: 100%; height: 100%; padding: 0; border: 0; background: none; cursor: zoom-in; text-align: left; color: inherit; font: inherit; }
+    .lr-tile-btn img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .8s cubic-bezier(.2,.7,.3,1); }
+    .lr-tile:hover .lr-tile-btn img { transform: scale(1.03); }
     .lr-tile-leg {
-      position: absolute; inset: auto 0 0 0; padding: 54px 20px 18px; display: grid; gap: 4px;
-      background: linear-gradient(to top, rgba(6,16,34,.86), rgba(6,16,34,0));
+      position: absolute; inset: auto 0 0 0; padding: 64px 22px 20px; display: grid; gap: 4px;
+      background: linear-gradient(to top, rgba(6,16,34,.88), rgba(6,16,34,0));
     }
-    .lr-tile-leg b { font-family: var(--lr-serif); font-weight: 600; font-size: 1.18rem; color: #fbf3e4; }
-    .lr-tile-leg span { font-size: .82rem; color: rgba(251,243,228,.82); line-height: 1.45; }
-    @media (min-width: 640px) { .lr-mosaico { column-count: 2; } }
-    @media (min-width: 1040px) { .lr-mosaico { column-count: 3; } }
+    .lr-tile-leg b { font-family: var(--lr-serif); font-weight: 600; font-size: 1.3rem; color: #fbf3e4; }
+    .lr-tile-leg span { font-size: .86rem; color: rgba(251,243,228,.86); line-height: 1.45; max-width: 60ch; }
+    .lr-tile-g { aspect-ratio: 16 / 9; }
+    .lr-tile-l { aspect-ratio: 2.4 / 1; }
+    @media (min-width: 700px) {
+      .lr-mosaico { grid-template-columns: 1fr 1fr; gap: 20px; }
+      .lr-tile-g { grid-column: 1 / -1; }
+    }
+    @media (max-width: 699px) { .lr-tile-l { aspect-ratio: 16 / 9; } }
 
     /* ——— decorado ——— */
     .lr-decorado { background: var(--lr-creme); }

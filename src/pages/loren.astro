@@ -88,6 +88,14 @@ const PLANTAS = [
     itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-tipo', 'Planta do apartamento tipo de 4 suítes') },
   { t: 'Tipo com sala ampliada', s: '7º ao 24º pavimento', area: '247,13', suites: '3 suítes', vagas: '3 vagas',
     itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Home office e adega', 'Varanda gourmet e hall privativo'], img: r('planta-tipo-ampliada', 'Planta do apartamento tipo com sala ampliada') },
+  { t: 'Apartamentos 301 e 302', s: '3º pavimento', area: '310,29', suites: '4 suítes', vagas: '4 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-301-302', 'Planta dos apartamentos 301 e 302') },
+  { t: 'Apartamentos 401 e 402', s: '4º pavimento', area: '294,54', suites: '4 suítes', vagas: '4 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-401-402', 'Planta dos apartamentos 401 e 402') },
+  { t: 'Apartamentos 501 e 502', s: '5º pavimento', area: '279,19', suites: '4 suítes', vagas: '4 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-501-502', 'Planta dos apartamentos 501 e 502') },
+  { t: 'Apartamentos 601 e 602', s: '6º pavimento', area: '263,01', suites: '4 suítes', vagas: '4 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-601-602', 'Planta dos apartamentos 601 e 602') },
 ];
 
 const descricao =
@@ -151,7 +159,8 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
       <div class="lr-txt lr-reveal">
         <p class="lr-rot">O Loren</p>
         <h2>Entre imponência e leveza, <em>presença e tranquilidade</em></h2>
-        <p>A cidade cresce e as escolhas refletem uma nova forma de viver. O Loren nasce para esse momento: um residencial desenhado para uma vida em movimento.</p>
+        <p>A cidade cresce, as expectativas evoluem e as escolhas passam a refletir uma nova forma de viver. O Loren nasce para esse momento: um residencial desenhado para acompanhar uma vida que continua em movimento.</p>
+        <p>Um endereço que responde ao presente, mas permanece à altura dos próximos capítulos.</p>
       </div>
     </div>
   </section>
@@ -185,7 +194,13 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
       </figure>
       <div class="lr-txt lr-reveal">
         <h3>Chegar passa a ter <em>outro significado</em></h3>
-        <p>Portaria com porte-cochère: segurança e conforto em cada chegada.</p>
+        <p>A portaria com porte-cochère oferece segurança e conforto em todos os momentos de chegada. Funcional e imponente, o acesso antecipa a elegância presente em todo o Loren.</p>
+        <figure class="lr-fig lr-fig-hall">
+          <img src={`${D}hall-800.webp`} srcset={`${D}hall-800.webp 800w, ${D}hall.webp 1800w`}
+               sizes="(max-width:900px) 92vw, 46vw" width="1800" height="682" loading="lazy"
+               alt="Hall de entrada com proporções generosas (imagem ilustrativa)" />
+          <figcaption>Hall de entrada · imagem ilustrativa</figcaption>
+        </figure>
       </div>
     </div>
   </section>
@@ -273,7 +288,7 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
     <div class="lr-wrap lr-cab lr-reveal">
       <p class="lr-rot">Plantas</p>
       <h2>Amplas, com integrações <em>bem resolvidas</em></h2>
-      <p class="lr-sub">De 247 a 428 m², com 4 suítes ou adaptação para 3. Do 3º ao 6º pavimento, apartamentos de 263 a 310 m² com 4 vagas.</p>
+      <p class="lr-sub">De 247 a 428 m². Possibilidade de adaptação de 4 ou 3 suítes, para acompanhar diferentes formas de viver, hoje e ao longo do tempo.</p>
     </div>
     <div class="lr-wrap lr-pl-grade">
       {PLANTAS.map((p) => (
@@ -303,6 +318,8 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
         <p class="lr-dup-area"><strong>428,58</strong> m² · 4 vagas</p>
         <ul>
           <li>Suíte máster com closet, banho sr. e sra. e banheira*</li>
+          <li>Varanda em todas as suítes</li>
+          <li>Elevador com acesso aos dois pavimentos</li>
           <li>Terraço descoberto com previsão para piscina* (área descoberta de 59,80 m²)</li>
         </ul>
         <p class="lr-nota-fixa">*Não inclui equipamentos.</p>
@@ -313,6 +330,16 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
              alt="Sala de estar da cobertura duplex (imagem ilustrativa)" />
         <figcaption>Sala da cobertura duplex · imagem ilustrativa</figcaption>
       </figure>
+    </div>
+    <div class="lr-wrap lr-dup-pl lr-reveal">
+      <button type="button" class="lr-zoom lr-zoom-pl" data-full={`${D}planta-duplex-n1.webp`} data-alt="Planta da cobertura duplex, 1º nível" aria-label="Ampliar: planta da cobertura duplex, 1º nível">
+        <img src={`${D}planta-duplex-n1.webp`} width="1200" height="1037" loading="lazy" alt="Planta da cobertura duplex, 1º nível" />
+        <span>1º nível</span>
+      </button>
+      <button type="button" class="lr-zoom lr-zoom-pl" data-full={`${D}planta-duplex-n2.webp`} data-alt="Planta da cobertura duplex, 2º nível" aria-label="Ampliar: planta da cobertura duplex, 2º nível">
+        <img src={`${D}planta-duplex-n2.webp`} width="1200" height="1014" loading="lazy" alt="Planta da cobertura duplex, 2º nível" />
+        <span>2º nível</span>
+      </button>
     </div>
   </section>
 
@@ -406,6 +433,7 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
   </script>
 
   <style is:global>
+    body.lp-body .lp-foot-logo { height: 56px !important; width: auto !important; max-width: 70%; margin-bottom: 14px; }
     :root {
       --lr-marinho: #0b1d3a;
       --lr-marinho-2: #10284d;

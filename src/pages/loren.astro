@@ -392,6 +392,10 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
         els.forEach(function (el) { io.observe(el); });
       }
 
+      /* logo do rodapé em resolução maior (a do layout é pequena e estoura) */
+      var fl = document.querySelector('.lp-foot-logo');
+      if (fl) { fl.removeAttribute('srcset'); fl.src = '/loren/portfolio-logo.png'; fl.removeAttribute('width'); fl.removeAttribute('height'); }
+
       /* ampliação */
       var lb = document.getElementById('lr-lb');
       var lbImg = document.getElementById('lr-lb-img');

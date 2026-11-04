@@ -1,0 +1,725 @@
+---
+/* Landing page do lançamento Loren Residence (Altamira, Uberlândia).
+   Rolagem única, sem menu: o conteúdo se apresenta na ordem do book
+   (conceito, projeto, localização, lazer, decorado, plantas, ficha) e fecha em
+   dois botões de WhatsApp. Estética do book: marinho, ocre, creme, aquarela
+   turquesa; fontes STIX Two Text (serifada) e Inter, as mesmas do material.
+   Imagens e plantas vêm do book e do caderno de plantas (ver public/loren);
+   as fotos e o vídeo são do apartamento decorado. */
+import '@fontsource/stix-two-text/400.css';
+import '@fontsource/stix-two-text/400-italic.css';
+import '@fontsource/stix-two-text/600.css';
+import '@fontsource-variable/inter';
+import LP from '../layouts/LP.astro';
+import { waLink } from '../lib/site';
+import assets from '../data/loren-assets.json';
+
+const R = assets.render as Record<string, [number, number]>;
+const F = assets.foto as Record<string, [number, number]>;
+const D = '/loren/';
+
+/** Render do book: src grande + 800 px quando existe. */
+const SEM_PEQUENA = new Set(['pilotis', 'creditos', 'folha']);
+function r(nome: string, alt: string) {
+  const [w, h] = R[nome];
+  const pequena = w > 900 && !SEM_PEQUENA.has(nome) && !nome.startsWith('planta-');
+  return {
+    src: `${D}${nome}.webp`,
+    srcset: pequena ? `${D}${nome}-800.webp 800w, ${D}${nome}.webp ${w}w` : undefined,
+    w, h, alt,
+  };
+}
+function f(n: string, alt: string) {
+  const [w, h] = F[n];
+  return {
+    src: `${D}dec-${n}.webp`,
+    srcset: `${D}dec-${n}-800.webp ${Math.round(800 * (w >= h ? 1 : w / h))}w, ${D}dec-${n}.webp ${w}w`,
+    w, h, alt, n,
+  };
+}
+
+const URL_PAGINA = new URL('/loren/', Astro.site).href;
+const MSG_AGENDAR =
+  'Olá Marcus, vi a página do Loren Residence e gostaria de agendar uma experiência no apartamento decorado.';
+const MSG_GERAL =
+  'Olá Marcus, vi a página do Loren Residence e gostaria de ser atendido para saber mais sobre o lançamento.';
+
+const NUMEROS = [
+  { n: '4', t: 'suítes' },
+  { n: '247 m²', t: 'a partir de' },
+  { n: '3 ou 4', t: 'vagas' },
+  { n: '26', t: 'pavimentos, torre única' },
+  { n: '2', t: 'apartamentos por andar' },
+];
+
+const DISTANCIAS = [
+  { m: '1', t: 'Instituto Federal do Triângulo Mineiro' },
+  { m: '2', t: 'Cajubá Country Club' },
+  { m: '3', t: 'Hospital Santa Marta' },
+  { m: '5', t: 'Shopping Village Altamira' },
+  { m: '8', t: 'Praia Clube' },
+];
+
+const LEGENDA_PILOTIS = [
+  'Salão de festas', 'Churrasqueira do salão', 'Espaço gourmet', 'Brinquedoteca', 'Playground',
+  'Sala de jogos', 'Quadra poliesportiva', 'Quadra de beach tennis', 'Churrasqueira das quadras',
+  'Coworking', 'Academia', 'Sauna', 'Sala de massagem', 'Espaço beauty', 'Pool house',
+  'Bar da pool house', 'Solário', 'Piscina', 'Deck molhado', 'Espaço delivery', 'Minimercado',
+];
+
+const LAZER = [
+  { ...r('piscina', 'Piscina com solário do Loren (imagem ilustrativa)'), t: 'Piscina com solário', d: 'Dias ao ar livre vividos por completo.' },
+  { ...r('salao', 'Salão de festas (imagem ilustrativa)'), t: 'Salão de festas', d: 'Recebe grandes celebrações com a mesma naturalidade dos momentos mais íntimos.' },
+  { ...r('brinquedoteca', 'Brinquedoteca (imagem ilustrativa)'), t: 'Brinquedoteca', d: 'Um ambiente lúdico e protegido, onde cada brincadeira estimula o desenvolvimento.' },
+  { ...r('gourmet', 'Espaço gourmet (imagem ilustrativa)'), t: 'Espaço gourmet', d: 'A arte de estar ao redor da mesa.' },
+  { ...r('academia', 'Academia (imagem ilustrativa)'), t: 'Academia', d: 'Alta performance no seu tempo.' },
+  { ...r('beach', 'Quadra de beach tennis (imagem ilustrativa)'), t: 'Beach tennis', d: 'Pé na areia, do jeito que deve ser.' },
+  { ...r('sala-jogos', 'Sala de jogos (imagem ilustrativa)'), t: 'Sala de jogos', d: 'Imersão em cada partida.' },
+  { ...r('playground', 'Playground (imagem ilustrativa)'), t: 'Playground', d: 'Mais liberdade para explorar.' },
+  { ...r('sauna', 'Sauna (imagem ilustrativa)'), t: 'Sauna e massagem', d: 'Bem-estar sob medida, sem sair de casa.' },
+  { ...r('coworking', 'Coworking (imagem ilustrativa)'), t: 'Coworking', d: 'Foco para ir mais longe, a poucos passos de casa.' },
+  { ...r('poolbar', 'Bar da pool house (imagem ilustrativa)'), t: 'Pool house e bar', d: 'Entre um mergulho e outro, o lazer continua.' },
+  { ...r('beauty', 'Espaço beauty (imagem ilustrativa)'), t: 'Espaço beauty', d: 'O conforto de cuidar de si.' },
+];
+
+const DECORADO = [
+  f('03373', 'Sala de jantar e estar integradas no apartamento decorado'),
+  f('03393', 'Sala de estar com adega circular e sofá curvo'),
+  f('03354', 'Cozinha com ilha e banquetas'),
+  f('03436', 'Suíte decorada com cabeceira em madeira'),
+  f('03454', 'Varanda com poltrona e vegetação'),
+  f('03377', 'Sala com sofá curvo e varanda gourmet ao fundo'),
+  f('03370', 'Varanda gourmet com mesa de apoio'),
+  f('03451', 'Suíte com acesso à varanda'),
+  f('03443', 'Banheiro com banheira de imersão'),
+  f('03376', 'Estar com nicho de adega'),
+  f('03462', 'Closet da suíte máster'),
+  f('03368', 'Ilha da cozinha com iluminação embutida'),
+  f('03440', 'Detalhe da suíte com painel artístico'),
+  f('03463', 'Suíte com roupa de cama em tons terrosos'),
+  f('03452', 'Varanda com mesa redonda e poltronas'),
+];
+
+const PLANTAS = [
+  { t: 'Apartamento tipo', s: '7º ao 24º pavimento', area: '247,10', suites: '4 suítes', vagas: '3 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-tipo', 'Planta do apartamento tipo de 4 suítes') },
+  { t: 'Tipo com sala ampliada', s: '7º ao 24º pavimento', area: '247,13', suites: '3 suítes', vagas: '3 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Home office e adega', 'Varanda gourmet e hall privativo'], img: r('planta-tipo-ampliada', 'Planta do apartamento tipo com sala ampliada') },
+  { t: 'Apartamentos 301 e 302', s: '3º pavimento', area: '310,29', suites: '4 suítes', vagas: '4 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-301-302', 'Planta dos apartamentos 301 e 302') },
+  { t: 'Apartamentos 401 e 402', s: '4º pavimento', area: '294,54', suites: '4 suítes', vagas: '4 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-401-402', 'Planta dos apartamentos 401 e 402') },
+  { t: 'Apartamentos 501 e 502', s: '5º pavimento', area: '279,19', suites: '4 suítes', vagas: '4 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-501-502', 'Planta dos apartamentos 501 e 502') },
+  { t: 'Apartamentos 601 e 602', s: '6º pavimento', area: '263,01', suites: '4 suítes', vagas: '4 vagas',
+    itens: ['Suíte máster com closet e varanda', 'Suíte com varanda', 'Varanda gourmet', 'Hall privativo'], img: r('planta-ap-601-602', 'Planta dos apartamentos 601 e 602') },
+];
+
+const FICHA_EMPREENDIMENTO = [
+  'Terreno com 3.000 m²',
+  'Área construída com 19.102,80 m²',
+  'Torre única, 26 pavimentos',
+  '2 apartamentos por andar, 52 no total',
+  '2 apartamentos: 4 suítes, 310,29 m², 4 vagas',
+  '2 apartamentos: 4 suítes, 294,54 m², 4 vagas',
+  '2 apartamentos: 4 suítes, 279,19 m², 4 vagas',
+  '2 apartamentos: 4 suítes, 263,01 m², 4 vagas',
+  '42 apartamentos tipo: 4 suítes, 247,13 m², 3 vagas',
+  '2 apartamentos duplex: 428,58 m², 4 vagas',
+  '170 vagas, 3 para PCD e 4 para visitantes',
+  '3 elevadores: 2 sociais e 1 de serviço',
+];
+const FICHA_LAZER = [
+  'Hall', 'Salão de festas', 'Churrasqueira do salão de festas', 'Espaço gourmet', 'Brinquedoteca',
+  'Playground', 'Sala de jogos', 'Quadra poliesportiva', 'Quadra de beach tennis',
+  'Churrasqueira das quadras', 'Coworking', 'Academia', 'Sauna', 'Sala de massagem', 'Espaço beauty',
+  'Pool house', 'Bar da pool house', 'Solário', 'Piscina', 'Deck molhado', 'Espaço delivery', 'Minimercado',
+];
+
+const descricao =
+  'Loren Residence, lançamento no Altamira, Uberlândia: apartamentos de 4 suítes a partir de 247 m², lazer completo, vídeo do apartamento decorado e plantas. Agende sua experiência no decorado.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ApartmentComplex',
+  name: 'Loren Residence',
+  description: descricao,
+  url: URL_PAGINA,
+  image: new URL('/loren/og.jpg', Astro.site).href,
+  numberOfAccommodationUnits: 52,
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Avenida Presidente Médici, 190',
+    addressLocality: 'Uberlândia',
+    addressRegion: 'MG',
+    addressCountry: 'BR',
+  },
+};
+
+const hero = r('hero', 'Textura marinho com veios dourados');
+const logo = { src: `${D}loren-logo.png`, w: 710, h: 242 };
+const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção: Laso Engenharia. Gestão de vendas: Arez'), src: `${D}creditos.png` };
+---
+
+<LP
+  title="Loren Residence, lançamento no Altamira, Uberlândia | Portfólio Negócios"
+  description={descricao}
+  image="/loren/og.jpg"
+  canonical={URL_PAGINA}
+  jsonLd={jsonLd}
+>
+  <!-- ————————————————— ABERTURA ————————————————— -->
+  <header class="lr-hero">
+    <img class="lr-hero-bg" src={hero.src} srcset={hero.srcset} sizes="100vw" width={hero.w} height={hero.h}
+         alt="" fetchpriority="high" />
+    <div class="lr-hero-in">
+      <img class="lr-logo" src={logo.src} width={logo.w} height={logo.h} alt="Loren Residence" />
+      <p class="lr-hero-frase">Onde a vida encontra <em>espaço para evoluir</em></p>
+      <p class="lr-hero-meta">Lançamento · Altamira · Uberlândia</p>
+    </div>
+    <span class="lr-rolar" aria-hidden="true"></span>
+  </header>
+
+  <!-- ————————————————— CONCEITO ————————————————— -->
+  <section class="lr-sec lr-intro">
+    <img class="lr-aq lr-aq-intro" src={`${D}aq-teal-800.webp`} alt="" width="800" height="382" loading="lazy" />
+    <div class="lr-wrap lr-intro-grade">
+      <figure class="lr-fig lr-reveal">
+        <img src={`${D}familia-800.webp`} srcset={`${D}familia-800.webp 800w, ${D}familia.webp 1800w`}
+             sizes="(max-width:900px) 92vw, 46vw" width="1800" height="1217" loading="lazy"
+             alt="Pai e filho se abraçando, sorrindo (imagem ilustrativa)" />
+      </figure>
+      <div class="lr-txt lr-reveal">
+        <p class="lr-rot">O Loren</p>
+        <h2>Entre imponência e leveza, <em>presença e tranquilidade</em></h2>
+        <p>A cidade cresce, as expectativas evoluem e as escolhas passam a refletir uma nova forma de viver. O Loren nasce para esse momento: um residencial desenhado para acompanhar uma vida que continua em movimento.</p>
+        <p>Um endereço que responde ao presente, mas permanece à altura dos próximos capítulos.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="lr-nums" aria-label="O empreendimento em números">
+    <ul class="lr-wrap">
+      {NUMEROS.map((x) => (
+        <li><strong>{x.n}</strong><span>{x.t}</span></li>
+      ))}
+    </ul>
+    <p class="lr-nums-nota">Opções de cobertura duplex</p>
+  </section>
+
+  <!-- ————————————————— O PROJETO ————————————————— -->
+  <section class="lr-sec lr-projeto">
+    <div class="lr-wrap lr-cab lr-reveal">
+      <p class="lr-rot">O projeto</p>
+      <h2>O horizonte de <em>uma nova fase</em></h2>
+    </div>
+    <figure class="lr-pleno lr-reveal">
+      <img src={`${D}fachada-noite.webp`} width="1368" height="768" loading="lazy"
+           sizes="100vw" alt="Fachada do Loren ao entardecer (imagem ilustrativa)" />
+      <figcaption>Imagem ilustrativa</figcaption>
+    </figure>
+    <div class="lr-wrap lr-duo">
+      <figure class="lr-fig lr-fig-alta lr-reveal">
+        <img src={`${D}fachada-detalhe-800.webp`} srcset={`${D}fachada-detalhe-800.webp 800w, ${D}fachada-detalhe.webp 1715w`}
+             sizes="(max-width:900px) 92vw, 46vw" width="1715" height="1444" loading="lazy"
+             alt="Detalhe da fachada com varandas e palmeiras (imagem ilustrativa)" />
+        <figcaption>Imagem ilustrativa</figcaption>
+      </figure>
+      <div class="lr-txt lr-reveal">
+        <h3>Chegar passa a ter <em>outro significado</em></h3>
+        <p>A portaria com porte-cochère oferece segurança e conforto em todos os momentos de chegada. Funcional e imponente, o acesso antecipa a elegância presente em todo o Loren.</p>
+        <figure class="lr-fig lr-fig-hall">
+          <img src={`${D}hall-800.webp`} srcset={`${D}hall-800.webp 800w, ${D}hall.webp 1800w`}
+               sizes="(max-width:900px) 92vw, 46vw" width="1800" height="682" loading="lazy"
+               alt="Hall de entrada com proporções generosas (imagem ilustrativa)" />
+          <figcaption>Hall de entrada · imagem ilustrativa</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ————————————————— LOCALIZAÇÃO ————————————————— -->
+  <section class="lr-sec lr-local">
+    <div class="lr-wrap lr-local-grade">
+      <div class="lr-txt lr-reveal">
+        <p class="lr-rot">Localização</p>
+        <h2>Perto de tudo o que <em>faz sentido</em> para a sua rotina</h2>
+        <p class="lr-local-lead">A menos de 10 minutos do centro.</p>
+        <ul class="lr-dist">
+          {DISTANCIAS.map((d) => (
+            <li><b>{d.m} min</b><span>{d.t}</span></li>
+          ))}
+        </ul>
+        <p class="lr-end">Avenida Presidente Médici, 190<br />Altamira · Uberlândia</p>
+      </div>
+      <figure class="lr-fig lr-fig-mapa lr-reveal">
+        <img src={`${D}mapa-800.webp`} srcset={`${D}mapa-800.webp 800w, ${D}mapa.webp 2000w`}
+             sizes="(max-width:900px) 92vw, 52vw" width="2000" height="1313" loading="lazy"
+             alt="Mapa ilustrado com o Loren e os pontos de referência do entorno" />
+        <figcaption>Mapa ilustrativo, sem escala</figcaption>
+      </figure>
+    </div>
+    <div class="lr-wrap lr-cidade lr-reveal">
+      <figure class="lr-fig">
+        <img src={`${D}uberlandia-noite-800.webp`} srcset={`${D}uberlandia-noite-800.webp 800w, ${D}uberlandia-noite.webp 1800w`}
+             sizes="(max-width:900px) 92vw, 56vw" width="1800" height="1014" loading="lazy"
+             alt="Vista aérea de Uberlândia ao anoitecer" />
+      </figure>
+      <div class="lr-txt">
+        <h3>Uma nova perspectiva <em>para Uberlândia</em></h3>
+        <p>No coração do Triângulo Mineiro, a cidade vive um novo momento. Hoje, localização e metragem já não definem uma escolha por si só: arquitetura, bem-estar e permanência ganham cada vez mais relevância.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ————————————————— LAZER ————————————————— -->
+  <section class="lr-sec lr-lazer">
+    <div class="lr-wrap lr-cab lr-reveal">
+      <p class="lr-rot">Lazer</p>
+      <h2>Um andar inteiro dedicado a <em>cada momento</em></h2>
+      <p class="lr-sub">Vinte e uma experiências reunidas no pilotis, do esporte ao descanso.</p>
+    </div>
+    <div class="lr-wrap lr-pilotis lr-reveal">
+      <img src={`${D}pilotis.webp`} width="1750" height="1003" loading="lazy"
+           alt="Planta ilustrativa do pilotis com todos os ambientes de lazer" />
+      <ol class="lr-legenda">
+        {LEGENDA_PILOTIS.map((n) => <li>{n}</li>)}
+      </ol>
+    </div>
+    <div class="lr-wrap">
+      <ul class="lr-mosaico">
+        {LAZER.map((a) => (
+          <li class="lr-tile lr-reveal">
+            <img src={a.src} srcset={a.srcset} sizes="(max-width:700px) 92vw, (max-width:1100px) 46vw, 31vw"
+                 width={a.w} height={a.h} loading="lazy" alt={a.alt} />
+            <div class="lr-tile-leg"><b>{a.t}</b><span>{a.d}</span></div>
+          </li>
+        ))}
+      </ul>
+      <p class="lr-nota">Imagens ilustrativas, assim como equipamentos, acessórios e paisagismo.</p>
+    </div>
+  </section>
+
+  <!-- ————————————————— DECORADO ————————————————— -->
+  <section class="lr-sec lr-decorado">
+    <img class="lr-aq lr-aq-dec" src={`${D}aq-teal-800.webp`} alt="" width="800" height="382" loading="lazy" />
+    <div class="lr-wrap lr-cab lr-reveal">
+      <p class="lr-rot">Apartamento decorado</p>
+      <h2>Conheça o Loren <em>por dentro</em></h2>
+      <p class="lr-sub">O percurso completo pelo apartamento, em vídeo sem edição, e as fotos de cada ambiente.</p>
+    </div>
+    <div class="lr-wrap lr-dec-grade">
+      <div class="lr-video-col lr-reveal">
+        <div class="lr-video">
+          <video controls playsinline preload="metadata" poster={`${D}decorado-poster.webp`}
+                 aria-label="Vídeo completo do apartamento decorado do Loren" id="lr-video">
+            <source src={`${D}decorado.mp4`} type="video/mp4" />
+            Seu navegador não reproduz vídeo.
+          </video>
+        </div>
+        <p class="lr-video-leg">Vídeo do apartamento decorado · 1 min 46 s</p>
+      </div>
+      <ul class="lr-fotos">
+        {DECORADO.map((p) => (
+          <li class="lr-reveal">
+            <button type="button" class="lr-zoom" data-full={p.src} data-alt={p.alt} aria-label={`Ampliar: ${p.alt}`}>
+              <img src={p.src} srcset={p.srcset} sizes="(max-width:700px) 46vw, (max-width:1100px) 30vw, 22vw"
+                   width={p.w} height={p.h} loading="lazy" alt={p.alt} />
+            </button>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ————————————————— PLANTAS ————————————————— -->
+  <section class="lr-sec lr-plantas">
+    <div class="lr-wrap lr-cab lr-reveal">
+      <p class="lr-rot">Plantas</p>
+      <h2>Amplas, com integrações <em>bem resolvidas</em></h2>
+      <p class="lr-sub">De 247 a 428 m². Possibilidade de adaptação de 4 ou 3 suítes, para acompanhar diferentes formas de viver, hoje e ao longo do tempo.</p>
+    </div>
+    <div class="lr-wrap lr-pl-grade">
+      {PLANTAS.map((p) => (
+        <article class="lr-pl lr-reveal">
+          <div class="lr-pl-cab">
+            <div>
+              <h3>{p.t}</h3>
+              <p class="lr-pl-sub">{p.s}</p>
+            </div>
+            <p class="lr-pl-area"><strong>{p.area}</strong> m²</p>
+          </div>
+          <button type="button" class="lr-zoom lr-zoom-pl" data-full={p.img.src} data-alt={p.img.alt} aria-label={`Ampliar: ${p.img.alt}`}>
+            <img src={p.img.src} width={p.img.w} height={p.img.h} loading="lazy" alt={p.img.alt} />
+          </button>
+          <p class="lr-pl-chips"><span>{p.suites}</span><span>{p.vagas}</span></p>
+          <ul>
+            {p.itens.map((i) => <li>{i}</li>)}
+          </ul>
+        </article>
+      ))}
+    </div>
+
+    <div class="lr-wrap lr-dup lr-reveal">
+      <div class="lr-dup-txt">
+        <p class="lr-rot">Coberturas duplex · 2501 e 2502</p>
+        <h3>Proporções à altura <em>das suas escolhas</em></h3>
+        <p class="lr-dup-area"><strong>428,58</strong> m² · 4 vagas</p>
+        <ul>
+          <li>Suíte máster com closet, banho sr. e sra. e banheira*</li>
+          <li>Varanda em todas as suítes</li>
+          <li>Elevador com acesso aos dois pavimentos</li>
+          <li>Terraço descoberto com previsão para piscina* (área descoberta de 59,80 m²)</li>
+        </ul>
+        <p class="lr-nota-fixa">*Não inclui equipamentos.</p>
+      </div>
+      <figure class="lr-fig lr-dup-img">
+        <img src={`${D}cobertura-sala-800.webp`} srcset={`${D}cobertura-sala-800.webp 800w, ${D}cobertura-sala.webp 1800w`}
+             sizes="(max-width:900px) 92vw, 52vw" width="1800" height="759" loading="lazy"
+             alt="Sala de estar da cobertura duplex (imagem ilustrativa)" />
+        <figcaption>Sala da cobertura duplex · imagem ilustrativa</figcaption>
+      </figure>
+    </div>
+    <div class="lr-wrap lr-dup-pl lr-reveal">
+      <button type="button" class="lr-zoom lr-zoom-pl" data-full={`${D}planta-duplex-n1.webp`} data-alt="Planta da cobertura duplex, 1º nível" aria-label="Ampliar: planta da cobertura duplex, 1º nível">
+        <img src={`${D}planta-duplex-n1.webp`} width="1200" height="1037" loading="lazy" alt="Planta da cobertura duplex, 1º nível" />
+        <span>1º nível</span>
+      </button>
+      <button type="button" class="lr-zoom lr-zoom-pl" data-full={`${D}planta-duplex-n2.webp`} data-alt="Planta da cobertura duplex, 2º nível" aria-label="Ampliar: planta da cobertura duplex, 2º nível">
+        <img src={`${D}planta-duplex-n2.webp`} width="1200" height="1014" loading="lazy" alt="Planta da cobertura duplex, 2º nível" />
+        <span>2º nível</span>
+      </button>
+    </div>
+  </section>
+
+  <!-- ————————————————— FICHA ————————————————— -->
+  <section class="lr-sec lr-ficha">
+    <div class="lr-wrap">
+      <p class="lr-rot">Ficha técnica</p>
+      <h2>O empreendimento <em>em detalhes</em></h2>
+      <div class="lr-ficha-grade">
+        <div>
+          <h3>O empreendimento</h3>
+          <ul>{FICHA_EMPREENDIMENTO.map((i) => <li>{i}</li>)}</ul>
+        </div>
+        <div>
+          <h3>Lazer e áreas comuns</h3>
+          <ul class="lr-ficha-lazer">{FICHA_LAZER.map((i) => <li>{i}</li>)}</ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ————————————————— CONVITE ————————————————— -->
+  <section class="lr-cta" id="agendar">
+    <img class="lr-hero-bg" src={hero.src} alt="" width={hero.w} height={hero.h} loading="lazy" />
+    <div class="lr-cta-in lr-reveal">
+      <img class="lr-logo lr-logo-peq" src={logo.src} width={logo.w} height={logo.h} alt="Loren Residence" loading="lazy" />
+      <h2>Viva a experiência <em>no decorado</em></h2>
+      <p>Agende um horário e percorra o apartamento com calma, ambiente por ambiente. Ou, se preferir, fale agora com o corretor e tire suas dúvidas pelo WhatsApp.</p>
+      <div class="lr-botoes">
+        <a class="lr-btn lr-btn-ouro" href={waLink(MSG_AGENDAR)} target="_blank" rel="noopener" data-ev="agendar">
+          Agendar experiência no decorado
+        </a>
+        <a class="lr-btn lr-btn-vazio" href={waLink(MSG_GERAL)} target="_blank" rel="noopener" data-ev="whatsapp">
+          Ser atendido pelo WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="lr-legal">
+    <div class="lr-wrap">
+      <img class="lr-cred" src={cred.src} width={cred.w} height={cred.h} loading="lazy" alt={cred.alt} />
+      <p>
+        As imagens desta peça publicitária são meramente ilustrativas, assim como os equipamentos, acessórios e o paisagismo.
+        O empreendimento somente será comercializado após o registro do Memorial de Incorporação no 1º Registro de Imóveis
+        de Uberlândia, sob o protocolo nº 803300, nos termos da Lei nº 4.591/1964.
+      </p>
+    </div>
+  </section>
+
+  <!-- AMPLIAÇÃO (fotos e plantas) -->
+  <dialog class="lr-lb" id="lr-lb" aria-label="Imagem ampliada">
+    <button type="button" class="lr-lb-x" id="lr-lb-x" aria-label="Fechar">✕</button>
+    <img id="lr-lb-img" src="" alt="" />
+  </dialog>
+
+  <script is:inline>
+    (function () {
+      /* revelação suave ao rolar; sem JS tudo aparece (classe .js só liga aqui) */
+      var els = document.querySelectorAll('.lr-reveal');
+      if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        document.documentElement.classList.add('lr-anima');
+        var io = new IntersectionObserver(function (es) {
+          es.forEach(function (e) {
+            if (e.isIntersecting) { e.target.classList.add('lr-vis'); io.unobserve(e.target); }
+          });
+        }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
+        els.forEach(function (el) { io.observe(el); });
+      }
+
+      /* ampliação */
+      var lb = document.getElementById('lr-lb');
+      var lbImg = document.getElementById('lr-lb-img');
+      document.querySelectorAll('.lr-zoom').forEach(function (b) {
+        b.addEventListener('click', function () {
+          lbImg.src = b.dataset.full; lbImg.alt = b.dataset.alt || '';
+          if (lb.showModal) lb.showModal(); else lb.setAttribute('open', '');
+        });
+      });
+      function fecha() { if (lb.close) lb.close(); else lb.removeAttribute('open'); }
+      document.getElementById('lr-lb-x').addEventListener('click', fecha);
+      lb.addEventListener('click', function (e) { if (e.target === lb) fecha(); });
+
+      /* conversão: os dois botões contam como Lead no Pixel */
+      document.querySelectorAll('[data-ev]').forEach(function (a) {
+        a.addEventListener('click', function () {
+          if (window.fbq) {
+            fbq('track', 'Lead', { content_name: 'Loren Residence', content_category: a.dataset.ev });
+          }
+        });
+      });
+    })();
+  </script>
+
+  <style is:global>
+    :root {
+      --lr-marinho: #0b1d3a;
+      --lr-marinho-2: #10284d;
+      --lr-tinta: #0d2140;
+      --lr-tinta-2: #4a5a74;
+      --lr-ouro: #c98a2d;
+      --lr-ouro-claro: #e2ad5a;
+      --lr-creme: #f8f1e5;
+      --lr-creme-2: #efe5d3;
+      --lr-turquesa: #1d8aa5;
+      --lr-linha: rgba(13, 33, 64, .14);
+      --lr-serif: 'STIX Two Text', Georgia, 'Times New Roman', serif;
+      --lr-sans: 'Inter Variable', 'Inter', system-ui, -apple-system, Helvetica, Arial, sans-serif;
+      --lr-w: 1180px;
+    }
+    /* a página tem identidade própria, independente do tema escuro do site */
+    body.lp-body { background: var(--lr-creme); color: var(--lr-tinta); font-family: var(--lr-sans); font-size: 16px; line-height: 1.65; }
+    body.lp-body .lp-foot { margin-top: 0; background: var(--lr-marinho); border-top: 0; }
+    body.lp-body :focus-visible { outline: 2px solid var(--lr-ouro); outline-offset: 3px; }
+
+    .lr-wrap { max-width: var(--lr-w); margin: 0 auto; padding: 0 28px; }
+    .lr-sec { position: relative; padding: clamp(72px, 10vw, 140px) 0; overflow: hidden; }
+    .lr-sec h2, .lr-cta h2, .lr-sec h3 {
+      font-family: var(--lr-serif); font-weight: 400; color: var(--lr-marinho);
+      letter-spacing: -.01em; line-height: 1.12; margin: 0;
+    }
+    .lr-sec h2, .lr-cta h2 { font-size: clamp(2rem, 4.6vw, 3.4rem); }
+    .lr-sec h3 { font-size: clamp(1.45rem, 2.6vw, 2rem); }
+    .lr-sec em, .lr-cta em { font-style: italic; color: var(--lr-turquesa); }
+    .lr-rot {
+      font-family: var(--lr-sans); font-size: .74rem; font-weight: 600; letter-spacing: .22em;
+      text-transform: uppercase; color: var(--lr-ouro); margin: 0 0 18px;
+    }
+    .lr-txt p { color: var(--lr-tinta-2); margin: 18px 0 0; max-width: 52ch; }
+    .lr-cab { margin-bottom: clamp(36px, 5vw, 64px); }
+    .lr-sub { color: var(--lr-tinta-2); max-width: 60ch; margin: 18px 0 0; }
+    .lr-fig { margin: 0; position: relative; }
+    .lr-fig img { display: block; width: 100%; height: auto; }
+    .lr-fig figcaption, .lr-pleno figcaption {
+      font-size: .7rem; letter-spacing: .06em; color: var(--lr-tinta-2); margin-top: 10px;
+    }
+    .lr-nota { font-size: .78rem; color: var(--lr-tinta-2); margin: 28px 0 0; }
+
+    /* aquarelas do book: o branco some no creme (multiply) */
+    .lr-aq { position: absolute; pointer-events: none; mix-blend-mode: multiply; z-index: 0; user-select: none; }
+    .lr-aq-intro { top: -4%; right: -4%; width: min(34vw, 470px); height: auto; opacity: .9; }
+    .lr-aq-dec { top: -3%; right: -5%; width: min(30vw, 420px); height: auto; opacity: .85; }
+    .lr-sec > .lr-wrap { position: relative; z-index: 1; }
+
+    /* ——— abertura ——— */
+    .lr-hero { position: relative; min-height: 100svh; display: grid; place-items: center; background: var(--lr-marinho); overflow: hidden; isolation: isolate; }
+    .lr-hero-bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; }
+    .lr-hero::after, .lr-cta::after {
+      content: ''; position: absolute; inset: 0; z-index: -1;
+      background: radial-gradient(ellipse at 50% 45%, rgba(11,29,58,.55), rgba(11,29,58,.2) 55%, rgba(11,29,58,.62));
+    }
+    .lr-hero-in { text-align: center; padding: 0 24px; display: grid; justify-items: center; gap: 0; }
+    .lr-logo { width: min(66vw, 460px); height: auto; filter: drop-shadow(0 6px 26px rgba(0,0,0,.4)); }
+    .lr-logo-peq { width: min(52vw, 260px); margin: 0 auto 30px; }
+    .lr-hero-frase {
+      font-family: var(--lr-serif); font-size: clamp(1.15rem, 2.6vw, 1.7rem); color: #f4ead8;
+      margin: clamp(24px, 4vw, 40px) 0 0;
+    }
+    .lr-hero-frase em { color: var(--lr-ouro-claro); }
+    .lr-hero-meta {
+      margin: 22px 0 0; font-size: .74rem; letter-spacing: .24em; text-transform: uppercase; color: rgba(244,234,216,.78);
+    }
+    @media (max-width: 520px) { .lr-hero-meta { letter-spacing: .14em; font-size: .68rem; } }
+    .lr-rolar {
+      position: absolute; bottom: 26px; left: 50%; width: 1px; height: 54px; background: linear-gradient(var(--lr-ouro-claro), transparent);
+    }
+
+    /* ——— conceito ——— */
+    .lr-intro { background: var(--lr-creme); }
+    .lr-intro-grade { display: grid; gap: clamp(32px, 6vw, 88px); grid-template-columns: 1fr; align-items: center; }
+    .lr-intro .lr-fig { box-shadow: 18px 18px 0 -2px rgba(201,138,45,.28); }
+    @media (min-width: 900px) { .lr-intro-grade { grid-template-columns: 1.05fr .95fr; } }
+
+    .lr-nums { background: var(--lr-marinho); color: #f4ead8; padding: clamp(40px, 6vw, 64px) 0 36px; }
+    .lr-nums ul { list-style: none; display: grid; grid-template-columns: repeat(2, 1fr); gap: 28px 12px; margin: 0 auto; padding: 0 28px; }
+    .lr-nums li { text-align: center; display: grid; gap: 6px; }
+    .lr-nums strong { font-family: var(--lr-serif); font-weight: 400; font-size: clamp(2rem, 4.4vw, 3rem); color: var(--lr-ouro-claro); line-height: 1; }
+    .lr-nums span { font-size: .74rem; letter-spacing: .14em; text-transform: uppercase; color: rgba(244,234,216,.72); }
+    .lr-nums-nota { text-align: center; margin: 34px 0 0; font-family: var(--lr-serif); font-style: italic; color: rgba(244,234,216,.8); }
+    @media (min-width: 760px) { .lr-nums ul { grid-template-columns: repeat(5, 1fr); } }
+
+    /* ——— projeto ——— */
+    .lr-projeto { background: var(--lr-creme-2); }
+    .lr-pleno { margin: 0 auto clamp(40px, 6vw, 80px); max-width: 1500px; padding: 0 28px; }
+    .lr-pleno img { width: 100%; height: auto; display: block; aspect-ratio: 16/9; object-fit: cover; }
+    .lr-duo { display: grid; gap: clamp(32px, 5vw, 72px); grid-template-columns: 1fr; align-items: start; }
+    .lr-fig-hall { margin-top: 30px; }
+    @media (min-width: 900px) { .lr-duo { grid-template-columns: 1fr 1fr; } }
+
+    /* ——— localização ——— */
+    .lr-local { background: var(--lr-creme); }
+    .lr-local-grade { display: grid; gap: clamp(32px, 5vw, 72px); grid-template-columns: 1fr; align-items: center; }
+    .lr-local-lead { font-family: var(--lr-serif); font-style: italic; font-size: 1.25rem; color: var(--lr-marinho) !important; }
+    .lr-dist { list-style: none; padding: 0; margin: 26px 0 0; display: grid; gap: 0; max-width: 460px; }
+    .lr-dist li { display: grid; grid-template-columns: 78px 1fr; align-items: baseline; padding: 13px 0; border-top: 1px solid var(--lr-linha); }
+    .lr-dist li:last-child { border-bottom: 1px solid var(--lr-linha); }
+    .lr-dist b { font-family: var(--lr-serif); font-weight: 600; font-size: 1.25rem; color: var(--lr-ouro); font-variant-numeric: tabular-nums; }
+    .lr-dist span { color: var(--lr-tinta); font-size: .96rem; }
+    .lr-end { font-size: .9rem; letter-spacing: .04em; color: var(--lr-marinho) !important; margin-top: 26px !important; }
+    .lr-cidade { display: grid; gap: clamp(28px, 5vw, 64px); grid-template-columns: 1fr; margin-top: clamp(56px, 8vw, 110px); align-items: center; }
+    @media (min-width: 900px) {
+      .lr-local-grade { grid-template-columns: .85fr 1.15fr; }
+      .lr-cidade { grid-template-columns: 1.15fr .85fr; }
+    }
+
+    /* ——— lazer ——— */
+    .lr-lazer { background: var(--lr-marinho); color: #f4ead8; }
+    .lr-lazer h2, .lr-lazer h3 { color: #f8f1e5; }
+    .lr-lazer em { color: var(--lr-ouro-claro); }
+    .lr-lazer .lr-sub, .lr-lazer .lr-nota { color: rgba(244,234,216,.72); }
+    .lr-pilotis { display: grid; gap: 32px; grid-template-columns: 1fr; align-items: center; margin-bottom: clamp(48px, 7vw, 96px); }
+    .lr-pilotis img { width: 100%; height: auto; display: block; filter: drop-shadow(0 28px 40px rgba(0,0,0,.45)); }
+    .lr-legenda {
+      list-style: none; counter-reset: l; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 22px;
+      font-size: .86rem; color: rgba(244,234,216,.85);
+    }
+    .lr-legenda li { counter-increment: l; display: grid; grid-template-columns: 30px 1fr; padding: 6px 0; border-bottom: 1px solid rgba(244,234,216,.12); }
+    .lr-legenda li::before { content: counter(l); font-family: var(--lr-serif); color: var(--lr-ouro-claro); font-variant-numeric: tabular-nums; }
+    @media (min-width: 980px) { .lr-pilotis { grid-template-columns: 1.35fr 1fr; } }
+
+    .lr-mosaico { list-style: none; margin: 0; padding: 0; column-count: 1; column-gap: 18px; }
+    .lr-tile { position: relative; break-inside: avoid; margin: 0 0 18px; overflow: hidden; background: var(--lr-marinho-2); }
+    .lr-tile img { display: block; width: 100%; height: auto; transition: transform .8s cubic-bezier(.2,.7,.3,1); }
+    .lr-tile:hover img { transform: scale(1.03); }
+    .lr-tile-leg {
+      position: absolute; inset: auto 0 0 0; padding: 54px 20px 18px; display: grid; gap: 4px;
+      background: linear-gradient(to top, rgba(6,16,34,.86), rgba(6,16,34,0));
+    }
+    .lr-tile-leg b { font-family: var(--lr-serif); font-weight: 600; font-size: 1.18rem; color: #fbf3e4; }
+    .lr-tile-leg span { font-size: .82rem; color: rgba(251,243,228,.82); line-height: 1.45; }
+    @media (min-width: 640px) { .lr-mosaico { column-count: 2; } }
+    @media (min-width: 1040px) { .lr-mosaico { column-count: 3; } }
+
+    /* ——— decorado ——— */
+    .lr-decorado { background: var(--lr-creme); }
+    .lr-dec-grade { display: grid; gap: clamp(28px, 4vw, 56px); grid-template-columns: 1fr; align-items: start; }
+    .lr-video-col { justify-self: center; width: 100%; max-width: 380px; }
+    .lr-video { background: var(--lr-marinho); padding: 10px; border-radius: 30px; box-shadow: 0 30px 60px rgba(11,29,58,.28), 0 0 0 1px rgba(11,29,58,.2); }
+    .lr-video video { display: block; width: 100%; aspect-ratio: 9/16; border-radius: 22px; background: #000; object-fit: cover; }
+    .lr-video-leg { text-align: center; font-size: .76rem; letter-spacing: .08em; color: var(--lr-tinta-2); margin: 16px 0 0; }
+    .lr-fotos { list-style: none; margin: 0; padding: 0; column-count: 2; column-gap: 12px; }
+    .lr-fotos li { break-inside: avoid; margin: 0 0 12px; }
+    .lr-zoom { display: block; width: 100%; padding: 0; border: 0; background: none; cursor: zoom-in; overflow: hidden; }
+    .lr-zoom img { display: block; width: 100%; height: auto; transition: transform .7s cubic-bezier(.2,.7,.3,1); }
+    .lr-zoom:hover img { transform: scale(1.04); }
+    @media (min-width: 760px) { .lr-fotos { column-count: 3; column-gap: 14px; } .lr-fotos li { margin-bottom: 14px; } }
+    @media (min-width: 1180px) {
+      .lr-dec-grade { grid-template-columns: 360px 1fr; gap: 56px; }
+      .lr-video-col { position: sticky; top: 28px; justify-self: start; }
+    }
+
+    /* ——— plantas ——— */
+    .lr-plantas { background: var(--lr-creme-2); }
+    .lr-pl-grade { display: grid; gap: 22px; grid-template-columns: 1fr; }
+    .lr-pl { background: var(--lr-creme); padding: clamp(20px, 3vw, 30px); border: 1px solid var(--lr-linha); display: grid; gap: 14px; align-content: start; }
+    .lr-pl-cab { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; }
+    .lr-pl h3 { font-size: 1.45rem; }
+    .lr-pl-sub { margin: 4px 0 0; font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; color: var(--lr-tinta-2); }
+    .lr-pl-area { margin: 0; font-family: var(--lr-serif); color: var(--lr-ouro); font-size: 1rem; white-space: nowrap; }
+    .lr-pl-area strong { font-weight: 400; font-size: 2rem; line-height: 1; }
+    .lr-zoom-pl { background: var(--lr-creme); position: relative; }
+    .lr-zoom-pl img { mix-blend-mode: multiply; }
+    .lr-pl-chips { display: flex; gap: 8px; margin: 0; }
+    .lr-pl-chips span { font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; background: var(--lr-marinho); color: #f4ead8; padding: 5px 11px; }
+    .lr-pl ul { margin: 0; padding: 0 0 0 18px; color: var(--lr-tinta-2); font-size: .9rem; display: grid; gap: 3px; }
+    .lr-pl li::marker { color: var(--lr-ouro); }
+    @media (min-width: 880px) { .lr-pl-grade { grid-template-columns: 1fr 1fr; } }
+
+    .lr-dup { display: grid; gap: clamp(28px, 5vw, 64px); grid-template-columns: 1fr; align-items: center; margin-top: clamp(56px, 8vw, 110px); }
+    .lr-dup-area { font-family: var(--lr-serif); color: var(--lr-ouro) !important; font-size: 1.1rem; margin-top: 16px !important; }
+    .lr-dup-area strong { font-weight: 400; font-size: 2.4rem; }
+    .lr-dup-txt ul { margin: 18px 0 0; padding-left: 18px; color: var(--lr-tinta-2); display: grid; gap: 6px; max-width: 52ch; }
+    .lr-dup-txt li::marker { color: var(--lr-ouro); }
+    .lr-nota-fixa { font-size: .78rem; color: var(--lr-tinta-2); margin: 14px 0 0; }
+    .lr-dup-pl { display: grid; grid-template-columns: 1fr; gap: 22px; margin-top: clamp(28px, 4vw, 48px); }
+    .lr-dup-pl .lr-zoom { background: var(--lr-creme); padding: 18px; border: 1px solid var(--lr-linha); }
+    .lr-dup-pl span { display: block; text-align: center; font-size: .72rem; letter-spacing: .16em; text-transform: uppercase; color: var(--lr-tinta-2); margin-top: 8px; }
+    @media (min-width: 900px) {
+      .lr-dup { grid-template-columns: .9fr 1.1fr; }
+      .lr-dup-pl { grid-template-columns: 1fr 1fr; }
+    }
+
+    /* ——— ficha ——— */
+    .lr-ficha { background: var(--lr-creme); }
+    .lr-ficha-grade { display: grid; gap: 44px; grid-template-columns: 1fr; margin-top: 40px; }
+    .lr-ficha h3 { font-size: 1.3rem; margin-bottom: 14px; }
+    .lr-ficha ul { list-style: none; margin: 0; padding: 0; }
+    .lr-ficha li { padding: 9px 0; border-top: 1px solid var(--lr-linha); font-size: .94rem; color: var(--lr-tinta); }
+    .lr-ficha li:last-child { border-bottom: 1px solid var(--lr-linha); }
+    .lr-ficha-lazer { display: grid !important; grid-template-columns: 1fr 1fr; column-gap: 24px; }
+    .lr-ficha-lazer li:nth-last-child(2) { border-bottom: 1px solid var(--lr-linha); }
+    @media (min-width: 860px) { .lr-ficha-grade { grid-template-columns: 1.1fr .9fr; gap: 72px; } }
+
+    /* ——— convite ——— */
+    .lr-cta { position: relative; background: var(--lr-marinho); color: #f4ead8; padding: clamp(88px, 12vw, 170px) 24px; text-align: center; overflow: hidden; isolation: isolate; }
+    .lr-cta-in { max-width: 720px; margin: 0 auto; }
+    .lr-cta h2 { color: #fbf3e4; }
+    .lr-cta em { color: var(--lr-ouro-claro); }
+    .lr-cta p { color: rgba(244,234,216,.85); margin: 22px auto 0; max-width: 54ch; }
+    .lr-botoes { display: grid; gap: 14px; margin-top: 40px; justify-items: center; }
+    .lr-btn {
+      display: inline-flex; align-items: center; justify-content: center; text-align: center; width: min(100%, 420px);
+      padding: 18px 28px; font-family: var(--lr-sans); font-weight: 600; font-size: .96rem; letter-spacing: .02em;
+      transition: transform .2s, background .2s, color .2s, border-color .2s, box-shadow .2s;
+    }
+    .lr-btn-ouro { background: var(--lr-ouro); color: #0b1d3a; box-shadow: 0 12px 30px rgba(201,138,45,.35); }
+    .lr-btn-ouro:hover { background: var(--lr-ouro-claro); transform: translateY(-2px); }
+    .lr-btn-vazio { border: 1px solid rgba(244,234,216,.55); color: #f4ead8; }
+    .lr-btn-vazio:hover { border-color: var(--lr-ouro-claro); color: var(--lr-ouro-claro); transform: translateY(-2px); }
+    @media (min-width: 720px) {
+      .lr-botoes { grid-template-columns: 1fr 1fr; max-width: 720px; margin-left: auto; margin-right: auto; }
+      .lr-btn { width: 100%; }
+    }
+
+    .lr-legal { background: var(--lr-marinho-2); padding: 44px 0 52px; color: rgba(244,234,216,.62); }
+    .lr-legal .lr-wrap { display: grid; justify-items: center; gap: 28px; text-align: center; }
+    .lr-cred { width: min(100%, 760px); height: auto; }
+    .lr-legal p { font-size: .74rem; line-height: 1.7; max-width: 920px; margin: 0; }
+
+    /* ——— ampliação ——— */
+    .lr-lb { border: 0; padding: 0; background: transparent; max-width: 96vw; max-height: 96vh; overflow: visible; }
+    .lr-lb::backdrop { background: rgba(6,14,28,.9); }
+    .lr-lb img { display: block; max-width: 96vw; max-height: 92vh; width: auto; height: auto; background: var(--lr-creme); }
+    .lr-lb-x { position: absolute; top: -40px; right: 0; background: none; border: 0; color: #fff; font-size: 1.4rem; cursor: pointer; padding: 6px 10px; }
+
+    /* ——— entrada suave (só quando o JS liga) ——— */
+    .lr-anima .lr-reveal { opacity: 0; transform: translateY(22px); transition: opacity .9s cubic-bezier(.2,.7,.3,1), transform .9s cubic-bezier(.2,.7,.3,1); }
+    .lr-anima .lr-reveal.lr-vis { opacity: 1; transform: none; }
+    @media (prefers-reduced-motion: reduce) {
+      .lr-anima .lr-reveal { opacity: 1; transform: none; transition: none; }
+      .lr-tile img, .lr-zoom img { transition: none; }
+    }
+  </style>
+</LP>

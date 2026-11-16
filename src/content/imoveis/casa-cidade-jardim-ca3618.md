@@ -39,5 +39,4 @@ Casa térrea de alto padrão em terreno de 1.000 m² no Cidade Jardim, com pisci
 
 ## Condições
 
-- Analisa permuta por apartamento de menor valor
 - Valores e disponibilidade sujeitos a confirmação

@@ -15,7 +15,7 @@ fotos: apartamento-saraiva-st0263
 capa: 1
 ---
 
-Studio no Saraiva, a poucos minutos do Centro, com vaga de garagem e metragem enxuta para quem quer praticidade no dia a dia.
+Studio de 34 m² no Saraiva, com vaga de garagem, para quem busca praticidade no dia a dia.
 
 ## O imóvel
 

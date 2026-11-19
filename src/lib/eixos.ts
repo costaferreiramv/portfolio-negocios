@@ -48,7 +48,7 @@ export const EIXOS: Eixo[] = [
     curto: 'Landscape · Parque Una · Villa Gávea',
     descricao:
       'Imóveis residenciais e comerciais no entorno da Avenida Landscape, no Parque Una e no Villa Gávea.',
-    areas: ['Jardim Sul', 'Parque Una', 'Villa Gávea', 'Laranjeiras'],
+    areas: ['Jardim Sul', 'Parque Una', 'Villa Gávea', 'Laranjeiras', 'Shopping Park'],
     imagem: 'parque-una-alt.jpeg',
   },
   {

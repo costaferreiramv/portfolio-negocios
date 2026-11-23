@@ -9,7 +9,7 @@ nomeCondominio: Manhattan
 taxaCondominio: 600
 preco: 1150000
 areaUtil: 110
-areaTerreno: 250
+areaTerreno: 200
 dormitorios: 3
 suites: 3
 vagas: 2

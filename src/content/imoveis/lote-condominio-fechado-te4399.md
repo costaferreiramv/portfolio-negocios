@@ -7,7 +7,7 @@ eixo: horizontais
 condominio: true
 nomeCondominio: Splêndido
 taxaCondominio: 580
-preco: 599000
+preco: 575000
 areaUtil: 360
 areaTerreno: 360
 dormitorios: 0

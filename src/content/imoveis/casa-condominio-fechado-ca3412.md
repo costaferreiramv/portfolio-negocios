@@ -7,7 +7,7 @@ eixo: horizontais
 condominio: true
 nomeCondominio: Cyrela Buritis
 taxaCondominio: 1128
-preco: 2850000
+preco: 2600000
 areaUtil: 225
 areaTerreno: 412
 dormitorios: 3

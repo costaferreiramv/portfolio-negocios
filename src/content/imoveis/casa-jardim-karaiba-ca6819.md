@@ -4,7 +4,7 @@ codigo: CA6819
 tipo: casa
 bairro: Jardim Karaíba
 eixo: karaiba
-preco: 988000
+preco: 930000
 areaUtil: 285
 areaTerreno: 475
 dormitorios: 3

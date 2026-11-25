@@ -40,7 +40,7 @@
     return out;
   }
 
-  // Código de referência do imóvel (ex.: CA6574, AP8011): duas letras + 4 dígitos.
+  // Código de referência do imóvel (ex.: CC0001, UN0002): duas letras + 4 dígitos.
   // Quando citado, o cliente já sabe exatamente o que quer — nenhum outro critério
   // é lido, e o resultado é só aquele(s) imóvel(is), nunca uma lista ampla.
   function extraiCodigos(q) {

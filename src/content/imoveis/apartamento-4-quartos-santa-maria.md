@@ -1,6 +1,6 @@
 ---
 titulo: Apartamento de 4 quartos no Santa Maria
-codigo: AP6801
+codigo: UN0010
 tipo: apartamento
 bairro: Santa Maria
 eixo: karaiba

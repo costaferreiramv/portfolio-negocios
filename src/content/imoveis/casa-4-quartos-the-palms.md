@@ -1,6 +1,6 @@
 ---
 titulo: Casa de 4 quartos no Condomínio The Palms
-codigo: CA5655
+codigo: CC0013
 tipo: casa
 bairro: Jardim Karaíba
 eixo: horizontais

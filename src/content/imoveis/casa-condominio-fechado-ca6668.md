@@ -1,5 +1,5 @@
 ---
-titulo: Casa térrea com 3 suítes e varanda gourmet no Condomínio Manhattan
+titulo: Casa térrea com 2 suítes e escritório no Condomínio Manhattan
 codigo: CA6668
 tipo: casa
 bairro: Zona Sul
@@ -11,30 +11,30 @@ preco: 1150000
 areaUtil: 110
 areaTerreno: 200
 dormitorios: 3
-suites: 3
+suites: 2
 vagas: 2
 publicadoEm: 2026-11-23
 fotos: casa-condominio-fechado-ca6668
 capa: 1
 ---
 
-Casa 100% térrea no Condomínio Manhattan, em Uberlândia, com planta prática e moderna, ambientes integrados e armários planejados em todos os cômodos.
+Casa 100% térrea no Condomínio Manhattan, em Uberlândia, com planta prática e moderna, ambientes integrados e móveis planejados em todos os ambientes.
 
 ## O imóvel
 
 - 110 m² de área construída, todo em um único pavimento
-- 3 suítes, sendo uma com closet
-- Sala de estar e sala de TV integradas
-- Escritório privativo
-- Cozinha funcional integrada, banheiro social e lavabo
-- Área de serviço
-- Ar-condicionado instalado nos ambientes
+- 3 dormitórios: 2 suítes, uma delas com closet, e um convertido em escritório
+- Suítes com persianas automatizadas e tela mosquiteiro
+- Móveis planejados em todos os ambientes
+- Cozinha americana com cooktop, forno e coifa instalados
+- Lavanderia separada da cozinha, com porta
+- 3 banheiros: 2 das suítes e 1 social
+- Ar-condicionado instalado na sala, nas suítes e no escritório
 - 2 vagas de garagem descobertas
 
 ## Lazer
 
-- Varanda gourmet privativa com churrasqueira
-- Condomínio com portaria, campo de futebol e playground
+- Condomínio com portaria 24h, campo de futebol e playground
 
 ## Condições
 

@@ -10,6 +10,7 @@ areaTerreno: 500
 dormitorios: 2
 suites: 1
 vagas: 4
+listado: false
 publicadoEm: 2026-09-19
 fotos: casa-cidade-jardim-cr0058
 capa: 9

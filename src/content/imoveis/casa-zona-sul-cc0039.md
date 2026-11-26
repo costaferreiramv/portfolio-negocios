@@ -13,6 +13,7 @@ areaTerreno: 370.52
 dormitorios: 3
 suites: 1
 vagas: 4
+listado: false
 publicadoEm: 2026-09-23
 fotos: casa-zona-sul-cc0039
 capa: 9

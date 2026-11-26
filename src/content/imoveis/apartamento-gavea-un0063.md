@@ -11,6 +11,7 @@ areaUtil: 95.91
 dormitorios: 3
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-10-07
 fotos: apartamento-gavea-un0063
 capa: 1

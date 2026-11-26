@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 4
 aceitaFinanciamento: true
+listado: false
 publicadoEm: 2026-07-14
 fotos: casa-vigilato-pereira-cr0040
 capa: 1

@@ -10,6 +10,7 @@ areaUtil: 144
 dormitorios: 3
 suites: 2
 vagas: 2
+listado: false
 publicadoEm: 2026-07-18
 fotos: apartamento-santa-maria-un0023
 capa: 1

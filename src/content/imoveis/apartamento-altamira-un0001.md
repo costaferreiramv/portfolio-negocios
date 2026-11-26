@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 3
 aceitaFinanciamento: true
+listado: false
 publicadoEm: 2026-07-13
 fotos: apartamento-altamira-un0001
 capa: 1

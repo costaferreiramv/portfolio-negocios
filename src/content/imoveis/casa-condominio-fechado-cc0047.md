@@ -13,6 +13,7 @@ areaTerreno: 140
 dormitorios: 4
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-10-07
 fotos: casa-condominio-fechado-cc0047
 capa: 1

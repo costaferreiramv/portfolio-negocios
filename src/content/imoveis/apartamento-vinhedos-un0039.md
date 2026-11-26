@@ -10,6 +10,7 @@ areaUtil: 169.59
 dormitorios: 3
 suites: 3
 vagas: 3
+listado: false
 publicadoEm: 2026-07-17
 fotos: apartamento-vinhedos-un0039
 capa: 1

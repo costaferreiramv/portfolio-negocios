@@ -13,6 +13,7 @@ areaTerreno: 381.52
 dormitorios: 0
 suites: 0
 vagas: 0
+listado: false
 publicadoEm: 2026-10-16
 fotos: lote-condominio-fechado-tc0005
 capa: 1

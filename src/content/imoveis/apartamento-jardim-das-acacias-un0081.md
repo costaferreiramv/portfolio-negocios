@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 2
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-11-10
 fotos: apartamento-jardim-das-acacias-un0081
 capa: 6

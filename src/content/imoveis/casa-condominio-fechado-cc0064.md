@@ -13,6 +13,7 @@ areaTerreno: 466.88
 dormitorios: 4
 suites: 4
 vagas: 3
+listado: false
 publicadoEm: 2026-11-24
 fotos: casa-condominio-fechado-cc0064
 capa: 5

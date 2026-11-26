@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 1
 vagas: 2
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-23
 fotos: apartamento-maracana-un0047
 capa: 1

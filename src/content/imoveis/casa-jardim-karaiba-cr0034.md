@@ -12,6 +12,7 @@ dormitorios: 4
 suites: 3
 vagas: 5
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-18
 fotos: casa-jardim-karaiba-cr0034
 capa: 1

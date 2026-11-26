@@ -10,6 +10,7 @@ areaUtil: 76.85
 dormitorios: 2
 suites: 0
 vagas: 2
+listado: false
 publicadoEm: 2026-07-17
 fotos: apartamento-parque-una-un0015
 capa: 4

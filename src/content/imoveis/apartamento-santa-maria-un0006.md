@@ -11,6 +11,7 @@ areaUtil: 161
 dormitorios: 4
 suites: 2
 vagas: 3
+listado: false
 publicadoEm: 2026-09-18
 fotos: apartamento-santa-maria-un0006
 capa: 5

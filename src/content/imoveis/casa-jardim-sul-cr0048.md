@@ -11,6 +11,7 @@ dormitorios: 4
 suites: 3
 vagas: 2
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-08-27
 fotos: casa-jardim-sul-cr0048
 capa: 6

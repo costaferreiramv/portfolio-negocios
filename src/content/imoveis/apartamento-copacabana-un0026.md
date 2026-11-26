@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 1
 vagas: 2
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-14
 fotos: apartamento-copacabana-un0026
 capa: 21

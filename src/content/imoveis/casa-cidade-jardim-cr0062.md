@@ -10,6 +10,7 @@ areaTerreno: 396
 dormitorios: 3
 suites: 3
 vagas: 4
+listado: false
 publicadoEm: 2026-10-28
 fotos: casa-cidade-jardim-cr0062
 capa: 7

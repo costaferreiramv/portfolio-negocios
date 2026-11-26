@@ -10,6 +10,7 @@ areaTerreno: 250
 dormitorios: 2
 suites: 1
 vagas: 3
+listado: false
 publicadoEm: 2026-09-18
 fotos: casa-cidade-jardim-cr0056
 capa: 12

@@ -11,6 +11,7 @@ suites: 3
 vagas: 4
 condominio: true
 taxaCondominio: 1900
+listado: false
 publicadoEm: 2026-10-28
 fotos: apartamento-morada-da-colina-un0075
 capa: 1

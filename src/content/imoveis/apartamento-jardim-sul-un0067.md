@@ -10,6 +10,7 @@ areaUtil: 100
 dormitorios: 3
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-10-07
 fotos: apartamento-jardim-sul-un0067
 capa: 8

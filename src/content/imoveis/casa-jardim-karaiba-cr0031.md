@@ -12,6 +12,7 @@ suites: 1
 vagas: 4
 aceitaFinanciamento: false
 aceitaPermuta: false
+listado: false
 publicadoEm: 2026-07-18
 fotos: casa-jardim-karaiba-cr0031
 capa: 4

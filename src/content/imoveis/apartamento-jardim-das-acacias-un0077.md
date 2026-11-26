@@ -10,6 +10,7 @@ areaUtil: 225
 dormitorios: 4
 suites: 4
 vagas: 4
+listado: false
 publicadoEm: 2026-11-06
 fotos: apartamento-jardim-das-acacias-un0077
 capa: 1

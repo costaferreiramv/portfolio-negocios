@@ -11,6 +11,7 @@ dormitorios: 2
 suites: 1
 vagas: 1
 aceitaPermuta: false
+listado: false
 publicadoEm: 2026-09-18
 fotos: apartamento-jardim-sul-un0057
 capa: 1

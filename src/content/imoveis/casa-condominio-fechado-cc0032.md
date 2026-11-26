@@ -14,6 +14,7 @@ areaTerreno: 450.81
 dormitorios: 4
 suites: 4
 vagas: 3
+listado: false
 publicadoEm: 2026-07-23
 fotos: casa-condominio-fechado-cc0032
 capa: 1

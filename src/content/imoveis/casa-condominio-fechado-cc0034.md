@@ -13,6 +13,7 @@ areaTerreno: 200
 dormitorios: 3
 suites: 2
 vagas: 2
+listado: false
 publicadoEm: 2026-11-23
 fotos: casa-condominio-fechado-cc0034
 capa: 1

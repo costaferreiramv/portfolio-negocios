@@ -10,6 +10,7 @@ areaUtil: 128.67
 dormitorios: 3
 suites: 1
 vagas: 3
+listado: false
 publicadoEm: 2026-07-18
 fotos: apartamento-saraiva-un0022
 capa: 2

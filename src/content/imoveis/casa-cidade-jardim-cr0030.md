@@ -10,6 +10,7 @@ areaTerreno: 360
 dormitorios: 3
 suites: 2
 vagas: 3
+listado: false
 publicadoEm: 2026-07-14
 fotos: casa-cidade-jardim-cr0030
 capa: 10

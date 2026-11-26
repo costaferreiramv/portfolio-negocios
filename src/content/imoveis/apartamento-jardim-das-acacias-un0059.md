@@ -11,6 +11,7 @@ areaUtil: 108
 dormitorios: 2
 suites: 2
 vagas: 2
+listado: false
 publicadoEm: 2026-09-23
 fotos: apartamento-jardim-das-acacias-un0059
 capa: 1

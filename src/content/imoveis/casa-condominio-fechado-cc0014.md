@@ -13,6 +13,7 @@ areaTerreno: 682
 dormitorios: 4
 suites: 2
 vagas: 6
+listado: false
 publicadoEm: 2026-07-20
 fotos: casa-condominio-fechado-cc0014
 capa: 29

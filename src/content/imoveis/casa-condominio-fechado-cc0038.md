@@ -14,6 +14,7 @@ areaTerreno: 373
 dormitorios: 3
 suites: 3
 vagas: 4
+listado: false
 publicadoEm: 2026-09-10
 fotos: casa-condominio-fechado-cc0038
 capa: 13

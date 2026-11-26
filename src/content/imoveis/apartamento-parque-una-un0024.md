@@ -11,6 +11,7 @@ dormitorios: 1
 suites: 0
 vagas: 0
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-17
 fotos: apartamento-parque-una-un0024
 capa: 1

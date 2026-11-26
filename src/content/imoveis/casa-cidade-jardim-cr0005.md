@@ -11,6 +11,7 @@ dormitorios: 4
 suites: 2
 vagas: 4
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-11-16
 fotos: casa-cidade-jardim-cr0005
 capa: 26

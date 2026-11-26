@@ -12,6 +12,7 @@ suites: 1
 vagas: 2
 aceitaFinanciamento: false
 aceitaPermuta: false
+listado: false
 publicadoEm: 2026-07-18
 fotos: apartamento-saraiva-un0021
 capa: 1

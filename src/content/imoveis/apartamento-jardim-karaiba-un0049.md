@@ -10,6 +10,7 @@ areaUtil: 67.02
 dormitorios: 2
 suites: 2
 vagas: 2
+listado: false
 publicadoEm: 2026-08-27
 fotos: apartamento-jardim-karaiba-un0049
 capa: 1

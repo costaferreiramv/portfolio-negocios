@@ -12,6 +12,7 @@ dormitorios: 4
 suites: 4
 vagas: 4
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-17
 fotos: apartamento-vinhedos-un0020
 capa: 1

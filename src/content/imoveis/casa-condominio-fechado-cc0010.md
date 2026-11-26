@@ -12,6 +12,7 @@ areaTerreno: 451
 dormitorios: 4
 suites: 4
 vagas: 4
+listado: false
 publicadoEm: 2026-11-16
 fotos: casa-condominio-fechado-cc0010
 capa: 43

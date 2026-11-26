@@ -13,6 +13,7 @@ areaTerreno: 360
 dormitorios: 0
 suites: 0
 vagas: 0
+listado: false
 publicadoEm: 2026-09-18
 fotos: lote-condominio-fechado-tc0004
 capa: 6

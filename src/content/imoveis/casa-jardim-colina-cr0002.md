@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 1
 vagas: 4
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-13
 fotos: casa-jardim-colina-cr0002
 capa: 1

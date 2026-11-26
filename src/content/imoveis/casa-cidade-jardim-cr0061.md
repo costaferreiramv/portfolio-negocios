@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 4
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-10-14
 fotos: casa-cidade-jardim-cr0061
 capa: 6

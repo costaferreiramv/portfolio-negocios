@@ -10,6 +10,7 @@ areaTerreno: 291
 dormitorios: 3
 suites: 1
 vagas: 4
+listado: false
 publicadoEm: 2026-07-18
 fotos: casa-jardim-botanico-cr0033
 capa: 12

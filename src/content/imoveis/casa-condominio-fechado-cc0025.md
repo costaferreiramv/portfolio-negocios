@@ -13,6 +13,7 @@ areaTerreno: 425
 dormitorios: 3
 suites: 3
 vagas: 2
+listado: false
 publicadoEm: 2026-07-20
 fotos: casa-condominio-fechado-cc0025
 capa: 3

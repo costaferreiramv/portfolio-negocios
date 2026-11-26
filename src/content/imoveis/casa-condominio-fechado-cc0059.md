@@ -13,6 +13,7 @@ areaTerreno: 122
 dormitorios: 3
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-11-24
 fotos: casa-condominio-fechado-cc0059
 capa: 5

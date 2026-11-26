@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 4
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-08-17
 fotos: casa-jardim-karaiba-cr0011
 capa: 1

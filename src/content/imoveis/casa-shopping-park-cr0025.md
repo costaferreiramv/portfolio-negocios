@@ -11,6 +11,7 @@ dormitorios: 2
 suites: 1
 vagas: 2
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-11-19
 fotos: casa-shopping-park-cr0025
 capa: 1

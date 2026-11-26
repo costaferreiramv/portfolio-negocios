@@ -5,7 +5,7 @@ import Base from '../../layouts/Base.astro';
 import { EIXOS } from '../../lib/eixos';
 import { imagemZonaSul } from '../../lib/site';
 
-const imoveis = await getCollection('imoveis');
+const imoveis = await getCollection('imoveis', ({ data }) => data.listado);
 const plural = (n: number, s: string, p: string) => (n === 1 ? s : p);
 
 const eixos = await Promise.all(

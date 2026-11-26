@@ -10,6 +10,7 @@ areaTerreno: 432
 dormitorios: 3
 suites: 3
 vagas: 4
+listado: false
 publicadoEm: 2026-11-24
 fotos: casa-cidade-jardim-cr0067
 capa: 9

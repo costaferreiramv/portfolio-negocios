@@ -14,6 +14,7 @@ dormitorios: 3
 suites: 3
 vagas: 6
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-11-16
 fotos: casa-condominio-fechado-cc0058
 capa: 4

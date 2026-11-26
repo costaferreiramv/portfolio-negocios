@@ -11,6 +11,7 @@ areaUtil: 106.52
 dormitorios: 3
 suites: 3
 vagas: 2
+listado: false
 publicadoEm: 2026-08-27
 fotos: apartamento-jardim-sul-un0048
 capa: 6

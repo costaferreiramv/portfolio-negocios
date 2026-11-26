@@ -14,6 +14,7 @@ dormitorios: 0
 suites: 0
 vagas: 0
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-23
 fotos: lote-condominio-fechado-tc0002
 capa: 1

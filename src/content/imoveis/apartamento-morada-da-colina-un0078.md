@@ -10,6 +10,7 @@ areaUtil: 121.33
 dormitorios: 3
 suites: 3
 vagas: 2
+listado: false
 publicadoEm: 2026-11-06
 fotos: apartamento-morada-da-colina-un0078
 capa: 4

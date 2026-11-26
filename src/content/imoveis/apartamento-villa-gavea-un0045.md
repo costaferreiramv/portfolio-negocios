@@ -12,6 +12,7 @@ areaUtil: 95.91
 dormitorios: 3
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-07-23
 fotos: apartamento-villa-gavea-un0045
 capa: 1

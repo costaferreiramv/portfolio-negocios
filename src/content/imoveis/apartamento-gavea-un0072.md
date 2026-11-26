@@ -12,6 +12,7 @@ dormitorios: 3
 suites: 1
 vagas: 2
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-10-16
 fotos: apartamento-gavea-un0072
 capa: 2

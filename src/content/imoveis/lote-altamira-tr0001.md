@@ -11,6 +11,7 @@ dormitorios: 0
 suites: 0
 vagas: 0
 aceitaFinanciamento: true
+listado: false
 publicadoEm: 2026-07-13
 fotos: lote-altamira-tr0001
 capa: 1

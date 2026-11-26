@@ -9,7 +9,7 @@ import { DESTAQUES } from '../lib/destaques';
 import retratoMarcus from '../assets/marcus/marcus-retrato.jpg';
 import familiaMarcus from '../assets/marcus/marcus-familia.jpg';
 
-const imoveis = (await getCollection('imoveis')).sort(
+const imoveis = (await getCollection('imoveis', ({ data }) => data.listado)).sort(
   (a, b) => b.data.publicadoEm.getTime() - a.data.publicadoEm.getTime()
 );
 

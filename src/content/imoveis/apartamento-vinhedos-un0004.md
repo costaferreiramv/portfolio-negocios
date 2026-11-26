@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 3
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-07-17
 fotos: apartamento-vinhedos-un0004
 capa: 1

@@ -10,6 +10,7 @@ areaUtil: 225
 dormitorios: 3
 suites: 3
 vagas: 4
+listado: false
 publicadoEm: 2026-10-07
 fotos: apartamento-vinhedos-un0065
 capa: 7

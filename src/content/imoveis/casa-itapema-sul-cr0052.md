@@ -10,6 +10,7 @@ areaTerreno: 175
 dormitorios: 3
 suites: 1
 vagas: 3
+listado: false
 publicadoEm: 2026-09-10
 fotos: casa-itapema-sul-cr0052
 capa: 3

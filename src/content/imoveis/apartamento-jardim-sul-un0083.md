@@ -10,6 +10,7 @@ areaUtil: 147
 dormitorios: 3
 suites: 3
 vagas: 2
+listado: false
 publicadoEm: 2026-11-24
 fotos: apartamento-jardim-sul-un0083
 capa: 1

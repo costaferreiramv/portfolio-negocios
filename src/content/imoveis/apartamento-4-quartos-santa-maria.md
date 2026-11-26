@@ -11,6 +11,7 @@ dormitorios: 4
 suites: 2
 vagas: 2
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-11
 fotos: apartamento-4-quartos-santa-maria
 capa: 1

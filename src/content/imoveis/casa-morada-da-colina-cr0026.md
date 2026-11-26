@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 2
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-13
 fotos: casa-morada-da-colina-cr0026
 capa: 1

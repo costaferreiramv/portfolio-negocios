@@ -11,6 +11,7 @@ dormitorios: 4
 suites: 2
 vagas: 2
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-18
 fotos: casa-jardim-karaiba-cr0029
 capa: 10

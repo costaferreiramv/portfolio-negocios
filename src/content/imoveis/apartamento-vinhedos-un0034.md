@@ -12,6 +12,7 @@ suites: 4
 vagas: 4
 aceitaFinanciamento: false
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-07-18
 fotos: apartamento-vinhedos-un0034
 capa: 2

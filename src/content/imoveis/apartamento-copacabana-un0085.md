@@ -10,6 +10,7 @@ areaUtil: 77
 dormitorios: 2
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-11-24
 fotos: apartamento-copacabana-un0085
 capa: 10

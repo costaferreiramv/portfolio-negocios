@@ -10,6 +10,7 @@ dormitorios: 0
 suites: 0
 vagas: 1
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-18
 fotos: sala-comercial-jardim-karaiba-lj0001
 capa: 1

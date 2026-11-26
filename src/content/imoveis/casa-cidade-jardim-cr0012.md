@@ -11,6 +11,7 @@ dormitorios: 4
 suites: 2
 vagas: 4
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-14
 fotos: casa-cidade-jardim-cr0012
 capa: 1

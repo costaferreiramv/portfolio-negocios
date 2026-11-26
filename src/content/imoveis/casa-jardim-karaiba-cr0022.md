@@ -11,6 +11,7 @@ areaTerreno: 330
 dormitorios: 3
 suites: 3
 vagas: 2
+listado: false
 publicadoEm: 2026-09-14
 fotos: casa-jardim-karaiba-cr0022
 capa: 9

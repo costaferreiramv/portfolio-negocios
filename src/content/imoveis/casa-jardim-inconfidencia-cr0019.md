@@ -10,6 +10,7 @@ areaTerreno: 250
 dormitorios: 3
 suites: 1
 vagas: 4
+listado: false
 publicadoEm: 2026-11-16
 fotos: casa-jardim-inconfidencia-cr0019
 capa: 10

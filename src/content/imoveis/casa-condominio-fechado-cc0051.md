@@ -13,6 +13,7 @@ areaTerreno: 550
 dormitorios: 4
 suites: 4
 vagas: 2
+listado: false
 publicadoEm: 2026-10-23
 fotos: casa-condominio-fechado-cc0051
 capa: 2

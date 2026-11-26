@@ -12,6 +12,7 @@ dormitorios: 3
 suites: 3
 vagas: 3
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-08-18
 fotos: casa-cidade-jardim-cr0015
 capa: 1

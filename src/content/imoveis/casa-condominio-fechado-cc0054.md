@@ -14,6 +14,7 @@ dormitorios: 4
 suites: 4
 vagas: 2
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-11-06
 fotos: casa-condominio-fechado-cc0054
 capa: 4

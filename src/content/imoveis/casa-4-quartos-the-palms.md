@@ -13,6 +13,7 @@ dormitorios: 4
 suites: 2
 vagas: 3
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-11
 fotos: casa-4-quartos-the-palms
 capa: 2

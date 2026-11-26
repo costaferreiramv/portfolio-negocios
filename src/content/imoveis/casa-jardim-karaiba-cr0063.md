@@ -10,6 +10,7 @@ areaTerreno: 475
 dormitorios: 3
 suites: 1
 vagas: 4
+listado: false
 publicadoEm: 2026-10-28
 fotos: casa-jardim-karaiba-cr0063
 capa: 13

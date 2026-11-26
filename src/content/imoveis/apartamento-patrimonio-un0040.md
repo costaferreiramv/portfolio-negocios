@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 2
 vagas: 2
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-14
 fotos: apartamento-patrimonio-un0040
 capa: 1

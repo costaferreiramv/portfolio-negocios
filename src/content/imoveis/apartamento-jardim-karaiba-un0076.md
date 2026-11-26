@@ -10,6 +10,7 @@ areaUtil: 120
 dormitorios: 3
 suites: 3
 vagas: 2
+listado: false
 publicadoEm: 2026-10-28
 fotos: apartamento-jardim-karaiba-un0076
 capa: 1

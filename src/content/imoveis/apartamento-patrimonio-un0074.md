@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 1
 vagas: 2
 taxaCondominio: 450
+listado: false
 publicadoEm: 2026-10-28
 fotos: apartamento-patrimonio-un0074
 capa: 1

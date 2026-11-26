@@ -10,6 +10,7 @@ areaUtil: 96.81
 dormitorios: 3
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-09-18
 fotos: apartamento-copacabana-un0014
 capa: 1

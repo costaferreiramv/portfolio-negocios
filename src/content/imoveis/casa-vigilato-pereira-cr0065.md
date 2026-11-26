@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 4
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-11-06
 fotos: casa-vigilato-pereira-cr0065
 capa: 1

@@ -15,6 +15,7 @@ suites: 4
 vagas: 6
 aceitaFinanciamento: false
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-07-20
 fotos: casa-condominio-fechado-cc0028
 capa: 1

@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 4
 aceitaFinanciamento: true
+listado: false
 publicadoEm: 2026-07-11
 fotos: casa-3-suites-jardim-botanico
 capa: 1

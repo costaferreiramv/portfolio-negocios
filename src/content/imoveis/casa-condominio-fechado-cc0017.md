@@ -15,6 +15,7 @@ suites: 3
 vagas: 4
 aceitaFinanciamento: true
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-07-20
 fotos: casa-condominio-fechado-cc0017
 capa: 1

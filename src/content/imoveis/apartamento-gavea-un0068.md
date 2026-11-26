@@ -10,6 +10,7 @@ areaUtil: 115
 dormitorios: 3
 suites: 3
 vagas: 2
+listado: false
 publicadoEm: 2026-10-07
 fotos: apartamento-gavea-un0068
 capa: 1

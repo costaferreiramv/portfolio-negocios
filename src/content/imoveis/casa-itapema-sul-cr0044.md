@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 1
 vagas: 3
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-14
 fotos: casa-itapema-sul-cr0044
 capa: 19

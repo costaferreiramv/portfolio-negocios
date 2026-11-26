@@ -10,6 +10,7 @@ areaUtil: 130
 dormitorios: 4
 suites: 3
 vagas: 2
+listado: false
 publicadoEm: 2026-08-27
 fotos: apartamento-jardim-sul-un0050
 capa: 15

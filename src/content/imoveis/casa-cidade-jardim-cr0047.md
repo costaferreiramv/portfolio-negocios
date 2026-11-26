@@ -12,6 +12,7 @@ suites: 1
 vagas: 3
 aceitaFinanciamento: false
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-07-23
 fotos: casa-cidade-jardim-cr0047
 capa: 1

@@ -11,6 +11,7 @@ areaUtil: 185.14
 dormitorios: 3
 suites: 3
 vagas: 3
+listado: false
 publicadoEm: 2026-09-10
 fotos: apartamento-vinhedos-un0052
 capa: 1

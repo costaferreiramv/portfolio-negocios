@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 3
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-18
 fotos: apartamento-vinhedos-un0042
 capa: 5

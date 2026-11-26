@@ -11,6 +11,7 @@ areaUtil: 147.82
 dormitorios: 3
 suites: 3
 vagas: 3
+listado: false
 publicadoEm: 2026-09-10
 fotos: apartamento-santa-maria-un0053
 capa: 1

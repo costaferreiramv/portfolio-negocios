@@ -11,6 +11,7 @@ areaUtil: 68
 dormitorios: 2
 suites: 2
 vagas: 2
+listado: false
 publicadoEm: 2026-11-16
 fotos: apartamento-jardim-sul-un0082
 capa: 1

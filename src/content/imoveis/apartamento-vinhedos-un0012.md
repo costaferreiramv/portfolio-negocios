@@ -12,6 +12,7 @@ dormitorios: 2
 suites: 2
 vagas: 2
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-17
 fotos: apartamento-vinhedos-un0012
 capa: 1

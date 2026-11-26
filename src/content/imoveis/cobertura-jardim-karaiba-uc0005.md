@@ -10,6 +10,7 @@ areaUtil: 227.56
 dormitorios: 3
 suites: 3
 vagas: 4
+listado: false
 publicadoEm: 2026-11-24
 fotos: cobertura-jardim-karaiba-uc0005
 capa: 6

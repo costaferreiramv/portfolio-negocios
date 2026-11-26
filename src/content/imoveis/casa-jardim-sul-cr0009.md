@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 3
 vagas: 4
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-17
 fotos: casa-jardim-sul-cr0009
 capa: 3

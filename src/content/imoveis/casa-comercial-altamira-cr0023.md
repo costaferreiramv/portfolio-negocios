@@ -11,6 +11,7 @@ dormitorios: 0
 suites: 0
 vagas: 1
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-13
 fotos: casa-comercial-altamira-cr0023
 capa: 1

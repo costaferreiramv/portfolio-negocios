@@ -10,6 +10,7 @@ areaUtil: 101
 dormitorios: 3
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-10-14
 fotos: apartamento-tabajaras-un0069
 capa: 1

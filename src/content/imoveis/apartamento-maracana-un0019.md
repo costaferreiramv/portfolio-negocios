@@ -12,6 +12,7 @@ vagas: 2
 condominio: true
 aceitaFinanciamento: false
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-07-14
 fotos: apartamento-maracana-un0019
 capa: 1

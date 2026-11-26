@@ -14,6 +14,7 @@ dormitorios: 4
 suites: 1
 vagas: 2
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-07-15
 fotos: casa-condominio-fechado-cc0026
 capa: 1

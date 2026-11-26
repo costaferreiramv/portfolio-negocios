@@ -10,6 +10,7 @@ areaUtil: 68.25
 dormitorios: 2
 suites: 2
 vagas: 2
+listado: false
 publicadoEm: 2026-09-23
 fotos: apartamento-jardim-sul-un0060
 capa: 16

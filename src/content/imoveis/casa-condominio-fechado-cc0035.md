@@ -13,6 +13,7 @@ areaTerreno: 179.2
 dormitorios: 3
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-08-27
 fotos: casa-condominio-fechado-cc0035
 capa: 3

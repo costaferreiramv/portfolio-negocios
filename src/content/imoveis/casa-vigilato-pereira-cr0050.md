@@ -10,6 +10,7 @@ areaTerreno: 690
 dormitorios: 3
 suites: 1
 vagas: 4
+listado: false
 publicadoEm: 2026-09-10
 fotos: casa-vigilato-pereira-cr0050
 capa: 15

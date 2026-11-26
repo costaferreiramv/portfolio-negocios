@@ -6,7 +6,7 @@ import { capaDe, precoBR } from '../../lib/fotos';
 import { EIXOS } from '../../lib/eixos';
 
 export async function getStaticPaths() {
-  const imoveis = await getCollection('imoveis');
+  const imoveis = await getCollection('imoveis', ({ data }) => data.listado);
   return EIXOS.map((eixo) => ({
     params: { eixo: eixo.id },
     props: {

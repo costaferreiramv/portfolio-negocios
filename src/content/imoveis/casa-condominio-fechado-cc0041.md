@@ -13,6 +13,7 @@ areaTerreno: 430
 dormitorios: 3
 suites: 3
 vagas: 4
+listado: false
 publicadoEm: 2026-10-07
 fotos: casa-condominio-fechado-cc0041
 capa: 1

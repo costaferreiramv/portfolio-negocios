@@ -13,6 +13,7 @@ areaTerreno: 360
 dormitorios: 3
 suites: 3
 vagas: 2
+listado: false
 publicadoEm: 2026-09-10
 fotos: casa-condominio-fechado-cc0037
 capa: 1

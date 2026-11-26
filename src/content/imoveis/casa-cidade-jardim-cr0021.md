@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 1
 vagas: 2
 aceitaFinanciamento: true
+listado: false
 publicadoEm: 2026-07-14
 fotos: casa-cidade-jardim-cr0021
 capa: 3

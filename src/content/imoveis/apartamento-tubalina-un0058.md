@@ -11,6 +11,7 @@ areaUtil: 68
 dormitorios: 2
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-09-17
 fotos: apartamento-tubalina-un0058
 capa: 1

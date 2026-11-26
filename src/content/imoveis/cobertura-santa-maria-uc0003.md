@@ -11,6 +11,7 @@ dormitorios: 3
 suites: 1
 vagas: 1
 aceitaPermuta: true
+listado: false
 publicadoEm: 2026-08-27
 fotos: cobertura-santa-maria-uc0003
 capa: 1

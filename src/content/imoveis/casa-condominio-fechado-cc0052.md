@@ -14,6 +14,7 @@ dormitorios: 3
 suites: 3
 vagas: 2
 aceitaFinanciamento: false
+listado: false
 publicadoEm: 2026-10-23
 fotos: casa-condominio-fechado-cc0052
 capa: 11

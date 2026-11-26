@@ -10,6 +10,7 @@ areaUtil: 76.86
 dormitorios: 3
 suites: 1
 vagas: 2
+listado: false
 publicadoEm: 2026-09-18
 fotos: apartamento-tubalina-un0054
 capa: 1

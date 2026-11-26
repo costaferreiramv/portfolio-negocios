@@ -38,6 +38,9 @@ const imoveis = defineCollection({
     // conteúdo antigo já publicado; nunca ler/renderizar de novo.
     aceitaFinanciamento: z.boolean().optional(),
     aceitaPermuta: z.boolean().optional(),
+    // false = ficha acessível só pelo link direto: fora da home, da busca, dos eixos e do
+    // sitemap, com noindex. Usado nos imóveis que não são captação própria.
+    listado: z.boolean().default(true),
     publicadoEm: z.coerce.date(),
     // nome da pasta em src/assets/imoveis com as fotos
     fotos: z.string(),

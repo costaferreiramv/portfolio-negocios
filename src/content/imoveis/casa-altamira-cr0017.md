@@ -11,6 +11,7 @@ dormitorios: 4
 suites: 2
 vagas: 4
 aceitaFinanciamento: true
+listado: false
 publicadoEm: 2026-07-19
 fotos: casa-altamira-cr0017
 capa: 1

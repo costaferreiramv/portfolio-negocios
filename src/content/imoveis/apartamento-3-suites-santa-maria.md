@@ -5,7 +5,7 @@ tipo: apartamento
 bairro: Santa Maria
 eixo: karaiba
 condominio: true
-preco: 1490000
+preco: 1420000
 areaUtil: 142
 dormitorios: 3
 suites: 3

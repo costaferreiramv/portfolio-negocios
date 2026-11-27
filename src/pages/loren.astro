@@ -349,9 +349,17 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
     <div class="lr-cta-in lr-reveal">
       <img class="lr-logo lr-logo-peq" src={logo.src} width={logo.w} height={logo.h} alt="Loren Residence" loading="lazy" />
       <h2>Viva a experiência <em>no decorado</em></h2>
-      <p>Agende um horário e conheça o apartamento com calma e em silêncio, no seu tempo. Ou, se preferir, fale agora comigo e tire suas dúvidas pelo WhatsApp.</p>
+      <p>Agende um horário e conheça o apartamento com calma e em silêncio, no seu tempo. Deixe seu nome e WhatsApp que eu chamo para combinar. Ou, se preferir, fale agora comigo pelo WhatsApp.</p>
+      <form class="lr-form" id="lr-form">
+        <label>Seu nome<input type="text" name="nome" autocomplete="name" maxlength="100" required /></label>
+        <label>WhatsApp com DDD<input type="tel" name="telefone" autocomplete="tel" inputmode="tel" maxlength="20" placeholder="(34) 99999-9999" required /></label>
+        <input type="text" name="site" tabindex="-1" autocomplete="off" aria-hidden="true" class="lr-isca" />
+        <button type="submit" class="lr-btn lr-btn-ouro">Quero ser chamado</button>
+        <small>Seus dados são usados só para este atendimento. <a href="/privacidade/">Política de privacidade</a></small>
+        <p class="lr-form-aviso" id="lr-form-aviso" role="status" hidden></p>
+      </form>
       <div class="lr-botoes">
-        <a class="lr-btn lr-btn-ouro" href={waLink(MSG_AGENDAR)} target="_blank" rel="noopener" data-ev="agendar">
+        <a class="lr-btn lr-btn-vazio" href={waLink(MSG_AGENDAR)} target="_blank" rel="noopener" data-ev="agendar">
           Agendar experiência no decorado
         </a>
         <a class="lr-btn lr-btn-vazio" href={waLink(MSG_GERAL)} target="_blank" rel="noopener" data-ev="whatsapp">
@@ -424,6 +432,35 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
       addEventListener('scroll', agenda, { passive: true });
       addEventListener('resize', agenda);
       ajustaMarca();
+
+      /* formulário: grava o contato (e-mail e CRM) e conta como Lead no Pixel */
+      var form = document.getElementById('lr-form');
+      var aviso = document.getElementById('lr-form-aviso');
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var nome = form.elements.nome.value.trim();
+        var telefone = form.elements.telefone.value.trim();
+        var botao = form.querySelector('button');
+        function avisa(t) { aviso.textContent = t; aviso.hidden = false; }
+        if (telefone.replace(/\D/g, '').length < 10) { avisa('Confira o WhatsApp: informe o DDD e o número.'); return; }
+        if (form.elements.site.value) { avisa('Recebido.'); return; }
+        botao.disabled = true;
+        avisa('Enviando…');
+        fetch('/api/lead', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ nome: nome, telefone: telefone, imovel: 'Loren Residence', respostas: [{ resposta: 'Página do Loren Residence: pediu contato para conhecer o decorado' }] }),
+        }).then(function (r) { return r.json().then(function (d) { if (!r.ok || !d.ok) throw new Error(); }); })
+          .then(function () {
+            form.reset();
+            avisa('Recebido! Vou chamar você no WhatsApp para combinar o horário.');
+            var id = 'lead_' + Date.now() + '_' + Math.random().toString(36).slice(2, 10);
+            if (window.fbq) fbq('track', 'Lead', { content_name: 'Loren Residence', content_category: 'formulario' }, { eventID: id });
+            fetch('/api/capi', { method: 'POST', keepalive: true, headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ event_name: 'Lead', event_id: id, event_source_url: location.href, contato: { telefone: telefone } }) }).catch(function () {});
+          })
+          .catch(function () { botao.disabled = false; avisa('Não consegui enviar agora. Tente de novo ou use o botão do WhatsApp.'); });
+      });
 
       /* conversão: os dois botões contam como Lead no Pixel */
       document.querySelectorAll('[data-ev]').forEach(function (a) {
@@ -669,6 +706,16 @@ const cred = { ...r('creditos', 'Incorporação: Luduna e Rodoban. Construção:
       .lr-botoes { grid-template-columns: 1fr 1fr; max-width: 720px; margin-left: auto; margin-right: auto; }
       .lr-btn { width: 100%; }
     }
+
+    .lr-form { display: grid; gap: 14px; max-width: 420px; margin: 36px auto 0; text-align: left; }
+    .lr-form label { display: grid; gap: 6px; font-size: .84rem; color: rgba(244,234,216,.85); }
+    .lr-form label input { width: 100%; box-sizing: border-box; padding: 15px 16px; font: inherit; font-size: 16px; color: #0b1d3a; background: #fbf3e4; border: 1px solid transparent; border-radius: 2px; }
+    .lr-form .lr-btn { width: 100%; border: 0; cursor: pointer; }
+    .lr-form .lr-btn:disabled { opacity: .6; cursor: default; }
+    .lr-form small { font-size: .74rem; line-height: 1.6; text-align: center; color: rgba(244,234,216,.65); }
+    .lr-form small a { color: inherit; text-decoration: underline; }
+    .lr-form .lr-form-aviso { margin: 0 auto; text-align: center; color: var(--lr-ouro-claro); }
+    .lr-form .lr-isca { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
 
     .lr-legal { background: var(--lr-marinho-2); padding: 44px 0 52px; color: rgba(244,234,216,.62); }
     .lr-legal .lr-wrap { display: grid; justify-items: center; gap: 28px; text-align: center; }

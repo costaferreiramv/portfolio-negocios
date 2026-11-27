@@ -32,7 +32,9 @@ export async function onRequestPost(context) {
   const telefone = (corpo?.telefone ?? '').toString().trim();
   const email = (corpo?.email ?? '').toString().trim();
   const imovel = (corpo?.imovel ?? 'não informado').toString().trim();
-  const score = Number.isFinite(Number(corpo?.score)) ? Number(corpo.score) : 0;
+  // Página sem qualificação não manda pontuação: o lead não pode chegar como "frio" por isso.
+  const temScore = corpo?.score !== undefined && corpo?.score !== null && Number.isFinite(Number(corpo.score));
+  const score = temScore ? Number(corpo.score) : 0;
   const respostas = Array.isArray(corpo?.respostas) ? corpo.respostas : [];
 
   if (!nome || telefone.replace(/\D/g, '').length < 10) {
@@ -43,7 +45,7 @@ export async function onRequestPost(context) {
   }
 
   const noCrm = await enviarAoCrm(env, {
-    tipo: 'landing', nome, telefone, email, imovel, score, url: request.headers.get('Referer'),
+    tipo: 'landing', nome, telefone, email, imovel, score: temScore ? score : undefined, url: request.headers.get('Referer'),
     mensagem: respostas.map((r) => `- ${(r?.resposta ?? '').toString()}`).join('\n'),
   });
   // Lead guardado no CRM já conta como recebido, mesmo que o e-mail falhe.
@@ -62,20 +64,20 @@ export async function onRequestPost(context) {
     .map((r) => `- ${(r?.resposta ?? '').toString()}`)
     .filter((l) => l.length > 2);
 
-  const assunto = `Lead ${faixa} (${score}) — ${nome} — ${imovel}`;
+  const assunto = temScore ? `Lead ${faixa} (${score}) — ${nome} — ${imovel}` : `Lead — ${nome} — ${imovel}`;
   const texto = [
     `Nome: ${nome}`,
     `WhatsApp: ${telefone}`,
     `E-mail: ${email || '(não informado)'}`,
     `Imóvel: ${imovel}`,
-    `Temperatura: ${faixa} — ${score}/100`,
+    ...(temScore ? [`Temperatura: ${faixa} — ${score}/100`] : []),
     '',
     'Respostas:',
     ...linhas,
   ].join('\n');
 
   const html = `
-    <p><strong>${escaparHtml(faixa)}</strong> — ${score}/100</p>
+    ${temScore ? `<p><strong>${escaparHtml(faixa)}</strong> — ${score}/100</p>` : ''}
     <p><strong>Nome:</strong> ${escaparHtml(nome)}</p>
     <p><strong>WhatsApp:</strong> ${escaparHtml(telefone)}</p>
     <p><strong>E-mail:</strong> ${escaparHtml(email || '(não informado)')}</p>

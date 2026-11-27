@@ -48,9 +48,11 @@ const local = ocultaBairro ? (d.nomeCondominio ? `Condomínio ${d.nomeCondominio
 
 const WA_LINK = waLink(`Olá Marcus, vi no site o imóvel "${d.titulo}" (código ${d.codigo}) e gostaria de sanar uma dúvida.`);
 
+const medidas = [`${d.areaUtil} m²`, d.suites > 0 && `${d.suites} ${d.suites === 1 ? 'suíte' : 'suítes'}`, d.vagas > 0 && `${d.vagas} ${d.vagas === 1 ? 'vaga' : 'vagas'}`].filter(Boolean).join(', ');
+
 const descricaoMeta = ocultaBairro
-  ? `${tipoLabel[d.tipo]} à venda no ${d.nomeCondominio ? `Condomínio ${d.nomeCondominio}` : 'condomínio fechado'}, Zona Sul de Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}.`
-  : `${tipoLabel[d.tipo]} à venda no ${d.bairro}, Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}.`;
+  ? `${tipoLabel[d.tipo]} à venda no ${d.nomeCondominio ? `Condomínio ${d.nomeCondominio}` : 'condomínio fechado'}, Zona Sul de Uberlândia — ${medidas}. ${precoBR(d.preco)}.`
+  : `${tipoLabel[d.tipo]} à venda no ${d.bairro}, Uberlândia — ${medidas}. ${precoBR(d.preco)}.`;
 
 // URLs absolutas (schema/og exigem absolutas)
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
@@ -129,9 +131,9 @@ const breadcrumbLd = {
           <div class="prop-cotas">
             <div class="c"><div class="v">{d.areaUtil} m²</div><div class="l rotulo">{d.areaTerreno ? 'Construída' : 'Área útil'}</div></div>
             {d.areaTerreno && <div class="c"><div class="v">{d.areaTerreno} m²</div><div class="l rotulo">Terreno</div></div>}
-            <div class="c"><div class="v">{d.suites}</div><div class="l rotulo">Suítes</div></div>
-            <div class="c"><div class="v">{d.vagas}</div><div class="l rotulo">Vagas</div></div>
-            <div class="c"><div class="v">{d.dormitorios}</div><div class="l rotulo">Dormitórios</div></div>
+            {d.suites > 0 && <div class="c"><div class="v">{d.suites}</div><div class="l rotulo">{d.suites === 1 ? 'Suíte' : 'Suítes'}</div></div>}
+            {d.vagas > 0 && <div class="c"><div class="v">{d.vagas}</div><div class="l rotulo">{d.vagas === 1 ? 'Vaga' : 'Vagas'}</div></div>}
+            {d.dormitorios > 0 && <div class="c"><div class="v">{d.dormitorios}</div><div class="l rotulo">{d.dormitorios === 1 ? 'Dormitório' : 'Dormitórios'}</div></div>}
           </div>
 
           <div class="prop-cta-dupla">
@@ -155,10 +157,10 @@ const breadcrumbLd = {
               <div class="linha"><dt>{d.areaTerreno ? 'Área construída' : 'Área útil'}</dt><dd>{d.areaUtil} m²</dd></div>
               {d.areaTerreno && <div class="linha"><dt>Área do terreno</dt><dd>{d.areaTerreno} m²</dd></div>}
               {d.dormitorios > 0 && (
-                <div class="linha">
+                {d.dormitorios > 0 && <div class="linha">
                   <dt>Dormitórios</dt>
                   <dd>{d.dormitorios}{d.suites === d.dormitorios ? ' (todas suítes)' : d.suites > 0 ? ` (${d.suites} ${d.suites === 1 ? 'suíte' : 'suítes'})` : ''}</dd>
-                </div>
+                </div>}
               )}
               {d.vagas > 0 && <div class="linha"><dt>Vagas</dt><dd>{d.vagas}</dd></div>}
               <div class="linha"><dt>Valor</dt><dd>{precoBR(d.preco)}</dd></div>

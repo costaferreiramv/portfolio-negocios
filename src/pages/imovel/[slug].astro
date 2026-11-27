@@ -157,10 +157,10 @@ const breadcrumbLd = {
               <div class="linha"><dt>{d.areaTerreno ? 'Área construída' : 'Área útil'}</dt><dd>{d.areaUtil} m²</dd></div>
               {d.areaTerreno && <div class="linha"><dt>Área do terreno</dt><dd>{d.areaTerreno} m²</dd></div>}
               {d.dormitorios > 0 && (
-                {d.dormitorios > 0 && <div class="linha">
+                <div class="linha">
                   <dt>Dormitórios</dt>
                   <dd>{d.dormitorios}{d.suites === d.dormitorios ? ' (todas suítes)' : d.suites > 0 ? ` (${d.suites} ${d.suites === 1 ? 'suíte' : 'suítes'})` : ''}</dd>
-                </div>}
+                </div>
               )}
               {d.vagas > 0 && <div class="linha"><dt>Vagas</dt><dd>{d.vagas}</dd></div>}
               <div class="linha"><dt>Valor</dt><dd>{precoBR(d.preco)}</dd></div>

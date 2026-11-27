@@ -1,6 +1,8 @@
 // Cloudflare Pages Function: envia o formulário de contato direto por e-mail (Resend API),
 // sem depender do app de e-mail do visitante.
 
+import { enviarAoCrm } from '../_lib/crm.js';
+
 const DESTINATARIO = 'contato@portfolionegocios.com.br';
 const REMETENTE = 'Portfólio Negócios <site@mail.portfolionegocios.com.br>';
 
@@ -33,10 +35,16 @@ export async function onRequestPost(context) {
     );
   }
 
+  const noCrm = await enviarAoCrm(env, { tipo: 'formulario', nome, email, telefone, mensagem, url: request.headers.get('Referer') });
+  // Lead guardado no CRM já conta como recebido, mesmo que o e-mail falhe.
+  const falha = (erro, status) => (noCrm
+    ? Response.json({ ok: true })
+    : Response.json({ ok: false, erro }, { status }));
+
   const apiKey = env.RESEND_API_KEY;
   if (!apiKey) {
     console.error('RESEND_API_KEY não configurado no ambiente');
-    return Response.json({ ok: false, erro: 'Envio de e-mail não configurado' }, { status: 500 });
+    return falha('Envio de e-mail não configurado', 500);
   }
 
   const assunto = `Contato pelo site — ${nome}`;
@@ -67,12 +75,12 @@ export async function onRequestPost(context) {
 
     if (!resposta.ok) {
       console.error('Erro da Resend API:', resposta.status, await resposta.text());
-      return Response.json({ ok: false, erro: 'Falha ao enviar e-mail' }, { status: 502 });
+      return falha('Falha ao enviar e-mail', 502);
     }
 
     return Response.json({ ok: true });
   } catch (erro) {
     console.error('Erro ao chamar Resend API:', erro);
-    return Response.json({ ok: false, erro: 'Falha ao enviar e-mail' }, { status: 502 });
+    return falha('Falha ao enviar e-mail', 502);
   }
 }

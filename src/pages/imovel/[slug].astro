@@ -46,7 +46,7 @@ const ocultaBairro = eixoOcultaBairro(d.eixo);
 // Rótulo de localização usado no lugar do bairro quando ele fica oculto.
 const local = ocultaBairro ? (d.nomeCondominio ? `Condomínio ${d.nomeCondominio}` : 'Condomínio fechado') : d.bairro;
 
-const WA_LINK = waLink(`Olá Marcus, vi no site o imóvel "${d.titulo}" e gostaria de sanar uma dúvida.`);
+const WA_LINK = waLink(`Olá Marcus, vi no site o imóvel "${d.titulo}" (código ${d.codigo}) e gostaria de sanar uma dúvida.`);
 
 const descricaoMeta = ocultaBairro
   ? `${tipoLabel[d.tipo]} à venda no ${d.nomeCondominio ? `Condomínio ${d.nomeCondominio}` : 'condomínio fechado'}, Zona Sul de Uberlândia — ${d.areaUtil} m², ${d.suites} suítes, ${d.vagas} vagas. ${precoBR(d.preco)}.`

@@ -2,6 +2,8 @@
 // Diferente de /api/contato, aqui o e-mail é opcional (o contato que importa é o
 // WhatsApp) e o corpo carrega as respostas da qualificação.
 
+import { enviarAoCrm } from '../_lib/crm.js';
+
 const DESTINATARIO = 'contato@portfolionegocios.com.br';
 const REMETENTE = 'Portfólio Negócios <site@mail.portfolionegocios.com.br>';
 
@@ -40,10 +42,19 @@ export async function onRequestPost(context) {
     );
   }
 
+  const noCrm = await enviarAoCrm(env, {
+    tipo: 'landing', nome, telefone, email, imovel, score, url: request.headers.get('Referer'),
+    mensagem: respostas.map((r) => `- ${(r?.resposta ?? '').toString()}`).join('\n'),
+  });
+  // Lead guardado no CRM já conta como recebido, mesmo que o e-mail falhe.
+  const falha = (erro, status) => (noCrm
+    ? Response.json({ ok: true })
+    : Response.json({ ok: false, erro }, { status }));
+
   const apiKey = env.RESEND_API_KEY;
   if (!apiKey) {
     console.error('RESEND_API_KEY não configurado no ambiente');
-    return Response.json({ ok: false, erro: 'Envio de e-mail não configurado' }, { status: 500 });
+    return falha('Envio de e-mail não configurado', 500);
   }
 
   const faixa = temperatura(score);
@@ -92,12 +103,12 @@ export async function onRequestPost(context) {
 
     if (!resposta.ok) {
       console.error('Erro da Resend API:', resposta.status, await resposta.text());
-      return Response.json({ ok: false, erro: 'Falha ao enviar e-mail' }, { status: 502 });
+      return falha('Falha ao enviar e-mail', 502);
     }
 
     return Response.json({ ok: true });
   } catch (erro) {
     console.error('Erro ao chamar Resend API:', erro);
-    return Response.json({ ok: false, erro: 'Falha ao enviar e-mail' }, { status: 502 });
+    return falha('Falha ao enviar e-mail', 502);
   }
 }

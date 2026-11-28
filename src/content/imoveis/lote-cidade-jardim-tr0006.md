@@ -13,7 +13,7 @@ vagas: 0
 listado: false
 publicadoEm: 2026-11-27
 fotos: lote-cidade-jardim-tr0006
-capa: 2
+capa: 1
 ---
 
 Lote de 432 m² no Cidade Jardim, em altitude que permite vista da cidade.

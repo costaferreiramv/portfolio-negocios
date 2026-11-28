@@ -13,7 +13,7 @@ vagas: 1
 listado: false
 publicadoEm: 2026-11-27
 fotos: apartamento-saraiva-un0094
-capa: 2
+capa: 3
 ---
 
 Apartamento compacto de 32,11 m² no Saraiva, em empreendimento com áreas de lazer e convivência.
